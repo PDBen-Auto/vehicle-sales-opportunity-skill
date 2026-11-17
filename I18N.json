@@ -1,0 +1,111 @@
+{
+  "schemaVersion": 1,
+  "locales": [
+    "zh-CN",
+    "en",
+    "ja",
+    "ko",
+    "de",
+    "fr",
+    "es",
+    "pt"
+  ],
+  "scope": "localized-operating-guides-and-requested-assistant-output",
+  "referenceTranslations": "partial; technical references and example UIs retain original language",
+  "nativeSpeakerReview": false,
+  "baseCommit": "906b5a8329656a7d08bc608577e447e927a842fb",
+  "repository": "PDBen-Auto/vehicle-sales-opportunity-skill",
+  "skills": [
+    {
+      "name": "vehicle-sales-opportunity",
+      "path": "skills/vehicle-sales-opportunity/SKILL.md",
+      "directory": "skills/vehicle-sales-opportunity",
+      "sourceSha256": "c1db7544ec637b19182a0d4637e1a3212ab963348a73776dc4c54646e0f2e13e",
+      "guides": {
+        "zh-CN": "skills/vehicle-sales-opportunity/references/i18n/zh-CN.md",
+        "en": "skills/vehicle-sales-opportunity/references/i18n/en.md",
+        "ja": "skills/vehicle-sales-opportunity/references/i18n/ja.md",
+        "ko": "skills/vehicle-sales-opportunity/references/i18n/ko.md",
+        "de": "skills/vehicle-sales-opportunity/references/i18n/de.md",
+        "fr": "skills/vehicle-sales-opportunity/references/i18n/fr.md",
+        "es": "skills/vehicle-sales-opportunity/references/i18n/es.md",
+        "pt": "skills/vehicle-sales-opportunity/references/i18n/pt.md"
+      },
+      "updatedSha256": "495e365b4c28a50ee64c408b5c7862f0511d9295084c82290fbfc3d5bddc1fdf"
+    }
+  ],
+  "documents": {
+    "README.de.md": {
+      "sha256": "2b8ce85bc882d11d732fac31911041679351deb435bdbc9144e861f6ca33cf61",
+      "size": 3572
+    },
+    "README.en.md": {
+      "sha256": "ca078c53a508f3bab0430fd9c0da2f974bc6499f4afe952f173487aab222e4bd",
+      "size": 3598
+    },
+    "README.es.md": {
+      "sha256": "a157847065c9cb6d46acf330b7aeeca1f469d09ed56d535027bbc46d3642b784",
+      "size": 3439
+    },
+    "README.fr.md": {
+      "sha256": "99ac50ddd5cbbf3c17323705c82ed3d54cc8151cefb4f9034b88e2784d9f1271",
+      "size": 3646
+    },
+    "README.ja.md": {
+      "sha256": "caff47aac873ddc7e73fc3664d89f3a7a405cf21c063f45985c8bc5db2e25d5d",
+      "size": 3451
+    },
+    "README.ko.md": {
+      "sha256": "c0ee0319fcc62829cd571a49bc8a633a21c7fdd9c540ed5f62e5793dc341d183",
+      "size": 3478
+    },
+    "README.md": {
+      "sha256": "5a71873ca126fac31dd1cf7ca86f0a9b0bee88f8db1697062bc70a561a436c76",
+      "size": 9091
+    },
+    "README.pt.md": {
+      "sha256": "013881744cca2fb07fbb256b37465a0c652a89b7367601ee03738e7f8c3e5dcb",
+      "size": 3461
+    },
+    "README.zh-CN.md": {
+      "sha256": "ed2bea5040b09f77175122dd2fd096a9d28b5d977f6ff235138f568e60e04330",
+      "size": 2940
+    },
+    "skills/vehicle-sales-opportunity/SKILL.md": {
+      "sha256": "495e365b4c28a50ee64c408b5c7862f0511d9295084c82290fbfc3d5bddc1fdf",
+      "size": 12223
+    },
+    "skills/vehicle-sales-opportunity/references/i18n/de.md": {
+      "sha256": "2897039c012250a4e2936af97f783e91957e4967d73440797ca3b5f7ae6070af",
+      "size": 3265
+    },
+    "skills/vehicle-sales-opportunity/references/i18n/en.md": {
+      "sha256": "b4cdfbfbbae9565170ac2d9b3569163fd0110a4382562c1c4401168fd2eb7018",
+      "size": 3368
+    },
+    "skills/vehicle-sales-opportunity/references/i18n/es.md": {
+      "sha256": "a345a772eaacf183aff3c210f2d52efd3feccc050506980afd6353b38447eec4",
+      "size": 3150
+    },
+    "skills/vehicle-sales-opportunity/references/i18n/fr.md": {
+      "sha256": "dee97adfcb537cb4e2670918f79a122a79dc652ef71711e5a67530ea2214703e",
+      "size": 3330
+    },
+    "skills/vehicle-sales-opportunity/references/i18n/ja.md": {
+      "sha256": "25c679734d4077356d4247384e60fa0748cd377a305fd5679d783c692fb77e19",
+      "size": 3075
+    },
+    "skills/vehicle-sales-opportunity/references/i18n/ko.md": {
+      "sha256": "a3074c98b500e23c7477f84a8e2c777dc0995d0a7a763bb2fa2c299b91282c83",
+      "size": 3118
+    },
+    "skills/vehicle-sales-opportunity/references/i18n/pt.md": {
+      "sha256": "9b2407ac05933c12af27e188de2acaa7a00a18c30822b7b21612a3f92c60ba72",
+      "size": 3157
+    },
+    "skills/vehicle-sales-opportunity/references/i18n/zh-CN.md": {
+      "sha256": "947d1ad396d77f1d1de7c0e348a7874aaec6986b4aacf45a66fe62932b358140",
+      "size": 2592
+    }
+  }
+}

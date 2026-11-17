@@ -1,3 +1,15 @@
+<!-- skill-i18n:start -->
+[简体中文](README.zh-CN.md) | [English](README.en.md) | [日本語](README.ja.md) | [한국어](README.ko.md) | [Deutsch](README.de.md) | [Français](README.fr.md) | [Español](README.es.md) | [Português](README.pt.md)
+
+### Complete specification
+
+- [Vehicle sales visualization and opportunity research](skills/vehicle-sales-opportunity/references/i18n/en.md) · `vehicle-sales-opportunity`
+
+Use the user's explicitly requested output language; otherwise follow the request language. Keep commands, skill IDs, JSON keys, enum values, units and source quotations unchanged. Separate translations from originals. Never infer country, currency or jurisdiction from language. Read the relevant detailed references in the complete specification and retain all existing validation and authorization gates.
+
+This localized operating guide covers purpose, prerequisites, inputs, outputs, workflow, examples and boundaries; it is not a line-by-line translation of every reference. Detailed technical references, historical cases, script errors, example interfaces and images retain their original language. The assistant can explain them in the requested language. Structural, link and key-constraint checks are performed; native-speaker editorial review for each language is not claimed.
+<!-- skill-i18n:end -->
+
 # 汽车 · 摩托车 · UTV · ATV · 船舶：数量可视化与机会调研 Skill
 
 把已有数量表变成可核对的交互看板，再把变化转为有证据边界的机会研究。支持五类载具，零售销量、批发出货、交付量与新注册量分开计算；附上 UTV/ATV 从数据渠道调查到研究页面的完整真实案例。

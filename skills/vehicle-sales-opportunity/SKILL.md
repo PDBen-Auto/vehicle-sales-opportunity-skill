@@ -94,3 +94,11 @@ python scripts/build_dashboard.py --input assets/demo-multitype.json --output /p
 执行完整真实UTV/ATV案例时读 [案例说明](references/utv-atv-case.md)。仓库 `cases/utv-atv/` 包含渠道核对、真实研究说明、数据/官方证据快照、原始HTML和Excel、页面模板及构建/检查脚本。安装技能只需本目录；需要运行完整案例时再取得仓库中的案例目录，不要求每次把全案例加载到上下文。
 
 本次公开范围保留首个完成快照124目录条目；年款/版本进一步细化及缺图修复在原对话继续，不冒称本包已完成。ATV有真实渠道调查，但该UTV情景库排除ATV；摩托车和船舶为可用方法与合成运行示例，不是已验证真实市场案例。
+
+<!-- skill-i18n:start -->
+## Output language and localized operating guides
+
+[简体中文](references/i18n/zh-CN.md) | [English](references/i18n/en.md) | [日本語](references/i18n/ja.md) | [한국어](references/i18n/ko.md) | [Deutsch](references/i18n/de.md) | [Français](references/i18n/fr.md) | [Español](references/i18n/es.md) | [Português](references/i18n/pt.md)
+
+Use the user's explicitly requested output language; otherwise follow the language of the request. Read only the corresponding localized guide when needed. Preserve the workflow, prerequisites, authorization gates, skill IDs, commands, schema keys, enum values, units, original evidence and any language-specific canonical fields. Do not infer marketplace, currency or jurisdiction from language. Localized guides summarize the operating contract; read the relevant canonical references for exact schemas, calculations and stage-specific procedures. Example interfaces, historical evidence and script diagnostics retain their original language unless separately adapted.
+<!-- skill-i18n:end -->
