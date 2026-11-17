@@ -1,0 +1,77 @@
+{
+  "RecallID": 9648,
+  "RecallNumber": "23768",
+  "RecallDate": "2023-06-08T00:00:00",
+  "Description": "This recall involves Gator utility vehicles with model number XUV590E, XUV590M, or XUV590M S4 printed on the hood. \"John Deere\" and \"Gator\" are also printed on the cargo box. The recalled utility vehicles have side-by-side seating for two or four people and were sold in green and yellow, olive & black, or TrueTimber® Kanati® Camo colors. The serial number is located on the vehicle frame to the right of the rear hitch receiver, and the following serial numbers are included in this recall: Recalled Serial Numbers 1M0590EA+PM060098 through PM060266 1M0590ED+PM060005 through PM060027 1M0590MA+PM060654 through PM061746 1M0590MA+PM061746 1M0590MD+PM060005 through PM060017 1M0590MB+PM060225 through PM060631 1M0590ME+PM060009 through PM060015",
+  "URL": "https://www.cpsc.gov/Recalls/2023/John-Deere-Recalls-XUV590-Gator-Utility-Vehicles-Due-to-Fire-Hazard-Recall-Alert",
+  "Title": "John Deere Recalls XUV590 Gator Utility Vehicles Due to Fire Hazard (Recall Alert)",
+  "ConsumerContact": "Deere & Company at 800-537-8233 from 8 a.m. to 6 p.m. ET Monday through Friday and 9 a.m. to 3 p.m. ET Saturday, or online at www.deere.com and click on \"Product Recall Information\" on the drop-down menu under \"Services & Support\" or https://www.deere.com/en/parts-and-service/recall-information/ for more information.",
+  "LastPublishDate": "2023-06-08T00:00:00",
+  "Products": [
+    {
+      "Name": "John Deere™ XUV590E, XUV590M and XUV590M S4 Gator™ utility vehicles",
+      "Description": "",
+      "Model": "",
+      "Type": "",
+      "CategoryID": "",
+      "NumberOfUnits": "About 1,600 (In addition, about 60 were sold in Canada)"
+    }
+  ],
+  "Inconjunctions": [
+    {
+      "URL": "https://wwwapps.tc.gc.ca/Saf-Sec-Sur/7/VRDB-BDRV/search-recherche/detail.aspx?lang=eng&rn=2023272"
+    }
+  ],
+  "Images": [
+    {
+      "URL": "https://www.cpsc.gov/s3fs-public/john-deere.png",
+      "Caption": "Recalled John Deere Gator utility vehicle"
+    }
+  ],
+  "Injuries": [
+    {
+      "Name": "None reported"
+    }
+  ],
+  "Manufacturers": [
+    {
+      "Name": "Deere & Company, of Moline, Illinois",
+      "CompanyID": ""
+    }
+  ],
+  "Retailers": [
+    {
+      "Name": "Authorized John Deere dealers nationwide and online at www.deere.com from December 2022 through March 2023 for between $14,500 and $17,500.",
+      "CompanyID": ""
+    }
+  ],
+  "Importers": [],
+  "Distributors": [],
+  "SoldAtLabel": null,
+  "ManufacturerCountries": [
+    {
+      "Country": "United States"
+    }
+  ],
+  "ProductUPCs": [],
+  "Hazards": [
+    {
+      "Name": "Fuel can leak from under the fuel cap, posing a fire hazard.",
+      "HazardType": "",
+      "HazardTypeID": ""
+    }
+  ],
+  "Remedies": [
+    {
+      "Name": "Consumers should stop using the recalled XUV590 Gator utility vehicles immediately and contact an authorized John Deere dealer for a free inspection, and if necessary, free repair. John Deere is contacting all known purchasers directly."
+    }
+  ],
+  "RemedyOptions": [
+    {
+      "Option": "Inspect"
+    },
+    {
+      "Option": "Repair"
+    }
+  ]
+}

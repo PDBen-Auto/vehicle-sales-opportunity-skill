@@ -1,0 +1,82 @@
+{
+  "RecallID": 10259,
+  "RecallNumber": "25249",
+  "RecallDate": "2025-05-01T00:00:00",
+  "Description": "This recall involves Kubota Utility Vehicles under the \"RTV-series.\" The chart below identifies the models and serial number ranges of the recalled products. The model numbers can be found on the side of the utility vehicle. The serial numbers can be generally found on the left side, behind the driver. The plate is facing backwards where the bed meets the cab. The utility vehicles were sold in various colors, including orange, black and camo. Model Range of Last 5 Serial Numbers RTV520 10004-25434 and X0005-X0507 RTV-X1120 41413-41489 RTV-X1130 10003-11962 RTV-X1140 RTV-X RTV-X900 RTV-X1100C",
+  "URL": "https://www.cpsc.gov/Recalls/2025/Kubota-Tractor-Corporation-Recalls-RTV-Series-Utility-Vehicles-Due-to-Crash-Hazard",
+  "Title": "Kubota Tractor Corporation Recalls RTV-Series Utility Vehicles Due to Crash Hazard",
+  "ConsumerContact": "Kubota Tractor Corporation toll-free at 888-458-2682 from 7 a.m. to 7 p.m. CT Monday through Friday, or online at https://www.kubotausa.com/recall/service-support/safety/safety-notices or www.kubotausa.com and click on \"Safety & Recall\" at the bottom of the webpage. Consumers can also fill out a contact form at https://www.kubotausa.com/recall/contact/form.",
+  "LastPublishDate": "2025-05-01T00:00:00",
+  "Products": [
+    {
+      "Name": "Kubota Utility Vehicles",
+      "Description": "",
+      "Model": "",
+      "Type": "",
+      "CategoryID": "",
+      "NumberOfUnits": "About 49,640"
+    }
+  ],
+  "Inconjunctions": [],
+  "Images": [
+    {
+      "URL": "https://www.cpsc.gov/s3fs-public/kubota-1.PNG",
+      "Caption": "Recalled Kubota Model RTV-X900"
+    },
+    {
+      "URL": "https://www.cpsc.gov/s3fs-public/kubota-2.PNG",
+      "Caption": "Recalled Kubota Model RTV520"
+    },
+    {
+      "URL": "https://www.cpsc.gov/s3fs-public/kubota-3.PNG",
+      "Caption": "Recalled Kubota Model RTV-X1120"
+    },
+    {
+      "URL": "https://www.cpsc.gov/s3fs-public/kubota-4.PNG",
+      "Caption": "Recalled Kubota Model RTV-X1140"
+    }
+  ],
+  "Injuries": [
+    {
+      "Name": "The firm has received four reports of loosened or separated ball joints. No injuries have been reported."
+    }
+  ],
+  "Manufacturers": [],
+  "Retailers": [
+    {
+      "Name": "Authorized Kubota dealers nationwide from January 2021 through December 2024 for between $11,000 and $27,000.",
+      "CompanyID": ""
+    }
+  ],
+  "Importers": [],
+  "Distributors": [
+    {
+      "Name": "Kubota Tractor Corporation, of Grapevine, Texas",
+      "CompanyID": ""
+    }
+  ],
+  "SoldAtLabel": null,
+  "ManufacturerCountries": [
+    {
+      "Country": "United States"
+    }
+  ],
+  "ProductUPCs": [],
+  "Hazards": [
+    {
+      "Name": "The ball joint connected to the front suspension arm can loosen and separate from the front suspension arm, resulting in the driver losing wheel support of the utility vehicle, posing a crash hazard to consumers.",
+      "HazardType": "",
+      "HazardTypeID": ""
+    }
+  ],
+  "Remedies": [
+    {
+      "Name": "Consumers should immediately stop using the recalled utility vehicles and contact an authorized Kubota dealer to schedule a free inspection and repair at the dealer's location. Kubota is contacting registered owners directly."
+    }
+  ],
+  "RemedyOptions": [
+    {
+      "Option": "Repair"
+    }
+  ]
+}

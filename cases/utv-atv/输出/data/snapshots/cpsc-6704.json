@@ -1,0 +1,82 @@
+{
+  "RecallID": 6704,
+  "RecallNumber": "16738",
+  "RecallDate": "2016-04-13T00:00:00",
+  "Description": "This recall involves model year 2016 YXZ1000R and YXZ1000R SE Side-by-Side utility vehicles sold in four colors: orange and black, blue and white, silver and red, and yellow and white. The model name (YXZ…) and \"1000\" is displayed in a graphic on both the left and right side of the vehicle. The vehicle identification number (VIN) is stamped on the frame near the driver's side rear wheel. The letter G in the 10th position of the VIN number indicates that the unit was made in the 2016 model year.",
+  "URL": "https://www.cpsc.gov/Recalls/2016/Yamaha-Recalls-Utility-Vehicles",
+  "Title": "Yamaha Recalls Recreational Off-Highway Vehicles Due to Crash and Injury Hazards (Recall Alert)",
+  "ConsumerContact": "Yamaha at 800-962-7926 anytime or online at www.yamahamotorsports.com and click on \"CPSC Alerts\" for more information.",
+  "LastPublishDate": "2016-04-13T00:00:00",
+  "Products": [
+    {
+      "Name": "Yamaha Recreational Off-Highway Vehicles",
+      "Description": "",
+      "Model": "",
+      "Type": "Recreational Vehicles (Unlicensed)",
+      "CategoryID": "68345",
+      "NumberOfUnits": "About 7,000"
+    }
+  ],
+  "Inconjunctions": [],
+  "Images": [
+    {
+      "URL": "https://www.cpsc.gov/s3fs-public/Recall.2016.16738.YXZ1000-R.jpg",
+      "Caption": "YXZ100R Blue and White"
+    },
+    {
+      "URL": "https://www.cpsc.gov/s3fs-public/Recall.2016.16738.YXZ1000-SE.jpg",
+      "Caption": "YXZ1000SE Yellow and White"
+    },
+    {
+      "URL": "https://www.cpsc.gov/s3fs-public/Recall.2016.16738.YXZ1000R-orange.jpg",
+      "Caption": "YXZ1000R Orange"
+    },
+    {
+      "URL": "https://www.cpsc.gov/s3fs-public/Recall.2016.16738.YXZ1000R-red.jpg",
+      "Caption": "YXZ1000R Silver and Red"
+    }
+  ],
+  "Injuries": [
+    {
+      "Name": "None reported"
+    }
+  ],
+  "Manufacturers": [],
+  "Retailers": [
+    {
+      "Name": "Yamaha side-by-side dealers nationwide from September 2015 to February 2016 for between $19,800 and $21,600.",
+      "CompanyID": ""
+    }
+  ],
+  "Importers": [],
+  "Distributors": [
+    {
+      "Name": "Yamaha Motor Corporation USA, of Cypress, Calif.",
+      "CompanyID": ""
+    }
+  ],
+  "SoldAtLabel": null,
+  "ManufacturerCountries": [
+    {
+      "Country": "United States"
+    }
+  ],
+  "ProductUPCs": [],
+  "Hazards": [
+    {
+      "Name": "Water can get into the throttle cable and if it freezes during cold weather, the ice can prevent the throttle from returning to idle. This can cause the rider to lose control, posing crash and injury hazards.",
+      "HazardType": "",
+      "HazardTypeID": ""
+    }
+  ],
+  "Remedies": [
+    {
+      "Name": "Consumers should immediately stop using the recalled utility vehicles and contact their local Yamaha dealer to schedule a free repair. Yamaha is contacting all registered owners directly."
+    }
+  ],
+  "RemedyOptions": [
+    {
+      "Option": "Repair"
+    }
+  ]
+}

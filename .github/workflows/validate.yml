@@ -13,3 +13,4 @@ jobs:
       - run: python -B -m unittest discover -s tests -v
       - run: node tests/test_frontend.mjs
       - run: python -B skills/vehicle-sales-opportunity/scripts/build_dashboard.py --input skills/vehicle-sales-opportunity/assets/demo.json --output out/ci-demo
+      - run: python -B cases/utv-atv/reproduce.py --workdir out/ci-utv

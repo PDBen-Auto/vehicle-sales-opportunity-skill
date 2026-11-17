@@ -1,0 +1,78 @@
+{
+  "RecallID": 1171,
+  "RecallNumber": "12713",
+  "RecallDate": "2012-01-26T00:00:00",
+  "Description": "The recall involves 2009 through 2012 KYMCO utility task vehicles (UTVs). The vehicles are gasoline-powered, off-road vehicles with two side-by-side seats, a cargo bed and a steering wheel. The vehicles come in red, blue, black, gray, orange, silver and green and have the model and brand name \"KYMCO\" on both sides of the rear fender area and the front of the hood. The following UTVs are being recalled: Models Model Year Vehicle Identification Number (VIN) Range UXV 500 UXV 500 LE UXV 500 SE 2009 2010 2011 2012 RFBUS37A 09B100101 through 9CB490364 UXV 500i UXV 500i LE UXV 500i SE 2012 RFBUS33A 4CB100101 through 8CB230205 The VIN is located on the frame behind the right front wheel. The tenth alphanumeric character of the VIN is the model year of the vehicle (i.e. 9 = 2009, A = 2010, B = 2011, C = 2012).",
+  "URL": "https://www.cpsc.gov/Recalls/2012/KYMCO-Recalls-Utility-Vehicles-Due-to-Fire-Hazard",
+  "Title": "KYMCO Recalls Utility Vehicles Due to Fire Hazard",
+  "ConsumerContact": "For more information, contact KYMCO USA at (888) 235-3417 between 9 a.m. and 5 p.m. ET Monday through Friday, by email at info@kymcousa.com, or visit the firm's website at www.kymcousa.com",
+  "LastPublishDate": "2016-04-21T00:00:00",
+  "Products": [
+    {
+      "Name": "Utility Vehicle",
+      "Description": "",
+      "Model": "",
+      "Type": "Utility Vehicles",
+      "CategoryID": "68355",
+      "NumberOfUnits": "About 1,876"
+    }
+  ],
+  "Inconjunctions": [],
+  "Images": [
+    {
+      "URL": "https://www.cpsc.gov/s3fs-public/Recall.2012.12713.12713a.jpg",
+      "Caption": "UXV 500"
+    },
+    {
+      "URL": "https://www.cpsc.gov/s3fs-public/Recall.2012.12713.12713b.jpg",
+      "Caption": "UXV 500 LE"
+    },
+    {
+      "URL": "https://www.cpsc.gov/s3fs-public/Recall.2012.12713.12713c.jpg",
+      "Caption": "UXV 500 SE"
+    }
+  ],
+  "Injuries": [
+    {
+      "Name": "KYMCO USA has received three reports of vehicles catching on fire and being damaged. No reports of injuries have been received."
+    }
+  ],
+  "Manufacturers": [],
+  "Retailers": [
+    {
+      "Name": "KYMCO dealers nationwide from June 2008 to October 2011 for between $7,600 and $10,100.",
+      "CompanyID": ""
+    }
+  ],
+  "Importers": [
+    {
+      "Name": "KYMCO USA, of Spartanburg, S.C.",
+      "CompanyID": ""
+    }
+  ],
+  "Distributors": [],
+  "SoldAtLabel": null,
+  "ManufacturerCountries": [
+    {
+      "Country": "Taiwan"
+    }
+  ],
+  "ProductUPCs": [],
+  "Hazards": [
+    {
+      "Name": "An exposed portion of the exhaust system can allow debris such as leaves, brush or other flammable materials to enter the opening and ignite, posing a fire hazard.",
+      "HazardType": "",
+      "HazardTypeID": ""
+    }
+  ],
+  "Remedies": [
+    {
+      "Name": "Consumers should stop using these vehicles and return them to a KYMCO dealer for the free installation of a repair kit."
+    }
+  ],
+  "RemedyOptions": [
+    {
+      "Option": "Repair"
+    }
+  ]
+}

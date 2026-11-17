@@ -1,0 +1,82 @@
+{
+  "RecallID": 6360,
+  "RecallNumber": "15727",
+  "RecallDate": "2015-04-14T00:00:00",
+  "Description": "This recall involves 2015 model YXC700DF (Viking VI), YXC700DHFH (Viking VI Hunter), YXC700PF (Viking VI EPS) and YXC700PHFH (Viking VI EPS Hunter) side x side vehicles. Model numbers can be found on the owner's manual. The letter F in the 10th position of the Vehicle Identification Number (VIN) indicates that the vehicle is 2015 model. The VIN is stamped on the frame behind the left rear wheel. The \"Viking VI\" model name is printed on the left side of the front hood. The vehicles come in Realtree (multicolor), hunter green, red and steel blue.",
+  "URL": "https://www.cpsc.gov/Recalls/2015/Yamaha-Recalls-Viking-VI-Side-x-Side-Vehicles",
+  "Title": "Yamaha Recalls Viking VI Side x Side Vehicles Due to Crash Hazard (Recall Alert)",
+  "ConsumerContact": "Yamaha at (800) 962-7926 anytime or go to www.yamaha-motor.com, click on \"Outdoors\" tab, and then click on \"Recalls\" in the Corporate Links menus.",
+  "LastPublishDate": "2015-04-14T00:00:00",
+  "Products": [
+    {
+      "Name": "Yamaha Viking VI",
+      "Description": "",
+      "Model": "",
+      "Type": "Utility Vehicles",
+      "CategoryID": "68355",
+      "NumberOfUnits": "About 3,500"
+    }
+  ],
+  "Inconjunctions": [],
+  "Images": [
+    {
+      "URL": "https://www.cpsc.gov/s3fs-public/Recall.2015.15727.Viking-VI-EPS-Hunter_800.jpg",
+      "Caption": "Viking VI EPS Hunter"
+    },
+    {
+      "URL": "https://www.cpsc.gov/s3fs-public/Recall.2015.15727.Viking-VI-EPS_800.jpg",
+      "Caption": "Viking VI EPS"
+    },
+    {
+      "URL": "https://www.cpsc.gov/s3fs-public/Recall.2015.15727.Viking-VI-Hunter_800.jpg",
+      "Caption": "Viking VI Hunter"
+    },
+    {
+      "URL": "https://www.cpsc.gov/s3fs-public/Recall.2015.15727.Yamaha-Viking-VI_800.jpg",
+      "Caption": "Viking VI"
+    }
+  ],
+  "Injuries": [
+    {
+      "Name": "No reported injuries"
+    }
+  ],
+  "Manufacturers": [
+    {
+      "Name": "Yamaha Motor Corporation, of Cypress, Calif.",
+      "CompanyID": ""
+    }
+  ],
+  "Retailers": [
+    {
+      "Name": "Yamaha side x side dealerships nationwide from June 2014 through March 2015 for $12,800 to $14,600.",
+      "CompanyID": ""
+    }
+  ],
+  "Importers": [],
+  "Distributors": [],
+  "SoldAtLabel": null,
+  "ManufacturerCountries": [
+    {
+      "Country": "United States"
+    }
+  ],
+  "ProductUPCs": [],
+  "Hazards": [
+    {
+      "Name": "The rear wheels can loosen and cause the rear end of the vehicle to wobble or the rear wheels to come off and cause the vehicle to crash, resulting an injury or death hazard.",
+      "HazardType": "",
+      "HazardTypeID": ""
+    }
+  ],
+  "Remedies": [
+    {
+      "Name": "Consumers should immediately stop using the vehicles and contact their local Yamaha dealer to schedule a free repair. Yamaha is contacting all registered owners directly."
+    }
+  ],
+  "RemedyOptions": [
+    {
+      "Option": "Repair"
+    }
+  ]
+}

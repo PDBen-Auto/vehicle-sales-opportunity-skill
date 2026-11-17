@@ -26,4 +26,12 @@ check(()=>{assert.equal(vm.runInContext('csvCell("=SUM(A1:A2)")',context),'"\'=S
 check(()=>{vm.runInContext('openDetail("aster.canyon")',context);assert.equal(el('detail').open,true);assert.ok(el('detail-months').innerHTML.includes('2025-06'));el('close').events.click();assert.equal(el('detail').open,false);});
 check(()=>{el('segment').value='';el('search').value='';el('sort').value='decline';el('sort').events.change();assert.equal(vm.runInContext('sorted(filtered())[0].seriesId',context),'boreal.ridge');});
 check(()=>{el('market').value='MX';el('market').events.change();assert.equal(el('current').textContent,'2,580');assert.ok(!vm.runInContext('buildCsv()',context).includes('boreal.ridge'));});
+const multiHtml=fs.readFileSync(path.join(root,'docs/multitype-demo/dashboard.html'),'utf8');
+el('payload').textContent=multiHtml.match(/<script type="application\/json" id="payload">([\s\S]*?)<\/script>/)[1];
+const multiContext=vm.createContext({document:{getElementById:el,addEventListener:(name,fn)=>docEvents[name]=fn},Intl,console,Blob,URL,setTimeout});
+vm.runInContext(multiHtml.match(/<script>\s*([\s\S]*?)<\/script>/)[1],multiContext);
+check(()=>{el('market').value='US';el('market').events.change();el('asset-type').value='utv';el('asset-type').events.change();el('metric-kind').value='retail_sales';el('metric-kind').events.change();assert.equal(el('current').textContent,'1,680');assert.equal(vm.runInContext('filtered().length',multiContext),1);});
+check(()=>{el('metric-kind').value='wholesale';el('metric-kind').events.change();assert.equal(el('current').textContent,'4,200');assert.ok(el('period').textContent.includes('批发出货'));});
+check(()=>{el('asset-type').value='boat';el('asset-type').events.change();assert.equal(el('current').textContent,'72');assert.ok(el('period').textContent.includes('单位 艘'));const csv=vm.runInContext('buildCsv()',multiContext);assert.ok(csv.includes('boat'));assert.ok(!csv.includes('wholesale'));});
+check(()=>{el('asset-type').value='atv';el('asset-type').events.change();assert.equal(el('current').textContent,'540');assert.ok(!el('period').textContent.includes('UTV'));});
 console.log(JSON.stringify({status:'pass',checks,scope:'non_browser_ui_contracts_only'}));

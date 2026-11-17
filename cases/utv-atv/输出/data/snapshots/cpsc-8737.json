@@ -1,0 +1,82 @@
+{
+  "RecallID": 8737,
+  "RecallNumber": "20714",
+  "RecallDate": "2020-01-30T00:00:00",
+  "Description": "This recall involves Model Year 2019 Polaris PRO XD utility vehicles in two- and four-seat configurations of models 4000D, 2000D and 200D 4X2. The utility vehicles are gray, black, and orange with \"POLARIS\" stamped on the front grille, \"POLARIS COMMERCIAL\" on the sides of the utility bed, and \"PRO XD\" on the front fenders. Vehicle identification numbers (VIN) can be found on a label affixed to the vehicle frame in the left front wheel well. Model Model Number 4000D D19BEPD4B4 2000D D19BBPD4B4 2000D 4X2 D19BAPD4B4",
+  "URL": "https://www.cpsc.gov/Recalls/2020/Polaris-Recalls-Pro-XD-Utility-Vehicles-Due-to-Collision-and-Crash-Hazards-Recall-Alert",
+  "Title": "Polaris Recalls Pro XD Utility Vehicles Due to Collision and Crash Hazards (Recall Alert)",
+  "ConsumerContact": "Polaris at 800-765-2747 from 7 a.m. to 7 p.m. CT Monday through Friday, or online at www.polaris.com and click on “Off Road Safety Recalls” for more information. Consumers should also check their vehicle identification number (VIN) on the “Product Safety Recalls” page to see if their vehicle is included in any other recalls.",
+  "LastPublishDate": "2020-01-30T00:00:00",
+  "Products": [
+    {
+      "Name": "Model Year 2019 Polaris PRO XD Utility Vehicles (UTVs)",
+      "Description": "",
+      "Model": "",
+      "Type": "",
+      "CategoryID": "",
+      "NumberOfUnits": "About 760"
+    }
+  ],
+  "Inconjunctions": [
+    {
+      "URL": "https://wwwapps.tc.gc.ca/Saf-Sec-Sur/7/VRDB-BDRV/search-recherche/detail.aspx?rn=2019627"
+    }
+  ],
+  "Images": [
+    {
+      "URL": "https://www.cpsc.gov/s3fs-public/11_0.png",
+      "Caption": "Recalled 2019 Polaris PRO XD 2000D two-seat configuration"
+    },
+    {
+      "URL": "https://www.cpsc.gov/s3fs-public/22.png",
+      "Caption": "Recalled 2019 Polaris PRO XD 4000D four-seat configuration"
+    },
+    {
+      "URL": "https://www.cpsc.gov/s3fs-public/33.png",
+      "Caption": "Location of VIN Number"
+    }
+  ],
+  "Injuries": [
+    {
+      "Name": "Polaris has received eight reports of rear brake failures. No collisions, crashes, injuries or deaths have been reported."
+    }
+  ],
+  "Manufacturers": [
+    {
+      "Name": "Polaris Industries, of Medina, Minn.",
+      "CompanyID": ""
+    }
+  ],
+  "Retailers": [
+    {
+      "Name": "Polaris dealers nationwide from November 2017 through November 2019 for between about $14,600 and $17,750.",
+      "CompanyID": ""
+    }
+  ],
+  "Importers": [],
+  "Distributors": [],
+  "SoldAtLabel": null,
+  "ManufacturerCountries": [
+    {
+      "Country": "United States"
+    }
+  ],
+  "ProductUPCs": [],
+  "Hazards": [
+    {
+      "Name": "The rear brake line can become punctured causing the rear brakes to fail, posing a collision and crash hazard to the rider.",
+      "HazardType": "",
+      "HazardTypeID": ""
+    }
+  ],
+  "Remedies": [
+    {
+      "Name": "Consumers should immediately stop using the recalled utility vehicles and contact a Polaris dealer to schedule a free inspection and repair. Polaris is notifying dealers and contacting affected registered owners directly."
+    }
+  ],
+  "RemedyOptions": [
+    {
+      "Option": "Repair"
+    }
+  ]
+}

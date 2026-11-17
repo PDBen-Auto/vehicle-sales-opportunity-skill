@@ -1,0 +1,96 @@
+{
+  "RecallID": 8444,
+  "RecallNumber": "19711",
+  "RecallDate": "2018-10-31T00:00:00",
+  "Description": "This recall involves 2018 ZFORCE 500 Trail, 2018 ZFORCE 800 Trail and 2018 ZFORCE 1000 SSV CFMOTO recreational off-highway vehicles with 500cc to 1000cc, 4-cycle engines. The recalled ZFORCE vehicles have \"CFMOTO\" stamped on the front grille, a \"CFMOTO\" decal on the bottom of the cab frame and a \"ZFORCE\" decal located on each side of rear box compartment. CFMOTO ZFORCE vehicles were sold in orange, blue, red and gray. The vehicle identification number (VIN) is located on the right-side frame rail just forward of the right rear tire.",
+  "URL": "https://www.cpsc.gov/Recalls/2019/CFMOTO-Recalls-Recreational-OffHighway-Vehicles-Due-to-Crash-Hazard-Recall-Alert",
+  "Title": "CFMOTO Recalls Recreational Off-Highway Vehicles Due to Crash Hazard (Recall Alert)",
+  "ConsumerContact": "CFMOTO toll-free at 888-823-6686 from 8 a.m. to 5 p.m. CT Monday through Friday, email at info@cfmotousa.com or online at www.cfmotousa.com and click on Customer Care and then Vehicle Recall for more information.",
+  "LastPublishDate": "2018-10-31T00:00:00",
+  "Products": [
+    {
+      "Name": "Recreational off-highway vehicles (ROVs)",
+      "Description": "",
+      "Model": "",
+      "Type": "",
+      "CategoryID": "",
+      "NumberOfUnits": "About 1,800"
+    }
+  ],
+  "Inconjunctions": [],
+  "Images": [
+    {
+      "URL": "https://www.cpsc.gov/s3fs-public/1259_1.jpeg",
+      "Caption": "Recalled 2018 ZFORCE 500 Trail ROV"
+    },
+    {
+      "URL": "https://www.cpsc.gov/s3fs-public/1259_2.jpeg",
+      "Caption": "Recalled 2018 ZFORCE 800 Trail ROV"
+    },
+    {
+      "URL": "https://www.cpsc.gov/s3fs-public/1259_3.jpeg",
+      "Caption": "Recalled 2018 ZFORCE 1000 ROV"
+    },
+    {
+      "URL": "https://www.cpsc.gov/s3fs-public/1259_4.jpeg",
+      "Caption": "CFMOTO logo is located in the center of the front grille"
+    },
+    {
+      "URL": "https://www.cpsc.gov/s3fs-public/1259_5.png",
+      "Caption": "ZFORCE VIN number is stamped on the right side of the frame rail, which is in front of the rear tire."
+    }
+  ],
+  "Injuries": [
+    {
+      "Name": "None reported"
+    }
+  ],
+  "Manufacturers": [
+    {
+      "Name": "Zhejiang CFMOTO Power Co. Ltd, of China",
+      "CompanyID": ""
+    }
+  ],
+  "Retailers": [
+    {
+      "Name": "CFMOTO dealers nationwide from January 2018 through July 2018 for between $9,000 and $14,000.",
+      "CompanyID": ""
+    }
+  ],
+  "Importers": [
+    {
+      "Name": "CFMOTO Powersports Inc., of Plymouth, Minn.",
+      "CompanyID": ""
+    }
+  ],
+  "Distributors": [
+    {
+      "Name": "CFMOTO Powersports Inc., of Plymouth, Minn.",
+      "CompanyID": ""
+    }
+  ],
+  "SoldAtLabel": null,
+  "ManufacturerCountries": [
+    {
+      "Country": "China"
+    }
+  ],
+  "ProductUPCs": [],
+  "Hazards": [
+    {
+      "Name": "The throttle pedal can be pushed past the throttle stop and not return to the idle position, posing a crash hazard.",
+      "HazardType": "",
+      "HazardTypeID": ""
+    }
+  ],
+  "Remedies": [
+    {
+      "Name": "Consumers should immediately stop using the recalled ROVs and contact a CFMOTO dealer to schedule a free repair. CFMOTO is contacting all registered owners directly."
+    }
+  ],
+  "RemedyOptions": [
+    {
+      "Option": "Repair"
+    }
+  ]
+}

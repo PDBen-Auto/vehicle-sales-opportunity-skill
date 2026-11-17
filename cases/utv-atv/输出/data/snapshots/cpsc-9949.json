@@ -1,0 +1,90 @@
+{
+  "RecallID": 9949,
+  "RecallNumber": "24229",
+  "RecallDate": "2024-05-09T00:00:00",
+  "Description": "This recall involves model years 2022 and 2023 Prowler Pro, Prowler Pro Crew, Tracker 800SX, and Tracker 800SX Crew utility vehicles. They were sold in various colors, including green, gray, red, fossil, and timber. \"Prowler\" or \"Tracker\" is stamped on the side of the cargo box. The 10th digit of the vehicle identification number (VIN), which is printed on the operator side of the frame under the cargo box, includes an \"N\" for model year 2022 and a \"P\" for model year 2023.",
+  "URL": "https://www.cpsc.gov/Recalls/2024/Textron-Specialized-Vehicles-Recalls-Prowler-Pro-and-Tracker-Utility-Vehicles-UTVs-Due-to-Fire-Hazard",
+  "Title": "Textron Specialized Vehicles Recalls Prowler Pro and Tracker Utility Vehicles (UTVs) Due to Fire Hazard",
+  "ConsumerContact": "Textron Specialized Vehicles at 800-279-2281 from 8 a.m. to 5 p.m. CT, Monday through Friday, email at arcticcatwarranty@textron.com, or online at https://arcticcat.txtsv.com/owners/recalls or https://www.trackeroffroad.com/recalls.html or at https://arcticcat.txtsv.com or https://www.trackeroffroad.com click on \"Recalls\" at the bottom of the page.",
+  "LastPublishDate": "2024-05-09T00:00:00",
+  "Products": [
+    {
+      "Name": "Prowler Pro and Tracker 800SX Utility Vehicles (UTVs)",
+      "Description": "",
+      "Model": "",
+      "Type": "",
+      "CategoryID": "",
+      "NumberOfUnits": "About 10,300 (In addition, about 1,000 were sold in Canada)"
+    }
+  ],
+  "Inconjunctions": [
+    {
+      "URL": "https://wwwapps.tc.gc.ca/Saf-Sec-Sur/7/VRDB-BDRV/search-recherche/detail.aspx?rn=2024142"
+    }
+  ],
+  "Images": [
+    {
+      "URL": "https://www.cpsc.gov/s3fs-public/Prowler-Pro-UTV.jpg",
+      "Caption": "Recalled Prowler Pro UTV"
+    },
+    {
+      "URL": "https://www.cpsc.gov/s3fs-public/Prowler-Pro-Crew-UTV.png",
+      "Caption": "Recalled Prowler Pro Crew UTV"
+    },
+    {
+      "URL": "https://www.cpsc.gov/s3fs-public/Tracker-800-SX-UTV.jpg",
+      "Caption": "Recalled Tracker 800 SX UTV"
+    },
+    {
+      "URL": "https://www.cpsc.gov/s3fs-public/Tracker-800-SX-Crew-UTV.jpg",
+      "Caption": "Recalled Tracker 800 SX Crew UTV"
+    },
+    {
+      "URL": "https://www.cpsc.gov/s3fs-public/VIN-location.png",
+      "Caption": "VIN Location under cargo box"
+    }
+  ],
+  "Injuries": [
+    {
+      "Name": "The firm has received 48 reports of incidents of fuel leakage around the cap. No injuries have been reported."
+    }
+  ],
+  "Manufacturers": [
+    {
+      "Name": "Textron Specialized Vehicles, of Augusta, Georgia",
+      "CompanyID": ""
+    }
+  ],
+  "Retailers": [
+    {
+      "Name": "Arctic Cat and Tracker dealers nationwide, including Bass Pro Shops, Cabela's, and independent dealerships from April 2021 through September 2023 for between $14,000 and $22,000.",
+      "CompanyID": ""
+    }
+  ],
+  "Importers": [],
+  "Distributors": [],
+  "SoldAtLabel": null,
+  "ManufacturerCountries": [
+    {
+      "Country": "United States"
+    }
+  ],
+  "ProductUPCs": [],
+  "Hazards": [
+    {
+      "Name": "The fuel tank cap does not fit correctly, causing a fuel leak around the filler neck, posing a fire hazard.",
+      "HazardType": "",
+      "HazardTypeID": ""
+    }
+  ],
+  "Remedies": [
+    {
+      "Name": "Customers should immediately stop using the recalled utility vehicles, and contact an authorized dealer for a free inspection and repair. Textron Specialized Vehicles is contacting all known purchasers directly."
+    }
+  ],
+  "RemedyOptions": [
+    {
+      "Option": "Repair"
+    }
+  ]
+}

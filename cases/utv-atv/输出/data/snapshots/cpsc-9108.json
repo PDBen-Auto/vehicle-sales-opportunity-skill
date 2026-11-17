@@ -1,0 +1,70 @@
+{
+  "RecallID": 9108,
+  "RecallNumber": "21767",
+  "RecallDate": "2021-07-22T00:00:00",
+  "Description": "This recall involves model years 2020 and 2021 Defender HD10 side-by-side vehicles. The 82 HP engine vehicles were sold in various colors. The recalled vehicles are equipped with track kits, the Apache 360 LT and the Apache Backcountry track systems, sold separatedly by BRP. The model name and the Vehicle Identification Number (VIN) is printed on a label under the glove box. The following 20 vehicle models are included in this recall: Model Name HD10 Can-Am Defender HD10 Can-Am Defender DPS HD10 Can-Am Defender MOS HD10 Can-Am Defender XMR HD10 Can-Am Defender XT HD10 Can-Am Defender XTP HD10 Can-Am Defender CAB HD10 Can-Am Defender CAB XT HD10 Can-Am Defender LTD CAB HD10 Can-Am Defender MAX CAB XT HD10 Can-Am Defender MAX DPS HD10 Can-Am Defender MAX LTD CAB HD10 Can-Am Defender MAX XMR HD10 Can-Am Defender MAX XT HD10 Can-Am Defender PRO DPS HD10 Can-Am Defender PRO LTD CAB HD10 Can-Am Defender PRO XT HD10 Can-Am Defender 6X6 HD10 Can-Am Defender 6X6 DPS HD10 Can-Am Defender 6X6 XT",
+  "URL": "https://www.cpsc.gov/Recalls/2021/BRP-Recalls-Side-by-Side-Vehicles-Due-to-Fire-Hazard-Recall-Alert",
+  "Title": "BRP Recalls Side-by-Side Vehicles Due to Fire Hazard (Recall Alert)",
+  "ConsumerContact": "BRP toll-free at 888-272-9222 from 8 a.m. to 8 p.m. ET Monday through Sunday, online contact form at https://www.brp.com/content/canam-offroad/en_CA/form/contact-us.html or at https://can-am.brp.com/off-road/us/en/ and click on \"Owner Zone\" and then \"Safety Recalls. BRP is contacting all purchasers directly.",
+  "LastPublishDate": "2021-07-22T00:00:00",
+  "Products": [
+    {
+      "Name": "Model Years 2020 and 2021 Can-AM Defender HD10 side-by-side vehicles",
+      "Description": "",
+      "Model": "",
+      "Type": "",
+      "CategoryID": "",
+      "NumberOfUnits": "About 34,400"
+    }
+  ],
+  "Inconjunctions": [],
+  "Images": [
+    {
+      "URL": "https://www.cpsc.gov/s3fs-public/Picture1_29.jpg",
+      "Caption": "Recalled 2020 Can-Am Defender HD10 with track kits"
+    }
+  ],
+  "Injuries": [
+    {
+      "Name": "BRP has received three reports of incidents involving fires. No injuries have been reported."
+    }
+  ],
+  "Manufacturers": [],
+  "Retailers": [
+    {
+      "Name": "Can-Am dealers nationwide from February 2019 through July 2021 for between $12,500 and $22,500 for the vehicles and between $4,700 and $4,900 for the track systems sold separately.",
+      "CompanyID": ""
+    }
+  ],
+  "Importers": [],
+  "Distributors": [
+    {
+      "Name": "BRP U.S. Inc., of Sturtevant, Wis.",
+      "CompanyID": ""
+    }
+  ],
+  "SoldAtLabel": null,
+  "ManufacturerCountries": [
+    {
+      "Country": "Mexico"
+    }
+  ],
+  "ProductUPCs": [],
+  "Hazards": [
+    {
+      "Name": "The stock CVT air intake can become completely obstructed with snow causing the drive belt to overheat and break, posing a fire hazard.",
+      "HazardType": "",
+      "HazardTypeID": ""
+    }
+  ],
+  "Remedies": [
+    {
+      "Name": "Consumers should immediately stop using track kits on the recalled vehicles in snow conditions and contact a Can-Am dealer for a free repair. BRP is contacting all known purchasers directly."
+    }
+  ],
+  "RemedyOptions": [
+    {
+      "Option": "Repair"
+    }
+  ]
+}

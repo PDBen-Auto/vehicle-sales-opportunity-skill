@@ -1,0 +1,70 @@
+{
+  "RecallID": 6594,
+  "RecallNumber": "16710",
+  "RecallDate": "2015-12-08T00:00:00",
+  "Description": "This recall involves model year 2013, 2014 and 2015 Kubota RTV-X1100C series diesel-powered utility vehicles. Recalled utility vehicles come in the colors orange and camouflage and have serial numbers ranging from 10001 to 23172. The model number is on the side of the unit and on the data plate on the back of the cab, between the cab and the bed. The serial number is also on the data plate.",
+  "URL": "https://www.cpsc.gov/Recalls/2016/Kubota-Recalls-Utility-Vehicle",
+  "Title": "Kubota Recalls Utility Vehicle Due to Fire Hazard (Recall Alert)",
+  "ConsumerContact": "Kubota Tractor Corp. toll-free at 800-752-0290 between 8a.m. and 5 p.m. PT Monday through Friday, or online at www.kubota.com and click on More, then Safety, then Safety Notices for more information. Kubota is contacting consumers directly.",
+  "LastPublishDate": "2015-12-08T00:00:00",
+  "Products": [
+    {
+      "Name": "Utility Vehicles",
+      "Description": "",
+      "Model": "",
+      "Type": "Utility Vehicles",
+      "CategoryID": "68355",
+      "NumberOfUnits": "About 11,500"
+    }
+  ],
+  "Inconjunctions": [],
+  "Images": [
+    {
+      "URL": "https://www.cpsc.gov/s3fs-public/Recall.2016.16710.KubotaRTVXV1100C.jpg",
+      "Caption": "Kubota Utility Vehicle Model RTV-X1100C"
+    }
+  ],
+  "Injuries": [
+    {
+      "Name": "Kubota has received seven reports of debris-related fires. No injuries have been reported."
+    }
+  ],
+  "Manufacturers": [],
+  "Retailers": [
+    {
+      "Name": "Authorized Kubota dealers nationwide from October 2013 to October 2015 for between $21,000 and $22,000.",
+      "CompanyID": ""
+    }
+  ],
+  "Importers": [],
+  "Distributors": [
+    {
+      "Name": "Kubota Tractor Corp., of Torrance, Calif.",
+      "CompanyID": ""
+    }
+  ],
+  "SoldAtLabel": null,
+  "ManufacturerCountries": [
+    {
+      "Country": "United States"
+    }
+  ],
+  "ProductUPCs": [],
+  "Hazards": [
+    {
+      "Name": "Combustible debris can make contact with the exhaust manifold and ignite, posing a fire hazard.",
+      "HazardType": "",
+      "HazardTypeID": ""
+    }
+  ],
+  "Remedies": [
+    {
+      "Name": "Consumers should immediately stop using the recalled utility vehicles, park them away from combustible materials and contact an authorized Kubota dealer for a free inspection and free repair and should follow their directions. Kubota is contacting consumers directly."
+    }
+  ],
+  "RemedyOptions": [
+    {
+      "Option": "Repair"
+    }
+  ]
+}

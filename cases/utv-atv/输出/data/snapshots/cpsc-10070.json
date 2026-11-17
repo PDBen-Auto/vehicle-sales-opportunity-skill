@@ -1,0 +1,90 @@
+{
+  "RecallID": 10070,
+  "RecallNumber": "25701",
+  "RecallDate": "2024-10-17T00:00:00",
+  "Description": "This recall involves all model years 2022, 2023 and 2024 Arctic Cat Prowler Pro and Pro Crew and all model year 2022, 2023 and 2024 Tracker Off Road 800SX and 800SX Crew Side by Side Recreational Off Highway Vehicles. The two-seat and four-seat vehicles were sold in various colors. The Arctic Cats have a \"Prowler Pro\" decal on the front hood and the Tracker Off Road vehicles have an \"800SX\" decal just outside the driver and passage doors.",
+  "URL": "https://www.cpsc.gov/Recalls/2025/Textron-Specialized-Vehicles-Expands-Recall-of-Arctic-Cat-and-Tracker-Side-by-Side-Recreational-Off-Highway-Vehicles-Due-to-Crash-Hazard-Recall-Alert",
+  "Title": "Textron Specialized Vehicles Expands Recall of Arctic Cat and Tracker Side by Side Recreational Off Highway Vehicles Due to Crash Hazard (Recall Alert)",
+  "ConsumerContact": "Textron Specialized Vehicles at 800-279-2281 from 8 a.m. to 5 p.m. CT, Monday through Friday, email at arcticcatwarranty@textron.com or online at https://arcticcat.txtsv.com/owners/recalls or https://www.trackeroffroad.com/recalls.html or at https://arcticcat.txtsv.com or https://www.trackeroffroad.com click on \"Recalls\" at the bottom of the page.",
+  "LastPublishDate": "2024-10-17T00:00:00",
+  "Products": [
+    {
+      "Name": "Model Years 2022-2024 Arctic Cat Prowler Pro / Pro Crew and Tracker Off Road 800SX / 800SX Crew Side by Side Recreational Off Highway Vehicles (ROVs)",
+      "Description": "",
+      "Model": "",
+      "Type": "",
+      "CategoryID": "",
+      "NumberOfUnits": "About 7,000 (In addition, about 700 were sold in Canada) (Some of these ROVs were previously recalled on November 2023)"
+    }
+  ],
+  "Inconjunctions": [
+    {
+      "URL": "https://wwwapps.tc.gc.ca/Saf-Sec-Sur/7/VRDB-BDRV/search-recherche/detail.aspx?rn=2023480"
+    }
+  ],
+  "Images": [
+    {
+      "URL": "https://www.cpsc.gov/s3fs-public/Tracker1.png",
+      "Caption": "Recalled MY 2024 Tracker Off Road 800SX"
+    },
+    {
+      "URL": "https://www.cpsc.gov/s3fs-public/Tracker2.png",
+      "Caption": "Recalled Arctic Cat Prowler Pro"
+    },
+    {
+      "URL": "https://www.cpsc.gov/s3fs-public/Tracker3.png",
+      "Caption": "Recalled Arctic Cat Prowler Pro Crew"
+    },
+    {
+      "URL": "https://www.cpsc.gov/s3fs-public/Tracker4.png",
+      "Caption": "Recalled Tracker Off Road 800SX"
+    },
+    {
+      "URL": "https://www.cpsc.gov/s3fs-public/Tracker5.png",
+      "Caption": "Recalled Tracker Off Road 800SX Crew"
+    }
+  ],
+  "Injuries": [
+    {
+      "Name": "The firm has received 12 reports of vehicles moving while in the park position. No injuries have been reported."
+    }
+  ],
+  "Manufacturers": [
+    {
+      "Name": "Textron Specialized Vehicles, of Augusta, Georgia",
+      "CompanyID": ""
+    }
+  ],
+  "Retailers": [
+    {
+      "Name": "The Arctic Cat Prowler Pro and Pro Crew was sold at Arctic Cat dealers nationwide from May 2022 through August 2023 for between $14,400 and $21,000. The Tracker Off Road 800SX and 800SX Crew was sold at Bass Pro Shops, Cabela's and Tracker dealers nationwide from March 2022 through August 2024 for between $14,400 and $21,000.",
+      "CompanyID": ""
+    }
+  ],
+  "Importers": [],
+  "Distributors": [],
+  "SoldAtLabel": null,
+  "ManufacturerCountries": [
+    {
+      "Country": "United States"
+    }
+  ],
+  "ProductUPCs": [],
+  "Hazards": [
+    {
+      "Name": "The vehicle can move when on an incline and \"park\" is displayed on the digital dash. This can allow the vehicle to roll away, posing a crash hazard.",
+      "HazardType": "",
+      "HazardTypeID": ""
+    }
+  ],
+  "Remedies": [
+    {
+      "Name": "Consumers should immediately stop using the recalled vehicles and contact Textron Specialized Vehicles to schedule a free repair. The repair kit will include a new shift cable bracket, shift sensor, and a decal to be placed at the dash display. The new shift sensor will allow the dash to display an \"E\" for shift error if \"park\" on the vehicle is not fully engaged. Customers will be directly notified to bring their vehicle to an authorized dealership to have the kit added at no cost. Textron is contacting all known purchasers directly."
+    }
+  ],
+  "RemedyOptions": [
+    {
+      "Option": "Repair"
+    }
+  ]
+}

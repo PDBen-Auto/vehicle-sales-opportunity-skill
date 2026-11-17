@@ -1,0 +1,90 @@
+{
+  "RecallID": 8797,
+  "RecallNumber": "20733",
+  "RecallDate": "2020-04-16T00:00:00",
+  "Description": "This recall involves Model Year 2018 - 2020 Ranger XP 1000 & CREW XP 1000 Off-Road Vehicles with the following model names: YEAR MODEL NAME 2018 Ranger XP 1000 EPS 2019 Ranger XP 1000 Ranger CREW XP 1000 2020 Ranger XP 1000 Ranger CREW XP 1000 The vehicles were sold in green, titanium, camo, suede (metallic gray), red, gray, white, blue, maroon, bronze, orange and black colors and have two or four seats. Vehicle identification numbers (VIN) included in this recall can be found on a label affixed to the vehicle frame in the left front wheel well. \"Polaris\" is stamped on the front grille and \"Ranger\" is on the sides of the utility bed. The following models and non-sequential VIN ranges are included in the recall: MY18 RANGER XP 1000 EPS 4XARRE990J8044280 - 4XARRU99XJ8520576 MY19 RANGER XP 1000 4XARRB990K8895382 - 4XARRW99XK8910509 MY19 RANGER CREW XP 1000 4XARSB990K8895984 - 4XARSW999K8903801 MY20 RANGER XP 1000 4XARRB991L8914393 - 4XARRW99XL8920524 MY20 RANGER CREW XP 1000 4XARSB995L8890622 - 4XARSW99XL8920737",
+  "URL": "https://www.cpsc.gov/Recalls/2020/Polaris-Recalls-Model-Year-2018-to-2020-Ranger-XP-1000-Off-Road-Vehicles-Due-to-Fire-Hazard-Recall-Alert",
+  "Title": "Polaris Recalls Model Year 2018 to 2020 Ranger XP 1000 Off-Road Vehicles Due to Fire Hazard (Recall Alert)",
+  "ConsumerContact": "Polaris at 800-765-2747 from 7 a.m. to 7 p.m. CT Monday through Friday or online at www.polaris.com and click on “Off-Road Recalls” for more information. In addition, check your vehicle identification number (VIN) on the “Product Safety Recalls” page to see if your vehicle is included in any recalls.",
+  "LastPublishDate": "2020-04-16T00:00:00",
+  "Products": [
+    {
+      "Name": "Model Year 2018 - 2020 Ranger XP 1000 & CREW XP 1000 Off-Road Vehicles",
+      "Description": "",
+      "Model": "",
+      "Type": "",
+      "CategoryID": "",
+      "NumberOfUnits": "About 80,000"
+    }
+  ],
+  "Inconjunctions": [],
+  "Images": [
+    {
+      "URL": "https://www.cpsc.gov/s3fs-public/Screen Shot 2020-04-16 at 3.08.38 PM.png",
+      "Caption": "Recalled 2018 Polaris RANGER XP 1000 EPS"
+    },
+    {
+      "URL": "https://www.cpsc.gov/s3fs-public/Screen Shot 2020-04-16 at 3.08.43 PM.png",
+      "Caption": "Recalled 2019 Polaris RANGER XP 1000"
+    },
+    {
+      "URL": "https://www.cpsc.gov/s3fs-public/Screen Shot 2020-04-16 at 3.08.50 PM.png",
+      "Caption": "Recalled 2019 Polaris RANGER CREW XP 1000"
+    },
+    {
+      "URL": "https://www.cpsc.gov/s3fs-public/Screen Shot 2020-04-16 at 3.08.56 PM.png",
+      "Caption": "Recalled Model Year 2020 Polaris Ranger XP 1000"
+    },
+    {
+      "URL": "https://www.cpsc.gov/s3fs-public/Screen Shot 2020-04-16 at 3.09.01 PM.png",
+      "Caption": "Recalled Model Year 2020 Polaris RANGER CREW XP 1000"
+    },
+    {
+      "URL": "https://www.cpsc.gov/s3fs-public/Screen Shot 2020-04-16 at 3.09.13 PM.png",
+      "Caption": "VIN number location"
+    }
+  ],
+  "Injuries": [
+    {
+      "Name": "Polaris has received four reports of clutch belts breaking which resulted in fuel line damage and fires. No injuries have been reported."
+    }
+  ],
+  "Manufacturers": [
+    {
+      "Name": "Polaris Industries Inc., Medina, Minn",
+      "CompanyID": ""
+    }
+  ],
+  "Retailers": [
+    {
+      "Name": "Polaris dealers nationwide from October 2016 through October 2019 for between $15,300 and $27,500.",
+      "CompanyID": ""
+    }
+  ],
+  "Importers": [],
+  "Distributors": [],
+  "SoldAtLabel": null,
+  "ManufacturerCountries": [
+    {
+      "Country": "United States"
+    }
+  ],
+  "ProductUPCs": [],
+  "Hazards": [
+    {
+      "Name": "The clutch belt can break and damage the secondary clutch and the fuel line, posing a fire hazard to the rider.",
+      "HazardType": "",
+      "HazardTypeID": ""
+    }
+  ],
+  "Remedies": [
+    {
+      "Name": "Consumers should immediately stop using the recalled vehicles and contact a Polaris dealer to schedule a free inspection and repair. Polaris is notifying dealers and contacting affected registered owners directly."
+    }
+  ],
+  "RemedyOptions": [
+    {
+      "Option": "Repair"
+    }
+  ]
+}

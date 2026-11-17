@@ -4,8 +4,10 @@
   "status": "candidate_only",
   "items": [
     {
-      "id": "CA:aster.canyon",
+      "id": "CA:automobile:retail_sales:aster.canyon",
       "market": "CA",
+      "assetType": "automobile",
+      "metricKind": "retail_sales",
       "seriesId": "aster.canyon",
       "signal": "small_base_growth",
       "status": "candidate_only",
@@ -26,8 +28,10 @@
       "stopCondition": "关键适配不成立、需求证据不足、成本不可行或缺少授权时停止扩展。"
     },
     {
-      "id": "MX:aster.canyon",
+      "id": "MX:automobile:retail_sales:aster.canyon",
       "market": "MX",
+      "assetType": "automobile",
+      "metricKind": "retail_sales",
       "seriesId": "aster.canyon",
       "signal": "watch",
       "status": "candidate_only",
@@ -48,8 +52,10 @@
       "stopCondition": "关键适配不成立、需求证据不足、成本不可行或缺少授权时停止扩展。"
     },
     {
-      "id": "US:aster.canyon",
+      "id": "US:automobile:retail_sales:aster.canyon",
       "market": "US",
+      "assetType": "automobile",
+      "metricKind": "retail_sales",
       "seriesId": "aster.canyon",
       "signal": "scale_growth",
       "status": "candidate_only",
@@ -70,8 +76,10 @@
       "stopCondition": "关键适配不成立、需求证据不足、成本不可行或缺少授权时停止扩展。"
     },
     {
-      "id": "US:boreal.ridge",
+      "id": "US:automobile:retail_sales:boreal.ridge",
       "market": "US",
+      "assetType": "automobile",
+      "metricKind": "retail_sales",
       "seriesId": "boreal.ridge",
       "signal": "decline_review",
       "status": "candidate_only",
@@ -92,8 +100,10 @@
       "stopCondition": "关键适配不成立、需求证据不足、成本不可行或缺少授权时停止扩展。"
     },
     {
-      "id": "US:cedar.spark",
+      "id": "US:automobile:retail_sales:cedar.spark",
       "market": "US",
+      "assetType": "automobile",
+      "metricKind": "retail_sales",
       "seriesId": "cedar.spark",
       "signal": "small_base_growth",
       "status": "candidate_only",
@@ -114,8 +124,10 @@
       "stopCondition": "关键适配不成立、需求证据不足、成本不可行或缺少授权时停止扩展。"
     },
     {
-      "id": "US:dune.trace",
+      "id": "US:automobile:retail_sales:dune.trace",
       "market": "US",
+      "assetType": "automobile",
+      "metricKind": "retail_sales",
       "seriesId": "dune.trace",
       "signal": "insufficient_data",
       "status": "candidate_only",
@@ -136,8 +148,10 @@
       "stopCondition": "关键适配不成立、需求证据不足、成本不可行或缺少授权时停止扩展。"
     },
     {
-      "id": "US:ember.launch",
+      "id": "US:automobile:retail_sales:ember.launch",
       "market": "US",
+      "assetType": "automobile",
+      "metricKind": "retail_sales",
       "seriesId": "ember.launch",
       "signal": "zero_base",
       "status": "candidate_only",
@@ -158,8 +172,10 @@
       "stopCondition": "关键适配不成立、需求证据不足、成本不可行或缺少授权时停止扩展。"
     },
     {
-      "id": "US:fjord.glide",
+      "id": "US:automobile:retail_sales:fjord.glide",
       "market": "US",
+      "assetType": "automobile",
+      "metricKind": "retail_sales",
       "seriesId": "fjord.glide",
       "signal": "watch",
       "status": "candidate_only",
@@ -180,8 +196,10 @@
       "stopCondition": "关键适配不成立、需求证据不足、成本不可行或缺少授权时停止扩展。"
     },
     {
-      "id": "US:gale.van",
+      "id": "US:automobile:retail_sales:gale.van",
       "market": "US",
+      "assetType": "automobile",
+      "metricKind": "retail_sales",
       "seriesId": "gale.van",
       "signal": "watch",
       "status": "candidate_only",

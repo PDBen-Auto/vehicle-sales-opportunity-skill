@@ -1,0 +1,79 @@
+{
+  "RecallID": 9490,
+  "RecallNumber": "23719",
+  "RecallDate": "2022-12-29T00:00:00",
+  "Description": "This recall involves Model Year 2022 Yamaha Viking Off-Road Side-by-Side three passenger vehicles with model numbers YXM70VPANG (Viking EPS) and YXM70VPRNC (Viking EPS Ranch), and six passenger vehicles with model numbers YXC70VPXNG/YXC70VPHNH (Viking VI EPS) and YXC70VPRNC (Viking VI EPS Ranch). The recalled side-by-side vehicles were sold in Copper Metallic, Hunter Green and Tactical Green colors. The model name is printed on the right and left sides of the vehicle body. The model number is located on top of the airbox. The Vehicle Identification Number (VIN) can be found on the vehicle frame behind the left rear wheel. The VIN number ranges for recalled Yamaha Viking Off-Road Side-by-Side include the following: MY Model VIN Start VIN End 2022 YXM70VPANG (Viking EPS) ***********101868 ***********101907 2022 YXM70VPRNC (Viking EPS Ranch) ***********101655 ***********101704 2022 YXC70VPXNG (Viking VI EPS) ***********100954 ***********101043 2022 YXC70VPHNH (Viking VI EPS) ***********100609 ***********100638 2022 YXC70VPRNC (Viking VI EPS Ranch) ***********101575 ***********101853",
+  "URL": "https://www.cpsc.gov/Recalls/2023/Yamaha-Recalls-Viking-Off-Road-Side-by-Side-Vehicles-Due-to-Crash-and-Injury-Hazards-Recall-Alert-1",
+  "Title": "Yamaha Recalls Viking Off-Road Side-by-Side Vehicles Due to Crash and Injury Hazards (Recall Alert)",
+  "ConsumerContact": "Yamaha Motor Corporation U.S.A. at 800-962-7926 from 8:30 a.m. to 5 p.m. PT Monday through Friday, or online at https://www.yamahamotorsports.com/motorsports/pages/cpsc-recalls or www.Yamahamotorsports.com and click on \"CPSC Recalls\" for more information.",
+  "LastPublishDate": "2022-12-29T00:00:00",
+  "Products": [
+    {
+      "Name": "Yamaha Viking Off-Road Side-by-Side vehicles",
+      "Description": "",
+      "Model": "",
+      "Type": "",
+      "CategoryID": "",
+      "NumberOfUnits": "About 500"
+    }
+  ],
+  "Inconjunctions": [],
+  "Images": [
+    {
+      "URL": "https://www.cpsc.gov/s3fs-public/RecalledYamahaMotorsUSAOffRoadSidebySidevehicle3passenger.jpg",
+      "Caption": "Recalled Yamaha Motors USA Off-Road Side-by-Side vehicle (3 passenger)"
+    },
+    {
+      "URL": "https://www.cpsc.gov/s3fs-public/RecalledYamahaMotorsUSAOffRoadSidebySidevehicle6passenger.jpg",
+      "Caption": "Recalled Yamaha Motors USA Off-Road Side-by-Side vehicle (6 passenger)"
+    }
+  ],
+  "Injuries": [
+    {
+      "Name": "None reported"
+    }
+  ],
+  "Manufacturers": [
+    {
+      "Name": "Yamaha Motor Manufacturing Corp. of America, of Newnan, Georgia",
+      "CompanyID": ""
+    }
+  ],
+  "Retailers": [
+    {
+      "Name": "Authorized Yamaha Side-by-Side dealers nationwide from July 2022 through October 2022 for between $14,000 and $16,100.",
+      "CompanyID": ""
+    }
+  ],
+  "Importers": [],
+  "Distributors": [
+    {
+      "Name": "Yamaha Motor Corporation U.S.A., of Cypress, California",
+      "CompanyID": ""
+    }
+  ],
+  "SoldAtLabel": null,
+  "ManufacturerCountries": [
+    {
+      "Country": "United States"
+    }
+  ],
+  "ProductUPCs": [],
+  "Hazards": [
+    {
+      "Name": "Improper installation of the retaining bolts could result in the parking brake mechanism failing to hold the vehicle when parked allowing the vehicle to move unintentionally, posing crash and injury hazards.",
+      "HazardType": "",
+      "HazardTypeID": ""
+    }
+  ],
+  "Remedies": [
+    {
+      "Name": "Consumers should immediately stop using the recalled vehicles and contact Yamaha Motor Corporation U.S.A. for a free inspection and repair. Yamaha is contacting all registered owners directly."
+    }
+  ],
+  "RemedyOptions": [
+    {
+      "Option": "Repair"
+    }
+  ]
+}

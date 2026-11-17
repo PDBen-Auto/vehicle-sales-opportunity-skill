@@ -1,0 +1,125 @@
+﻿id,brand,name,category,group,parent_id,catalog_only,aliases,notes,source_ids,full_fleet_count_status,scope_status
+polaris.rzr-xp1000,Polaris,RZR XP 1000 / XP 4 1000,运动,False,,,,两个年款批次互不重叠；MY2019–2023及其余未入召回VIN均未补量。,cpsc-8296;cpsc-10106,unknown,partial
+polaris.rzr-turbo-group,Polaris,RZR XP Turbo / Turbo S 合并组,运动,True,,,,"MY2016的13,000已含先前2,230；MY2021的27,300已含部分旧召回。两年款互不重叠；XP Turbo与Turbo S不分摊。",cpsc-7847;cpsc-9687,unknown,partial
+polaris.rzr-proxp-turbor-group,Polaris,RZR Pro XP 4 / Turbo R 4 合并组,运动,True,,,,只覆盖4座指定VIN；无法拆分Pro XP与Turbo R。,cpsc-9632,unknown,partial
+polaris.rzr-pro-r,Polaris,RZR Pro R / Pro R 4,运动,False,,,,仅MY2022 Pro R 4 Premium/Ultimate批次；2025另一次910台可能重叠，未相加。,cpsc-9296,unknown,partial
+polaris.rzr-570,Polaris,RZR 570 / S 570,运动,False,,,,,cpsc-8096,unknown,partial
+polaris.rzr-170,Polaris,RZR 170,青少年,False,,,,,cpsc-8104,unknown,partial
+polaris.rzr-200,Polaris,RZR 200,青少年,False,,,,,cpsc-9798,unknown,partial
+polaris.ranger-500,Polaris,RANGER 500 / CREW 500,工具,False,,,,,cpsc-1795,unknown,partial
+polaris.ranger-570,Polaris,RANGER 570 / CREW 570,工具,False,,,,,cpsc-7780,unknown,partial
+polaris.ranger-900,Polaris,RANGER XP 900 / CREW 900,工具,False,,,,MY2014与MY2015互不重叠；未推算其他年款。,cpsc-7853;cpsc-8028,unknown,partial
+polaris.ranger-xp1000,Polaris,RANGER XP 1000 / CREW,工具,False,,,,旧批次与2025–2026 NorthStar批次年款互不重叠；NorthStar不能单独视为全系。,cpsc-8797;cpsc-10455,unknown,partial
+polaris.ranger-xd1500,Polaris,RANGER XD 1500 / CREW,工具,False,,,,"原文另有1,336套绞盘，未计作车辆；2025另一次4,200台可能重叠，未相加。",cpsc-10058,unknown,partial
+polaris.ranger-ev,Polaris,RANGER EV,工具,False,,,,BEV；未与XP Kinetic合并。,cpsc-8572,unknown,partial
+polaris.ranger-xp-kinetic,Polaris,RANGER XP Kinetic,工具,False,,,,"2025的4,900台混合RANGER与PRO XD Kinetic，不能全归RANGER。",cpsc-9797,unknown,partial
+polaris.general,Polaris,GENERAL 1000 / XP 1000,多用途,False,,,,两组年款互不重叠；早期原文销售结束时间早于开始时间，保留原文并仅使用最早起售年。,cpsc-8166;cpsc-9106,unknown,partial
+polaris.pro-xd,Polaris,PRO XD（柴油代表批次）,商用,False,,,,跨品牌召回的RANGER、PRO XD、Bobcat不能整体计入本车型。,cpsc-8737,unknown,partial
+polaris.brutus,Polaris,BRUTUS,商用,False,,,,,cpsc-8736,unknown,partial
+canam.commander,Can-Am,Commander,多用途,False,,,,仅旧款2011–早期2013；不代表2021后车型及当前全系。,cpsc-1301;catalog-canam-ca,unknown,partial
+canam.defender,Can-Am,Defender HD10（代表批次）,工具,False,,,,"召回涉及搭配Apache履带套件的风险；34,400为公告车辆数量，未推定HD5/HD7/HD8/HD9/HD11全系规模。",cpsc-9108;catalog-canam-ca;catalog-canam-mx,unknown,partial
+canam.maverick-x3,Can-Am,Maverick X3,运动,False,,,,仅首发早期批次；样本很小，禁止据此与Defender比较市场份额。,cpsc-7909;catalog-canam-ca;catalog-canam-mx,unknown,partial
+honda.pioneer-700,Honda,Pioneer 700 / 700-4,工具,False,,,,"MY2014与MY2017不重叠；未将700和1000混合召回118,600台分摊。",cpsc-1967;cpsc-8045,unknown,partial
+honda.pioneer-1000,Honda,Pioneer 1000 / 1000-5,工具,False,,,,"82,000覆盖MY2016–2019；65,000及56,000等早期召回可能重复，未相加。",cpsc-8580,unknown,partial
+honda.talon-1000,Honda,Talon 1000（2座 / 4座）,运动,False,,,,"34,000已含此前32,000；不能加成66,000。",cpsc-9496,unknown,partial
+yamaha.rhino-group,Yamaha,Rhino 450 / 660 / 700 合并组,多用途,True,,,,"120,000为450/660合计，另25,000为700，合计145,000；两部分不重叠。修复项目并非当前在用调查。",cpsc-5177,unknown,partial
+yamaha.viking-group,Yamaha,Viking / Viking VI 合并组,工具,True,,,,"早期3,500仅Viking VI；2022的500台混合3座与6座，不拆车型。",cpsc-6360;cpsc-9490,unknown,partial
+yamaha.yxz1000r,Yamaha,YXZ1000R / SS,运动,False,,,,,cpsc-6704,unknown,partial
+yamaha.wolverine-rmax-group,Yamaha,Wolverine RMAX2 / RMAX4 合并组,多用途,True,,,,"4,130混合2座与4座，未拆分；820台RMAX4旧召回可能重叠。",cpsc-9305,unknown,partial
+kawasaki.mule-pro-legacy-group,Kawasaki,MULE PRO 820汽油 / 柴油旧批次,工具,True,,,,"80,000含FX/FXR/FXT及DX/DXT；72,000汽油召回与之重叠，未相加。",cpsc-8780,unknown,partial
+kawasaki.mule-pro1000-group,Kawasaki,MULE PRO-FX / FXR / FXT 1000,工具,True,,,,2024年款汽油1000批次，与旧820/柴油组年款、动力范围分开。,cpsc-10010,unknown,partial
+kawasaki.mule600-610-group,Kawasaki,MULE 600 / 610 旧批次,工具,True,,,,MY2005–2006与MY2012不重叠；未与MULE SX互相替代。,cpsc-3394;cpsc-1185,unknown,partial
+kawasaki.mule-pro-mx,Kawasaki,MULE PRO-MX 700,工具,False,,,,,cpsc-8509,unknown,partial
+kawasaki.teryx-legacy-group,Kawasaki,Teryx / Teryx4 750–800 合并组,多用途,True,,,,"只采用公告首列19,500台；另提11,000和7,000可能重叠，保守不加。",cpsc-6600,unknown,partial
+kawasaki.teryx-h2-group,Kawasaki,Teryx4 H2 / Teryx5 H2 合并组,运动,True,,,,仅初期MY2026批次，不能拆4座与5座。,cpsc-10814,unknown,partial
+kubota.rtv-x1100c,Kubota,RTV-X1100C,工具,False,,,,"48,875含早期11,500的重叠风险，未叠加；2025 RTV混合49,640也未分摊。",cpsc-9168,unknown,partial
+kubota.sidekick,Kubota,Sidekick RTV-XG850,工具,False,,,,"2023另3,170台的Y序列与早期公告范围存在交叉，未相加。",cpsc-9465,unknown,partial
+kubota.rtv400-500-group,Kubota,RTV400 / RTV500 合并组,工具,True,,,,公告MY2013–2015却显示2010起售；采用更早的2010作为车龄压力基准，不修造日期。,cpsc-6729,unknown,partial
+kubota.rtv900,Kubota,RTV900（早期）,工具,False,,,,不等同于后续RTV-X900。,cpsc-3039,unknown,partial
+deere.gator-xuv835,John Deere,Gator XUV835,工具,False,,,,原文序列中含看似较新VIN，未从VIN区间反推销量。,cpsc-8658,unknown,partial
+deere.gator-xuv590,John Deere,Gator XUV590i / E / M,工具,False,,,,2016–2017旧590i与MY2023 590E/M批次分开；年款由原文/销售期与2023VIN表对应。,cpsc-8025;cpsc-9648,unknown,partial
+deere.gator-xuv825-855-group,John Deere,Gator XUV825 / XUV855 合并组,工具,True,,,,跨汽油/柴油混合，来源没有可用拆分；年款范围为来源销售批次窗口，非车型完整生命周期。,cpsc-8215,unknown,partial
+deere.gator-hpx,John Deere,Gator HPX,工具,False,,,,,cpsc-3035,unknown,partial
+deere.gator-rsx850i,John Deere,Gator RSX850i,运动,False,,,,"4,650与4,700所述生产区间重叠，仅保留4,700。",cpsc-1497,unknown,partial
+deere.gator-rsx860i,John Deere,Gator RSX860i,运动,False,,,,,cpsc-7818,unknown,partial
+cfmoto.zforce950,CFMOTO,ZFORCE 950 Sport / HO Sport,运动,False,,,,两个批次年款不重叠；2020旧500台已经被627批次覆盖，未相加。,cpsc-8910;cpsc-10005,unknown,partial
+cfmoto.zforce-legacy-group,CFMOTO,ZFORCE 500 / 800 / 1000 合并组,运动,True,,,,只覆盖2018混合批次，不能按排量分摊。,cpsc-8444,unknown,partial
+segway.fugleman,Segway,Fugleman UT10E / UT10X,工具,False,,,,,cpsc-9350,unknown,partial
+arcticcat.wildcat-trail-sport-group,Arctic Cat,Wildcat Trail / Sport 合并组,运动,True,,,,"14,100美国、5,300加拿大、100墨西哥分别建行；2014 Trail旧5,600可能重叠。",cpsc-8165,unknown,partial
+arcticcat.hdx700,Arctic Cat,HDX 700 / Crew,工具,False,,,,,cpsc-7835,unknown,partial
+textron.havoc,Textron,Havoc,多用途,False,,,,后续200台MY2019召回可能重叠。,cpsc-8562,unknown,partial
+arcticcat-tracker.pro800sx-group,Arctic Cat / Tracker,Prowler Pro / Tracker 800SX 合并组,工具,True,,,,"10,300与7,000/6,800系列召回可能重叠；不加总、不拆品牌。",cpsc-9949,unknown,partial
+tracker.ox-ev,Tracker,OX EV,工具,False,,,,,cpsc-9893,unknown,partial
+kymco.uxv450i,KYMCO,UXV 450i,工具,False,,,,,cpsc-6672,unknown,partial
+kymco.uxv500,KYMCO,UXV 500 / 500i,工具,False,,,,,cpsc-1171,unknown,partial
+bobcat.3400,Bobcat,3400 / 3400XL,商用,False,,,,作为独立品牌车辆保留，未并入Polaris。,cpsc-8372,unknown,partial
+bobcat.3650,Bobcat,3650,商用,False,,,,,cpsc-8738,unknown,partial
+gravely.atlas,Gravely,Atlas JSV 3000 / 6000,商用,False,,,,,cpsc-8373,unknown,partial
+cubcadet.challenger400,Cub Cadet,Challenger 400,工具,False,,,,,cpsc-8434,unknown,partial
+cubcadet.challenger-legacy-group,Cub Cadet,Challenger CX500 / 700 / 750 Crew 合并组,工具,True,,,,"2015的1,300与2016的4,000按不重叠年款相加；不能拆排量。",cpsc-6717;cpsc-8089,unknown,partial
+landmaster.l-series-group,Landmaster,L3 / L4 / L5 / L7 / EV 合并组,工具,True,,,,仅非电助力转向批次；EV与燃油车型无法拆分。,cpsc-9236,unknown,partial
+intimidator-mahindra.group,Intimidator / Mahindra,Intimidator / Retriever 多型号合并组,工具,True,,,,"750/800/1000柴油/GC1K/电动混合，无法拆型号或品牌；16,000旧批次可能重叠。",cpsc-9922,unknown,partial
+hisun-rk.sector250-group,Hisun / RK,Sector 250 / RK Performance 250 合并组,青少年,True,,,,品牌不可拆分；250cc UTV并非同品牌ATV。,cpsc-9187,unknown,partial
+vanderhall.brawley,Vanderhall,Brawley GTS,运动,False,,,,2026年8月公告约210，11月公告约190，范围均称全MY2024–2026；未解释差异，取较新较小190并保留冲突。,cpsc-11050,unknown,partial
+asw.utility-group,American SportWorks,LandMaster / BullDog / ChuckWagon / TrailWagon 合并组,工具,True,,,,6种型号混合；没有分车型数量。,cpsc-6477,unknown,partial
+polaris.rzr-xp-turbo,Polaris,RZR XP Turbo,运动,False,polaris.rzr-turbo-group,,,数量只存在于“RZR XP Turbo / Turbo S 合并组”；单车型数量未知，不按份额拆分。,cpsc-7847;cpsc-9687,unknown,partial
+polaris.rzr-turbo-s,Polaris,RZR Turbo S,运动,False,polaris.rzr-turbo-group,,,数量只存在于“RZR XP Turbo / Turbo S 合并组”；单车型数量未知，不按份额拆分。,cpsc-7847;cpsc-9687,unknown,partial
+polaris.rzr-pro-xp,Polaris,RZR Pro XP,运动,False,polaris.rzr-proxp-turbor-group,,,数量只存在于“RZR Pro XP 4 / Turbo R 4 合并组”；单车型数量未知，不按份额拆分。,cpsc-9632,unknown,partial
+polaris.rzr-turbo-r,Polaris,RZR Turbo R,运动,False,polaris.rzr-proxp-turbor-group,,,数量只存在于“RZR Pro XP 4 / Turbo R 4 合并组”；单车型数量未知，不按份额拆分。,cpsc-9632,unknown,partial
+yamaha.rhino450,Yamaha,Rhino 450,多用途,False,yamaha.rhino-group,,,数量只存在于“Rhino 450 / 660 / 700 合并组”；单车型数量未知，不按份额拆分。,cpsc-5177,unknown,partial
+yamaha.rhino660,Yamaha,Rhino 660,多用途,False,yamaha.rhino-group,,,数量只存在于“Rhino 450 / 660 / 700 合并组”；单车型数量未知，不按份额拆分。,cpsc-5177,unknown,partial
+yamaha.rhino700,Yamaha,Rhino 700,多用途,False,yamaha.rhino-group,,,数量只存在于“Rhino 450 / 660 / 700 合并组”；单车型数量未知，不按份额拆分。,cpsc-5177,unknown,partial
+yamaha.viking,Yamaha,Viking（3座）,工具,False,yamaha.viking-group,,,数量只存在于“Viking / Viking VI 合并组”；单车型数量未知，不按份额拆分。,cpsc-6360;cpsc-9490,unknown,partial
+yamaha.viking-vi,Yamaha,Viking VI（6座）,工具,False,yamaha.viking-group,,,数量只存在于“Viking / Viking VI 合并组”；单车型数量未知，不按份额拆分。,cpsc-6360;cpsc-9490,unknown,partial
+yamaha.rmax2,Yamaha,Wolverine RMAX2 1000,多用途,False,yamaha.wolverine-rmax-group,,,数量只存在于“Wolverine RMAX2 / RMAX4 合并组”；单车型数量未知，不按份额拆分。,cpsc-9305,unknown,partial
+yamaha.rmax4,Yamaha,Wolverine RMAX4 1000,多用途,False,yamaha.wolverine-rmax-group,,,数量只存在于“Wolverine RMAX2 / RMAX4 合并组”；单车型数量未知，不按份额拆分。,cpsc-9305,unknown,partial
+kawasaki.mule-pro-fx,Kawasaki,MULE PRO-FX,工具,False,kawasaki.mule-pro-legacy-group,,,数量只存在于“MULE PRO 820汽油 / 柴油旧批次”；单车型数量未知，不按份额拆分。,cpsc-8780,unknown,partial
+kawasaki.mule-pro-fxr,Kawasaki,MULE PRO-FXR,工具,False,kawasaki.mule-pro-legacy-group,,,数量只存在于“MULE PRO 820汽油 / 柴油旧批次”；单车型数量未知，不按份额拆分。,cpsc-8780,unknown,partial
+kawasaki.mule-pro-fxt,Kawasaki,MULE PRO-FXT,工具,False,kawasaki.mule-pro-legacy-group,,,数量只存在于“MULE PRO 820汽油 / 柴油旧批次”；单车型数量未知，不按份额拆分。,cpsc-8780,unknown,partial
+kawasaki.mule-pro-dx,Kawasaki,MULE PRO-DX,工具,False,kawasaki.mule-pro-legacy-group,,,数量只存在于“MULE PRO 820汽油 / 柴油旧批次”；单车型数量未知，不按份额拆分。,cpsc-8780,unknown,partial
+kawasaki.mule-pro-dxt,Kawasaki,MULE PRO-DXT,工具,False,kawasaki.mule-pro-legacy-group,,,数量只存在于“MULE PRO 820汽油 / 柴油旧批次”；单车型数量未知，不按份额拆分。,cpsc-8780,unknown,partial
+kawasaki.teryx,Kawasaki,Teryx 750 / 800,多用途,False,kawasaki.teryx-legacy-group,,,数量只存在于“Teryx / Teryx4 750–800 合并组”；单车型数量未知，不按份额拆分。,cpsc-6600,unknown,partial
+kawasaki.teryx4,Kawasaki,Teryx4 750 / 800,多用途,False,kawasaki.teryx-legacy-group,,,数量只存在于“Teryx / Teryx4 750–800 合并组”；单车型数量未知，不按份额拆分。,cpsc-6600,unknown,partial
+kawasaki.teryx4-h2,Kawasaki,Teryx4 H2,运动,False,kawasaki.teryx-h2-group,,,数量只存在于“Teryx4 H2 / Teryx5 H2 合并组”；单车型数量未知，不按份额拆分。,cpsc-10814,unknown,partial
+kawasaki.teryx5-h2,Kawasaki,Teryx5 H2,运动,False,kawasaki.teryx-h2-group,,,数量只存在于“Teryx4 H2 / Teryx5 H2 合并组”；单车型数量未知，不按份额拆分。,cpsc-10814,unknown,partial
+kubota.rtv400,Kubota,RTV400,工具,False,kubota.rtv400-500-group,,,数量只存在于“RTV400 / RTV500 合并组”；单车型数量未知，不按份额拆分。,cpsc-6729,unknown,partial
+kubota.rtv500,Kubota,RTV500,工具,False,kubota.rtv400-500-group,,,数量只存在于“RTV400 / RTV500 合并组”；单车型数量未知，不按份额拆分。,cpsc-6729,unknown,partial
+deere.xuv825,John Deere,Gator XUV825,工具,False,deere.gator-xuv825-855-group,,,数量只存在于“Gator XUV825 / XUV855 合并组”；单车型数量未知，不按份额拆分。,cpsc-8215,unknown,partial
+deere.xuv855,John Deere,Gator XUV855,工具,False,deere.gator-xuv825-855-group,,,数量只存在于“Gator XUV825 / XUV855 合并组”；单车型数量未知，不按份额拆分。,cpsc-8215,unknown,partial
+cfmoto.zforce500,CFMOTO,ZFORCE 500 Trail,运动,False,cfmoto.zforce-legacy-group,,,数量只存在于“ZFORCE 500 / 800 / 1000 合并组”；单车型数量未知，不按份额拆分。,cpsc-8444,unknown,partial
+cfmoto.zforce800,CFMOTO,ZFORCE 800 Trail,运动,False,cfmoto.zforce-legacy-group,,,数量只存在于“ZFORCE 500 / 800 / 1000 合并组”；单车型数量未知，不按份额拆分。,cpsc-8444,unknown,partial
+cfmoto.zforce1000,CFMOTO,ZFORCE 1000,运动,False,cfmoto.zforce-legacy-group,,,数量只存在于“ZFORCE 500 / 800 / 1000 合并组”；单车型数量未知，不按份额拆分。,cpsc-8444,unknown,partial
+arcticcat.wildcat-trail,Arctic Cat,Wildcat Trail,运动,False,arcticcat.wildcat-trail-sport-group,,,数量只存在于“Wildcat Trail / Sport 合并组”；单车型数量未知，不按份额拆分。,cpsc-8165,unknown,partial
+arcticcat.wildcat-sport,Arctic Cat,Wildcat Sport,运动,False,arcticcat.wildcat-trail-sport-group,,,数量只存在于“Wildcat Trail / Sport 合并组”；单车型数量未知，不按份额拆分。,cpsc-8165,unknown,partial
+arcticcat.prowler-pro,Arctic Cat,Prowler Pro / Pro Crew,工具,False,arcticcat-tracker.pro800sx-group,,,数量只存在于“Prowler Pro / Tracker 800SX 合并组”；单车型数量未知，不按份额拆分。,cpsc-9949,unknown,partial
+tracker.800sx,Tracker,800SX / Crew,工具,False,arcticcat-tracker.pro800sx-group,,,数量只存在于“Prowler Pro / Tracker 800SX 合并组”；单车型数量未知，不按份额拆分。,cpsc-9949,unknown,partial
+landmaster.l3,Landmaster,L3,工具,False,landmaster.l-series-group,,,数量只存在于“L3 / L4 / L5 / L7 / EV 合并组”；单车型数量未知，不按份额拆分。,cpsc-9236,unknown,partial
+landmaster.l4,Landmaster,L4,工具,False,landmaster.l-series-group,,,数量只存在于“L3 / L4 / L5 / L7 / EV 合并组”；单车型数量未知，不按份额拆分。,cpsc-9236,unknown,partial
+landmaster.l5,Landmaster,L5 / L5W,工具,False,landmaster.l-series-group,,,数量只存在于“L3 / L4 / L5 / L7 / EV 合并组”；单车型数量未知，不按份额拆分。,cpsc-9236,unknown,partial
+landmaster.l7,Landmaster,L7,工具,False,landmaster.l-series-group,,,数量只存在于“L3 / L4 / L5 / L7 / EV 合并组”；单车型数量未知，不按份额拆分。,cpsc-9236,unknown,partial
+landmaster.ev,Landmaster,EV,工具,False,landmaster.l-series-group,,,数量只存在于“L3 / L4 / L5 / L7 / EV 合并组”；单车型数量未知，不按份额拆分。,cpsc-9236,unknown,partial
+intimidator.gc1k,Intimidator,GC1K,工具,False,intimidator-mahindra.group,,,数量只存在于“Intimidator / Retriever 多型号合并组”；单车型数量未知，不按份额拆分。,cpsc-9922,unknown,partial
+intimidator.750,Intimidator,750,工具,False,intimidator-mahindra.group,,,数量只存在于“Intimidator / Retriever 多型号合并组”；单车型数量未知，不按份额拆分。,cpsc-9922,unknown,partial
+intimidator.800,Intimidator,800,工具,False,intimidator-mahindra.group,,,数量只存在于“Intimidator / Retriever 多型号合并组”；单车型数量未知，不按份额拆分。,cpsc-9922,unknown,partial
+intimidator.diesel1000,Intimidator,1000 Diesel,工具,False,intimidator-mahindra.group,,,数量只存在于“Intimidator / Retriever 多型号合并组”；单车型数量未知，不按份额拆分。,cpsc-9922,unknown,partial
+mahindra.retriever,Mahindra,Retriever 750 / 1000 Diesel / TGB,工具,False,intimidator-mahindra.group,,,数量只存在于“Intimidator / Retriever 多型号合并组”；单车型数量未知，不按份额拆分。,cpsc-9922,unknown,partial
+hisun.sector250,Hisun,Sector 250,青少年,False,hisun-rk.sector250-group,,,数量只存在于“Sector 250 / RK Performance 250 合并组”；单车型数量未知，不按份额拆分。,cpsc-9187,unknown,partial
+rk.performance250,RK,Performance 250,青少年,False,hisun-rk.sector250-group,,,数量只存在于“Sector 250 / RK Performance 250 合并组”；单车型数量未知，不按份额拆分。,cpsc-9187,unknown,partial
+yamaha.wolverine-x2,Yamaha,Wolverine X2 850 / 1000,多用途,False,,True,,官方目录已发现车型；没有公开、可单独归属的数量输入。,catalog-yamaha,unknown,partial
+yamaha.wolverine-x4,Yamaha,Wolverine X4 850,多用途,False,,True,,官方目录已发现车型；没有公开、可单独归属的数量输入。,catalog-yamaha,unknown,partial
+canam.maverick-r,Can-Am,Maverick R,运动,False,,True,,官方目录已发现车型；没有公开、可单独归属的数量输入。,catalog-canam-ca;catalog-canam-mx,unknown,partial
+canam.maverick-sport,Can-Am,Maverick Sport,运动,False,,True,,官方目录已发现车型；没有公开、可单独归属的数量输入。,catalog-canam-ca,unknown,partial
+canam.maverick-trail,Can-Am,Maverick Trail,运动,False,,True,,官方目录已发现车型；没有公开、可单独归属的数量输入。,catalog-canam-ca,unknown,partial
+canam.defender-hd11,Can-Am,Defender HD11 / XU,工具,False,,True,,官方目录已发现车型；没有公开、可单独归属的数量输入。,catalog-canam-ca;catalog-canam-mx,unknown,partial
+landmaster.n7,Landmaster,N7,工具,False,,True,,官方目录已发现车型；没有公开、可单独归属的数量输入。,catalog-landmaster,unknown,partial
+landmaster.amp,Landmaster,AMP,工具,False,,True,,官方目录已发现车型；没有公开、可单独归属的数量输入。,catalog-landmaster,unknown,partial
+hisun.sector400,Hisun,Sector 400,工具,False,,True,,官方目录已发现车型；没有公开、可单独归属的数量输入。,catalog-hisun,unknown,partial
+hisun.strike250r,Hisun,Strike 250R,青少年,False,,True,,官方目录已发现车型；没有公开、可单独归属的数量输入。,catalog-hisun,unknown,partial
+hisun.strike550r,Hisun,Strike 550R,运动,False,,True,,官方目录已发现车型；没有公开、可单独归属的数量输入。,catalog-hisun,unknown,partial
+massimo.tboss560,Massimo,T-BOSS 560 / 560L / 560X,工具,False,,True,,官方目录已发现车型；没有公开、可单独归属的数量输入。,catalog-massimo,unknown,partial
+massimo.tboss760,Massimo,T-BOSS 760 / 760L,工具,False,,True,,官方目录已发现车型；没有公开、可单独归属的数量输入。,catalog-massimo,unknown,partial
+massimo.tboss900l,Massimo,T-BOSS 900L,工具,False,,True,,官方目录已发现车型；没有公开、可单独归属的数量输入。,catalog-massimo,unknown,partial
+massimo.tboss1000,Massimo,T-BOSS 1000,工具,False,,True,,官方目录已发现车型；没有公开、可单独归属的数量输入。,catalog-massimo,unknown,partial
+massimo.warrior1500xd,Massimo,Warrior 1500 XD,工具,False,,True,,官方目录已发现车型；没有公开、可单独归属的数量输入。,catalog-massimo,unknown,partial
+polaris.xpedition,Polaris,XPEDITION XP / ADV,多用途,False,,True,,官方目录已发现车型；没有公开、可单独归属的数量输入。,catalog-polaris-dom,unknown,partial
+polaris.rzr-pro-r-boost,Polaris,RZR Pro R Boost,运动,False,,True,,官方目录已发现车型；没有公开、可单独归属的数量输入。,catalog-polaris-dom,unknown,partial

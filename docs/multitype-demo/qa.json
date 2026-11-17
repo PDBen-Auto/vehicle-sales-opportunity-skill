@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "status": "pass",
+  "scope": "structure_and_internal_arithmetic_only",
+  "inputSha256": "2276a6b406afe441d9c3ee55492a8a052283ba72e42055b2f4faeb12d0b61922",
+  "recordCount": 168,
+  "seriesCount": 14,
+  "pairedSeries": 13,
+  "exclusions": [
+    {
+      "market": "US",
+      "assetType": "automobile",
+      "metricKind": "retail_sales",
+      "seriesId": "dune.trace",
+      "reason": "incomplete_window",
+      "currentMissing": [
+        "2025-03"
+      ],
+      "baselineMissing": []
+    }
+  ]
+}

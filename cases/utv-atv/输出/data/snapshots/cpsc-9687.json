@@ -1,0 +1,90 @@
+{
+  "RecallID": 9687,
+  "RecallNumber": "23780",
+  "RecallDate": "2023-08-10T00:00:00",
+  "Description": "This recall involves all model year 2021 RZR XP Turbo and RZR Turbo S vehicles. The recalled vehicles were sold in the following colors: black, blue, gray, lime, orange, and sand. The recalled vehicles were sold in two and four-seat configurations. POLARIS is stamped on the front grille and POLARIS and RZR are printed on the sides of the vehicles. The model name is also printed on the side of the chassis. The VIN is located on the vehicle's frame in the left rear wheel well.",
+  "URL": "https://www.cpsc.gov/Recalls/2023/Polaris-Recalls-RZR-XP-Turbo-and-Turbo-S-Recreational-Off-Road-Vehicles-Due-to-Fire-and-Injury-Hazards-Recall-Alert",
+  "Title": "Polaris Recalls RZR XP Turbo and Turbo S Recreational Off-Road Vehicles Due to Fire and Injury Hazards (Recall Alert)",
+  "ConsumerContact": "Polaris at 800-765-2747 from 7 a.m. to 7 p.m. CT Monday through Friday or online at www.polaris.com and click on \"Off Road Recalls\" at the bottom of the page or www.polaris.com/en-us/off-road-recalls/ to check if your vehicle identification number (VIN) is included in any recalls.",
+  "LastPublishDate": "2023-08-10T00:00:00",
+  "Products": [
+    {
+      "Name": "Model Year 2021 RZR XP Turbo and RZR Turbo S Recreational Off-Road Vehicles",
+      "Description": "",
+      "Model": "",
+      "Type": "",
+      "CategoryID": "",
+      "NumberOfUnits": "About 27,300 (In addition, about 660 were sold in Canada) (Some of these vehicles were previously recalled in November 2020 and in December 2021)"
+    }
+  ],
+  "Inconjunctions": [
+    {
+      "URL": "https://wwwapps.tc.gc.ca/Saf-Sec-Sur/7/VRDB-BDRV/search-recherche/detail.aspx?rn=2022519"
+    }
+  ],
+  "Images": [
+    {
+      "URL": "https://www.cpsc.gov/s3fs-public/image4_6.jpg",
+      "Caption": "Recalled Model Year 2021 Polaris RZR Turbo S"
+    },
+    {
+      "URL": "https://www.cpsc.gov/s3fs-public/image3_7.jpg",
+      "Caption": "Recalled Model Year 2021 Polaris RZR Turbo S 4"
+    },
+    {
+      "URL": "https://www.cpsc.gov/s3fs-public/image6_4.jpg",
+      "Caption": "Recalled Model Year 2021 Polaris RZR XP Turbo"
+    },
+    {
+      "URL": "https://www.cpsc.gov/s3fs-public/image5_5.jpg",
+      "Caption": "Recalled Model Year 2021 Polaris RZR XP Turbo 4"
+    },
+    {
+      "URL": "https://www.cpsc.gov/s3fs-public/image1_4.jpg",
+      "Caption": "Recalled Polaris RZR Off-Road Vehicle VIN Location"
+    }
+  ],
+  "Injuries": [
+    {
+      "Name": "The firm has received 206 reports of clutch failures, including reports of six fires, two injuries, and one vehicle tip-over."
+    }
+  ],
+  "Manufacturers": [
+    {
+      "Name": "Polaris Industries Inc., of Medina, Minnesota",
+      "CompanyID": ""
+    }
+  ],
+  "Retailers": [
+    {
+      "Name": "Polaris dealers nationwide from December 2019 through September 2022 for between $21,000 and $32,000.",
+      "CompanyID": ""
+    }
+  ],
+  "Importers": [],
+  "Distributors": [],
+  "SoldAtLabel": null,
+  "ManufacturerCountries": [
+    {
+      "Country": "Mexico"
+    }
+  ],
+  "ProductUPCs": [],
+  "Hazards": [
+    {
+      "Name": "The vehicle's clutch can fracture, causing fragments to be ejected from the vehicle, posing fire and injury hazards.",
+      "HazardType": "",
+      "HazardTypeID": ""
+    }
+  ],
+  "Remedies": [
+    {
+      "Name": "Consumers should immediately stop using the recalled vehicles and contact Polaris or an authorized Polaris dealer to schedule a free repair. The dealer will replace the primary (drive) clutch free of charge. Polaris has notified consumers to stop riding the vehicles and is notifying all dealers and registered owners directly to provide more details about the repair."
+    }
+  ],
+  "RemedyOptions": [
+    {
+      "Option": "Repair"
+    }
+  ]
+}

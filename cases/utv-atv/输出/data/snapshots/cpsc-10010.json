@@ -1,0 +1,103 @@
+{
+  "RecallID": 10010,
+  "RecallNumber": "24312",
+  "RecallDate": "2024-07-25T00:00:00",
+  "Description": "This recall involves 2024 Mule PRO-FX™ 1000, PRO-FXR™1000 and PRO-FXT™ 1000 utility vehicles. The four wheel, off-highway utility vehicles were sold in Metallic Sierra Blue, Metallic Onyx Black, Firecracker Red, Ice Gray, TRUETIMBER® Strata, Metallic Titanium, and Metallic Stardust White colors. The Vehicle Identification Number (VIN) is located on the forward frame rail below the seat. The model name and model code are printed on the owner's manual. Model Numbers Model Name VIN UPC / Date Codes Assembly Date Retail Price KAT1000ARFNN / ARFNL MULE PRO-FXT 1000 LE JKAATCA12RB500001 5/10/2023 18799 KAF1000LRFNN/LRFNL MULE PRO-FX 1000 HD Edition JKAAFCL17RB500001 5/16/2023 16799 KAF1000MRFNN/MRFNL MULE PRO-FXR 1000 JKAAFCM19RB500001 5/23/2023 15099 KAF1000NRFNN/NRFNL MULE PRO-FXR 1000 LE JKAAFCN10RB500001 5/23/2023 16199 KAT1000BRFNN/BRFNL MULE PRO-FXT 1000 LE Camo JKAATCB14RB500001 5/10/2023 18899 KAT1000CRFNN/CRFNL MULE PRO-FXT 1000 LE Ranch Edition JKAATCC16RB500001 5/9/2023 20399 KAT1000DRFNN/DRFNL MULE PRO-FXT 1000 Platinum Ranch Edition JKAATCD18RB500001 5/9/2023 21899",
+  "URL": "https://www.cpsc.gov/Recalls/2024/Kawasaki-USA-Recalls-Mule-PRO-1000-Off-Highway-Utility-Vehicles-Due-to-Fire-Hazard",
+  "Title": "Kawasaki USA Recalls Mule PRO 1000 Off-Highway Utility Vehicles Due to Fire Hazard",
+  "ConsumerContact": "Kawasaki toll-free at 866-802-9381 from 7 a.m. to 4 p.m. PT Monday through Friday, or online at www.kawasaki.com/en-us/owner-center/recalls or online at www.kawasaki.com and click on \"Recalls\" for more information.",
+  "LastPublishDate": "2024-07-25T00:00:00",
+  "Products": [
+    {
+      "Name": "2024 Kawasaki Mule PRO 1000 Off-Highway Utility Vehicles",
+      "Description": "",
+      "Model": "",
+      "Type": "",
+      "CategoryID": "",
+      "NumberOfUnits": "About 19,100"
+    }
+  ],
+  "Inconjunctions": [],
+  "Images": [
+    {
+      "URL": "https://www.cpsc.gov/s3fs-public/Mule-Pro-1.png",
+      "Caption": "Recalled MULE PRO-FXT 1000 LE in Metallic Sierra Blue"
+    },
+    {
+      "URL": "https://www.cpsc.gov/s3fs-public/Mule-Pro-2.png",
+      "Caption": "Recalled MULE PRO-FXT 1000 LE in Metallic Onyx Black"
+    },
+    {
+      "URL": "https://www.cpsc.gov/s3fs-public/Mule-Pro-3.png",
+      "Caption": "Recalled MULE PRO-FX 1000 HD Edition in Firecracker Red"
+    },
+    {
+      "URL": "https://www.cpsc.gov/s3fs-public/Mule-Pro-4.png",
+      "Caption": "Recalled MULE PRO-FXR 1000 in Metallic Sierra Blue"
+    },
+    {
+      "URL": "https://www.cpsc.gov/s3fs-public/Mule-Pro-5.png",
+      "Caption": "Recalled MULE PRO-FXR 1000 LE in Ice Gray"
+    },
+    {
+      "URL": "https://www.cpsc.gov/s3fs-public/Mule-Pro-6.png",
+      "Caption": "Recalled MULE PRO-FXT 1000 LE Camo in TRUETIMBER Strata"
+    },
+    {
+      "URL": "https://www.cpsc.gov/s3fs-public/Mule-Pro-7.png",
+      "Caption": "Recalled MULE PRO-FXT 1000 LE Ranch Edition in Metallic Titanium"
+    },
+    {
+      "URL": "https://www.cpsc.gov/s3fs-public/Mule-Pro-8.png",
+      "Caption": "Recalled MULE PRO-FXT 1000 Platinum Ranch Edition in Metallic Stardust White"
+    }
+  ],
+  "Injuries": [
+    {
+      "Name": "Kawasaki has received three reports of fires occurring during engine start up. No injuries have been reported."
+    }
+  ],
+  "Manufacturers": [
+    {
+      "Name": "Kawasaki Motors Manufacturing Corp., U.S.A., of Lincoln, Neb.",
+      "CompanyID": ""
+    }
+  ],
+  "Retailers": [
+    {
+      "Name": "Kawasaki dealers nationwide from June 2023 through April 2024 for between $15,100 and $21,900.",
+      "CompanyID": ""
+    }
+  ],
+  "Importers": [],
+  "Distributors": [
+    {
+      "Name": "Kawasaki Motors Corp. U.S.A., of Foothill Ranch, Calif.",
+      "CompanyID": ""
+    }
+  ],
+  "SoldAtLabel": null,
+  "ManufacturerCountries": [
+    {
+      "Country": "United States"
+    }
+  ],
+  "ProductUPCs": [],
+  "Hazards": [
+    {
+      "Name": "When starting the engine, improper combustion can occur, posing a fire hazard.",
+      "HazardType": "",
+      "HazardTypeID": ""
+    }
+  ],
+  "Remedies": [
+    {
+      "Name": "Consumers should immediately stop using the recalled utility vehicles and contact a Kawasaki dealer to schedule a free repair. A technician will reprogram the ECU and install a sub-harness on the vehicle. Kawasaki is contacting all known purchasers directly."
+    }
+  ],
+  "RemedyOptions": [
+    {
+      "Option": "Repair"
+    }
+  ]
+}

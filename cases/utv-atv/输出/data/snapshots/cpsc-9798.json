@@ -1,0 +1,86 @@
+{
+  "RecallID": 9798,
+  "RecallNumber": "24056",
+  "RecallDate": "2023-12-14T00:00:00",
+  "Description": "This recall involves certain VINs of Model Year 2021-2024 RZR 200 youth vehicles. The vehicles were sold in the following colors: blue, gray and white. POLARIS is stamped on the front grille and POLARIS and RZR are printed on the sides of the vehicles. The model name is also printed on the side of the chassis. The VIN is stamped on a plate riveted to the upper frame rail visible from the right rear wheel well.",
+  "URL": "https://www.cpsc.gov/Recalls/2024/Polaris-Industries-Recalls-RZR-200-Youth-Recreational-Off-Road-Vehicles-ROVs-Due-to-Crash-Hazard-and-Risk-of-Serious-Injury",
+  "Title": "Polaris Industries Recalls RZR 200 Youth Recreational Off-Road Vehicles (ROVs) Due to Crash Hazard and Risk of Serious Injury",
+  "ConsumerContact": "Polaris at 800-765-2747 from 7 a.m. to 7 p.m. CT Monday through Friday or online at www.polaris.com and click on \"Product Safety News\" located under the \"Safety Column\" at the bottom of the page or www.polaris.com/en-us/recalls to check if your vehicle identification number (VIN) is included in any recalls. Consumers can contact Polaris' owner connections team at Owner.Connections@polaris.com or via an online forum accessible at www.polaris.com/en-us/off-road/owner-resources/help-center/email.",
+  "LastPublishDate": "2023-12-14T00:00:00",
+  "Products": [
+    {
+      "Name": "Model Year 2021-2024 RZR 200 Youth ROVs",
+      "Description": "",
+      "Model": "",
+      "Type": "",
+      "CategoryID": "",
+      "NumberOfUnits": "About 19,000 (In addition, about 950 were sold in Canada)"
+    }
+  ],
+  "Inconjunctions": [],
+  "Images": [
+    {
+      "URL": "https://www.cpsc.gov/s3fs-public/RZR-200-2021.png",
+      "Caption": "Recalled Model Year 2021 Polaris RZR 200"
+    },
+    {
+      "URL": "https://www.cpsc.gov/s3fs-public/RZR-200-2022.png",
+      "Caption": "Recalled Model Year 2022 Polaris RZR 200"
+    },
+    {
+      "URL": "https://www.cpsc.gov/s3fs-public/RZR-200-2023.png",
+      "Caption": "Recalled Model Year 2023 Polaris RZR 200"
+    },
+    {
+      "URL": "https://www.cpsc.gov/s3fs-public/RZR-200-2024.png",
+      "Caption": "Recalled Model Year 2024 Polaris RZR 200"
+    },
+    {
+      "URL": "https://www.cpsc.gov/s3fs-public/RZR-200-VIN.png",
+      "Caption": "Recalled Polaris RZR 200 VIN Location"
+    }
+  ],
+  "Injuries": [
+    {
+      "Name": "Polaris has received 32 reports of the steering system locking, including two reports of crashes and two reports of rollover/tip over, which resulted in two injuries involving abrasions."
+    }
+  ],
+  "Manufacturers": [],
+  "Retailers": [
+    {
+      "Name": "Polaris dealers nationwide from May 2021 through September 2023 for between $6,300 and $7,500.",
+      "CompanyID": ""
+    }
+  ],
+  "Importers": [
+    {
+      "Name": "Polaris Industries Inc., of Medina, Minnesota",
+      "CompanyID": ""
+    }
+  ],
+  "Distributors": [],
+  "SoldAtLabel": null,
+  "ManufacturerCountries": [
+    {
+      "Country": "China"
+    }
+  ],
+  "ProductUPCs": [],
+  "Hazards": [
+    {
+      "Name": "The steering system can lock up while in use, posing a crash hazard and risk of serious injury to children.",
+      "HazardType": "",
+      "HazardTypeID": ""
+    }
+  ],
+  "Remedies": [
+    {
+      "Name": "Consumers should immediately stop using the recalled vehicles and contact an authorized Polaris dealer to schedule a free repair to replace the steering rack assembly. Polaris has notified consumers to stop riding the vehicles and is contacting registered owners directly."
+    }
+  ],
+  "RemedyOptions": [
+    {
+      "Option": "Repair"
+    }
+  ]
+}

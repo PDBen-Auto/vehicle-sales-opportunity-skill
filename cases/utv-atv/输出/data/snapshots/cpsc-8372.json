@@ -1,0 +1,87 @@
+{
+  "RecallID": 8372,
+  "RecallNumber": "18757",
+  "RecallDate": "2018-08-08T00:00:00",
+  "Description": "This recall involves model year 2015 through 2018 Bobcat 3400 and 3400XL gas engine-equipped utility vehicles manufactured by Polaris Industries. The recalled utility vehicles are white and black with orange decals and have one or two rows of seats and a rear box. \"Bobcat\" is printed on the hood of the utility vehicle and \"3400\" or \"3400XL\" is printed on the rear box. The model and vehicle identification number (VIN #) can be found on a label under the seat and storage bin on the passenger side. The following models and VIN ranges are being recalled: Year Model VIN Range 2015 3400 4X GAS B3FL11001 through B3FL11911 3400 4X GAS DLX B3FN11001 through B3FN11286 2016 3400 4X GAS B3FL12001 through B3FL12803 3400 4X GAS DLX B3FN12001 through B3FN12245 2017 3400 4X GAS B3FL17001 through B3FL17580 3400 XL GAS B3FN17001 through B3FN17124 2018 3400 4X GAS B3FL18001 through B3FL18097 3400 XL GAS B3FN18001 through B3FN18065",
+  "URL": "https://www.cpsc.gov/Recalls/2018/Bobcat-Company-Recalls-Utility-Vehicles-Due-To-Burn-and-Fire-Hazards-Recall-Alert",
+  "Title": "Bobcat Company Recalls Utility Vehicles Due To Burn and Fire Hazards (Recall Alert)",
+  "ConsumerContact": "Bobcat online at www.bobcat.com and click on the Find a Dealer link at the top of the page, or at 800-743-4340 from 7:30 a.m. to 4:30 p.m. CT Monday through Friday for more information.",
+  "LastPublishDate": "2018-08-08T00:00:00",
+  "Products": [
+    {
+      "Name": "Bobcat 3400 and 3400XL utility vehicles",
+      "Description": "",
+      "Model": "",
+      "Type": "",
+      "CategoryID": "",
+      "NumberOfUnits": "About 2,700"
+    }
+  ],
+  "Inconjunctions": [],
+  "Images": [
+    {
+      "URL": "https://www.cpsc.gov/s3fs-public/1104_1.png",
+      "Caption": "Recalled Bobcat 3400 utility vehicle"
+    },
+    {
+      "URL": "https://www.cpsc.gov/s3fs-public/1104_2.png",
+      "Caption": "Recalled Bobcat 3400XL utility vehicle"
+    },
+    {
+      "URL": "https://www.cpsc.gov/s3fs-public/pic5_8.jpg",
+      "Caption": "Model and VIN# location"
+    },
+    {
+      "URL": "https://www.cpsc.gov/s3fs-public/pic6_4.jpg",
+      "Caption": "Model and VIN# location"
+    }
+  ],
+  "Injuries": [
+    {
+      "Name": "Bobcat has received seven reports of cracked exhaust pipes. No injuries or fires have been reported."
+    }
+  ],
+  "Manufacturers": [
+    {
+      "Name": "Polaris Industries Inc., of Medina, Minn.",
+      "CompanyID": ""
+    }
+  ],
+  "Retailers": [
+    {
+      "Name": "Bobcat dealers nationwide from August 2014 through July 2018 for between $10,000 and $15,000.",
+      "CompanyID": ""
+    }
+  ],
+  "Importers": [],
+  "Distributors": [
+    {
+      "Name": "Bobcat Company, of West Fargo, N.D.",
+      "CompanyID": ""
+    }
+  ],
+  "SoldAtLabel": null,
+  "ManufacturerCountries": [
+    {
+      "Country": "United States"
+    }
+  ],
+  "ProductUPCs": [],
+  "Hazards": [
+    {
+      "Name": "The utility vehicle's exhaust header pipe can crack, posing burn and fire hazards.",
+      "HazardType": "",
+      "HazardTypeID": ""
+    }
+  ],
+  "Remedies": [
+    {
+      "Name": "Consumers should contact an authorized Bobcat dealer to schedule a free repair. Bobcat is contacting all known purchasers directly."
+    }
+  ],
+  "RemedyOptions": [
+    {
+      "Option": "Repair"
+    }
+  ]
+}

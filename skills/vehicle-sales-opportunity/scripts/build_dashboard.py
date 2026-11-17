@@ -15,7 +15,10 @@ from pathlib import Path
 
 SKILL_ROOT = Path(__file__).resolve().parents[1]
 TOP_FIELDS = {"schemaVersion", "title", "asOfDate", "synthetic", "coverage", "comparison", "thresholds", "records"}
-RECORD_FIELDS = {"market", "seriesId", "brand", "model", "segment", "seriesScope", "year", "month", "units", "status"}
+BASE_RECORD_FIELDS = {"market", "seriesId", "brand", "model", "segment", "seriesScope", "year", "month", "units", "status"}
+RECORD_FIELDS = BASE_RECORD_FIELDS | {"assetType", "metricKind"}
+ASSET_TYPES = {"automobile", "motorcycle", "utv", "atv", "boat"}
+METRIC_KINDS = {"retail_sales", "wholesale", "deliveries", "new_registrations"}
 DEFAULT_THRESHOLDS = {"minCurrentUnits": 10000, "minAbsoluteChange": 1000, "rate": 0.1}
 
 
@@ -70,7 +73,9 @@ def validate(data):
     seen, metadata = set(), {}
     for n, row in enumerate(records):
         label = f"record {n + 1}"
-        plain_object(row, RECORD_FIELDS, RECORD_FIELDS, label)
+        plain_object(row, RECORD_FIELDS, BASE_RECORD_FIELDS, label)
+        require(row.get("assetType", "automobile") in ASSET_TYPES, f"{label}: invalid assetType")
+        require(row.get("metricKind", "retail_sales") in METRIC_KINDS, f"{label}: invalid metricKind")
         for key in ("market", "seriesId", "brand", "model", "segment"):
             text_field(row[key], f"{label}.{key}")
         require(bool(re.fullmatch(r"[A-Z]{2}", row["market"])), f"{label}: invalid market")
@@ -85,10 +90,10 @@ def validate(data):
         else:
             require(row["units"] is None, f"{label}: unknown units must be null")
             require(row["status"] != "unreported_future" or not closed, f"{label}: future status on a closed month")
-        key = row["market"], row["seriesId"], row["year"], row["month"]
+        key = row["market"], row.get("assetType", "automobile"), row.get("metricKind", "retail_sales"), row["seriesId"], row["year"], row["month"]
         require(key not in seen, f"{label}: duplicate market-series-month")
         seen.add(key)
-        series_key = key[:2]
+        series_key = key[:4]
         meta = tuple(row[k] for k in ("brand", "model", "segment", "seriesScope"))
         require(series_key not in metadata or metadata[series_key] == meta, f"{label}: conflicting series metadata")
         metadata[series_key] = meta
@@ -114,7 +119,7 @@ def candidate(row, thresholds):
         signal, question = "decline_review", "区分供给、生命周期、竞争、价格与统计变化，不能仅从销量断言原因。"
     else:
         signal, question = "watch", "保留观察；如有具体业务问题再设计验证，不凭小幅变化做商业承诺。"
-    return {"id": f"{row['market']}:{row['seriesId']}", "market": row["market"], "seriesId": row["seriesId"], "signal": signal,
+    return {"id": f"{row['market']}:{row['assetType']}:{row['metricKind']}:{row['seriesId']}", "market": row["market"], "assetType": row["assetType"], "metricKind": row["metricKind"], "seriesId": row["seriesId"], "signal": signal,
             "status": "candidate_only", "facts": {k: row[k] for k in ("currentUnits", "baselineUnits", "delta", "yoy", "reason")},
             "hypothesis": "是否存在值得验证的细分使用场景；尚未证实。", "nextStep": question,
             "verificationQuestions": ["谁遇到什么问题，频率与严重程度如何？", "具体代际/配置的接口和尺寸是否适配？", "现有竞品、渠道需求及单位经济能否支持小规模验证？"],
@@ -125,9 +130,9 @@ def analyze(data, input_hash):
     current, baseline, thresholds = validate(data)
     groups = defaultdict(list)
     for record in data["records"]:
-        groups[(record["market"], record["seriesId"])].append(record)
+        groups[(record["market"], record.get("assetType", "automobile"), record.get("metricKind", "retail_sales"), record["seriesId"])].append(record)
     rows = []
-    for (market, series_id), records in sorted(groups.items()):
+    for (market, asset_type, metric_kind, series_id), records in sorted(groups.items()):
         values = {(r["year"], r["month"]): r for r in records}
         c, b = window_summary(current, values), window_summary(baseline, values)
         comparable = c["units"] is not None and b["units"] is not None
@@ -135,32 +140,33 @@ def analyze(data, input_hash):
         rate = delta / b["units"] if comparable and b["units"] != 0 else None
         reason = ("zero_base" if b["units"] == 0 else "comparable") if comparable else "incomplete_window"
         row = {k: records[0][k] for k in ("brand", "model", "segment", "seriesScope")}
-        row |= {"market": market, "seriesId": series_id, "current": c, "baseline": b, "currentUnits": c["units"], "baselineUnits": b["units"], "delta": delta, "yoy": rate, "comparable": comparable, "reason": reason,
+        row |= {"market": market, "assetType": asset_type, "metricKind": metric_kind, "seriesId": series_id, "current": c, "baseline": b, "currentUnits": c["units"], "baselineUnits": b["units"], "delta": delta, "yoy": rate, "comparable": comparable, "reason": reason,
                 "monthly": [{"year": y, "month": m, "units": r["units"], "status": r["status"]} for (y, m), r in sorted(values.items())]}
         row["signal"] = candidate(row, thresholds)["signal"]
         rows.append(row)
     segments = []
-    for market, segment in sorted({(r["market"], r["segment"]) for r in rows}):
-        pair = [r for r in rows if (r["market"], r["segment"]) == (market, segment) and r["comparable"]]
+    for market, asset_type, metric_kind, segment in sorted({(r["market"], r["assetType"], r["metricKind"], r["segment"]) for r in rows}):
+        pair = [r for r in rows if (r["market"], r["assetType"], r["metricKind"], r["segment"]) == (market, asset_type, metric_kind, segment) and r["comparable"]]
         a, b = sum(r["currentUnits"] for r in pair), sum(r["baselineUnits"] for r in pair)
-        segments.append({"market": market, "segment": segment, "pairedSeries": len(pair), "currentUnits": a if pair else None, "baselineUnits": b if pair else None, "delta": a - b if pair else None, "yoy": (a - b) / b if b else None})
-    analysis = {"schemaVersion": 1, "title": data["title"], "asOfDate": data["asOfDate"], "synthetic": data["synthetic"], "coverage": data["coverage"], "unit": "vehicles", "comparison": data["comparison"], "thresholds": thresholds, "inputSha256": input_hash, "series": rows, "segments": segments}
+        segments.append({"market": market, "assetType": asset_type, "metricKind": metric_kind, "segment": segment, "pairedSeries": len(pair), "currentUnits": a if pair else None, "baselineUnits": b if pair else None, "delta": a - b if pair else None, "yoy": (a - b) / b if b else None})
+    analysis = {"schemaVersion": 1, "title": data["title"], "asOfDate": data["asOfDate"], "synthetic": data["synthetic"], "coverage": data["coverage"], "unit": "asset_units", "comparison": data["comparison"], "thresholds": thresholds, "inputSha256": input_hash, "series": rows, "segments": segments}
     opportunities = {"schemaVersion": 1, "inputSha256": input_hash, "status": "candidate_only", "items": [candidate(r, thresholds) for r in rows]}
-    qa = {"schemaVersion": 1, "status": "pass", "scope": "structure_and_internal_arithmetic_only", "inputSha256": input_hash, "recordCount": len(data["records"]), "seriesCount": len(rows), "pairedSeries": sum(r["comparable"] for r in rows), "exclusions": [{"market": r["market"], "seriesId": r["seriesId"], "reason": r["reason"], "currentMissing": r["current"]["missingMonths"], "baselineMissing": r["baseline"]["missingMonths"]} for r in rows if not r["comparable"]]}
+    qa = {"schemaVersion": 1, "status": "pass", "scope": "structure_and_internal_arithmetic_only", "inputSha256": input_hash, "recordCount": len(data["records"]), "seriesCount": len(rows), "pairedSeries": sum(r["comparable"] for r in rows), "exclusions": [{"market": r["market"], "assetType": r["assetType"], "metricKind": r["metricKind"], "seriesId": r["seriesId"], "reason": r["reason"], "currentMissing": r["current"]["missingMonths"], "baselineMissing": r["baseline"]["missingMonths"]} for r in rows if not r["comparable"]]}
     return analysis, opportunities, qa
 
 
 def markdown_report(analysis, opportunities):
     comp = analysis["comparison"]
-    lines = ["# 车辆销量分析", "", "**合成演示：车型与数字均为虚构。**" if analysis["synthetic"] else "用户提供数据；请按授权范围保存及共享。", "", f"窗口：{comp['currentStart']} 至 {comp['currentEnd']}；基期：{comp['baselineStart']} 至 {comp['baselineEnd']}。单位：辆。", "", "口径：配对样本；各国分别统计。销量不是保有量。脚本QA不证明数据真实性或市场完整性。", ""]
-    for market in sorted({r["market"] for r in analysis["series"]}):
-        pair = [r for r in analysis["series"] if r["market"] == market and r["comparable"]]
+    lines = ["# 载具数量分析", "", "**合成演示：型号与数字均为虚构。**" if analysis["synthetic"] else "用户提供数据；请按授权范围保存及共享。", "", f"窗口：{comp['currentStart']} 至 {comp['currentEnd']}；基期：{comp['baselineStart']} 至 {comp['baselineEnd']}。单位：船舶为艘，其他为台。", "", "口径：配对样本；各国、载具类型与指标分别统计。流量不是保有量。脚本QA不证明数据真实性或市场完整性。", ""]
+    for market, asset_type, metric_kind in sorted({(r["market"], r["assetType"], r["metricKind"]) for r in analysis["series"]}):
+        label = f"{market} / {asset_type} / {metric_kind}"
+        pair = [r for r in analysis["series"] if (r["market"], r["assetType"], r["metricKind"]) == (market, asset_type, metric_kind) and r["comparable"]]
         a, b = sum(r["currentUnits"] for r in pair), sum(r["baselineUnits"] for r in pair)
         if not pair:
-            lines.append(f"- {market}：无完整配对样本。")
+            lines.append(f"- {label}：无完整配对样本。")
             continue
         growth = f"{(a-b)/b:+.1%}" if b else "未知（零基期）"
-        lines.append(f"- {market}：{len(pair)} 个可比车系；{b:,} → {a:,} 辆，变化 {a-b:+,} 辆，同比 {growth}。")
+        lines.append(f"- {label}：{len(pair)} 个可比系列；{b:,} → {a:,} 台/艘，变化 {a-b:+,} 台/艘，同比 {growth}。")
     lines += ["", "## 逐项研究入口", "", "以下仅为候选，尚未完成真实需求、适配或经济验证。", ""]
     for item in opportunities["items"]:
         # Input-derived names are inline code, not executable Markdown/HTML.

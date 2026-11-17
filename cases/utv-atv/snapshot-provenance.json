@@ -1,0 +1,711 @@
+{
+  "schemaVersion": 1,
+  "frozenAt": "2026-11-17T05:43:57.481256+00:00",
+  "sourceConversationTitle": "查找UTV和ATV销量渠道",
+  "sourceConversationId": "01a1d30f-d97a-7532-9cae-759ea260d0fa",
+  "sourceTurnId": "01a1e795-2615-7622-ab74-2ce3109d8703",
+  "completedSnapshot": "124 entries / 105 sources / 3053 data checks / 37 original browser checks",
+  "newerTurn": "year-and-variant-and-image-refinement in progress; not represented as completed",
+  "files": [
+    {
+      "originalRelative": "输出/data/annual_sales.csv",
+      "publishedRelative": "cases/utv-atv/输出/data/annual_sales.csv",
+      "sha256": "b64baffdc4231925a46f25fe171a3d85a7bb8c0d0de049d0b745db5261f215c6"
+    },
+    {
+      "originalRelative": "输出/data/cohort_components.csv",
+      "publishedRelative": "cases/utv-atv/输出/data/cohort_components.csv",
+      "sha256": "2a01d12d03faa86a10ab5c08840faf308287a3bf306090657aaed27b44720ea6"
+    },
+    {
+      "originalRelative": "输出/data/cohort_scenarios.csv",
+      "publishedRelative": "cases/utv-atv/输出/data/cohort_scenarios.csv",
+      "sha256": "af9a20625d5da258e425394945faf4977625140f74b04d5cb0ebbd00acac30eb"
+    },
+    {
+      "originalRelative": "输出/data/country_controls.csv",
+      "publishedRelative": "cases/utv-atv/输出/data/country_controls.csv",
+      "sha256": "f79c95799a903db03cc2cca3839192161e1d596a818e47e4455e056064abc161"
+    },
+    {
+      "originalRelative": "输出/data/dataset.json",
+      "publishedRelative": "cases/utv-atv/输出/data/dataset.json",
+      "sha256": "2e841c1473887840b3cca08ef017ffa52338e060b2678fe20f8e553302dc7921"
+    },
+    {
+      "originalRelative": "输出/data/delivery_qa.json",
+      "publishedRelative": "cases/utv-atv/输出/data/delivery_qa.json",
+      "sha256": "e8cb71ccfcc68dadc5d03e008d748df2748822cefabb36811071f95031060fd1"
+    },
+    {
+      "originalRelative": "输出/data/evidence_pool.csv",
+      "publishedRelative": "cases/utv-atv/输出/data/evidence_pool.csv",
+      "sha256": "cfce5fb3a1641c014e286b0ceb54c19140185b6866db942f4e0c1f96891938a9"
+    },
+    {
+      "originalRelative": "输出/data/known_gaps.csv",
+      "publishedRelative": "cases/utv-atv/输出/data/known_gaps.csv",
+      "sha256": "7a47fcfae8355aae2d391bb5c32361bec633abaff038df383bc428baa3c1b683"
+    },
+    {
+      "originalRelative": "输出/data/market_coverage.csv",
+      "publishedRelative": "cases/utv-atv/输出/data/market_coverage.csv",
+      "sha256": "b919a2d72027cf7cf5e979c45cb29f2f605d21d29a6ec8f7cf65fc40e1d72f1f"
+    },
+    {
+      "originalRelative": "输出/data/market_universe.csv",
+      "publishedRelative": "cases/utv-atv/输出/data/market_universe.csv",
+      "sha256": "621adb4a7d9b6a5cf244f276a3ba5695f86342ec691009ef685427b773852149"
+    },
+    {
+      "originalRelative": "输出/data/methodology.json",
+      "publishedRelative": "cases/utv-atv/输出/data/methodology.json",
+      "sha256": "f06cbf4f9a7157a43e87a99fa40d7ecfa298dc46451d0e33617e7723036166f6"
+    },
+    {
+      "originalRelative": "输出/data/model_catalog.csv",
+      "publishedRelative": "cases/utv-atv/输出/data/model_catalog.csv",
+      "sha256": "5ee7f4d4c75dbd47c2c96a966671678dc9902634921de6b891763449cfd51587"
+    },
+    {
+      "originalRelative": "输出/data/model_master.csv",
+      "publishedRelative": "cases/utv-atv/输出/data/model_master.csv",
+      "sha256": "24ba118ea1b67e9fd24e93142563ec1992a43f26489b1d2cab60541ff39f56de"
+    },
+    {
+      "originalRelative": "输出/data/news_coverage.csv",
+      "publishedRelative": "cases/utv-atv/输出/data/news_coverage.csv",
+      "sha256": "be25c29d0c72f30b232830ffed25ba0a12a3d191afe78a102a1979c26e9e9489"
+    },
+    {
+      "originalRelative": "输出/data/news_events.csv",
+      "publishedRelative": "cases/utv-atv/输出/data/news_events.csv",
+      "sha256": "3219f1cb64aa53ea07e643201430f14d6231c80cde8f7eb84e4c7d206f9fb421"
+    },
+    {
+      "originalRelative": "输出/data/qa_report.json",
+      "publishedRelative": "cases/utv-atv/输出/data/qa_report.json",
+      "sha256": "c1a4722bf99b601817f45cc20605f0408bffd6c5c81965cfd545df99d30319cd"
+    },
+    {
+      "originalRelative": "输出/data/scenario_qa_report.json",
+      "publishedRelative": "cases/utv-atv/输出/data/scenario_qa_report.json",
+      "sha256": "c0a589570d2784bf2389f47f37fb1491d1b7f9dbdf8328bca53d5ab0fc1b7b2e"
+    },
+    {
+      "originalRelative": "输出/data/snapshots/catalog-canam-ca.html",
+      "publishedRelative": "cases/utv-atv/输出/data/snapshots/catalog-canam-ca.html",
+      "sha256": "841a78a3512fe664d7652c796974155c152c5bc0ac9085a1f64020ac9ba8099e"
+    },
+    {
+      "originalRelative": "输出/data/snapshots/catalog-canam-mx.html",
+      "publishedRelative": "cases/utv-atv/输出/data/snapshots/catalog-canam-mx.html",
+      "sha256": "3d8ee229e7daefdf4f8fe51913709cf66b2a33105e2fad508141825958e642ca"
+    },
+    {
+      "originalRelative": "输出/data/snapshots/catalog-hisun.html",
+      "publishedRelative": "cases/utv-atv/输出/data/snapshots/catalog-hisun.html",
+      "sha256": "47197bacd8a6f522a2fa452697570522ca91e588825ab597c7b656e9118c5084"
+    },
+    {
+      "originalRelative": "输出/data/snapshots/catalog-landmaster.html",
+      "publishedRelative": "cases/utv-atv/输出/data/snapshots/catalog-landmaster.html",
+      "sha256": "469b2b1364bffab1dd9eeec175a503a62cd859cb32ab35b055af51f1f885ddec"
+    },
+    {
+      "originalRelative": "输出/data/snapshots/catalog-massimo.html",
+      "publishedRelative": "cases/utv-atv/输出/data/snapshots/catalog-massimo.html",
+      "sha256": "093e54954c7e658ac1f666f962a192d3ceb4c495ab534588807757da5f75dcbf"
+    },
+    {
+      "originalRelative": "输出/data/snapshots/catalog-polaris-dom.json",
+      "publishedRelative": "cases/utv-atv/输出/data/snapshots/catalog-polaris-dom.json",
+      "sha256": "a15ba8d66161feddac54b092d0f69a3ebc3166109f153701d91afd2f7f99319b"
+    },
+    {
+      "originalRelative": "输出/data/snapshots/catalog-yamaha.html",
+      "publishedRelative": "cases/utv-atv/输出/data/snapshots/catalog-yamaha.html",
+      "sha256": "f7f7ddc88227f77549fd79f72459b0828cd065c21e5887cbd04920ca4b2edcc9"
+    },
+    {
+      "originalRelative": "输出/data/snapshots/cpsc-10005.json",
+      "publishedRelative": "cases/utv-atv/输出/data/snapshots/cpsc-10005.json",
+      "sha256": "0ee78c568fcf766edc63cd28683c0346130d39b0be85aa6c9c100d42116644e4"
+    },
+    {
+      "originalRelative": "输出/data/snapshots/cpsc-10010.json",
+      "publishedRelative": "cases/utv-atv/输出/data/snapshots/cpsc-10010.json",
+      "sha256": "7fa755713df9b0c0e2c99ee988c03130d8dc7e3c227132e8aecbecb91b29b87e"
+    },
+    {
+      "originalRelative": "输出/data/snapshots/cpsc-10058.json",
+      "publishedRelative": "cases/utv-atv/输出/data/snapshots/cpsc-10058.json",
+      "sha256": "099827725783a0a5d258f539c65e6518c9cbec897d5c20d88c6e42e6a60734c6"
+    },
+    {
+      "originalRelative": "输出/data/snapshots/cpsc-10070.json",
+      "publishedRelative": "cases/utv-atv/输出/data/snapshots/cpsc-10070.json",
+      "sha256": "3c14f78d31f700b4ce3dc6b7c567f0c208483c75192007646ff33eed5b69caf9"
+    },
+    {
+      "originalRelative": "输出/data/snapshots/cpsc-10106.json",
+      "publishedRelative": "cases/utv-atv/输出/data/snapshots/cpsc-10106.json",
+      "sha256": "cab0b47f8cd539e9fb07f7223ecc42e0d17ca64b987e0b302a2c247d4fdad819"
+    },
+    {
+      "originalRelative": "输出/data/snapshots/cpsc-10127.json",
+      "publishedRelative": "cases/utv-atv/输出/data/snapshots/cpsc-10127.json",
+      "sha256": "66b5393261605a96f34ca8afa3b333eb7d13d2d85602b65fe4ac165406cbd439"
+    },
+    {
+      "originalRelative": "输出/data/snapshots/cpsc-10175.json",
+      "publishedRelative": "cases/utv-atv/输出/data/snapshots/cpsc-10175.json",
+      "sha256": "ac88e664518068c274d2dd9d544b45bd4bdb9584ec48796a07b9e35458168ecc"
+    },
+    {
+      "originalRelative": "输出/data/snapshots/cpsc-10224.json",
+      "publishedRelative": "cases/utv-atv/输出/data/snapshots/cpsc-10224.json",
+      "sha256": "b8951208ad320900fab3e5e7df9ba651bd2974c4ef67d4761791781dcd093469"
+    },
+    {
+      "originalRelative": "输出/data/snapshots/cpsc-10259.json",
+      "publishedRelative": "cases/utv-atv/输出/data/snapshots/cpsc-10259.json",
+      "sha256": "ff23138d306ab5b0fbcf2655b8f3a41ebbd85a750b51ab5da03689b93b0855ac"
+    },
+    {
+      "originalRelative": "输出/data/snapshots/cpsc-10315.json",
+      "publishedRelative": "cases/utv-atv/输出/data/snapshots/cpsc-10315.json",
+      "sha256": "027fcb4f2dcf0c4c19feb519022d34de92d1de08a007417d9239c7312059c642"
+    },
+    {
+      "originalRelative": "输出/data/snapshots/cpsc-10455.json",
+      "publishedRelative": "cases/utv-atv/输出/data/snapshots/cpsc-10455.json",
+      "sha256": "ac9f64d234f2182c830347f549f3abe5d17bd44a5afe13f577aa9197ed806805"
+    },
+    {
+      "originalRelative": "输出/data/snapshots/cpsc-10814.json",
+      "publishedRelative": "cases/utv-atv/输出/data/snapshots/cpsc-10814.json",
+      "sha256": "0a7ae1c35c190f41a7015973c48b0bd97b772779e72cf87e46ee57cebfb78e3d"
+    },
+    {
+      "originalRelative": "输出/data/snapshots/cpsc-10909.json",
+      "publishedRelative": "cases/utv-atv/输出/data/snapshots/cpsc-10909.json",
+      "sha256": "ed6098ca72d8061012aac244e4f22ec0b81e1db9c079fc6c47b810a227fc58ad"
+    },
+    {
+      "originalRelative": "输出/data/snapshots/cpsc-11050.json",
+      "publishedRelative": "cases/utv-atv/输出/data/snapshots/cpsc-11050.json",
+      "sha256": "0e3c00cd953dafc75e6ac5908395f6b3ffcbd0dcfcdc804809234b4d01918e0f"
+    },
+    {
+      "originalRelative": "输出/data/snapshots/cpsc-1171.json",
+      "publishedRelative": "cases/utv-atv/输出/data/snapshots/cpsc-1171.json",
+      "sha256": "c354660498a93b856d25c3f5842d21b9c568d59fe627b653c10c2cc98a8fa872"
+    },
+    {
+      "originalRelative": "输出/data/snapshots/cpsc-1185.json",
+      "publishedRelative": "cases/utv-atv/输出/data/snapshots/cpsc-1185.json",
+      "sha256": "5e86be0f913f2bdb69cb2d2fc1f41189a6603e5533620eda2a685aa2ca660747"
+    },
+    {
+      "originalRelative": "输出/data/snapshots/cpsc-1301.json",
+      "publishedRelative": "cases/utv-atv/输出/data/snapshots/cpsc-1301.json",
+      "sha256": "71045e489d1cd9a211116f251f662366bc3d954d62c913f1e83768eb5a7b532a"
+    },
+    {
+      "originalRelative": "输出/data/snapshots/cpsc-1497.json",
+      "publishedRelative": "cases/utv-atv/输出/data/snapshots/cpsc-1497.json",
+      "sha256": "0fc5b7aceea907e64d0205288954c855ba244d5927f3907cd2eee8577cbc7245"
+    },
+    {
+      "originalRelative": "输出/data/snapshots/cpsc-1795.json",
+      "publishedRelative": "cases/utv-atv/输出/data/snapshots/cpsc-1795.json",
+      "sha256": "286e802c729ceec4bad8237a5a7959839e8674c6c4f3b8e0b243eb33eb89d4cb"
+    },
+    {
+      "originalRelative": "输出/data/snapshots/cpsc-1967.json",
+      "publishedRelative": "cases/utv-atv/输出/data/snapshots/cpsc-1967.json",
+      "sha256": "fb6c270b0c0c6335d37718a49facf15fe80b541557c003317e89adc66d8fcc74"
+    },
+    {
+      "originalRelative": "输出/data/snapshots/cpsc-3035.json",
+      "publishedRelative": "cases/utv-atv/输出/data/snapshots/cpsc-3035.json",
+      "sha256": "ff5d9cbbb7b97e29555c1a283f0521d22e02668dfc98f3e759f824f023c8f7d0"
+    },
+    {
+      "originalRelative": "输出/data/snapshots/cpsc-3039.json",
+      "publishedRelative": "cases/utv-atv/输出/data/snapshots/cpsc-3039.json",
+      "sha256": "281355e85dd47ea47326f14cc3c3020c2f176d81a3eb5214428cfd3c964fe107"
+    },
+    {
+      "originalRelative": "输出/data/snapshots/cpsc-3394.json",
+      "publishedRelative": "cases/utv-atv/输出/data/snapshots/cpsc-3394.json",
+      "sha256": "437322c56dc962ee388e829a0b7be99c9909c4294c343e0a5fbddcea00707d58"
+    },
+    {
+      "originalRelative": "输出/data/snapshots/cpsc-5177.json",
+      "publishedRelative": "cases/utv-atv/输出/data/snapshots/cpsc-5177.json",
+      "sha256": "588c489575040a84a8f5ed3e38f94830b86e555e1e3e85cbfeb4d62c3d6fc01b"
+    },
+    {
+      "originalRelative": "输出/data/snapshots/cpsc-6360.json",
+      "publishedRelative": "cases/utv-atv/输出/data/snapshots/cpsc-6360.json",
+      "sha256": "c66d00ac60a5e53a92f00958259e53032d95010ae895bc60ba0308b306acd2d1"
+    },
+    {
+      "originalRelative": "输出/data/snapshots/cpsc-6477.json",
+      "publishedRelative": "cases/utv-atv/输出/data/snapshots/cpsc-6477.json",
+      "sha256": "f8c5f29a5cc8fb84a02a64a0439971983a19f684a6d8f7e058efd52fc2f5b03b"
+    },
+    {
+      "originalRelative": "输出/data/snapshots/cpsc-6537.json",
+      "publishedRelative": "cases/utv-atv/输出/data/snapshots/cpsc-6537.json",
+      "sha256": "e88fcb160cc451d5f78793846a9f638c9613487b74e85e399385f1b24d2933f2"
+    },
+    {
+      "originalRelative": "输出/data/snapshots/cpsc-6594.json",
+      "publishedRelative": "cases/utv-atv/输出/data/snapshots/cpsc-6594.json",
+      "sha256": "bcbb94f354fc0bb907dbc216514ce5164ad6610d11df255de29d99d050b8add4"
+    },
+    {
+      "originalRelative": "输出/data/snapshots/cpsc-6600.json",
+      "publishedRelative": "cases/utv-atv/输出/data/snapshots/cpsc-6600.json",
+      "sha256": "fbd8da957f4721571154295949ebcdf5301e7f792a870f2b34cf60e1bd4582ad"
+    },
+    {
+      "originalRelative": "输出/data/snapshots/cpsc-6672.json",
+      "publishedRelative": "cases/utv-atv/输出/data/snapshots/cpsc-6672.json",
+      "sha256": "44b82b32c94f6d923f6d22858996061afe2722e79640c80ecbb2bf71ceebeaec"
+    },
+    {
+      "originalRelative": "输出/data/snapshots/cpsc-6704.json",
+      "publishedRelative": "cases/utv-atv/输出/data/snapshots/cpsc-6704.json",
+      "sha256": "3c2aa1cfaa42c7187f415c6ef3b28d32ef755e7e84b60a0bba19e0c6c1df6c18"
+    },
+    {
+      "originalRelative": "输出/data/snapshots/cpsc-6709.json",
+      "publishedRelative": "cases/utv-atv/输出/data/snapshots/cpsc-6709.json",
+      "sha256": "412bd31a29bb829f987ad98e1ea7236ec3d472838ca4875a6d0a12f6ab6a4044"
+    },
+    {
+      "originalRelative": "输出/data/snapshots/cpsc-6717.json",
+      "publishedRelative": "cases/utv-atv/输出/data/snapshots/cpsc-6717.json",
+      "sha256": "db16ae1ab961533aab50e1e21bba6cd39fa5af029fc4a5823ed3ca74637b49ea"
+    },
+    {
+      "originalRelative": "输出/data/snapshots/cpsc-6729.json",
+      "publishedRelative": "cases/utv-atv/输出/data/snapshots/cpsc-6729.json",
+      "sha256": "6f52bff8d745db27267749d0fc60a69d54ff17dbbf5ada355019994788c41f0b"
+    },
+    {
+      "originalRelative": "输出/data/snapshots/cpsc-7780.json",
+      "publishedRelative": "cases/utv-atv/输出/data/snapshots/cpsc-7780.json",
+      "sha256": "faa68a64709915ca5991f64ed7cc180af61d7414e2929b613628894599f51d09"
+    },
+    {
+      "originalRelative": "输出/data/snapshots/cpsc-7818.json",
+      "publishedRelative": "cases/utv-atv/输出/data/snapshots/cpsc-7818.json",
+      "sha256": "e049f05e98e7049c56905217ccabf41fb188ba49270760d8c4848b4ee29c3ac8"
+    },
+    {
+      "originalRelative": "输出/data/snapshots/cpsc-7835.json",
+      "publishedRelative": "cases/utv-atv/输出/data/snapshots/cpsc-7835.json",
+      "sha256": "74a879ee40600b9a73a8ebf3bf618f6eba5dc1165dbcaa1dec93b59136c4766b"
+    },
+    {
+      "originalRelative": "输出/data/snapshots/cpsc-7847.json",
+      "publishedRelative": "cases/utv-atv/输出/data/snapshots/cpsc-7847.json",
+      "sha256": "780ebed87a3129f9cb474627e71a9e58fd0d44f3ab177fc10c0792b576dc2bd3"
+    },
+    {
+      "originalRelative": "输出/data/snapshots/cpsc-7853.json",
+      "publishedRelative": "cases/utv-atv/输出/data/snapshots/cpsc-7853.json",
+      "sha256": "9e7382881b1322a8b6fda038d9cea10985415b672f5824acfd425278d3edbea6"
+    },
+    {
+      "originalRelative": "输出/data/snapshots/cpsc-7909.json",
+      "publishedRelative": "cases/utv-atv/输出/data/snapshots/cpsc-7909.json",
+      "sha256": "0cc9e69526466a1cc30a41ddeaa8499d76c84791b2582d210c75705fe8396179"
+    },
+    {
+      "originalRelative": "输出/data/snapshots/cpsc-8025.json",
+      "publishedRelative": "cases/utv-atv/输出/data/snapshots/cpsc-8025.json",
+      "sha256": "586b153bc2b9d985859301b8d85b54091057868a6def008f6061c437c419e485"
+    },
+    {
+      "originalRelative": "输出/data/snapshots/cpsc-8028.json",
+      "publishedRelative": "cases/utv-atv/输出/data/snapshots/cpsc-8028.json",
+      "sha256": "f8e5e3a6eeefe95afd3a4b2b648afa9b458d89d04a90e30a8d5978057fe78da2"
+    },
+    {
+      "originalRelative": "输出/data/snapshots/cpsc-8045.json",
+      "publishedRelative": "cases/utv-atv/输出/data/snapshots/cpsc-8045.json",
+      "sha256": "3d185d9d13cf0ca1f30d2345da4be832343ca8d1966bbf1e4cb5df30cf604cdd"
+    },
+    {
+      "originalRelative": "输出/data/snapshots/cpsc-8089.json",
+      "publishedRelative": "cases/utv-atv/输出/data/snapshots/cpsc-8089.json",
+      "sha256": "fb8435bda2b20aac9d478dca0ae18aaffd7b484cdc969a2b4a99aefa4b978c04"
+    },
+    {
+      "originalRelative": "输出/data/snapshots/cpsc-8096.json",
+      "publishedRelative": "cases/utv-atv/输出/data/snapshots/cpsc-8096.json",
+      "sha256": "94bcabcabe141c955a672e1f631a899aab830e98bcff2d3a02b2a9ce0aaa60a1"
+    },
+    {
+      "originalRelative": "输出/data/snapshots/cpsc-8104.json",
+      "publishedRelative": "cases/utv-atv/输出/data/snapshots/cpsc-8104.json",
+      "sha256": "8097f47ca13cfc4aa4f4b9383538f97a9a7e6869f70f6346b2fdc87f38408d7b"
+    },
+    {
+      "originalRelative": "输出/data/snapshots/cpsc-8165.json",
+      "publishedRelative": "cases/utv-atv/输出/data/snapshots/cpsc-8165.json",
+      "sha256": "11d782e6ae5fa6bf2d26665d698efa6ec64329d19f4c28f50de62a5ac729e983"
+    },
+    {
+      "originalRelative": "输出/data/snapshots/cpsc-8166.json",
+      "publishedRelative": "cases/utv-atv/输出/data/snapshots/cpsc-8166.json",
+      "sha256": "5706cfaeb5ea2149807ec5808968146736f6eaf46f23c17accd297c3d19e9219"
+    },
+    {
+      "originalRelative": "输出/data/snapshots/cpsc-8215.json",
+      "publishedRelative": "cases/utv-atv/输出/data/snapshots/cpsc-8215.json",
+      "sha256": "d40487dd43ce2707288d0a78b5a0db4165dfe51762b3d4dad34432218761da5a"
+    },
+    {
+      "originalRelative": "输出/data/snapshots/cpsc-8296.json",
+      "publishedRelative": "cases/utv-atv/输出/data/snapshots/cpsc-8296.json",
+      "sha256": "db50448eded904ad9cdb5ecb40de9d1f3bc2e3fe5bb9451f6ce354ce10874366"
+    },
+    {
+      "originalRelative": "输出/data/snapshots/cpsc-8327.json",
+      "publishedRelative": "cases/utv-atv/输出/data/snapshots/cpsc-8327.json",
+      "sha256": "3df69e2b555f09885464f631e415277372a3c64baef37f550b19f2d5035557f1"
+    },
+    {
+      "originalRelative": "输出/data/snapshots/cpsc-8372.json",
+      "publishedRelative": "cases/utv-atv/输出/data/snapshots/cpsc-8372.json",
+      "sha256": "ad9372629416d8b9653d77e25f2f66217fd0829a1f080fb94149851ec4b57698"
+    },
+    {
+      "originalRelative": "输出/data/snapshots/cpsc-8373.json",
+      "publishedRelative": "cases/utv-atv/输出/data/snapshots/cpsc-8373.json",
+      "sha256": "f2e46bd633ba8f65e9a47048a5bc4feaea0f4ad9f7b1e16b5e96c3086f349c23"
+    },
+    {
+      "originalRelative": "输出/data/snapshots/cpsc-8407.json",
+      "publishedRelative": "cases/utv-atv/输出/data/snapshots/cpsc-8407.json",
+      "sha256": "5d8b33317a0b2150f697eb38d3b49ac4b2fd0c8c57cefbee0b7240dc1384e6e5"
+    },
+    {
+      "originalRelative": "输出/data/snapshots/cpsc-8434.json",
+      "publishedRelative": "cases/utv-atv/输出/data/snapshots/cpsc-8434.json",
+      "sha256": "3ad7f516e42e3f0ccca5cbcf90da3fdf0c65bb7d1a47b6a591fdc7bce7af1c50"
+    },
+    {
+      "originalRelative": "输出/data/snapshots/cpsc-8444.json",
+      "publishedRelative": "cases/utv-atv/输出/data/snapshots/cpsc-8444.json",
+      "sha256": "291196cf76d696b7ec2ca0266b568a4783338b18215ca4a9e61b5e4659c609e6"
+    },
+    {
+      "originalRelative": "输出/data/snapshots/cpsc-8454.json",
+      "publishedRelative": "cases/utv-atv/输出/data/snapshots/cpsc-8454.json",
+      "sha256": "9220e306df2a60e41bfb6e296cb1a8a13e97fbdc67888e557b8f8e9fa2df8fcc"
+    },
+    {
+      "originalRelative": "输出/data/snapshots/cpsc-8509.json",
+      "publishedRelative": "cases/utv-atv/输出/data/snapshots/cpsc-8509.json",
+      "sha256": "aeecc237d15a2eeb2d96c5d829ac35e6251982fe9f92326aa12bfdc34b71bfba"
+    },
+    {
+      "originalRelative": "输出/data/snapshots/cpsc-8562.json",
+      "publishedRelative": "cases/utv-atv/输出/data/snapshots/cpsc-8562.json",
+      "sha256": "c5006c6de708ad027ff59437d87c371a340bd6258b8b6fd82b4980f2b8b62302"
+    },
+    {
+      "originalRelative": "输出/data/snapshots/cpsc-8572.json",
+      "publishedRelative": "cases/utv-atv/输出/data/snapshots/cpsc-8572.json",
+      "sha256": "f55b676d123f7a5a3c8f387ab9aba636e294ddcc5aaeeda0c46cea97e6a292cb"
+    },
+    {
+      "originalRelative": "输出/data/snapshots/cpsc-8580.json",
+      "publishedRelative": "cases/utv-atv/输出/data/snapshots/cpsc-8580.json",
+      "sha256": "c53591ad61fc70b7de64e0646c970333778163e1fa549dcadbc5bc18ec71d56b"
+    },
+    {
+      "originalRelative": "输出/data/snapshots/cpsc-8658.json",
+      "publishedRelative": "cases/utv-atv/输出/data/snapshots/cpsc-8658.json",
+      "sha256": "9b93790aa9a4a120ed86ac288030cd804176e79294ba421b93ec173ac3e07b82"
+    },
+    {
+      "originalRelative": "输出/data/snapshots/cpsc-8736.json",
+      "publishedRelative": "cases/utv-atv/输出/data/snapshots/cpsc-8736.json",
+      "sha256": "dfef1c9a5ef79a69f30a39ff562e17fbd05c0abece296b08a77607153f7caf3e"
+    },
+    {
+      "originalRelative": "输出/data/snapshots/cpsc-8737.json",
+      "publishedRelative": "cases/utv-atv/输出/data/snapshots/cpsc-8737.json",
+      "sha256": "bd2de5e1f52b1fece051bcbf50216973c7c42082081bc488aa0b1fb97efd3925"
+    },
+    {
+      "originalRelative": "输出/data/snapshots/cpsc-8738.json",
+      "publishedRelative": "cases/utv-atv/输出/data/snapshots/cpsc-8738.json",
+      "sha256": "b2e5df37d57286aba0b09d595fedc99228208c1d6a7859b8d69b1ad341cac4f9"
+    },
+    {
+      "originalRelative": "输出/data/snapshots/cpsc-8780.json",
+      "publishedRelative": "cases/utv-atv/输出/data/snapshots/cpsc-8780.json",
+      "sha256": "afb84d44430b970e957b066d1470a35127f322fab0923256e8a739a9a9df03d1"
+    },
+    {
+      "originalRelative": "输出/data/snapshots/cpsc-8781.json",
+      "publishedRelative": "cases/utv-atv/输出/data/snapshots/cpsc-8781.json",
+      "sha256": "1a51c2ef1cf02f90f2476407216aed4e7fe3769e64c88991897a4e515a1bead8"
+    },
+    {
+      "originalRelative": "输出/data/snapshots/cpsc-8797.json",
+      "publishedRelative": "cases/utv-atv/输出/data/snapshots/cpsc-8797.json",
+      "sha256": "5ac723d5448a130898885ecb2b6ac03485dbbcc66cde2533e77ea1cb3bc89312"
+    },
+    {
+      "originalRelative": "输出/data/snapshots/cpsc-8798.json",
+      "publishedRelative": "cases/utv-atv/输出/data/snapshots/cpsc-8798.json",
+      "sha256": "b0139594922905e7bc3069bbc9fdc79cfb45b298e41c6d5715a9010da0dde813"
+    },
+    {
+      "originalRelative": "输出/data/snapshots/cpsc-8839.json",
+      "publishedRelative": "cases/utv-atv/输出/data/snapshots/cpsc-8839.json",
+      "sha256": "af7d0020160479e17592dfc568ba46ce7c0df61c87649cd8dfaf3513a020b82b"
+    },
+    {
+      "originalRelative": "输出/data/snapshots/cpsc-8889.json",
+      "publishedRelative": "cases/utv-atv/输出/data/snapshots/cpsc-8889.json",
+      "sha256": "7417db6b44905f8136f0e579a8b3898dbf5a46deb3d0f279bf41ff43e76b5574"
+    },
+    {
+      "originalRelative": "输出/data/snapshots/cpsc-8910.json",
+      "publishedRelative": "cases/utv-atv/输出/data/snapshots/cpsc-8910.json",
+      "sha256": "b9ebb237b58f2172ae68e8e02e461a211016cb172695f3353830f081bc8b1999"
+    },
+    {
+      "originalRelative": "输出/data/snapshots/cpsc-8954.json",
+      "publishedRelative": "cases/utv-atv/输出/data/snapshots/cpsc-8954.json",
+      "sha256": "7f060c2f87f9c9149f76b5fb224867e39f5170f7011df7cc2685189b2d3dda0b"
+    },
+    {
+      "originalRelative": "输出/data/snapshots/cpsc-9106.json",
+      "publishedRelative": "cases/utv-atv/输出/data/snapshots/cpsc-9106.json",
+      "sha256": "45e5748e2d9cf00f68a4b4a7d61615444fc93c8cefdb359badc4e798093d76b2"
+    },
+    {
+      "originalRelative": "输出/data/snapshots/cpsc-9108.json",
+      "publishedRelative": "cases/utv-atv/输出/data/snapshots/cpsc-9108.json",
+      "sha256": "847e905331ef76a816a434576a38fd28faa2fc1ae755e21002d05ce6ad4343f0"
+    },
+    {
+      "originalRelative": "输出/data/snapshots/cpsc-9168.json",
+      "publishedRelative": "cases/utv-atv/输出/data/snapshots/cpsc-9168.json",
+      "sha256": "678bf70cd8aa3ad88ccf04c86e2d30639dc79ede7c94e9e026d938c752c1d43a"
+    },
+    {
+      "originalRelative": "输出/data/snapshots/cpsc-9176.json",
+      "publishedRelative": "cases/utv-atv/输出/data/snapshots/cpsc-9176.json",
+      "sha256": "eeaa89803457e6e45529bf8d49025b2d8d4e7d8354d470268e8d5e706c72748e"
+    },
+    {
+      "originalRelative": "输出/data/snapshots/cpsc-9187.json",
+      "publishedRelative": "cases/utv-atv/输出/data/snapshots/cpsc-9187.json",
+      "sha256": "899b5330b63c44012dd189d49b32dd22d577809d47eea008cd0b2268cb5f5486"
+    },
+    {
+      "originalRelative": "输出/data/snapshots/cpsc-9236.json",
+      "publishedRelative": "cases/utv-atv/输出/data/snapshots/cpsc-9236.json",
+      "sha256": "7e218858306e05a4e525bc49f7ae74e4d5133b2236067b0b26065566e44699ad"
+    },
+    {
+      "originalRelative": "输出/data/snapshots/cpsc-9258.json",
+      "publishedRelative": "cases/utv-atv/输出/data/snapshots/cpsc-9258.json",
+      "sha256": "185db4e43f7da3735d67fee95fd99024e1d945781b14c6884690ee31aff93d56"
+    },
+    {
+      "originalRelative": "输出/data/snapshots/cpsc-9296.json",
+      "publishedRelative": "cases/utv-atv/输出/data/snapshots/cpsc-9296.json",
+      "sha256": "3f5fa4b7495264bb5afd145b32f909aa45ebb962de461a925e532175abf1f6fd"
+    },
+    {
+      "originalRelative": "输出/data/snapshots/cpsc-9305.json",
+      "publishedRelative": "cases/utv-atv/输出/data/snapshots/cpsc-9305.json",
+      "sha256": "55824098c9e5d99cafd95c0fc4121866786b76ca82d51d291c043ed3bb143f9c"
+    },
+    {
+      "originalRelative": "输出/data/snapshots/cpsc-9350.json",
+      "publishedRelative": "cases/utv-atv/输出/data/snapshots/cpsc-9350.json",
+      "sha256": "4a91fa923f4d6d358dceb4462c8a3197fa4a0bf11c82fb707bdb8e56d65bea66"
+    },
+    {
+      "originalRelative": "输出/data/snapshots/cpsc-9465.json",
+      "publishedRelative": "cases/utv-atv/输出/data/snapshots/cpsc-9465.json",
+      "sha256": "2aa3923fd638535eebedab6d49e28993b177a2af4a8f2110012aa05d0c2f1e41"
+    },
+    {
+      "originalRelative": "输出/data/snapshots/cpsc-9490.json",
+      "publishedRelative": "cases/utv-atv/输出/data/snapshots/cpsc-9490.json",
+      "sha256": "5949183de0e6837a0f0be812230286ed59a56052a577d89fbc79f209a95d7aeb"
+    },
+    {
+      "originalRelative": "输出/data/snapshots/cpsc-9496.json",
+      "publishedRelative": "cases/utv-atv/输出/data/snapshots/cpsc-9496.json",
+      "sha256": "24c356d20ccff34f91ab182778638cb25388c9fb0092238fd754046e1ac1b1c8"
+    },
+    {
+      "originalRelative": "输出/data/snapshots/cpsc-9524.json",
+      "publishedRelative": "cases/utv-atv/输出/data/snapshots/cpsc-9524.json",
+      "sha256": "aefbb149fd9ee12e046afd5ce9e0bb6832eb81107f45a1aba43f075c7d3a0a87"
+    },
+    {
+      "originalRelative": "输出/data/snapshots/cpsc-9632.json",
+      "publishedRelative": "cases/utv-atv/输出/data/snapshots/cpsc-9632.json",
+      "sha256": "92ea5e6c7396f1768e40c167fc44df7c5c6b77307e7a2df95abcd9bc6dfdb2de"
+    },
+    {
+      "originalRelative": "输出/data/snapshots/cpsc-9648.json",
+      "publishedRelative": "cases/utv-atv/输出/data/snapshots/cpsc-9648.json",
+      "sha256": "11be8cfe7b037165b17f817a95642216d450e089d5a052d926478424d3dd7ebf"
+    },
+    {
+      "originalRelative": "输出/data/snapshots/cpsc-9687.json",
+      "publishedRelative": "cases/utv-atv/输出/data/snapshots/cpsc-9687.json",
+      "sha256": "53c94c8ddf7e8456c4d5d8cd2e387c8cef9e0ec749ed367c72c681b10e788841"
+    },
+    {
+      "originalRelative": "输出/data/snapshots/cpsc-9755.json",
+      "publishedRelative": "cases/utv-atv/输出/data/snapshots/cpsc-9755.json",
+      "sha256": "746df4f4c2c0d1a805ce193786a3f3a9b5880eb153f7abfb4d6eb7bc8c584d3e"
+    },
+    {
+      "originalRelative": "输出/data/snapshots/cpsc-9797.json",
+      "publishedRelative": "cases/utv-atv/输出/data/snapshots/cpsc-9797.json",
+      "sha256": "de837fb716d6048ddd57e0f7b7b5d9fd5134c845d80baaad5d24ea84f045cf62"
+    },
+    {
+      "originalRelative": "输出/data/snapshots/cpsc-9798.json",
+      "publishedRelative": "cases/utv-atv/输出/data/snapshots/cpsc-9798.json",
+      "sha256": "aea6921e1e5e2eb0ad13d3231a8e14e7d5c63e40a80b481021bdaef68ef56037"
+    },
+    {
+      "originalRelative": "输出/data/snapshots/cpsc-9803.json",
+      "publishedRelative": "cases/utv-atv/输出/data/snapshots/cpsc-9803.json",
+      "sha256": "f209ea7bd60c9d14835262de2976cca3cfc25b1ceea4e7bb19565cc840ff617c"
+    },
+    {
+      "originalRelative": "输出/data/snapshots/cpsc-9804.json",
+      "publishedRelative": "cases/utv-atv/输出/data/snapshots/cpsc-9804.json",
+      "sha256": "9ac35952d4981def90d246de67a1d8b83f19a8eb3dfa1dc3330ea5537171a46b"
+    },
+    {
+      "originalRelative": "输出/data/snapshots/cpsc-9893.json",
+      "publishedRelative": "cases/utv-atv/输出/data/snapshots/cpsc-9893.json",
+      "sha256": "7b5295b61ec15fccd5b05537da0c48ab2b1f968771156cd5710830bbccb43fa5"
+    },
+    {
+      "originalRelative": "输出/data/snapshots/cpsc-9922.json",
+      "publishedRelative": "cases/utv-atv/输出/data/snapshots/cpsc-9922.json",
+      "sha256": "59bb5d3386169b55f0ec75841921c30d7414b37b87fd4531c9483fce7ca47d29"
+    },
+    {
+      "originalRelative": "输出/data/snapshots/cpsc-9949.json",
+      "publishedRelative": "cases/utv-atv/输出/data/snapshots/cpsc-9949.json",
+      "sha256": "61f8291bba3a4d8910b027cd20649b279f6d34897eb9365f6fd354abdad8e67e"
+    },
+    {
+      "originalRelative": "输出/data/source_ledger.csv",
+      "publishedRelative": "cases/utv-atv/输出/data/source_ledger.csv",
+      "sha256": "d16fabe8b063e430c370602858ecba1a5d0fc5ba5e17f1d2f27b615e7f950c29"
+    },
+    {
+      "originalRelative": "输出/data/vehicle_images.json",
+      "publishedRelative": "cases/utv-atv/输出/data/vehicle_images.json",
+      "sha256": "6dc52dfde974ad099c3ab3b7d250ac1f8050874c5c6f0ad34179bcfbb3eb1493"
+    },
+    {
+      "originalRelative": "输出/data/vehicle_population.csv",
+      "publishedRelative": "cases/utv-atv/输出/data/vehicle_population.csv",
+      "sha256": "d7f77ae204d0c83ca0872b07dab16f7b695f4454bbc6f904780660a52a556f4c"
+    },
+    {
+      "originalRelative": "输出/data/vehicle_population_rollup.csv",
+      "publishedRelative": "cases/utv-atv/输出/data/vehicle_population_rollup.csv",
+      "sha256": "3540a24bb9ed5b9639ba941841cbe05886105b519b650a99192a91a02eee8e9c"
+    },
+    {
+      "originalRelative": "输出/北美UTV保有量研究-20261117.html",
+      "publishedRelative": "cases/utv-atv/输出/北美UTV保有量研究-20261117.html",
+      "sha256": "1a82b2d9c8d71ebed5f15057f935604452728625e6310f275977834a5148f0e1"
+    },
+    {
+      "originalRelative": "输出/北美UTV车型保有量保守情景-20261117.xlsx",
+      "publishedRelative": "cases/utv-atv/输出/北美UTV车型保有量保守情景-20261117.xlsx",
+      "sha256": "a090ac613f6cbd683a50c2508babcc1f4db57aaa1eaf799fa00b3f43a936b3fe"
+    },
+    {
+      "originalRelative": "输出/研究说明.md",
+      "publishedRelative": "cases/utv-atv/输出/研究说明.md",
+      "sha256": "da46eb7ee1144df6c8b07838a57803ba4d9edbcbc7aebd81ff68b561da658e02"
+    },
+    {
+      "originalRelative": "过程/build_dataset.py",
+      "publishedRelative": "cases/utv-atv/过程/build_dataset.py",
+      "sha256": "0b824e9a1a6b0cc70c7ed54afedf347c0989613fd55fea524ea23e7ffbcd1a62"
+    },
+    {
+      "originalRelative": "过程/build_report.py",
+      "publishedRelative": "cases/utv-atv/过程/build_report.py",
+      "sha256": "eeb19c8f87afc09583f64b5d535ef0cf00f0469233cd74311b41d3faf493e2dc"
+    },
+    {
+      "originalRelative": "过程/build_workbook.mjs",
+      "publishedRelative": "cases/utv-atv/过程/build_workbook.mjs",
+      "sha256": "2472507736b9376a7be1c53185975f42c912bbb08768506aab659602ec7cce28"
+    },
+    {
+      "originalRelative": "过程/collect_sources.py",
+      "publishedRelative": "cases/utv-atv/过程/collect_sources.py",
+      "sha256": "4f8da5feaf887e91097f3b1001748e18bfb58cf87dc80467674ec1a4d708af35"
+    },
+    {
+      "originalRelative": "过程/collect_catalogs.py",
+      "publishedRelative": "cases/utv-atv/过程/collect_catalogs.py",
+      "sha256": "0f6e3b8fac3dfccb01922f7228c5eb521dd1ba80dd2215db2f00124beb584d96"
+    },
+    {
+      "originalRelative": "过程/collect_images.py",
+      "publishedRelative": "cases/utv-atv/过程/collect_images.py",
+      "sha256": "a779f56fb6b76d43a170e60bc575cae5a09388a91286c16046d86f18c174543a"
+    },
+    {
+      "originalRelative": "过程/dashboard.template.html",
+      "publishedRelative": "cases/utv-atv/过程/dashboard.template.html",
+      "sha256": "ffa0edef81860ee64d365c6515e5a8def4d0b9eca44af6cda23c0dc003a2c9dd"
+    },
+    {
+      "originalRelative": "过程/validate_scenarios.py",
+      "publishedRelative": "cases/utv-atv/过程/validate_scenarios.py",
+      "sha256": "340b16d57ff715fc13ffb57817ee6f0366bc770250c86df3543d2a9664838bf3"
+    },
+    {
+      "originalRelative": "过程/browser_qa.mjs",
+      "publishedRelative": "cases/utv-atv/过程/browser_qa.mjs",
+      "sha256": "87c57a05e8b5cb73486663dc65c4eff427fb5d1e47cbc67de81d84fd21a0561d"
+    },
+    {
+      "originalRelative": "过程/finalize_delivery.py",
+      "publishedRelative": "cases/utv-atv/过程/finalize_delivery.py",
+      "sha256": "88915e4498ff2bdb23a1270a24924d0e7c7fdfcbc2e917eac5e22e780dc09f6d"
+    }
+  ],
+  "adaptations": [
+    "Portable output copies keep model names and numeric facts unchanged.",
+    "Runtime paths in code are relative; optional development dependencies are explicit."
+  ],
+  "sourceManifestSha256": "3350576f668b068c5f0b48eeffe67993e9c5e503d4bf3e0bba56c77a69c63caa"
+}

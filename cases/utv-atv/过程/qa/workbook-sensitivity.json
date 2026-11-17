@@ -1,0 +1,8 @@
+{
+  "initial": 52600,
+  "changed": 38200,
+  "restored": 52600,
+  "passed": true,
+  "engine": "artifact-tool",
+  "native_excel_recalculation": "not tested"
+}

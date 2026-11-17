@@ -1,0 +1,82 @@
+{
+  "RecallID": 1497,
+  "RecallNumber": "13725",
+  "RecallDate": "2013-02-14T00:00:00",
+  "Description": "This recall involves John Deere Gator™ RSX850i Base, Sport and Trail model recreational utility vehicles manufactured between May 2012 and October 2012. They have side-by-side seating for two people and were available in Realtree® Hardwoods™ HD Camo, olive and black, or traditional green and yellow. RSX850i is located on the hood. The serial number is on the rear frame above the receiver hitch. Utility vehicles with the following serial numbers are included in this recall: Model Serial Number Range RSX850i Base 1M0850TB++M010009 thru 1M0850TB++M010778 RSX850i Sport 1M0850TS++M010001 thru 1M0850TS++M012077 RSX850i Trail 1M0850TT++M010001 thru 1M0850TT++M012867",
+  "URL": "https://www.cpsc.gov/Recalls/2013/John-Deere-Recalls-Gator-Utility-Vehicles",
+  "Title": "John Deere Recalls Gator Utility Vehicles Due to Fire Hazard",
+  "ConsumerContact": "Deere and Company; at (800) 537-8233, from 8 a.m. to 6 p.m. ET Monday through Friday, and Saturdays from 9 a.m. to 3 p.m. ET or www.johndeere.com and click on Services and Support for more information.",
+  "LastPublishDate": "2015-01-22T00:00:00",
+  "Products": [
+    {
+      "Name": "Utility Vehicles",
+      "Description": "",
+      "Model": "",
+      "Type": "Utility Vehicles",
+      "CategoryID": "68431",
+      "NumberOfUnits": "About 4,700"
+    }
+  ],
+  "Inconjunctions": [],
+  "Images": [
+    {
+      "URL": "https://www.cpsc.gov/s3fs-public/Recall.2013.13725a.jpg",
+      "Caption": "John Deere Gator RSX850i Base utility vehicle"
+    },
+    {
+      "URL": "https://www.cpsc.gov/s3fs-public/Recall.2013.13725b.jpg",
+      "Caption": "John Deere Gator RSX850i Trail utility vehicle"
+    },
+    {
+      "URL": "https://www.cpsc.gov/s3fs-public/Recall.2013.13725c.jpg",
+      "Caption": "John Deere Gator RSX850i Sport utility vehicle"
+    },
+    {
+      "URL": "https://www.cpsc.gov/s3fs-public/Recall.2013.13725d.jpg",
+      "Caption": "Serial number location"
+    }
+  ],
+  "Injuries": [
+    {
+      "Name": "John Deere has received four reports of incidents resulting in fires. No injuries have been reported."
+    }
+  ],
+  "Manufacturers": [
+    {
+      "Name": "Deere & Company of Moline, Ill.",
+      "CompanyID": ""
+    }
+  ],
+  "Retailers": [
+    {
+      "Name": "John Deere dealers nationwide from August 2012 through January 2013 for between $12,900 and $15,500.",
+      "CompanyID": ""
+    }
+  ],
+  "Importers": [],
+  "Distributors": [],
+  "SoldAtLabel": null,
+  "ManufacturerCountries": [
+    {
+      "Country": "United States"
+    }
+  ],
+  "ProductUPCs": [],
+  "Hazards": [
+    {
+      "Name": "The oil filter can leak, posing a fire hazard. Pinholes or cracks have been identified in oil filters installed by the engine supplier which were not manufactured to specification.",
+      "HazardType": "",
+      "HazardTypeID": ""
+    }
+  ],
+  "Remedies": [
+    {
+      "Name": "Consumers should stop using the recalled utility vehicles and contact a John Deere dealer to schedule a free inspection and free repair. John Deere is contacting all registered owners of the recalled utility vehicles directly."
+    }
+  ],
+  "RemedyOptions": [
+    {
+      "Option": "Repair"
+    }
+  ]
+}

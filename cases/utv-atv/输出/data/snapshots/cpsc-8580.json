@@ -1,0 +1,86 @@
+{
+  "RecallID": 8580,
+  "RecallNumber": "19753",
+  "RecallDate": "2019-06-13T00:00:00",
+  "Description": "This recall involves all model year 2016 through 2019 Honda Pioneer 1000 side-by-side vehicles. The recalled vehicles were sold in various colors including: red, blue, green, gray and yellow. The name \"HONDA\" is on the front, sides and the rear of the vehicle. The model name Pioneer 1000 is printed on a label located on both sides of the vehicle, near the rear. The serial number (VIN #) is stamped in the frame at the left rear, below the tilt-up bed/seat. The following model numbers and serial number ranges are being recalled: MY Model 2016 SXS10M3* 2016 SXS10M5* 2017 SXS10M3* 2017 SXS10M5* 2018 SXS10M3* 2018 SXS10M5* 2019 SXS10M3* 2019 SXS10M5*",
+  "URL": "https://www.cpsc.gov/Recalls/2019/American-Honda-Recalls-Recreational-Off-Highway-Vehicles-Due-to-Crash-and-Injury-Hazards-Recall-Alert",
+  "Title": "American Honda Recalls Recreational Off-Highway Vehicles Due to Crash and Injury Hazards (Recall Alert)",
+  "ConsumerContact": "American Honda toll-free at 866-784-1870 from 8:30 a.m. to 4:30 p.m. PT Monday through Friday or online at http://powersports.honda.com/ and click on “Recall Information” at the bottom of the page for more information.",
+  "LastPublishDate": "2019-06-13T00:00:00",
+  "Products": [
+    {
+      "Name": "Recreational off-highway vehicles (ROVs)",
+      "Description": "",
+      "Model": "",
+      "Type": "",
+      "CategoryID": "",
+      "NumberOfUnits": "About 82,000"
+    }
+  ],
+  "Inconjunctions": [],
+  "Images": [
+    {
+      "URL": "https://www.cpsc.gov/s3fs-public/1_20.png",
+      "Caption": "2016-2019 Model Year Honda Pioneer 1000 5P"
+    },
+    {
+      "URL": "https://www.cpsc.gov/s3fs-public/2_19.png",
+      "Caption": "2016-2019 Model Year Honda Pioneer 1000 3P"
+    },
+    {
+      "URL": "https://www.cpsc.gov/s3fs-public/3_11.jpg",
+      "Caption": "Name plate and VIN number location"
+    },
+    {
+      "URL": "https://www.cpsc.gov/s3fs-public/4_11.png",
+      "Caption": "VIN number location"
+    },
+    {
+      "URL": "https://www.cpsc.gov/s3fs-public/5_4.jpg",
+      "Caption": "Name plate location"
+    }
+  ],
+  "Injuries": [
+    {
+      "Name": "The firm has received 15 reports of the throttle pedal sticking in the open position, including six crashes, resulting in a report of a concussion and a broken nose."
+    }
+  ],
+  "Manufacturers": [
+    {
+      "Name": "American Honda Motor Company Inc., of Torrance, Calif.",
+      "CompanyID": ""
+    }
+  ],
+  "Retailers": [
+    {
+      "Name": "Authorized Honda Powersports dealers nationwide from August 2015 through March 2019 for between $14,000 and $22,000.",
+      "CompanyID": ""
+    }
+  ],
+  "Importers": [],
+  "Distributors": [],
+  "SoldAtLabel": null,
+  "ManufacturerCountries": [
+    {
+      "Country": "United States"
+    }
+  ],
+  "ProductUPCs": [],
+  "Hazards": [
+    {
+      "Name": "The throttle pedal can stick in the open position, posing crash and injury hazards.",
+      "HazardType": "",
+      "HazardTypeID": ""
+    }
+  ],
+  "Remedies": [
+    {
+      "Name": "Consumers should immediately stop using the recalled ROVs and contact an authorized Honda Powersports dealer to schedule an appointment for a free inspection and repair. Honda is contacting all known purchasers directly."
+    }
+  ],
+  "RemedyOptions": [
+    {
+      "Option": "Repair"
+    }
+  ]
+}

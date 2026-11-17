@@ -1,0 +1,94 @@
+{
+  "RecallID": 8028,
+  "RecallNumber": "17132",
+  "RecallDate": "2017-04-13T00:00:00",
+  "Description": "This recall involves all model year 2015 Polaris Ranger XP 900, XP 900 EPS, and CREW 900 recreational off-highway vehicles (ROVs). The recalled ROVs were sold in a variety of colors and have either three or six seats and a rear box. \"Ranger\" is printed on the rear box, and \"900\" is printed on the hood of the ROVs. All 2015 Ranger 900 models and vehicle identification numbers (VINs) are included in this recall. The VIN is printed on the frame on the driver's side towards the rear of the vehicle. To check for recalled vehicles by VIN, visit www.polaris.com. Model Year Model Number Model 2015 R15RTA87AA RANGER 900 XP SAGE GREEN 2015 R15RTA87AR RANGER 900 XP SOLAR RED 2015 R15RTA87AC RANGER XP 900 POLARIS PURSUIT CAMO 2015 R15RTE87AA RANGER XP 900 EPS SAGE GREEN 2015 R15RTE87AR RANGER XP 900 EPS SOLAR RED 2015 R15RUA87AA RANGER CREW 900 SAGE GREEN 2015 R15RUA87AR RANGER CREW 900 SOLAR RED 2015 R15RUY87AA RANGER CREW 900-6 SAGE GREEN 2015 R15RTE87AK RANGER XP 900 EPS BLACK PEARL 2015 R15RTE87AM RANGER XP 900 EPS SUPER STEEL GRAY 2015 R15RTE87AS RANGER XP 900 EPS SUNSET RED 2015 R15RTE87AW RANGER XP 900 EPS WHITE LIGHTNING 2015 R15RTE87AX RANGER XP 900 EPS SANDSTONE METALLIC 2015 R15RTE87AZ RANGER XP 900 EPS SUNSET RED SILVER 2015 R15RTE87AB RANGER XP 900 EPS HUNTER EDITION 2015 R15RUE87AC RANGER CREW 900 EPS POLARIS PURSUIT CAMO 2015 R15RUE87AM RANGER CREW 900 EPS SUPER STEEL GRAY 2015 R15RUE87AS RANGER CREW 900 EPS SUNSET RED 2015 R15RUE87AW RANGER CREW 900 EPS WHITE LIGHTNING 2015 R15RUZ87AC RANGER CREW 900-6 EPS POLARIS PURSUIT CAMO 2015 R15RUZ87AS RANGER CREW 900-6 EPS SUNSET RED 2015 R15RUZ87AW RANGER CREW 900-6 EPS WHITE LIGHTNING 2015 R15RTE87AV RANGER XP 900 EPS VOGUE SILVER DELUXE 2015 R15RTE87A5 RANGER XP 900 EPS HUNTER DELUXE EDITION 2015 R15RTE87A2 RANGER XP 900 EPS NORTHSTAR DELUXE EDITION",
+  "URL": "https://www.cpsc.gov/Recalls/2017/Polaris-Recalls-Ranger-900-Recreational-Off-Highway-Vehicles",
+  "Title": "Polaris Recalls Ranger 900 Recreational Off-Highway Vehicles Due to Fire and Burn Hazards",
+  "ConsumerContact": "Polaris at 800-765-2747 from 7 a.m. to 7 p.m. CT Monday and Friday, or online at www.polaris.com and click on \"Off Road Safety Recalls\" at the bottom of the page for more information.",
+  "LastPublishDate": "2017-04-13T00:00:00",
+  "Products": [
+    {
+      "Name": "Polaris Ranger 900 recreational off-highway vehicles (ROVs)",
+      "Description": "",
+      "Model": "",
+      "Type": "",
+      "CategoryID": "",
+      "NumberOfUnits": "About 51,000"
+    }
+  ],
+  "Inconjunctions": [],
+  "Images": [
+    {
+      "URL": "https://www.cpsc.gov/s3fs-public/2015-ranger-crew-900-6-eps-sunset-red.jpg",
+      "Caption": "2015 RANGER CREW 900 SOLAR RED"
+    },
+    {
+      "URL": "https://www.cpsc.gov/s3fs-public/2015-ranger-crew-900-6-eps-white-lightning.jpg",
+      "Caption": "2015 RANGER CREW 900 EPS WHITE      LIGHTNING"
+    },
+    {
+      "URL": "https://www.cpsc.gov/s3fs-public/Capture.JPG",
+      "Caption": "RANGER XP 900 EPS SANDSTONE METALLIC"
+    },
+    {
+      "URL": "https://www.cpsc.gov/s3fs-public/2015-Ranger-900_xp-eps_le-hunter-prfl.jpg",
+      "Caption": "RANGER XP 900 EPS HUNTER EDITION"
+    },
+    {
+      "URL": "https://www.cpsc.gov/s3fs-public/VIN location on ROVs.jpg",
+      "Caption": "Vehicle identification number (VIN) location on the ROVs"
+    }
+  ],
+  "Injuries": [
+    {
+      "Name": "Polaris has received 13 incident reports involving the recalled ROVs, including five reports of fires. No injuries have been reported."
+    }
+  ],
+  "Manufacturers": [
+    {
+      "Name": "Polaris Industries Inc., of Medina, Minn.",
+      "CompanyID": ""
+    }
+  ],
+  "Retailers": [
+    {
+      "Name": "Polaris dealers nationwide from April 2014 through March 2017 for between $13,400 and $21,300.",
+      "CompanyID": ""
+    }
+  ],
+  "Importers": [
+    {
+      "Name": "Polaris Industries Inc., of Medina, Minn.",
+      "CompanyID": ""
+    }
+  ],
+  "Distributors": [],
+  "SoldAtLabel": null,
+  "ManufacturerCountries": [
+    {
+      "Country": "United States"
+    },
+    {
+      "Country": "Mexico"
+    }
+  ],
+  "ProductUPCs": [],
+  "Hazards": [
+    {
+      "Name": "A heat shield can fall off the vehicle, posing fire and burn hazards to riders.",
+      "HazardType": "",
+      "HazardTypeID": ""
+    }
+  ],
+  "Remedies": [
+    {
+      "Name": "Consumer should immediately stop using the recalled ROVs and contact Polaris to schedule a free repair. Polaris is contacting all known purchasers directly."
+    }
+  ],
+  "RemedyOptions": [
+    {
+      "Option": "Repair"
+    }
+  ]
+}

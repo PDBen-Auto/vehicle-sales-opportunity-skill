@@ -1,0 +1,78 @@
+{
+  "RecallID": 6477,
+  "RecallNumber": "15214",
+  "RecallDate": "2015-08-13T00:00:00",
+  "Description": "This recall includes six models of American SportWorks Four Wheel Off-Road Utility Vehicles. The name of each model is located above each front fender and along the sides of the dump bed. Affected vehicles include: BullDog 300, ChuckWagon 300 and LandMaster 300 all powered by Kohler 277cc engines with the last 6 Characters of the product identification number between A11746 and A13294, and LandMaster 400, TrailWagon 400 and ChuckWagon 400 all powered by Honda 390cc engines with the last 6 Characters of the product identification number between A24835 and A26806. The product identification numbers can be found on a sticker on the firewall above the accelerator and brake pedal. Model Color LandMaster 300 Red, Green, Black, White, Camo LandMaster 400 Red, Green, Black, White, Camo BullDog 300 Red Trail Wagon 400 Red, Camo Chuck Wagon 300 Red, Green, Camo Chuck Wagon 400 Red, Green, Camo",
+  "URL": "https://www.cpsc.gov/Recalls/2015/American-SportWorks-Recalls-Four-Wheel-Off-Road-Utility-Vehicles",
+  "Title": "American SportWorks Recalls Four-Wheel Off-Road Utility Vehicles Due to Risk of Injury",
+  "ConsumerContact": "ASW toll free at 800-293-0795 from 8 a.m. to 5 p.m. ET Monday through Friday or online at www.amsportworks.com at the top of the page under the SAFETY tab under Recalls click on \"TSB167 & TSB168\" for more information.",
+  "LastPublishDate": "2015-08-20T00:00:00",
+  "Products": [
+    {
+      "Name": "Off Road Utility Vehicles",
+      "Description": "",
+      "Model": "",
+      "Type": "Utility Vehicles",
+      "CategoryID": "68355",
+      "NumberOfUnits": "About 3,500"
+    }
+  ],
+  "Inconjunctions": [],
+  "Images": [
+    {
+      "URL": "https://www.cpsc.gov/s3fs-public/Recall.2015.15214.Side.jpg",
+      "Caption": "Side"
+    },
+    {
+      "URL": "https://www.cpsc.gov/s3fs-public/Recall.2015.15214.Front.jpg",
+      "Caption": "Front"
+    },
+    {
+      "URL": "https://www.cpsc.gov/s3fs-public/Recall.2015.15214.Back.jpg",
+      "Caption": "Back"
+    }
+  ],
+  "Injuries": [
+    {
+      "Name": "None reported"
+    }
+  ],
+  "Manufacturers": [
+    {
+      "Name": "American SportWorks, of Roseland, La.",
+      "CompanyID": ""
+    }
+  ],
+  "Retailers": [
+    {
+      "Name": "Atwood Distributing, Rural King, The Home Depot, Tractor Supply Company and other dealers from September 2014 through June 2015 for between $4,300 and $5,300.",
+      "CompanyID": ""
+    }
+  ],
+  "Importers": [],
+  "Distributors": [],
+  "SoldAtLabel": null,
+  "ManufacturerCountries": [
+    {
+      "Country": "United States"
+    }
+  ],
+  "ProductUPCs": [],
+  "Hazards": [
+    {
+      "Name": "The throttle can fail to return to idle causing the rider to lose control, posing a risk of injury.",
+      "HazardType": "",
+      "HazardTypeID": ""
+    }
+  ],
+  "Remedies": [
+    {
+      "Name": "Consumers should immediately stop using the recalled product and contact the firm for a free repair."
+    }
+  ],
+  "RemedyOptions": [
+    {
+      "Option": "Repair"
+    }
+  ]
+}

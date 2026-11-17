@@ -1,0 +1,10 @@
+﻿area,status,gap,next_input
+全车型当前在用量,unknown,本版所有条目的全量VIO均未知；没有可公开复核的分车型在用调查。,取得MIC/S&P或同等口径车型VIO；核对UTV覆盖和许可
+美国,partial,召回只覆盖部分VIN、配置、年份；召回频率不同造成严重样本偏差。,分车型历史零售/新登记＋适用UTV存活/迁移参数
+加拿大,partial,只采用美国公告明确另列的加拿大数量；未系统采集全部加拿大召回与登记。,加拿大车型VIO/各省非重叠登记，及独立车型目录
+墨西哥,partial,仅Wildcat Trail/Sport选中批次有可归属数量；Can-Am 34台为跨系列混合池。,车型级UTV销售/存量和PROFECO等当地来源
+目录完整性,partial,目录为已发现条目，未覆盖全部现售/停产及贴牌品牌；100%来源行映射不等于全市场覆盖。,补查CFMOTO UFORCE/Z10、Kawasaki KRX/SX、Honda 500/520、Segway Villain、ODES、Bennche、Kandi、Cazador、Rural King等
+单车型拆分,unknown,合并组的子车型不按平均份额、关注度、车源数量或价格拆量。,同口径分车型数量或可复核分配表
+估算参数,assumption,0.80/0.90/0.95兑现系数及0.88/0.93/0.97年保留系数为研究假设，未经UTV实证标定。,车型/用途/车龄存活率研究或登记跟踪样本
+原文异常,retained,GENERAL原文销售期倒置、Kubota RTV400/500年款与起售期矛盾、Brawley两份数量差异均保留。,OEM修订或VIN清单，不从VIN首尾做减法
+代际/适配,unknown,本版来源窗口不是完整代际，存量规模不能证明配件接口、适配或需求。,OEM零件号、安装接口、分代/车架与实车验证

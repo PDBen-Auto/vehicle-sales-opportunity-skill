@@ -1,0 +1,81 @@
+{
+  "RecallID": 9187,
+  "RecallNumber": "22032",
+  "RecallDate": "2021-12-15T00:00:00",
+  "Description": "This recall involves Hisun Motors Corp. U.S.A. Sector 250cc and RK Performance 250cc utility vehicles. Hisun and the model name are printed on the frame near the right rear wheel of the vehicles. They were sold in red, blue and camouflage colors.",
+  "URL": "https://www.cpsc.gov/Recalls/2022/Hisun-Motors-Corp-U-S-A-Recalls-250cc-Utility-Vehicles-Due-to-Fire-Hazard-Sold-Exclusively-at-Rural-King",
+  "Title": "Hisun Motors Corp. U.S.A. Recalls 250cc Utility Vehicles Due to Fire Hazard; Sold Exclusively at Rural King",
+  "ConsumerContact": "Hisun Motors  toll-free at 833 364-0554 from 8:30 a.m. to 5:30 p.m. CT Monday through Friday or online at www.hisunmotors.com and click on Product Safety Announcement at the bottom of the page or at: www.hisunmotors.com/recall/ for more information.",
+  "LastPublishDate": "2021-12-15T00:00:00",
+  "Products": [
+    {
+      "Name": "Hisun 250cc Utility Vehicles",
+      "Description": "",
+      "Model": "",
+      "Type": "",
+      "CategoryID": "",
+      "NumberOfUnits": "About 2,500"
+    }
+  ],
+  "Inconjunctions": [],
+  "Images": [
+    {
+      "URL": "https://www.cpsc.gov/s3fs-public/pic-1_2.png",
+      "Caption": "Recalled Hisun Motors Corp. U.S.A. Sector 250 utility vehicle"
+    },
+    {
+      "URL": "https://www.cpsc.gov/s3fs-public/pic-2_2.png",
+      "Caption": "Recalled Hisun Motors Corp. U.S.A. RK Performance 250 utility vehicle"
+    },
+    {
+      "URL": "https://www.cpsc.gov/s3fs-public/pic-3.png",
+      "Caption": "Recalled Hisun Motors Corp. U.S.A. utility vehicle VIN location"
+    }
+  ],
+  "Injuries": [
+    {
+      "Name": "Hisun Motors Corp. U.S.A. has received five reports of vehicle fires. No injuries have been reported."
+    }
+  ],
+  "Manufacturers": [],
+  "Retailers": [
+    {
+      "Name": "Rural King stores nationwide from November 2014 through June 2021 for about $5,000.",
+      "CompanyID": ""
+    }
+  ],
+  "Importers": [
+    {
+      "Name": "Hisun Motors Corp. U.S.A., of McKinney, Texas",
+      "CompanyID": ""
+    }
+  ],
+  "Distributors": [],
+  "SoldAtLabel": null,
+  "ManufacturerCountries": [
+    {
+      "Country": "Vietnam"
+    },
+    {
+      "Country": "China"
+    }
+  ],
+  "ProductUPCs": [],
+  "Hazards": [
+    {
+      "Name": "Grass can accumulate on the under-side of the utility vehicle near the exhaust pipe, posing a fire hazard.",
+      "HazardType": "",
+      "HazardTypeID": ""
+    }
+  ],
+  "Remedies": [
+    {
+      "Name": "Consumers should immediately stop using the recalled utility vehicles and contact Hisun U.S.A. for a free consumer installable repair kit or arrange to take the utility vehicle to an approved service center for a free repair."
+    }
+  ],
+  "RemedyOptions": [
+    {
+      "Option": "Repair"
+    }
+  ]
+}

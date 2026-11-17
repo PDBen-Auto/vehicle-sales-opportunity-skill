@@ -1,0 +1,70 @@
+{
+  "RecallID": 1301,
+  "RecallNumber": "13103",
+  "RecallDate": "2013-01-29T00:00:00",
+  "Description": "This recall involves 2011, 2012 and early 2013 model gas-powered Can-Am Commander side-by-side vehicles. The model name is printed on the vehicle's side panel. Models included in the recall are: Model Year 2011 Model Year 2012 Model Year 2013 (without Front Grill Kit) Can-Am Commander 800R and 1000 Can-Am Commander XT 800R and 1000 Can-Am Commander X 1000 Can-Am Commander 800R and 1000 Can-Am Commander XT 800R and 1000 Can-Am Commander X 1000 Can-Am Commander Limited 1000 Can-Am Commander 800R and 1000 Can-Am Commander XT 800R and 1000 Can-Am Commander X 1000 Can-Am Commander Limited 1000 Can-Am Commander DPS 800R and 1000",
+  "URL": "https://www.cpsc.gov/Recalls/2013/BRP-Recalls-Can-Am-Side-By-Side-Vehicles",
+  "Title": "BRP Recalls Can-Am Side-By-Side Vehicles Due to Fire Hazard",
+  "ConsumerContact": "BRP; toll-free at (888) 638-5397, from 8 a.m. to 6 p.m. ET Monday through Friday, or online at www.can-am.brp.com and click on \"recall information\" under the owner center for more information.",
+  "LastPublishDate": "2015-01-15T00:00:00",
+  "Products": [
+    {
+      "Name": "Can-Am® Commander Side-by-Side Off Road Vehicles",
+      "Description": "",
+      "Model": "",
+      "Type": "Recreational Off-Road Vehicles (ROV)",
+      "CategoryID": "68357",
+      "NumberOfUnits": "About 25,000"
+    }
+  ],
+  "Inconjunctions": [],
+  "Images": [
+    {
+      "URL": "https://www.cpsc.gov/s3fs-public/PageFiles.139968.13103.jpg",
+      "Caption": "Can Am Commander"
+    }
+  ],
+  "Injuries": [
+    {
+      "Name": "The firm has received 18 reports of fires related to accumulated debris in the exhaust pipe area, including one report of minor burns to the hand."
+    }
+  ],
+  "Manufacturers": [
+    {
+      "Name": "BRP Mexico S.A. de C.V., of Juarez, Chihuahua, Mexico",
+      "CompanyID": ""
+    }
+  ],
+  "Retailers": [
+    {
+      "Name": "Can-Am dealers nationwide from April 2010 through November 2012 for between $11,700 and $21,000.",
+      "CompanyID": ""
+    }
+  ],
+  "Importers": [],
+  "Distributors": [],
+  "SoldAtLabel": null,
+  "ManufacturerCountries": [
+    {
+      "Country": "Mexico"
+    }
+  ],
+  "ProductUPCs": [],
+  "Hazards": [
+    {
+      "Name": "Debris such as leaves, hay and grass in wet terrain areas can collect in the vehicle's exhaust pipe area in a short period of time. A hot exhaust pipe and accumulated debris that has dried, poses a risk of fire.",
+      "HazardType": "",
+      "HazardTypeID": ""
+    }
+  ],
+  "Remedies": [
+    {
+      "Name": "Consumers should immediately stop using the recalled vehicles, check their exhaust for accumulated debris as described in the Cleaning Procedure of Exhaust Area guide and contact a BRP dealer to schedule a free update kit repair. The guide is available to consumers at their local BRP dealer or online at www.can-am.brp.com. BRP has notified registered consumers directly about this recall and the vehicle's cleaning guide."
+    }
+  ],
+  "RemedyOptions": [
+    {
+      "Option": "Repair"
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "RecallID": 8407,
+  "RecallNumber": "18233",
+  "RecallDate": "2018-09-26T00:00:00",
+  "Description": "This recall involves 2016-2018 CFORCE 400, 2017-2018 CFORCE 500S and 2017-2018 CFORCE 500HO ATVs with 400cc to 500cc, 4-cycle engines. The \"CFMOTO\" logo is located on the front and rear grille, and a \"CFORCE\" decal is on each side of the fuel tank. CFMOTO CFORCE vehicles were sold in orange, blue, red and gray. The vehicle identification number (VIN) is located under the seat on the top of the right side, top frame rail.",
+  "URL": "https://www.cpsc.gov/Recalls/2018/CFMOTO-Recalls-AllTerrain-Vehicles-Due-to-Fire-Hazard",
+  "Title": "CFMOTO Recalls All-Terrain Vehicles Due to Fire Hazard",
+  "ConsumerContact": "CFMOTO toll-free at 888-823-6686 from 8 a.m. to 5 p.m. CT Monday through Friday, email at info@cfmotousa.com or online at www.cfmotousa.com and click on Customer Care and then Vehicle Safety for more information.",
+  "LastPublishDate": "2018-09-26T00:00:00",
+  "Products": [
+    {
+      "Name": "CFORCE all-terrain off-highway vehicles (ATVs)",
+      "Description": "",
+      "Model": "",
+      "Type": "",
+      "CategoryID": "",
+      "NumberOfUnits": "About 5,300"
+    }
+  ],
+  "Inconjunctions": [],
+  "Images": [
+    {
+      "URL": "https://www.cpsc.gov/s3fs-public/1175_1.png",
+      "Caption": "Recalled CFORCE 500 HO ATV"
+    },
+    {
+      "URL": "https://www.cpsc.gov/s3fs-public/1175_2.png",
+      "Caption": "Recalled CFORCE 500 S ATV"
+    },
+    {
+      "URL": "https://www.cpsc.gov/s3fs-public/1175_3.png",
+      "Caption": "Recalled CFORCE 400 ATV"
+    },
+    {
+      "URL": "https://www.cpsc.gov/s3fs-public/1175_4.png",
+      "Caption": "CFMOTO logo on front grill"
+    }
+  ],
+  "Injuries": [
+    {
+      "Name": "None reported"
+    }
+  ],
+  "Manufacturers": [
+    {
+      "Name": "Zhejiang CFMOTO Power Co. Ltd., of China",
+      "CompanyID": ""
+    }
+  ],
+  "Retailers": [
+    {
+      "Name": "CFMOTO dealers nationwide from November 2015 through July 2018 for between $4,200 and $6,000.",
+      "CompanyID": ""
+    }
+  ],
+  "Importers": [
+    {
+      "Name": "CFMOTO Powersports Inc., of Plymouth, Minn.",
+      "CompanyID": ""
+    }
+  ],
+  "Distributors": [],
+  "SoldAtLabel": null,
+  "ManufacturerCountries": [
+    {
+      "Country": "China"
+    }
+  ],
+  "ProductUPCs": [],
+  "Hazards": [
+    {
+      "Name": "The fuel hose can crack and fuel can leak from the vehicle, posing a fire hazard.",
+      "HazardType": "",
+      "HazardTypeID": ""
+    }
+  ],
+  "Remedies": [
+    {
+      "Name": "Consumers should immediately stop using the recalled ATVs and contact a CFMOTO dealer to schedule a free repair. CFMOTO is contacting all registered owners directly."
+    }
+  ],
+  "RemedyOptions": [
+    {
+      "Option": "Repair"
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "RecallID": 9524,
+  "RecallNumber": "23723",
+  "RecallDate": "2023-02-09T00:00:00",
+  "Description": "This recall involves certain BRP Model Year 2023 Can-Am Commander, Defender, Maverick Trail and Sport series side-by-side vehicles. The vehicles were sold in a variety of colors. Can-Am and the model name are printed on the side panels of the vehicles. The Vehicle Identification Number (VIN) is printed on a label under the glove box.",
+  "URL": "https://www.cpsc.gov/Recalls/2023/BRP-Recalls-Side-By-Side-Vehicles-Due-to-Fire-Hazard-Recall-Alert-1",
+  "Title": "BRP Recalls Side-By-Side Vehicles Due to Fire Hazard (Recall Alert)",
+  "ConsumerContact": "BRP toll-free at 888-272-9222 from 8 a.m. to 8 p.m. ET Monday through Sunday, online contact form at https://can-am.brp.com/off-road/us/en/owner-zone/safety-recalls/fuel-hose-assembly-internal-damage-potential-fuel-leak.html or at https://can-am.brp.com/off-road/us/en/ and click \"Safety Recalls\" at the bottom of any pages for more information.",
+  "LastPublishDate": "2023-02-09T00:00:00",
+  "Products": [
+    {
+      "Name": "Model Year 2023 Can-Am side-by-side vehicles",
+      "Description": "",
+      "Model": "",
+      "Type": "",
+      "CategoryID": "",
+      "NumberOfUnits": "About 3,310 (In addition, about 320 were sold in Canada and about 34 were sold in Mexico)"
+    }
+  ],
+  "Inconjunctions": [],
+  "Images": [
+    {
+      "URL": "https://www.cpsc.gov/s3fs-public/1_90.png",
+      "Caption": "Recalled Model Year 2023 Can-Am Commander series side-by-side vehicle"
+    },
+    {
+      "URL": "https://www.cpsc.gov/s3fs-public/2_76.png",
+      "Caption": "Recalled Model Year 2023 Can-Am Defender series side-by-side vehicle"
+    },
+    {
+      "URL": "https://www.cpsc.gov/s3fs-public/3_56.png",
+      "Caption": "Recalled Model Year 2023 Can-Am Maverick Sport and Trail series side-by-side vehicle"
+    }
+  ],
+  "Injuries": [
+    {
+      "Name": "None reported"
+    }
+  ],
+  "Manufacturers": [],
+  "Retailers": [
+    {
+      "Name": "Can-Am dealers nationwide from October 2022 through November 2022 for between $12,500 and $22,500.",
+      "CompanyID": ""
+    }
+  ],
+  "Importers": [],
+  "Distributors": [
+    {
+      "Name": "BRP U.S. Inc, of Sturtevant, Wisconsin",
+      "CompanyID": ""
+    }
+  ],
+  "SoldAtLabel": null,
+  "ManufacturerCountries": [
+    {
+      "Country": "Mexico"
+    }
+  ],
+  "ProductUPCs": [],
+  "Hazards": [
+    {
+      "Name": "The recalled vehicles can have a defective fuel hose assembly which could lead to a fuel leak, posing a fire hazard.",
+      "HazardType": "",
+      "HazardTypeID": ""
+    }
+  ],
+  "Remedies": [
+    {
+      "Name": "Consumers should immediately stop using the recalled vehicles and contact a Can-Am dealer for a free repair to replace the fuel hose assembly. BRP is contacting all known purchasers directly."
+    }
+  ],
+  "RemedyOptions": [
+    {
+      "Option": "Repair"
+    }
+  ]
+}

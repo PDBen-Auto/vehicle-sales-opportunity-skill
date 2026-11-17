@@ -1,0 +1,78 @@
+{
+  "RecallID": 1185,
+  "RecallNumber": "12727",
+  "RecallDate": "2012-03-15T00:00:00",
+  "Description": "The vehicles are model year 2012 Kawasaki four-wheeled, off-highway utility vehicles with side-by-side seating for two people and automobile style controls. Each model has a bench seat, a rollover protection structure and a cargo bed. The vehicles are available in the colors green, red, black and camouflage. The following models are being recalled: MODEL NAME MODEL NUMBERS COLORS MULE 600 KAF400BCF Green MULE 610 4x4 KAF400ACF Red or Green MULE 610 4x4 XC KAF400DCF or KAF400ECF Black or Camouflage The brand name appears on the sides and tailgate of the cargo bed and the model name appears on the sides of the front cowl. The model number can be found on a label under the seat, which flips up. The abbreviation \"4WD\" also appears on the sides of the of the cargo bed of the 610 models.",
+  "URL": "https://www.cpsc.gov/Recalls/2012/Kawasaki-USA-Recalls-Utility-Vehicles-due-to-Fire-Hazard",
+  "Title": "Kawasaki USA Recalls Utility Vehicles due to Fire Hazard",
+  "ConsumerContact": "For more information, contact Kawasaki between 8 a.m. and 5 p.m. PT Monday through Friday toll-free at (866) 802-9381 or visit the firm's website at www.kawasaki.com. Kawasaki is contacting its customers directly.",
+  "LastPublishDate": "2016-04-20T00:00:00",
+  "Products": [
+    {
+      "Name": "Utility Vehicles",
+      "Description": "",
+      "Model": "",
+      "Type": "Utility Vehicles",
+      "CategoryID": "68355",
+      "NumberOfUnits": "About 3,900"
+    }
+  ],
+  "Inconjunctions": [],
+  "Images": [
+    {
+      "URL": "https://www.cpsc.gov/s3fs-public/Recall.2012.12727.12727a.jpg",
+      "Caption": "MULE 600 (KAF400BCF)"
+    },
+    {
+      "URL": "https://www.cpsc.gov/s3fs-public/Recall.2012.12727.12727b.jpg",
+      "Caption": "MULE 610 4x4 (KAF400ACF)"
+    },
+    {
+      "URL": "https://www.cpsc.gov/s3fs-public/Recall.2012.12727.12727c.jpg",
+      "Caption": "MULE 610 4x4 XC (KAF400DCF/ECF)"
+    }
+  ],
+  "Injuries": [
+    {
+      "Name": "Kawasaki has not received any reports of incidents or injuries."
+    }
+  ],
+  "Manufacturers": [],
+  "Retailers": [
+    {
+      "Name": "Kawasaki dealers nationwide from June 2011 to February 2012 for between $6,700 and $8,200.",
+      "CompanyID": ""
+    }
+  ],
+  "Importers": [],
+  "Distributors": [
+    {
+      "Name": "Kawasaki Motors Corp. USA, of Irvine, Calif.",
+      "CompanyID": ""
+    }
+  ],
+  "SoldAtLabel": null,
+  "ManufacturerCountries": [
+    {
+      "Country": "United States"
+    }
+  ],
+  "ProductUPCs": [],
+  "Hazards": [
+    {
+      "Name": "The fuel tube can scrape against the air cleaner housing and develop holes, posing a fire hazard.",
+      "HazardType": "",
+      "HazardTypeID": ""
+    }
+  ],
+  "Remedies": [
+    {
+      "Name": "Consumers should immediately stop using these vehicles and contact their Kawasaki dealer to schedule a free inspection and repair."
+    }
+  ],
+  "RemedyOptions": [
+    {
+      "Option": "Repair"
+    }
+  ]
+}

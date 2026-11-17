@@ -1,0 +1,91 @@
+{
+  "RecallID": 8454,
+  "RecallNumber": "19714",
+  "RecallDate": "2018-11-08T00:00:00",
+  "Description": "This recall involves all model year 2016 through 2017, and some model year 2018 Honda Pioneer 1000 side-by-side vehicles. The recalled vehicles were sold in various colors including: red, blue, green, gray and yellow. The name \"HONDA\" is on the front, sides and the rear of the vehicle. The model name Pioneer 1000 is printed on a label located on both sides of the vehicle, near the rear. The serial number (VIN #) is stamped in the frame at the left rear, below the tilt-up bed/seat. The following model numbers and serial number ranges are being recalled: MY Model VIN Start 2016 Pioneer 1000 3P (SXS10M3*) 1HFVE04**G4000001 --- 1HFVE04**G4008403 2016 Pioneer 1000 5P (SXS10M5*) 1HFVE04**G4000001 --- 1HFVE04**G4010507 2017 Pioneer 1000 3P (SXS10M3*) 1HFVE04**H4100001 --- 1HFVE04**H4102101 2017 Pioneer 1000 5P (SXS10M5*) 1HFVE04**H4100001 --- 1HFVE04**H4103000 2018 Pioneer 1000 3P (SXS10M3*) 1HFVE04**J4200001 --- 1HFVE04**J4200720 2018 Pioneer 1000 5P (SXS10M5*) 1HFVE04**J4200001 --- 1HFVE04**J4200780 * Variable character",
+  "URL": "https://www.cpsc.gov/Recalls/2019/American-Honda-Recalls-Recreational-Off-Highway-Vehicles-Due-to-Fire-and-Burn-Hazards-Recall-Alert",
+  "Title": "American Honda Recalls Recreational Off-Highway Vehicles Due to Fire and Burn Hazards (Recall Alert)",
+  "ConsumerContact": "American Honda toll-free at 866-784-1870 from 8:30 a.m. to 4:30 p.m. PT Monday through Friday or online at http://powersports.honda.com/ and click on “Recall Information” at the bottom of the page for more information.",
+  "LastPublishDate": "2018-11-08T00:00:00",
+  "Products": [
+    {
+      "Name": "Recreational off-highway vehicles (ROVs)",
+      "Description": "",
+      "Model": "",
+      "Type": "",
+      "CategoryID": "",
+      "NumberOfUnits": "About 56,000"
+    }
+  ],
+  "Inconjunctions": [],
+  "Images": [
+    {
+      "URL": "https://www.cpsc.gov/s3fs-public/pic7_3.png",
+      "Caption": "2016-2018 Model Year Honda Pioneer 1000 5P"
+    },
+    {
+      "URL": "https://www.cpsc.gov/s3fs-public/pic8_2.png",
+      "Caption": "2016-2018 Model Year Honda Pioneer 1000 3P"
+    },
+    {
+      "URL": "https://www.cpsc.gov/s3fs-public/pic9_1.jpg",
+      "Caption": "Location of Name Plate and VIN Number"
+    },
+    {
+      "URL": "https://www.cpsc.gov/s3fs-public/pic10_2.jpg",
+      "Caption": "Location of VIN Number"
+    },
+    {
+      "URL": "https://www.cpsc.gov/s3fs-public/pic11_3.jpg",
+      "Caption": "Location of Name Plate"
+    }
+  ],
+  "Injuries": [
+    {
+      "Name": "The firm has received 5 reports of throttle body igniting. No injuries have been reported."
+    }
+  ],
+  "Manufacturers": [
+    {
+      "Name": "Honda of South Carolina Mfg. Inc. (HSC), of Timmonsville, S.C.",
+      "CompanyID": ""
+    }
+  ],
+  "Retailers": [
+    {
+      "Name": "Authorized Honda Powersports dealers nationwide from August 2015 through August 2018 for between $14,000 and $22,000.",
+      "CompanyID": ""
+    }
+  ],
+  "Importers": [],
+  "Distributors": [
+    {
+      "Name": "American Honda Motor Company Inc., of Torrance, Calif.",
+      "CompanyID": ""
+    }
+  ],
+  "SoldAtLabel": null,
+  "ManufacturerCountries": [
+    {
+      "Country": "United States"
+    }
+  ],
+  "ProductUPCs": [],
+  "Hazards": [
+    {
+      "Name": "An incorrectly installed throttle body can ignite, posing fire and burn hazards to consumers.",
+      "HazardType": "",
+      "HazardTypeID": ""
+    }
+  ],
+  "Remedies": [
+    {
+      "Name": "Consumers should immediately stop using the recalled ROVs and contact an authorized Honda Powersports dealer to schedule an appointment for a free inspection and repair. Honda is contacting all known purchasers directly."
+    }
+  ],
+  "RemedyOptions": [
+    {
+      "Option": "Repair"
+    }
+  ]
+}

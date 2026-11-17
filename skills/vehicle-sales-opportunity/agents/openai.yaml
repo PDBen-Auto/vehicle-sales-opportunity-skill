@@ -1,4 +1,4 @@
 interface:
-  display_name: "车辆销量可视化与机会调研"
-  short_description: "把已有车型销量表变为交互看板、同期变化分析和可验证的业务调研清单"
-  default_prompt: "使用 $vehicle-sales-opportunity 分析我已有的销量数据，制作可交互看板并设计机会验证步骤，不涉及数据来源或采集。"
+  display_name: "跨载具可视化与机会调研"
+  short_description: "汽车、摩托车、UTV、ATV和船舶的可视化、同期分析与机会调研"
+  default_prompt: "使用 $vehicle-sales-opportunity 分析我已有的汽车、摩托车、UTV、ATV或船舶数据，按类型和指标分开展示；需要时参考完整UTV/ATV真实案例设计研究。"

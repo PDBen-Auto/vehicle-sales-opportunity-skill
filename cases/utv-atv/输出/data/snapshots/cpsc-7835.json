@@ -1,0 +1,82 @@
+{
+  "RecallID": 7835,
+  "RecallNumber": "16768",
+  "RecallDate": "2016-08-23T00:00:00",
+  "Description": "This recall involves all model year 2016 Arctic Cat 700 HDX models and model year 2017 Arctic Cat 700 HDX CREW models within the vehicle identification number range of 300001 through 301280. The recalled utility vehicles have four wheels with side-by-side seating for three or six people. They were sold in a variety of colors including green, black, fire red, true timber camo and other colors. \"Arctic Cat\" is printed on the sides, front and rear of the utility vehicles. \"HDX\" is printed on the sides of the front fenders. The vehicle identification number on the 700 HDX CREW models is stamped into the upper frame tube under the rear of the cargo box.",
+  "URL": "https://www.cpsc.gov/Recalls/2016/Arctic-Cat-Recalls-Side-by-Side-Utility-Vehicles",
+  "Title": "Arctic Cat Recalls Side-by-Side Utility Vehicles Due to Crash Hazard (Recall Alert)",
+  "ConsumerContact": "Arctic Cat at 800-279-6851 from 8 a.m. to 5 p.m. CT Monday through Friday or online at www.arcticcat.com and click on \"Customer Care,\" then \"Product Recall,\" and then \"List of Safety Bulletins\" for more information.",
+  "LastPublishDate": "2016-08-23T00:00:00",
+  "Products": [
+    {
+      "Name": "Side-by-side utility vehicles",
+      "Description": "",
+      "Model": "",
+      "Type": "Utility Vehicles",
+      "CategoryID": "68355",
+      "NumberOfUnits": "About 4,500"
+    }
+  ],
+  "Inconjunctions": [],
+  "Images": [
+    {
+      "URL": "https://www.cpsc.gov/s3fs-public/16768a.jpg",
+      "Caption": "Model Year 2016 Arctic Cat 700 HDX Hunter Edition"
+    },
+    {
+      "URL": "https://www.cpsc.gov/s3fs-public/16768b.jpg",
+      "Caption": "Model Year 2016 Arctic Cat 700 HDX XT Black"
+    },
+    {
+      "URL": "https://www.cpsc.gov/s3fs-public/16768c.jpg",
+      "Caption": "Model Year 2016 Arctic Cat 700 HDX XT TAG Green"
+    },
+    {
+      "URL": "https://www.cpsc.gov/s3fs-public/16768d.jpg",
+      "Caption": "Model Year 2017 Arctic Cat 700 HDX CREW"
+    }
+  ],
+  "Injuries": [
+    {
+      "Name": "Arctic Cat has received 14 reports of the throttle cable malfunctioning, including one report of a wrist injury."
+    }
+  ],
+  "Manufacturers": [
+    {
+      "Name": "Arctic Cat Inc., of Thief River Falls, Minn.",
+      "CompanyID": ""
+    }
+  ],
+  "Retailers": [
+    {
+      "Name": "Arctic Cat dealers nationwide from April 2015 through July 2016 for between $14,500 and $16,000.",
+      "CompanyID": ""
+    }
+  ],
+  "Importers": [],
+  "Distributors": [],
+  "SoldAtLabel": null,
+  "ManufacturerCountries": [
+    {
+      "Country": "United States"
+    }
+  ],
+  "ProductUPCs": [],
+  "Hazards": [
+    {
+      "Name": "The throttle cable can stick and prevent the throttle mechanism from returning to an idle position upon release of the throttle and cause the rider to lose control, posing a crash hazard and risk of injury.",
+      "HazardType": "",
+      "HazardTypeID": ""
+    }
+  ],
+  "Remedies": [
+    {
+      "Name": "Consumers should immediately stop using the recalled side-by-sides and contact an Arctic Cat dealer to schedule a free repair. Artic Cat is contacting all known purchasers directly."
+    }
+  ],
+  "RemedyOptions": [
+    {
+      "Option": "Repair"
+    }
+  ]
+}

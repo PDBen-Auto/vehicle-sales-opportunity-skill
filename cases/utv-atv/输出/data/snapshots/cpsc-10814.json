@@ -1,0 +1,87 @@
+{
+  "RecallID": 10814,
+  "RecallNumber": "26550",
+  "RecallDate": "2026-06-11T00:00:00",
+  "Description": "This recall involves Model Year 2026 Kawasaki Teryx4 H2 and Teryx5 H2 recreational off-road vehicles with the following model numbers: KRT1000D, KRT1000F and KRT1000G. Each unit has a unique VIN number located on the right rear of the main frame underneath the rear fender and above the rear wheel. The vehicles have either \"Teryx4 H2\" or \"Teryx5 H2\" on the driver and front passenger doors and the Kawasaki logo on both the left and right side above the rear wheels. The recalled vehicles were sold in lime green color. Model numbers are printed on the owner's manual.",
+  "URL": "https://www.cpsc.gov/Recalls/2026/Kawasaki-Motors-USA-Recalls-Model-Year-2026-Teryx4-H2-and-Teryx5-H2-Recreational-Off-Road-Vehicles-Due-to-Impact-and-Injury-Hazards",
+  "Title": "Kawasaki Motors USA Recalls Model Year 2026 Teryx4 H2 and Teryx5 H2 Recreational Off-Road Vehicles Due to Impact and Injury Hazards",
+  "ConsumerContact": "Kawasaki Motors USA toll-free at 855-878-4217 from 7 a.m. to 4 p.m. PT Monday through Friday, or online at www.kawasaki.com/en-us/owner-center/recalls or www.kawasaki.com and click on \"Recalls\" for more information.",
+  "LastPublishDate": "2026-06-12T00:00:00",
+  "Products": [
+    {
+      "Name": "Model Year 2026 Teryx4 H2 and Teryx5 H2 recreational off-road vehicles",
+      "Description": "",
+      "Model": "",
+      "Type": "",
+      "CategoryID": "",
+      "NumberOfUnits": "About 3,585"
+    }
+  ],
+  "Inconjunctions": [],
+  "Images": [
+    {
+      "URL": "https://www.cpsc.gov/s3fs-public/tery-1.png",
+      "Caption": "Recalled 2026 Teryx4 H2 recreational off-road vehicle – front/side view"
+    },
+    {
+      "URL": "https://www.cpsc.gov/s3fs-public/tery-2.png",
+      "Caption": "Recalled 2026 Teryx4 H2 recreational off-road vehicle – back/side view"
+    },
+    {
+      "URL": "https://www.cpsc.gov/s3fs-public/tery-3.jpg",
+      "Caption": "Recalled 2026 Teryx5 H2 recreational off-road vehicle – front/side view"
+    },
+    {
+      "URL": "https://www.cpsc.gov/s3fs-public/tery-4.jpg",
+      "Caption": "Recalled 2026 Teryx5 H2 recreational off-road vehicle – side view"
+    }
+  ],
+  "Injuries": [
+    {
+      "Name": "Kawasaki has received 19 reports of incidents involving drive converter sheave breakage. No injuries have been reported."
+    }
+  ],
+  "Manufacturers": [
+    {
+      "Name": "Kawasaki Motors Manufacturing Corp., U.S.A., of Lincoln, Nebraska",
+      "CompanyID": ""
+    }
+  ],
+  "Retailers": [
+    {
+      "Name": "Authorized Kawasaki dealers nationwide from June 2025 to January 2026 for between $37,200 and $43,700.",
+      "CompanyID": ""
+    }
+  ],
+  "Importers": [],
+  "Distributors": [
+    {
+      "Name": "Kawasaki Motors Corp. U.S.A., of Foothill Ranch, California",
+      "CompanyID": ""
+    }
+  ],
+  "SoldAtLabel": null,
+  "ManufacturerCountries": [
+    {
+      "Country": "United States"
+    }
+  ],
+  "ProductUPCs": [],
+  "Hazards": [
+    {
+      "Name": "The drive converter sheave can break in certain circumstances, resulting in metal fragments being discharged within the engine compartment and surrounding area, posing impact and injury hazards.",
+      "HazardType": "",
+      "HazardTypeID": ""
+    }
+  ],
+  "Remedies": [
+    {
+      "Name": "Consumers should stop using the recalled vehicles immediately and contact a Kawasaki dealer to schedule a free repair. A technician will replace the moveable clutch sheave assembly, install a clutch cover guard and reprogram the Engine Control Unit (ECU) on the vehicle. Kawasaki is contacting all known purchasers directly."
+    }
+  ],
+  "RemedyOptions": [
+    {
+      "Option": "Repair"
+    }
+  ]
+}

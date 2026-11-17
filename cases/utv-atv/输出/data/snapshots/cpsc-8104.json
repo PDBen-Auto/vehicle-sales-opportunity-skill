@@ -1,0 +1,83 @@
+{
+  "RecallID": 8104,
+  "RecallNumber": "17195",
+  "RecallDate": "2017-07-25T00:00:00",
+  "Description": "This recall involves all model year 2015 through 2017 youth RZR 170 recreational off-highway vehicles (ROVs). The recalled ROVs have two seats and were sold in red, blue and white. For model year 2015 ROVs, \"Polaris\" is printed on the front grill, \"RZR\" is printed on the rear panel, and \"170\" is printed on the front panel. For model year 2016 and 2017 ROVs, \"Polaris\" is printed on the front grill and on the rear panel, and \"RZR\" is printed on the front panel. The VIN is printed on the frame on the driver's side front wheel well. Year Model Description 2015 R15YAV17AA RZR 170 EFI RED 2015 R15YAV17AF RZR 170 EFI BLUE 2015 R15YAV17BA RZR 170 EFI RED 2015 R15YAV17BF RZR 170 EFI BLUE 2016 Z16YAV17AB RZR 170 WHITE 2016 Z16YAV17AF RZR 170 BLUE 2016 Z16YAV1CAB RZR 170 WHITE 2016 Z16YAV1CAF RZR 170 BLUE 2017 Z17YAV17A2 RZR 170 WHITE 2017 Z17YAV17A5 RZR 170 BLUE",
+  "URL": "https://www.cpsc.gov/Recalls/2017/Polaris-Recalls-RZR-170-Recreational-Off-Highway-Vehicles",
+  "Title": "Polaris Recalls RZR 170 Recreational Off-Highway Vehicles Due to Fuel Leak, Fire Hazards",
+  "ConsumerContact": "Polaris at 800-765-2747 from 7 a.m. through 7 p.m. CT Monday through Friday, or online at www.polaris.com and click on \"Off Road Safety Recalls\" for more information. In addition, check your vehicle identification number (VIN) on the \"Product Safety Recalls\" page to see if your vehicle is included in any recalls.",
+  "LastPublishDate": "2017-07-25T00:00:00",
+  "Products": [
+    {
+      "Name": "RZR 170 recreational off-highway vehicles (ROVs)",
+      "Description": "",
+      "Model": "",
+      "Type": "",
+      "CategoryID": "",
+      "NumberOfUnits": "16800"
+    }
+  ],
+  "Inconjunctions": [],
+  "Images": [
+    {
+      "URL": "https://www.cpsc.gov/s3fs-public/2015_rzr_170_efi_indy_red_prfl.jpg",
+      "Caption": "2015 RZR 170 in red"
+    },
+    {
+      "URL": "https://www.cpsc.gov/s3fs-public/2016-rzr-170-voodoo-blue-pr.jpg",
+      "Caption": "2016 RZR 170 in blue"
+    },
+    {
+      "URL": "https://www.cpsc.gov/s3fs-public/2016-rzr-170-white-lightning-pr.jpg",
+      "Caption": "2017 RZR 170 in white"
+    }
+  ],
+  "Injuries": [
+    {
+      "Name": "Polaris has received 102 reports of cracked fuel tank necks and 28 reports of burning, smoking, melted and/or shorted wires, including four reports of fires. No injuries have been reported."
+    }
+  ],
+  "Manufacturers": [
+    {
+      "Name": "Aeon Motors Ltd., of Taiwan",
+      "CompanyID": ""
+    }
+  ],
+  "Retailers": [
+    {
+      "Name": "Polaris dealers nationwide from February 2015 through July 2017 for between $4,600 and $4,800.",
+      "CompanyID": ""
+    }
+  ],
+  "Importers": [
+    {
+      "Name": "Polaris Industries Inc., of Medina, Minn.",
+      "CompanyID": ""
+    }
+  ],
+  "Distributors": [],
+  "SoldAtLabel": null,
+  "ManufacturerCountries": [
+    {
+      "Country": "Taiwan"
+    }
+  ],
+  "ProductUPCs": [],
+  "Hazards": [
+    {
+      "Name": "The fuel tank neck can crack or the wiring harness can overheat or short circuit, posing fuel leak and fire hazards.",
+      "HazardType": "",
+      "HazardTypeID": ""
+    }
+  ],
+  "Remedies": [
+    {
+      "Name": "Consumers should immediately stop using the recalled ROVs and contact Polaris to schedule a free repair. Polaris is contacting all known purchasers directly."
+    }
+  ],
+  "RemedyOptions": [
+    {
+      "Option": "Repair"
+    }
+  ]
+}

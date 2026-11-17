@@ -1,0 +1,190 @@
+{
+  "as_of_date": "2026-11-17",
+  "runtime": "isolated Playwright / direct file URL",
+  "checks": [
+    {
+      "name": "initial_us_63_entries",
+      "passed": true
+    },
+    {
+      "name": "initial_15_rows",
+      "passed": true
+    },
+    {
+      "name": "full_vio_remains_unknown",
+      "passed": true
+    },
+    {
+      "name": "desktop_no_body_overflow",
+      "passed": true
+    },
+    {
+      "name": "visible_images_load",
+      "passed": true
+    },
+    {
+      "name": "search_rzr",
+      "passed": true
+    },
+    {
+      "name": "empty_search_state",
+      "passed": true
+    },
+    {
+      "name": "brand_filter_honda",
+      "passed": true
+    },
+    {
+      "name": "category_filter_sport",
+      "passed": true
+    },
+    {
+      "name": "canada_15_entries",
+      "passed": true
+    },
+    {
+      "name": "mexico_one_group",
+      "passed": true
+    },
+    {
+      "name": "mexico_historical_100",
+      "passed": true
+    },
+    {
+      "name": "all_124_entries",
+      "passed": true
+    },
+    {
+      "name": "pagination_changes_rows",
+      "passed": true
+    },
+    {
+      "name": "pagination_returns",
+      "passed": true
+    },
+    {
+      "name": "unknown_61_entries",
+      "passed": true
+    },
+    {
+      "name": "20_explicit_groups",
+      "passed": true
+    },
+    {
+      "name": "detail_opens",
+      "passed": true
+    },
+    {
+      "name": "rzr_two_nonoverlap_components",
+      "passed": true
+    },
+    {
+      "name": "rzr_detail_correct_baseline",
+      "passed": true
+    },
+    {
+      "name": "escape_closes_modal",
+      "passed": true
+    },
+    {
+      "name": "child_has_no_allocated_number",
+      "passed": true
+    },
+    {
+      "name": "parent_navigation_correct",
+      "passed": true
+    },
+    {
+      "name": "parameter_status_updates",
+      "passed": true
+    },
+    {
+      "name": "html_sensitivity",
+      "passed": true,
+      "detail": {
+        "baseline": "52,600",
+        "changed": "38,200"
+      }
+    },
+    {
+      "name": "filtered_export_matches_adjusted_value",
+      "passed": true
+    },
+    {
+      "name": "html_sensitivity_restores",
+      "passed": true
+    },
+    {
+      "name": "coverage_gaps_visible",
+      "passed": true
+    },
+    {
+      "name": "105_source_rows",
+      "passed": true
+    },
+    {
+      "name": "mobile_no_body_overflow",
+      "passed": true,
+      "detail": {
+        "body": 390,
+        "viewport": 390
+      }
+    },
+    {
+      "name": "mobile_numeric_card_visible",
+      "passed": true
+    },
+    {
+      "name": "mobile_main_table_has_no_horizontal_scroll",
+      "passed": true
+    },
+    {
+      "name": "mobile_modal_fits",
+      "passed": true
+    },
+    {
+      "name": "mobile_method_no_overflow",
+      "passed": true
+    },
+    {
+      "name": "no_page_errors",
+      "passed": true,
+      "detail": []
+    },
+    {
+      "name": "no_console_errors",
+      "passed": true,
+      "detail": []
+    },
+    {
+      "name": "no_remote_runtime_requests",
+      "passed": true,
+      "detail": []
+    }
+  ],
+  "errors": [],
+  "native_excel_recalculation": "not tested",
+  "archive_status": "not published: current conversation has no confirmed business project",
+  "source_task_id": "01a1d30f-d97a-7532-9cae-759ea260d0fa",
+  "browser_executable": "C:\\Users\\SYZ\\AppData\\Local\\ms-playwright\\chromium-1224\\chrome-win64\\chrome.exe",
+  "passed": true,
+  "closed_all_test_pages": true,
+  "closed_owned_browser": true,
+  "visual_review": {
+    "desktop_1440": "inspected: table, source imagery and detail readable",
+    "mobile_390": "inspected: cards display complete primary values; modal and method fit viewport",
+    "workbook_eight_sheets": "rendered and inspected; values, labels and headers readable"
+  },
+  "standard_data_qa": {
+    "errors": 0,
+    "warnings": 77,
+    "retained_warning_types": {
+      "unknown_generation": 76,
+      "partial_market_coverage": 1
+    }
+  },
+  "scenario_data_qa": {
+    "passed": true,
+    "checks": 3053
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "RecallID": 8658,
+  "RecallNumber": "19776",
+  "RecallDate": "2019-09-04T00:00:00",
+  "Description": "This recall involves John Deere Gator utility vehicles with model number \"XUV835\" printed on the hood. \"John Deere\" and \"Gator\" are printed on the cargo box. The serial number is located on the frame directly above right front tire and begins with 1M0835 and falls within the ranges on the chart below. The recalled utility vehicles were sold in green and yellow, olive drab and camouflage and have side-by-side seating for two or three people, depending on the seat option. Serial Number Range 1M0835ExxxM010001 - 1M0835ExxxM020413 1M0835MxxxM010001 - 1M0835MxxxM022741 1M0835RxxxM010001 - 1M0835RxxxM023115 1M0835EAPMM560107 1M0835MECLM544103 1M0835MAPMM560108 1M0835RBCLM544102 1M0835RATMM560102 1M0835RAPMM560103 1M0835RAKMM560104 1M0835RAJMM560105",
+  "URL": "https://www.cpsc.gov/Recalls/2019/Gator-Utility-Vehicles-Recalled-by-John-Deere-Due-to-Crash-Hazard-Recall-Alert",
+  "Title": "Gator Utility Vehicles Recalled by John Deere Due to Crash Hazard (Recall Alert)",
+  "ConsumerContact": "Deere & Company at 800-537-8233 from 8 a.m. to 6 p.m. ET Monday through Friday and 9 a.m. to 3 p.m. ET on Saturday, or online at www.deere.com and click on “Recalls” on the drop-down menu under “Parts & Services” for more information.",
+  "LastPublishDate": "2019-09-04T00:00:00",
+  "Products": [
+    {
+      "Name": "John Deere XUV835 Gator utility vehicles",
+      "Description": "",
+      "Model": "",
+      "Type": "",
+      "CategoryID": "",
+      "NumberOfUnits": "About 19,730 (In addition, about 840 were sold in Canada)"
+    }
+  ],
+  "Inconjunctions": [
+    {
+      "URL": "https://wwwapps.tc.gc.ca/Saf-Sec-Sur/7/VRDB-BDRV/search-recherche/detail.aspx?rn=2019372"
+    }
+  ],
+  "Images": [
+    {
+      "URL": "https://www.cpsc.gov/s3fs-public/Screen Shot 2019-09-04 at 7.59.15 AM.png",
+      "Caption": "Recalled John Deere XUV835 Gator™ utility vehicle"
+    }
+  ],
+  "Injuries": [
+    {
+      "Name": "John Deere has received reports of nine incidents. No injuries have been reported."
+    }
+  ],
+  "Manufacturers": [
+    {
+      "Name": "Deere & Company, of Moline, Ill.",
+      "CompanyID": ""
+    }
+  ],
+  "Retailers": [
+    {
+      "Name": "John Deere dealers nationwide from November 2017 through July 2019 for between $13,860 and $22,930.",
+      "CompanyID": ""
+    }
+  ],
+  "Importers": [],
+  "Distributors": [],
+  "SoldAtLabel": null,
+  "ManufacturerCountries": [
+    {
+      "Country": "United States"
+    }
+  ],
+  "ProductUPCs": [],
+  "Hazards": [
+    {
+      "Name": "The plastic sheathing on the throttle cable can melt due to improper routing, causing the throttle to stick. This could result in the operator not being able to stop the vehicle, posing a crash hazard.",
+      "HazardType": "",
+      "HazardTypeID": ""
+    }
+  ],
+  "Remedies": [
+    {
+      "Name": "Consumers should immediately stop using the recalled vehicles and contact an authorized John Deere dealer for a free inspection and repair of improperly routed throttle cables. John Deere is contacting all known purchasers directly."
+    }
+  ],
+  "RemedyOptions": [
+    {
+      "Option": "Repair"
+    }
+  ]
+}

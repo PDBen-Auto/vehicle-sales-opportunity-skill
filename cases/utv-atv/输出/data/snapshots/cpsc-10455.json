@@ -1,0 +1,90 @@
+{
+  "RecallID": 10455,
+  "RecallNumber": "26054",
+  "RecallDate": "2025-10-30T00:00:00",
+  "Description": "This recall involves certain VINs of Polaris Model Year 2025-2026 Ranger XP 1000 NorthStar and Ranger Crew XP 1000 NorthStar ROVs. The recalled vehicles were sold in black, blue, bronze, brown, camouflage, gray, orange, red and white. The vehicles were sold in three and six-seat configurations and have \"POLARIS\" stamped on the front grille. The VIN is printed on the left rear frame (on the driver's side of the vehicle) under the cargo box.",
+  "URL": "https://www.cpsc.gov/Recalls/2026/Polaris-Industries-Recalls-Model-Year-2025-2026-Ranger-XP-1000-NorthStar-and-Ranger-Crew-XP-1000-NorthStar-Recreational-Off-Road-Vehicles-ROVs-Due-to-Risk-of-Serious-Injury-from-Fire-Hazard",
+  "Title": "Polaris Industries Recalls Model Year 2025-2026 Ranger XP 1000 NorthStar and Ranger Crew XP 1000 NorthStar Recreational Off-Road Vehicles (ROVs) Due to Risk of Serious Injury from Fire Hazard",
+  "ConsumerContact": "Polaris Industries at 800-765-2747 from 7 a.m. to 7 p.m. CT Monday through Friday, online at www.polaris.com and click on \"Product Safety News\" located under the \"Safety\" column at the bottom of the page, or https://www.polaris.com/en-us/recalls/off-road/polaris-recalls-some-model-year-2025-2026-ranger-xp-1000-and-crew-xp-1000-vehicles/ or https://www.polaris.com/en-us/recalls/ to check if your vehicle identification number (VIN) is included in any recalls. Consumers can contact Polaris' owner connections team at Owner.Connections@polaris.com or via an online forum accessible at https://www.polaris.com/en-us/off-road/owner-resources/help-center/email.",
+  "LastPublishDate": "2025-10-31T00:00:00",
+  "Products": [
+    {
+      "Name": "Model Year 2025-2026 Ranger XP 1000 NorthStar and Ranger Crew XP 1000 NorthStar Recreational Off-Road Vehicles (ROVs)",
+      "Description": "",
+      "Model": "",
+      "Type": "",
+      "CategoryID": "",
+      "NumberOfUnits": "About 5,130 (In addition, about 460 ROVs were sold in Canada)"
+    }
+  ],
+  "Inconjunctions": [
+    {
+      "URL": "https://wwwapps.tc.gc.ca/Saf-Sec-Sur/7/VRDB-BDRV/search-recherche/detail.aspx?lang=eng&rn=2025466"
+    }
+  ],
+  "Images": [
+    {
+      "URL": "https://www.cpsc.gov/s3fs-public/Ranger-NS-1.png",
+      "Caption": "Recalled Polaris Model Year 2025 Ranger XP 1000 NorthStar"
+    },
+    {
+      "URL": "https://www.cpsc.gov/s3fs-public/Ranger-NS-2.png",
+      "Caption": "Recalled Polaris Model Year 2025 Ranger Crew XP 1000 NorthStar"
+    },
+    {
+      "URL": "https://www.cpsc.gov/s3fs-public/Ranger-NS-3.png",
+      "Caption": "Recalled Polaris Model Year 2026 Ranger XP 1000 NorthStar"
+    },
+    {
+      "URL": "https://www.cpsc.gov/s3fs-public/Ranger-NS-4.png",
+      "Caption": "Recalled Polaris Model Year 2026 Ranger Crew XP 1000 NorthStar"
+    },
+    {
+      "URL": "https://www.cpsc.gov/s3fs-public/Ranger-NS-5.png",
+      "Caption": "Recalled Polaris RANGER VIN Location"
+    }
+  ],
+  "Injuries": [
+    {
+      "Name": "The firm has received five reports of sparking/smoking/melting and one report of fire. No injuries or property damage have been reported."
+    }
+  ],
+  "Manufacturers": [
+    {
+      "Name": "Polaris Industries Inc., of Medina, Minnesota",
+      "CompanyID": ""
+    }
+  ],
+  "Retailers": [
+    {
+      "Name": "Polaris dealers nationwide from March 2025 through August 2025 for between $28,000 and $38,000.",
+      "CompanyID": ""
+    }
+  ],
+  "Importers": [],
+  "Distributors": [],
+  "SoldAtLabel": null,
+  "ManufacturerCountries": [
+    {
+      "Country": "United States"
+    }
+  ],
+  "ProductUPCs": [],
+  "Hazards": [
+    {
+      "Name": "An improperly routed alternator cable can become damaged and contact the negative battery post, resulting in an electrical short, posing a fire hazard and risk of serious injury.",
+      "HazardType": "",
+      "HazardTypeID": ""
+    }
+  ],
+  "Remedies": [
+    {
+      "Name": "Consumers should immediately stop using the recalled ROVs and go to https://www.polaris.com/en-us/recalls/off-road/polaris-recalls-some-model-year-2025-2026-ranger-xp-1000-and-crew-xp-1000-vehicles/ to determine if their vehicle falls under the scope of the recall. Polaris is providing instructions on how to continue operating their vehicles until the repair can be completed or to contact an authorized Polaris dealer to schedule a free repair at the dealer's location."
+    }
+  ],
+  "RemedyOptions": [
+    {
+      "Option": "Repair"
+    }
+  ]
+}

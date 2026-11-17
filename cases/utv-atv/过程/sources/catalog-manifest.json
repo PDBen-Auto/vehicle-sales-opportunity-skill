@@ -1,0 +1,115 @@
+[
+  {
+    "source_id": "catalog-polaris",
+    "url": "https://www.polaris.com/en-us/off-road/",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "source_id": "catalog-canam",
+    "url": "https://can-am.brp.com/off-road/us/en/models/side-by-side-vehicles.html",
+    "error": "<urlopen error [WinError 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。>"
+  },
+  {
+    "source_id": "catalog-honda",
+    "url": "https://powersports.honda.com/sxs",
+    "error": "<urlopen error [WinError 10060] 由于连接方在一段时间后没有正确答复或连接的主机没有反应，连接尝试失败。>"
+  },
+  {
+    "source_id": "catalog-yamaha",
+    "url": "https://yamahamotorsports.com/side-by-side",
+    "resolved_url": "https://yamahamotorsports.com/side-by-side",
+    "local_snapshot": "sources/catalog-yamaha.html",
+    "checksum_sha256": "f7f7ddc88227f77549fd79f72459b0828cd065c21e5887cbd04920ca4b2edcc9",
+    "bytes": 399481,
+    "title": "SIDE-BY-SIDE\n    Product Lineup | Yamaha Motorsports, USA"
+  },
+  {
+    "source_id": "catalog-kawasaki",
+    "url": "https://www.kawasaki.com/en-us/side-x-side",
+    "error": "HTTP Error 404: Not Found"
+  },
+  {
+    "source_id": "catalog-cfmoto",
+    "url": "https://www.cfmotousa.com/",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "source_id": "catalog-segway",
+    "url": "https://www.segwaypowersports.us/",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "source_id": "catalog-arcticcat",
+    "url": "https://arcticcat.txtsv.com/side-by-side",
+    "error": "<urlopen error [Errno 11001] getaddrinfo failed>"
+  },
+  {
+    "source_id": "catalog-deere",
+    "url": "https://www.deere.com/en/gator-utility-vehicles/",
+    "resolved_url": "https://www.deere.com/en-us/products-solutions/gator-utility-vehicles",
+    "local_snapshot": "sources/catalog-deere.html",
+    "checksum_sha256": "349841772626da07906b36f48b5ee2e918efdd3e35b3907d77b465deec152c03",
+    "bytes": 162455,
+    "title": "Gator Utility Vehicles | John Deere US"
+  },
+  {
+    "source_id": "catalog-kubota",
+    "url": "https://www.kubotausa.com/products/utility-vehicles",
+    "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1010)>"
+  },
+  {
+    "source_id": "catalog-hisun",
+    "url": "https://www.hisunmotors.com/",
+    "resolved_url": "https://www.hisunmotors.com/",
+    "local_snapshot": "sources/catalog-hisun.html",
+    "checksum_sha256": "47197bacd8a6f522a2fa452697570522ca91e588825ab597c7b656e9118c5084",
+    "bytes": 126866,
+    "title": "HISUN Off-Road UTVs & ATVs | Side-by-Sides for Work & Play"
+  },
+  {
+    "source_id": "catalog-massimo",
+    "url": "https://www.massimomotor.com/",
+    "resolved_url": "https://massimomotor.com/",
+    "local_snapshot": "sources/catalog-massimo.html",
+    "checksum_sha256": "093e54954c7e658ac1f666f962a192d3ceb4c495ab534588807757da5f75dcbf",
+    "bytes": 417444,
+    "title": "Shop Off Road Vehicles Online | Massimo Motor"
+  },
+  {
+    "source_id": "catalog-kawasaki-ca",
+    "url": "https://www.kawasaki.ca/en-ca/side-x-side",
+    "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1010)>"
+  },
+  {
+    "source_id": "catalog-canam-ca",
+    "url": "https://can-am.brp.com/off-road/ca/en/models/side-by-side-vehicles.html",
+    "resolved_url": "https://can-am.brp.com/off-road/ca/en/models/sxs.html",
+    "local_snapshot": "sources/catalog-canam-ca.html",
+    "checksum_sha256": "841a78a3512fe664d7652c796974155c152c5bc0ac9085a1f64020ac9ba8099e",
+    "bytes": 174263,
+    "title": "Side-by-Side Vehicles (SxS) - Can-Am Off-Road"
+  },
+  {
+    "source_id": "catalog-canam-mx",
+    "url": "https://can-am.brp.com/off-road/mx/es/modelos/side-by-side.html",
+    "resolved_url": "https://can-am.brp.com/off-road/mx/es/modelos/sxs.html",
+    "local_snapshot": "sources/catalog-canam-mx.html",
+    "checksum_sha256": "3d8ee229e7daefdf4f8fe51913709cf66b2a33105e2fad508141825958e642ca",
+    "bytes": 94809,
+    "title": "Vehiculos Side-by-Side (SSV) - Can-Am Off-Road"
+  },
+  {
+    "source_id": "catalog-landmaster",
+    "url": "https://landmaster.com/",
+    "resolved_url": "https://landmaster.com/",
+    "local_snapshot": "sources/catalog-landmaster.html",
+    "checksum_sha256": "469b2b1364bffab1dd9eeec175a503a62cd859cb32ab35b055af51f1f885ddec",
+    "bytes": 534548,
+    "title": "Landmaster | American UTV Side x Sides - Landmaster"
+  },
+  {
+    "source_id": "catalog-kymco",
+    "url": "https://kymcousa.com/side-x-sides/",
+    "error": "HTTP Error 403: Forbidden"
+  }
+]

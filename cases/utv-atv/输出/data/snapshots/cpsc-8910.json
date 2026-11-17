@@ -1,0 +1,82 @@
+{
+  "RecallID": 8910,
+  "RecallNumber": "20781",
+  "RecallDate": "2020-09-24T00:00:00",
+  "Description": "This recall involves the 2020 and 2021 ZFORCE 950 Sport ROV with a 963cc 4-cycle engine. Vehicles colors are red, silver or gray with the CFMOTO logo in the center of the front grille. The model name is located on each side of the vehicle doors. The model year 2020 ROVs will have the letter L in the 10th position of the vehicle identification number (VIN). The model year 2021 ROVs will have the letter M in the 10th position of the vehicle identification number (VIN). The VIN number is stamped on the right-side frame rail, behind the right rear tire.",
+  "URL": "https://www.cpsc.gov/Recalls/2020/CFMOTO-Recalls-Recreational-Off-Highway-Vehicles-Due-to-Crash-Hazard-Recall-Alert",
+  "Title": "CFMOTO Recalls Recreational Off-Highway Vehicles Due to Crash Hazard (Recall Alert)",
+  "ConsumerContact": "CFMOTO toll-free at 888-823-6686 from 8 a.m. to 5 p.m. CT, Monday through Friday, email at info@cfmotousa.com or online at www.cfmotousa.com and go to Customer Care, then Vehicle Recall for more information.",
+  "LastPublishDate": "2020-09-24T00:00:00",
+  "Products": [
+    {
+      "Name": "2020 and 2021 ZFORCE 950 Sport Recreational Off-Highway Vehicles (ROVs)",
+      "Description": "",
+      "Model": "",
+      "Type": "",
+      "CategoryID": "",
+      "NumberOfUnits": "About 627 (2020 ROVs were previously recalled for a fire hazard on 09/03/2020)"
+    }
+  ],
+  "Inconjunctions": [],
+  "Images": [
+    {
+      "URL": "https://www.cpsc.gov/s3fs-public/Recalled CFMOTO 2020_2021 ZFORCE 950 Sport Recreational Off-Highway Vehicles ROVs.png",
+      "Caption": "Recalled CFMOTO 2020/2021 ZFORCE 950 Sport Recreational Off-Highway Vehicles (ROVs)"
+    },
+    {
+      "URL": "https://www.cpsc.gov/s3fs-public/CFMOTO Logo is located in the center of the front grille.jpg",
+      "Caption": "CFMOTO Logo is located in the center of the front grille"
+    },
+    {
+      "URL": "https://www.cpsc.gov/s3fs-public/ZFORCE VIN is stamped on the right side frame rail, behind the right rear tire.jpg",
+      "Caption": "ZFORCE VIN is stamped on the right side frame rail, behind the right rear tire"
+    },
+    {
+      "URL": "https://www.cpsc.gov/s3fs-public/Close up of the location of the VIN number.png",
+      "Caption": "Close up of the location of the VIN number"
+    }
+  ],
+  "Injuries": [
+    {
+      "Name": "CFMOTO has received two reports of the throttle pedal assembly malfunctioning. No injuries have been reported."
+    }
+  ],
+  "Manufacturers": [],
+  "Retailers": [
+    {
+      "Name": "CFMOTO dealers nationwide from June 2020 through September 2020 for about $13,000.",
+      "CompanyID": ""
+    }
+  ],
+  "Importers": [
+    {
+      "Name": "CFMOTO Powersports Inc., of Plymouth, Minn.",
+      "CompanyID": ""
+    }
+  ],
+  "Distributors": [],
+  "SoldAtLabel": null,
+  "ManufacturerCountries": [
+    {
+      "Country": "China"
+    }
+  ],
+  "ProductUPCs": [],
+  "Hazards": [
+    {
+      "Name": "The throttle gas pedal can fail to return quickly to the idle position which can create a crash hazard if the vehicle does not slow down as quickly as expected by the driver when the gas pedal is released. The throttle gas pedal can fail to return quickly to the idle position which can create a crash hazard if the vehicle does not slow down as quickly as expected by the driver when the gas pedal is released.",
+      "HazardType": "",
+      "HazardTypeID": ""
+    }
+  ],
+  "Remedies": [
+    {
+      "Name": "Consumers should immediately stop using the recalled ROVs and contact a CFMOTO dealer to schedule a free repair. CFMOTO is contacting all registered owners and dealers directly."
+    }
+  ],
+  "RemedyOptions": [
+    {
+      "Option": "Repair"
+    }
+  ]
+}

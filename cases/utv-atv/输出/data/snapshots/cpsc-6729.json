@@ -1,0 +1,74 @@
+{
+  "RecallID": 6729,
+  "RecallNumber": "16744",
+  "RecallDate": "2016-05-12T00:00:00",
+  "Description": "This recall involves model year 2013, 2014 and 2015 Kubota RTV400 and RTV500 series gas-powered utility vehicles. Recalled utility vehicles come in orange and camouflage and have serial numbers ranging from 10001 to 22042 for the RTV400 and 25083 to 40991 for the RTV500. The model is on the side of the unit and on the data plate on the back of the cab, between the cab and the bed. The serial number is also on the data plate.",
+  "URL": "https://www.cpsc.gov/Recalls/2016/Kubota-Recalls-Utility-Vehicles",
+  "Title": "Kubota Recalls Utility Vehicles Due to Injury and Collision Hazards (Recall Alert)",
+  "ConsumerContact": "Kubota Tractor Corporation at 800-752-0290 between 8 a.m. and 5 p.m. PT Monday through Friday, or online at www.kubota.com and click on More, then Safety, then Safety Notices for more information. Kubota is contacting known customers directly.",
+  "LastPublishDate": "2016-05-12T00:00:00",
+  "Products": [
+    {
+      "Name": "Utility Vehicles",
+      "Description": "",
+      "Model": "",
+      "Type": "Utility Vehicles",
+      "CategoryID": "68355",
+      "NumberOfUnits": "About 23,400"
+    }
+  ],
+  "Inconjunctions": [],
+  "Images": [
+    {
+      "URL": "https://www.cpsc.gov/s3fs-public/Recall.2016.16744.16744b.jpg",
+      "Caption": ""
+    },
+    {
+      "URL": "https://www.cpsc.gov/s3fs-public/16744a.jpg",
+      "Caption": ""
+    }
+  ],
+  "Injuries": [
+    {
+      "Name": "Kubota has received nine reports of shafts breaking, including one in which a consumer lost control of the vehicle and collided with a barbed wire fence, resulting in a cut on the arm."
+    }
+  ],
+  "Manufacturers": [],
+  "Retailers": [
+    {
+      "Name": "Authorized Kubota dealers nationwide from 2010 to 2015 for between $21,000 and $22,000.",
+      "CompanyID": ""
+    }
+  ],
+  "Importers": [],
+  "Distributors": [
+    {
+      "Name": "Kubota Tractor Corporation, of Torrance, Calif.",
+      "CompanyID": ""
+    }
+  ],
+  "SoldAtLabel": null,
+  "ManufacturerCountries": [
+    {
+      "Country": "United States"
+    }
+  ],
+  "ProductUPCs": [],
+  "Hazards": [
+    {
+      "Name": "The steering shaft can break and cause the operator to lose control of the vehicle, posing an injury hazard due to risk of collision.",
+      "HazardType": "",
+      "HazardTypeID": ""
+    }
+  ],
+  "Remedies": [
+    {
+      "Name": "Consumers should immediately stop using the recalled utility vehicles and contact an authorized Kubota dealer for a free inspection and free repair."
+    }
+  ],
+  "RemedyOptions": [
+    {
+      "Option": "Repair"
+    }
+  ]
+}

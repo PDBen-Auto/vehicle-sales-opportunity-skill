@@ -1,0 +1,74 @@
+{
+  "RecallID": 1795,
+  "RecallNumber": "14716",
+  "RecallDate": "2014-02-25T00:00:00",
+  "Description": "This recall involves 2013 Polaris Ranger® 500 EFI and Ranger Crew® 500 EFI recreational off-highway vehicles. Model names are on the right and left side of the hood. \"Polaris\" is stamped on the front of the vehicles above the front grill and \"Polaris Ranger 4x4\" is printed on the side of the rear bed box. The Ranger has a bench seat and a rear cargo box. Ranger model colors are black, camouflage, green, and red. Model numbers for the Ranger are R13RH50AG, R13RH50AH, R13RH50AM and R13RH50AR. The Ranger Crew has a front and a rear bench seat and a rear cargo box. Model numbers for the Ranger Crew are R13WH50AG, R13WH50AH, R13WH50AR and R13WH50AX. Ranger Crew model colors are camouflage, green, red and tan. Recalled vehicles have a VIN between 4XA******DE210149 and 4XA******DE791730 stamped on the front lower frame rail of the vehicle on the driver's side. Not all VINs in the range are included in this recall.",
+  "URL": "https://www.cpsc.gov/Recalls/2014/Polaris-Recalls-Ranger-Recreational-Off-Highway-Vehicles",
+  "Title": "Polaris Recalls Ranger Recreational Off-Highway Vehicles Due to Crash Hazard (Recall Alert)",
+  "ConsumerContact": "Polaris toll-free at (888) 704-5290 from 8 a.m. to 5 p.m. CT Monday through Friday, or online at www.polarisindustries.com and select the Services and Support tab, then click on Help Center, then Common Rider Questions, then Service bulletins/recalls to check your vehicle identification number (VIN).",
+  "LastPublishDate": "2014-05-23T00:00:00",
+  "Products": [
+    {
+      "Name": "Recreational off-highway vehicles",
+      "Description": "",
+      "Model": "",
+      "Type": "Recreational Off-Road Vehicles (ROV)",
+      "CategoryID": "68357",
+      "NumberOfUnits": "About 16,550"
+    }
+  ],
+  "Inconjunctions": [],
+  "Images": [
+    {
+      "URL": "https://www.cpsc.gov/s3fs-public/Recall.2014.14716.1-14716%2520RGR_500_green%2520LARGE.jpg",
+      "Caption": "2013 Polaris Ranger 500 EFI"
+    },
+    {
+      "URL": "https://www.cpsc.gov/s3fs-public/Recall.2014.14716.2-14716%2520RGR_crw_500_green%2520LARGE.jpg",
+      "Caption": "2013 Polaris Ranger Crew 500 EFI"
+    }
+  ],
+  "Injuries": [
+    {
+      "Name": "Polaris has received one report of a vehicle’s throttle failing to return to idle after accelerating, causing the operator to lose control of the vehicle and be thrown from it, resulting in a scraped shin."
+    }
+  ],
+  "Manufacturers": [
+    {
+      "Name": "Polaris Industries Inc., of Medina, Minn.",
+      "CompanyID": ""
+    }
+  ],
+  "Retailers": [
+    {
+      "Name": "Polaris dealers nationwide from June 2012 through February 2014 from between $9,300 and $11,000.",
+      "CompanyID": ""
+    }
+  ],
+  "Importers": [],
+  "Distributors": [],
+  "SoldAtLabel": null,
+  "ManufacturerCountries": [
+    {
+      "Country": "Mexico"
+    }
+  ],
+  "ProductUPCs": [],
+  "Hazards": [
+    {
+      "Name": "The vehicles' throttle cable can melt on the exhaust pipe and fail to operate properly. This can cause the rider to lose control, posing a crash hazard.",
+      "HazardType": "",
+      "HazardTypeID": ""
+    }
+  ],
+  "Remedies": [
+    {
+      "Name": "Consumers should immediately stop using the recalled Polaris Ranger vehicles and contact a Polaris dealer to schedule a free inspection and repair. Consumers will also be given inspection instructions if they wish to perform their own inspection. Polaris is contacting its customers directly."
+    }
+  ],
+  "RemedyOptions": [
+    {
+      "Option": "Repair"
+    }
+  ]
+}

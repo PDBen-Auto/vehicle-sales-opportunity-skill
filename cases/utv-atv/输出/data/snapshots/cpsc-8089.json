@@ -1,0 +1,78 @@
+{
+  "RecallID": 8089,
+  "RecallNumber": "17753",
+  "RecallDate": "2017-07-06T00:00:00",
+  "Description": "This recall involves four-wheel drive Cub Cadet 2016 Challenger utility vehicles. Model numbers included in the recall are: CX500 (37AW7CKD010, 37AW7CKD710, 37AW7CLD010, 37AW7CLD710, 37AW7CMD710, 37AW7CND710); CX700 (37AX7CKD010, 37AX7CKD710, 37AX7CLD010, 37AX7CLD710, 37AX7CMD710, 37AX7CND710); and CX750 Crew (37AY8CKD710, 37AY8CLD710, 37AY8CMD710, 37AY8CND710). The utility vehicles were sold in yellow, red, blue and camouflage. The recalled vehicles were manufactured between March 2016 through November 2016. A label located under the driver's seat lists the model number and the month and year of manufacture.",
+  "URL": "https://www.cpsc.gov/Recalls/2017/Cub-Cadet-Recalls-Utility-Vehicles-Recall-Alert",
+  "Title": "Cub Cadet Recalls Utility Vehicles Due to Crash Hazard (Recall Alert)",
+  "ConsumerContact": "Cub Cadet toll-free at 888-848-6038 from 8 a.m. to 8 p.m. ET Monday through Friday, 9 a.m. to 5 p.m. ET Saturday or Sunday, or online www.cubcadet.com and click on \"Product Recalls\" for more information.",
+  "LastPublishDate": "2017-07-06T00:00:00",
+  "Products": [
+    {
+      "Name": "Cub Cadet 2016 Challenger utility vehicles",
+      "Description": "",
+      "Model": "",
+      "Type": "",
+      "CategoryID": "",
+      "NumberOfUnits": "About 4,000"
+    }
+  ],
+  "Inconjunctions": [],
+  "Images": [
+    {
+      "URL": "https://www.cpsc.gov/s3fs-public/cubcadet1.png",
+      "Caption": "Cub Cadet 2016 Challengers CX500 and CX700 Utility Vehicle."
+    },
+    {
+      "URL": "https://www.cpsc.gov/s3fs-public/cubcadet2.png",
+      "Caption": "Cub Cadet 2016 Challenger CX750 Crew Utility Vehicle."
+    },
+    {
+      "URL": "https://www.cpsc.gov/s3fs-public/cubcadet3.png",
+      "Caption": "Cub Cadet 2016 Challenger Utility Vehicle label located under the driver’s seat."
+    }
+  ],
+  "Injuries": [
+    {
+      "Name": "Cub Cadet has received 80 reports of brake failure. No injuries have been reported."
+    }
+  ],
+  "Manufacturers": [
+    {
+      "Name": "Hisun Motors Corp. U.S.A., of McKinney, Texas",
+      "CompanyID": ""
+    }
+  ],
+  "Retailers": [
+    {
+      "Name": "Independent Cub Cadet dealers nationwide from March 2016 through May 2017 for between $8,500 to $9,500.",
+      "CompanyID": ""
+    }
+  ],
+  "Importers": [],
+  "Distributors": [],
+  "SoldAtLabel": null,
+  "ManufacturerCountries": [
+    {
+      "Country": "China"
+    }
+  ],
+  "ProductUPCs": [],
+  "Hazards": [
+    {
+      "Name": "Air in the brake system can cause brake failure, posing a crash hazard to the user or bystander.",
+      "HazardType": "",
+      "HazardTypeID": ""
+    }
+  ],
+  "Remedies": [
+    {
+      "Name": "Consumers should immediately stop using the recalled vehicles and contact an authorized Cub Cadet dealer or Cub Cadet customer service to arrange for a free repair."
+    }
+  ],
+  "RemedyOptions": [
+    {
+      "Option": "Repair"
+    }
+  ]
+}

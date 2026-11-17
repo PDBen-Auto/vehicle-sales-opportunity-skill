@@ -1,0 +1,99 @@
+{
+  "RecallID": 9803,
+  "RecallNumber": "24735",
+  "RecallDate": "2023-12-14T00:00:00",
+  "Description": "This recall involves Model Year 2022 and 2023 Can-Am Commander series, Defender series, Maverick Trail series equipped with an HD7 or 700 engines side-by-side vehicles with model number model year 2022 and 2023. The vehicles were sold in various colors. The brand and model name are on the vehicle's sides.",
+  "URL": "https://www.cpsc.gov/Recalls/2024/BRP-US-Recalls-Side-By-Side-Vehicles-Due-to-Injury-Hazard-Recall-Alert",
+  "Title": "BRP US Recalls Side-By-Side Vehicles Due to Injury Hazard (Recall Alert)",
+  "ConsumerContact": "BRP toll-free at 888-272-9222 from 8 a.m. to 8 p.m. ET Monday through Sunday or online at https://can-am.brp.com/off-road/us/en/resources/contact-us.html.  Information about recalls is available at https://can-am.brp.com/off-road/us/en/owner-zone/safety-recalls.html or at https://can-am.brp.com/off-road/us/en/models/side-by-side-vehicles.html and click on \"Safety Recalls\" at the bottom of any page.",
+  "LastPublishDate": "2023-12-14T00:00:00",
+  "Products": [
+    {
+      "Name": "Can-Am® Commander series, Defender series, Maverick Trail series equipped with an HD7 or 700 engines side-by-side vehicles (Model Year 2022 and 2023)",
+      "Description": "",
+      "Model": "",
+      "Type": "",
+      "CategoryID": "",
+      "NumberOfUnits": "About 14,555 (In addition, about 2,285 were sold in Canada)"
+    }
+  ],
+  "Inconjunctions": [
+    {
+      "URL": "https://wwwapps.tc.gc.ca/Saf-Sec-Sur/7/VRDB-BDRV/search-recherche/detail.aspx?rn=2023565"
+    }
+  ],
+  "Images": [
+    {
+      "URL": "https://www.cpsc.gov/s3fs-public/image3_33.png",
+      "Caption": "Recalled Commander Series MY2022"
+    },
+    {
+      "URL": "https://www.cpsc.gov/s3fs-public/image2_32.png",
+      "Caption": "Recalled Defender Series MY2022"
+    },
+    {
+      "URL": "https://www.cpsc.gov/s3fs-public/image5_6.png",
+      "Caption": "Recalled Maverick Trail Series MY2022"
+    },
+    {
+      "URL": "https://www.cpsc.gov/s3fs-public/image4_19.png",
+      "Caption": "Recalled Maverick Trail Series MY2023"
+    },
+    {
+      "URL": "https://www.cpsc.gov/s3fs-public/image7_2.png",
+      "Caption": "Recalled Defender Series MY2023"
+    },
+    {
+      "URL": "https://www.cpsc.gov/s3fs-public/image6_1.png",
+      "Caption": "Recalled Maverick Trail Series MY2023"
+    }
+  ],
+  "Injuries": [
+    {
+      "Name": "The firm has received one report of a clutch malfunction. No injuries have been reported."
+    }
+  ],
+  "Manufacturers": [
+    {
+      "Name": "BRP Mexico, of Mexico",
+      "CompanyID": ""
+    }
+  ],
+  "Retailers": [
+    {
+      "Name": "BRP Can-Am authorized dealers nationwide from October 2021 through October 2023 for between $13,000 and $36,000.",
+      "CompanyID": ""
+    }
+  ],
+  "Importers": [
+    {
+      "Name": "BRP US, of Sturtevant, Wisconsin",
+      "CompanyID": ""
+    }
+  ],
+  "Distributors": [],
+  "SoldAtLabel": null,
+  "ManufacturerCountries": [
+    {
+      "Country": "Mexico"
+    }
+  ],
+  "ProductUPCs": [],
+  "Hazards": [
+    {
+      "Name": "The operator's guide maintenance schedule section contains incorrect information regarding proper maintenance intervals for the clutch which can lead to clutch failure, including fragments to be ejected from the vehicle if not serviced, posing a risk of serious injuries.",
+      "HazardType": "",
+      "HazardTypeID": ""
+    }
+  ],
+  "Remedies": [
+    {
+      "Name": "Consumers should immediately stop using the recalled Model Year 2022 and 2023 Can-Am Commander series, Defender series, Maverick Trail series equipped with an HD7 or 700 engines side-by-side vehicles until they have reviewed the new maintenance instructions. BRP will mail a free revised maintenance information booklet to registered owners. BRP is contacting all known purchasers directly."
+    }
+  ],
+  "RemedyOptions": [
+    {
+      "Option": "Repair"
+    }
+  ]
+}

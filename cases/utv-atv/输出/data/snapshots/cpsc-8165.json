@@ -1,0 +1,97 @@
+{
+  "RecallID": 8165,
+  "RecallNumber": "18017",
+  "RecallDate": "2017-10-27T00:00:00",
+  "Description": "This recall involves all model year 2014 through 2017 Wildcat Trail and 2015 through 2017 Wildcat Sport models of Arctic Cat ROVs. The recalled vehicles were sold in multiple colors, have four wheels and side-by-side seating for two people. \"Wildcat Trail\" or \"Wildcat Sport\" is printed on each side of the vehicle.",
+  "URL": "https://www.cpsc.gov/Recalls/2018/Arctic-Cat-Recreational-Off-Highway-Vehicles-Recalled-by-Textron-Specialized-Vehicles",
+  "Title": "Arctic Cat Recreational Off-Highway Vehicles Recalled by Textron Specialized Vehicles Due to Fire Hazard",
+  "ConsumerContact": "Arctic Cat at 800-279-6851 from 8 a.m. to 5 p.m. CT Monday through Friday or online at www.arcticcat.com and click on Product Recall for more information.",
+  "LastPublishDate": "2017-10-27T00:00:00",
+  "Products": [
+    {
+      "Name": "Arctic Cat recreational off-highway vehicles (ROVs)",
+      "Description": "",
+      "Model": "",
+      "Type": "",
+      "CategoryID": "",
+      "NumberOfUnits": "About 14,100 (In addition, 5,300 were sold in Canada and 100 in Mexico)"
+    }
+  ],
+  "Inconjunctions": [
+    {
+      "URL": "http://wwwapps.tc.gc.ca/Saf-Sec-Sur/7/VRDB-BDRV/search-recherche/detail.aspx?rn=2017510&lang=eng"
+    },
+    {
+      "URL": "https://www.gob.mx/cms/uploads/attachment/file/269477/Alerta_Rapida_Arctic_Cat_todo_terreno.pdf"
+    }
+  ],
+  "Images": [
+    {
+      "URL": "https://www.cpsc.gov/s3fs-public/pic1_5.jpg",
+      "Caption": "2014 Wildcat Trail"
+    },
+    {
+      "URL": "https://www.cpsc.gov/s3fs-public/pic2_4.jpg",
+      "Caption": "2015 Wildcat Trail"
+    },
+    {
+      "URL": "https://www.cpsc.gov/s3fs-public/pic3_3.jpg",
+      "Caption": "2017 Wildcat Trail"
+    },
+    {
+      "URL": "https://www.cpsc.gov/s3fs-public/pic4_3.jpg",
+      "Caption": "2015 Wildcat Sport"
+    },
+    {
+      "URL": "https://www.cpsc.gov/s3fs-public/pic5_1.jpg",
+      "Caption": "2016 Wildcat Sport"
+    },
+    {
+      "URL": "https://www.cpsc.gov/s3fs-public/pic6_0.jpg",
+      "Caption": "2017 Wildcat Sport"
+    }
+  ],
+  "Injuries": [
+    {
+      "Name": "The firm has received 444 reports of the plastic panels melting, with five resulting in fires. No injuries have been reported."
+    }
+  ],
+  "Manufacturers": [
+    {
+      "Name": "Arctic Cat Inc., of Thief River Falls, Minn., a subsidiary of Textron Specialized Vehicles, of Augusta, Ga.",
+      "CompanyID": ""
+    }
+  ],
+  "Retailers": [
+    {
+      "Name": "Arctic Cat dealers nationwide from December 2013 through August 2017 for between $10,500 and $19,500.",
+      "CompanyID": ""
+    }
+  ],
+  "Importers": [],
+  "Distributors": [],
+  "SoldAtLabel": null,
+  "ManufacturerCountries": [
+    {
+      "Country": "United States"
+    }
+  ],
+  "ProductUPCs": [],
+  "Hazards": [
+    {
+      "Name": "Heat from the exhaust can melt the plastic panels behind the operator and passenger seat, posing a fire hazard.",
+      "HazardType": "",
+      "HazardTypeID": ""
+    }
+  ],
+  "Remedies": [
+    {
+      "Name": "Consumers should immediately stop using the recalled ROVs and contact Arctic Cat to schedule a free repair. Arctic Cat is contacting all known purchasers directly. If you need assistance locating an authorized dealer to conduct this repair, contact Arctic Cat."
+    }
+  ],
+  "RemedyOptions": [
+    {
+      "Option": "Repair"
+    }
+  ]
+}

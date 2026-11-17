@@ -1,0 +1,78 @@
+{
+  "RecallID": 8736,
+  "RecallNumber": "20713",
+  "RecallDate": "2020-01-30T00:00:00",
+  "Description": "This recall involves Model Year 2017-2018 Polaris Brutus utility vehicles (UTVs) with the following model names. The two-seated vehicles are gray, black and blue. The vehicles have \"POLARIS\" stamped on the front grille, \"POLARIS BRUTUS\" on the sides of the utility bed, and \"DIESEL HD\" on the front fenders. Vehicle identification numbers (VINs) included in this recall can be found on a label affixed to the vehicle frame in the left front wheel well. Non-sequential VINs ending in 7740364 to 8576615 are included in this recall. Year Model Name 2017 BRUTUS DSL HD PTO DLX 2017 BRUTUS DSL HD PTO 2018 BRUTUS DSL HD PTO DLX",
+  "URL": "https://www.cpsc.gov/Recalls/2020/Polaris-Recalls-Brutus-Utility-Vehicles-UTVs-Due-to-Collision-and-Crash-Hazard-Recall-Alert",
+  "Title": "Polaris Recalls Brutus Utility Vehicles (UTVs) Due to Collision and Crash Hazard (Recall Alert)",
+  "ConsumerContact": "Polaris at 800-765-2747 from 7 a.m. to 7 p.m. CT Monday through Friday or online at www.polaris.com and click on “Off-Road Recalls” for more information. In addition, check your vehicle identification number (VIN) on the “Product Safety Recalls” page to see if your vehicle is included in any recalls.",
+  "LastPublishDate": "2020-01-30T00:00:00",
+  "Products": [
+    {
+      "Name": "Model Year 2017-2018 Brutus Utility Vehicles (UTVs)",
+      "Description": "",
+      "Model": "",
+      "Type": "",
+      "CategoryID": "",
+      "NumberOfUnits": "About 340 (In addition, 19 units were sold in Canada)"
+    }
+  ],
+  "Inconjunctions": [
+    {
+      "URL": "https://wwwapps.tc.gc.ca/Saf-Sec-Sur/7/VRDB-BDRV/search-recherche/detail.aspx?rn=2019329"
+    }
+  ],
+  "Images": [
+    {
+      "URL": "https://www.cpsc.gov/s3fs-public/1_49.png",
+      "Caption": "Recalled 2017 Polaris Brutus DSL HD PTO DLX"
+    },
+    {
+      "URL": "https://www.cpsc.gov/s3fs-public/2_35.png",
+      "Caption": "Location of VIN number on recalled utility vehicles"
+    }
+  ],
+  "Injuries": [
+    {
+      "Name": "Polaris has received one report where the rear brake line ruptured while in use. No collisions, crashes, injuries or deaths have been reported."
+    }
+  ],
+  "Manufacturers": [
+    {
+      "Name": "Polaris Industries Inc., Medina, Minn.",
+      "CompanyID": ""
+    }
+  ],
+  "Retailers": [
+    {
+      "Name": "Polaris dealers nationwide from May 2016 through April 2019 for between $18,800 and $24,100.",
+      "CompanyID": ""
+    }
+  ],
+  "Importers": [],
+  "Distributors": [],
+  "SoldAtLabel": null,
+  "ManufacturerCountries": [
+    {
+      "Country": "United States"
+    }
+  ],
+  "ProductUPCs": [],
+  "Hazards": [
+    {
+      "Name": "The rear brake line can become punctured causing the brakes to fail, posing a collision and crash hazard.",
+      "HazardType": "",
+      "HazardTypeID": ""
+    }
+  ],
+  "Remedies": [
+    {
+      "Name": "Consumers should immediately stop using the recalled vehicles and contact a Polaris dealer to schedule a free inspection and repair. Polaris is notifying dealers and contacting affected registered owners directly."
+    }
+  ],
+  "RemedyOptions": [
+    {
+      "Option": "Repair"
+    }
+  ]
+}

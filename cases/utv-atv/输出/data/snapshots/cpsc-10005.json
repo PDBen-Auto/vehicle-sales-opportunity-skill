@@ -1,0 +1,78 @@
+{
+  "RecallID": 10005,
+  "RecallNumber": "24307",
+  "RecallDate": "2024-07-18T00:00:00",
+  "Description": "This recall involves 2022-2023 CFMOTO ZFORCE 950 HO Sport Side-by-Side Recreational Off Highway Vehicles sold in gray, orange, and tan colors. CFMOTO is stamped on the front of the vehicle and ZFORCE is printed on the side of the chassis. The VIN is stamped on the vehicle's frame, just ahead of the right rear wheel.",
+  "URL": "https://www.cpsc.gov/Recalls/2024/CFMOTO-Recalls-ZFORCE-950-Recreational-Off-Highway-Vehicles-ROVs-Due-to-Crash-and-Tip-Over-Hazards",
+  "Title": "CFMOTO Recalls ZFORCE 950 Recreational Off-Highway Vehicles (ROVs) Due to Crash and Tip-Over Hazards",
+  "ConsumerContact": "CFMOTO toll-free 888-823-6686 from 8 a.m. to 5 p.m. CT, Monday through Friday, email at info@cfmotousa.com, or online at https://www.cfmotousa.com/vehicle-recall or www.cfmotousa.com and go to \"Vehicle Recall\" under the \"Customer Care\" column for more information.",
+  "LastPublishDate": "2024-07-18T00:00:00",
+  "Products": [
+    {
+      "Name": "CFMOTO ZFORCE 950 HO Sport Side-by-Side ROVs (2022-2023)",
+      "Description": "",
+      "Model": "",
+      "Type": "",
+      "CategoryID": "",
+      "NumberOfUnits": "About 3,630"
+    }
+  ],
+  "Inconjunctions": [],
+  "Images": [
+    {
+      "URL": "https://www.cpsc.gov/s3fs-public/CFMOTO-1.png",
+      "Caption": "Recalled CFMOTO ZFORCE 950 HO Sport Side-by-Side ROV (gray)"
+    },
+    {
+      "URL": "https://www.cpsc.gov/s3fs-public/CFMOTO-2.png",
+      "Caption": "CFMOTO ZFORCE 950 HO Sport Side-by-Side ROV (orange)"
+    },
+    {
+      "URL": "https://www.cpsc.gov/s3fs-public/CFMOTO-3.png",
+      "Caption": "VIN Location"
+    }
+  ],
+  "Injuries": [
+    {
+      "Name": "CFMOTO Powersports has received approximately 86 reports of incidents in which the shock absorber failed and the suspension collapsed, including one tip-over which resulted in impact injury to the ribs."
+    }
+  ],
+  "Manufacturers": [],
+  "Retailers": [
+    {
+      "Name": "CFMOTO dealers nationwide from March 2022 through June 2024 for about $14,000.",
+      "CompanyID": ""
+    }
+  ],
+  "Importers": [
+    {
+      "Name": "CFMOTO Powersports Inc., of Plymouth, Minnesota",
+      "CompanyID": ""
+    }
+  ],
+  "Distributors": [],
+  "SoldAtLabel": null,
+  "ManufacturerCountries": [
+    {
+      "Country": "China"
+    }
+  ],
+  "ProductUPCs": [],
+  "Hazards": [
+    {
+      "Name": "The shock absorber rod assembly can unthread and detach, causing suspension collapse, posing crash and tip-over hazards to the rider.",
+      "HazardType": "",
+      "HazardTypeID": ""
+    }
+  ],
+  "Remedies": [
+    {
+      "Name": "Consumers should immediately stop using the recalled ROVs, and contact an authorized CFMOTO dealer to schedule an appointment to bring the recalled vehicle into the dealer for a free repair. CFMOTO has issued a Stop Ride notice to consumers, and is contacting all registered owners and dealers directly to provide more details about the repair."
+    }
+  ],
+  "RemedyOptions": [
+    {
+      "Option": "Repair"
+    }
+  ]
+}

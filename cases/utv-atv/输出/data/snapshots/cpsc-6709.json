@@ -1,0 +1,145 @@
+{
+  "RecallID": 6709,
+  "RecallNumber": "16146",
+  "RecallDate": "2016-04-19T00:00:00",
+  "Description": "Ths recall involves Polaris Model Year 2013-2016 RZR 900 and RZR 1000 recreational off-highway vehicles (ROVs). Visit www.polaris.com to determine if your RZR ROVs VIN number is included in this recall. 2013/2014 RZR XP 900 3NSJT9EAXEF364144 - 3NSJT9EA4EF385345 4XAJT87A0DP456738 - 4XAJT87A8EF366714 2014/2015/2016 RZR XP 1000 *additional VIN numbers included. Visit Polaris.com. 3NSVDE992FF361215 - 3NSVDE998GF784060 4XAST1EA0EB165962 - 4XAVFE992GB344924 2015/2016 RZR 900 *additional VIN numbers included. Visit Polaris.com. 3NSVAE871FF366883 - 3NSVAE874GH861374 4XAVAA878FB926614 - 4XAVAE873GB673176 2015/2016 RZR S 900 *additional VIN numbers included. Visit Polaris.com. 3NSVBE870FF361395 - 3NSVBA876GH860331 4XAVBE879FP340592 - 4XAVBE876GB673749 2016 RZR S 1000 *additional VIN numbers included. Visit Polaris.com 3NSVBE994GH102740 - 3NSVBE99XGH108171 4XAVBE995GP340655 - 4XAVBE997GB673744 The VIN is normally located on the driver's side rear frame rail, above the PVT cover. Check your Owner's Manual if you have any difficulty locating the VIN. VINs are not sequential and not all VINs in the ranges above are included in this recall. To determine if a specific ROV is included in this recall visit www.Polaris.com and click on \"Off-Road Safety Recalls\" under the \"Rider Community\" heading on the main page of the Polaris website.",
+  "URL": "https://www.cpsc.gov/Recalls/2016/Polaris-Recalls-RZR-Recreational-Off-Highway-Vehicles-Due",
+  "Title": "Polaris Recalls RZR Recreational Off-Highway Vehicles Due to Fire Hazard; Severe Burn Injuries, One Death Reported",
+  "ConsumerContact": "Polaris at 800-POLARIS or 800-765-2747 from 8 a.m. to 9 p.m. CT Monday through Friday and 9 a.m. to 5 p.m. CT Saturday and Sunday or online at www.polaris.com and click on \"Off-Road Safety Recalls\" on the main page of the Polaris website.",
+  "LastPublishDate": "2016-04-19T00:00:00",
+  "Products": [
+    {
+      "Name": "Polaris RZR recreational off-highway vehicles (ROVs)",
+      "Description": "",
+      "Model": "",
+      "Type": "Recreational Vehicles (Unlicensed)",
+      "CategoryID": "68345",
+      "NumberOfUnits": "About 133,000"
+    }
+  ],
+  "Inconjunctions": [],
+  "Images": [
+    {
+      "URL": "https://www.cpsc.gov/s3fs-public/rzr1.jpg",
+      "Caption": ""
+    },
+    {
+      "URL": "https://www.cpsc.gov/s3fs-public/rzr2.jpg",
+      "Caption": ""
+    },
+    {
+      "URL": "https://www.cpsc.gov/s3fs-public/rzr3.jpg",
+      "Caption": ""
+    },
+    {
+      "URL": "https://www.cpsc.gov/s3fs-public/rzr4.jpg",
+      "Caption": ""
+    },
+    {
+      "URL": "https://www.cpsc.gov/s3fs-public/rzr5.jpg",
+      "Caption": ""
+    },
+    {
+      "URL": "https://www.cpsc.gov/s3fs-public/rzr6.jpg",
+      "Caption": ""
+    },
+    {
+      "URL": "https://www.cpsc.gov/s3fs-public/rzr7.jpg",
+      "Caption": ""
+    },
+    {
+      "URL": "https://www.cpsc.gov/s3fs-public/rzr8.jpg",
+      "Caption": ""
+    },
+    {
+      "URL": "https://www.cpsc.gov/s3fs-public/rzr9.jpg",
+      "Caption": ""
+    },
+    {
+      "URL": "https://www.cpsc.gov/s3fs-public/rzr10.jpg",
+      "Caption": ""
+    },
+    {
+      "URL": "https://www.cpsc.gov/s3fs-public/rzr11.jpg",
+      "Caption": ""
+    },
+    {
+      "URL": "https://www.cpsc.gov/s3fs-public/rzr12.jpg",
+      "Caption": ""
+    },
+    {
+      "URL": "https://www.cpsc.gov/s3fs-public/rzr13.jpg",
+      "Caption": ""
+    },
+    {
+      "URL": "https://www.cpsc.gov/s3fs-public/rzr14.jpg",
+      "Caption": ""
+    },
+    {
+      "URL": "https://www.cpsc.gov/s3fs-public/rzr15.jpg",
+      "Caption": ""
+    },
+    {
+      "URL": "https://www.cpsc.gov/s3fs-public/rzr16.jpg",
+      "Caption": ""
+    },
+    {
+      "URL": "https://www.cpsc.gov/s3fs-public/rzr17.jpg",
+      "Caption": ""
+    },
+    {
+      "URL": "https://www.cpsc.gov/s3fs-public/rzr18.jpg",
+      "Caption": ""
+    },
+    {
+      "URL": "https://www.cpsc.gov/s3fs-public/rzr19.jpg",
+      "Caption": ""
+    }
+  ],
+  "Injuries": [
+    {
+      "Name": "Polaris has received more than 160 reports of fires with the recalled RZR ROVs, resulting in one death of a 15-year-old passenger from a rollover that resulted in a fire and 19 reports of injuries, including first, second and third degree burns."
+    }
+  ],
+  "Manufacturers": [],
+  "Retailers": [],
+  "Importers": [
+    {
+      "Name": "Polaris Industries Inc., of Medina, Minn.",
+      "CompanyID": ""
+    }
+  ],
+  "Distributors": [
+    {
+      "Name": "Polaris Industries Inc., of Medina, Minn.",
+      "CompanyID": ""
+    }
+  ],
+  "SoldAtLabel": null,
+  "ManufacturerCountries": [
+    {
+      "Country": "United States"
+    },
+    {
+      "Country": "Mexico"
+    }
+  ],
+  "ProductUPCs": [],
+  "Hazards": [
+    {
+      "Name": "The recalled ROVs can catch fire while consumers are driving, posing fire and burn hazards to drivers and passengers.",
+      "HazardType": "",
+      "HazardTypeID": ""
+    }
+  ],
+  "Remedies": [
+    {
+      "Name": "Consumers should stop using these recreational vehicles immediately and contact their Polaris dealer for a free repair. Polaris has agreed to voluntarily suspend sale of all recalled vehicles until they are repaired."
+    }
+  ],
+  "RemedyOptions": [
+    {
+      "Option": "Repair"
+    }
+  ]
+}

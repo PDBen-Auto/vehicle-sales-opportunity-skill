@@ -1,0 +1,85 @@
+{
+  "RecallID": 10175,
+  "RecallNumber": "25150",
+  "RecallDate": "2025-02-20T00:00:00",
+  "Description": "This recall involves three models of SuperATV carrier bearings sold from April 2017 until September 2022 for installation in Polaris RZR XP Turbo or Turbo S vehicles. The recalled carrier bearings are silver and black and have \"SuperATV\" etched on top of the carrier bearing housing. The carrier bearing is located under the center console tunnel which is behind the seats on the two-seat model and behind the rear seats on the four-seat models. The following carrier bearing models are subject to this recall if purchased for the Polaris RZR XP Turbo or Turbo S vehicles in the identified date ranges: RECALLED CARRIER BEARING MODEL POLARIS RZR XP TURBO OR TURBO S PURCHASE DATE RANGE BEA01-001 4/13/17 through 4/27/19 BEA01-002 5/19/18 through 1/22/19 BEA01-005 (Rev A00 and A01) 1/25/19 through 9/2/22",
+  "URL": "https://www.cpsc.gov/Recalls/2025/SuperATV-Recalls-Carrier-Bearings-for-Polaris-RZR-XP-and-Turbo-S-Recreational-Off-Highway-Vehicles-Due-to-Fire-and-Burn-Hazards",
+  "Title": "SuperATV Recalls Carrier Bearings for Polaris RZR XP and Turbo S Recreational Off Highway Vehicles Due to Fire and Burn Hazards",
+  "ConsumerContact": "SuperATV toll-free at 855-728-8256 from 9 a.m. to 5 p.m. ET Monday through Friday or online at https://form.jotform.com/243023918871055 to check if your part is included in this recall, https://www.superatv.com/recalls, or https://www.superatv.com/ and click on \"Product Safety and Recalls\" at the bottom of the page for more information.",
+  "LastPublishDate": "2025-02-20T00:00:00",
+  "Products": [
+    {
+      "Name": "SuperATV carrier bearings for Polaris RZR XP Turbo or Turbo S Recreational Off Highway Vehicles (ROVs)",
+      "Description": "",
+      "Model": "",
+      "Type": "",
+      "CategoryID": "",
+      "NumberOfUnits": "About 10,700"
+    }
+  ],
+  "Inconjunctions": [],
+  "Images": [
+    {
+      "URL": "https://www.cpsc.gov/s3fs-public/atv-1.png",
+      "Caption": "Recalled SuperATV Carrier Bearing Model BEA01-001"
+    },
+    {
+      "URL": "https://www.cpsc.gov/s3fs-public/atv-2.png",
+      "Caption": "Recalled SuperATV Carrier Bearing Model BEA01-002"
+    },
+    {
+      "URL": "https://www.cpsc.gov/s3fs-public/atv-3.png",
+      "Caption": "Recalled SuperATV Carrier Bearing Model BEA01-005 (Rev A00 and A01)"
+    },
+    {
+      "URL": "https://www.cpsc.gov/s3fs-public/atv-4.png",
+      "Caption": "Location of SuperATV Brand Name on Carrier Bearing"
+    }
+  ],
+  "Injuries": [
+    {
+      "Name": "SuperATV has received 24 reports of the fuel tank contacting the prop shaft, including 19 reports that a hole or crack had formed in the fuel tank, including one reported fire. No injuries have been reported."
+    }
+  ],
+  "Manufacturers": [
+    {
+      "Name": "SuperATV, of Madison, Indiana",
+      "CompanyID": ""
+    }
+  ],
+  "Retailers": [
+    {
+      "Name": "Online at www.superatv.com and at off-road vehicle dealers nationwide from April 2017 until September 2022 for between $85 and $250 (for one carrier bearing) and between $170 and $420 (set of 2 carrier bearings).",
+      "CompanyID": ""
+    }
+  ],
+  "Importers": [],
+  "Distributors": [],
+  "SoldAtLabel": null,
+  "ManufacturerCountries": [
+    {
+      "Country": "United States"
+    },
+    {
+      "Country": "China"
+    }
+  ],
+  "ProductUPCs": [],
+  "Hazards": [
+    {
+      "Name": "When the recalled carrier bearings are installed in a Polaris RZR XP Turbo or Turbo S vehicle and the fuel tank expands, the drive shaft can come in contact with the fuel tank, causing the tank to develop a hole or crack. This can cause the fuel tank to leak gasoline, posing fire and burn hazards.",
+      "HazardType": "",
+      "HazardTypeID": ""
+    }
+  ],
+  "Remedies": [
+    {
+      "Name": "Consumers should immediately stop using ROVs with the recalled carrier bearings, remove them from the Polaris RZR XP Turbo or Turbo S vehicles, and register online at https://form.jotform.com/243023918871055 to receive a postage-paid label to return the recalled bearings. SuperATV will mail consumers free replacement carrier bearings upon receipt of the recalled carrier bearings. SuperATV is notifying all known purchasers directly. No purchase receipt is required."
+    }
+  ],
+  "RemedyOptions": [
+    {
+      "Option": "Replace"
+    }
+  ]
+}

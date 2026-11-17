@@ -1,0 +1,74 @@
+{
+  "RecallID": 6717,
+  "RecallNumber": "16739",
+  "RecallDate": "2016-04-29T00:00:00",
+  "Description": "This recall involves model year 2015 Cub Cadet Challenger CX500 and Challenger CX700 four-wheel drive off-road utility vehicles. The recalled vehicles have two bucket seats, roll bars, a canopy, a two-piece windshield, a 35.5-inch by 44-inch cargo bed and a winch. The vehicles were sold in the colors camouflage and yellow. Challenger utility vehicles with the following model numbers are being recalled. The model number is located under the driver's seat. CX500 (Yellow) CX500 (Camouflage) CX700 (Yellow) CX700 (Camouflage) 37AW7CKD010 37AW7CLD010 37AX7CKD010 37AX7CLD010 37AW7CKD710 37AW7CLD710 37AX7CKD710 37AX7CLD710",
+  "URL": "https://www.cpsc.gov/Recalls/2016/Cub-Cadet-Recalls-Challenger-Off-Road-Utility-Vehicles",
+  "Title": "Cub Cadet Recalls Challenger Off-Road Utility Vehicles Due To Crash Hazard (Recall Alert)",
+  "ConsumerContact": "Cub Cadet toll-free at 888-848-6038 between 8 a.m. and 5 p.m. ET Monday through Friday or online at www.cubcadet.com and click on Product Recalls for more information. ",
+  "LastPublishDate": "2016-04-29T00:00:00",
+  "Products": [
+    {
+      "Name": "Utility vehicles",
+      "Description": "",
+      "Model": "",
+      "Type": "Utility Vehicles",
+      "CategoryID": "68355",
+      "NumberOfUnits": "About 1,300"
+    }
+  ],
+  "Inconjunctions": [],
+  "Images": [
+    {
+      "URL": "https://www.cpsc.gov/s3fs-public/Recall.2016.16739.Cub-CadetCX500.jpg",
+      "Caption": "Cub Cadet Challenger CX500"
+    },
+    {
+      "URL": "https://www.cpsc.gov/s3fs-public/Recall.2016.16739.Cub-CadetCX700.jpg",
+      "Caption": "Cub Cadet Challenger CX700"
+    }
+  ],
+  "Injuries": [
+    {
+      "Name": "The firm has received 22 reports of incidents of the brake cable failing. There have been no reports of injuries or property damage."
+    }
+  ],
+  "Manufacturers": [],
+  "Retailers": [
+    {
+      "Name": "Cub Cadet dealers nationwide from April 2015 through October 2015 for between $8,500 to $9,500.",
+      "CompanyID": ""
+    }
+  ],
+  "Importers": [],
+  "Distributors": [
+    {
+      "Name": "MTD Products Company, of Cleveland, Ohio",
+      "CompanyID": ""
+    }
+  ],
+  "SoldAtLabel": null,
+  "ManufacturerCountries": [
+    {
+      "Country": "China"
+    }
+  ],
+  "ProductUPCs": [],
+  "Hazards": [
+    {
+      "Name": "The parking brake cable can fail, posing a crash hazard.",
+      "HazardType": "",
+      "HazardTypeID": ""
+    }
+  ],
+  "Remedies": [
+    {
+      "Name": "Consumers should immediately stop using the recalled vehicles and contact a Cub Cadet dealer to schedule an appointment for a free repair. Cub Cadet is contacting owners of the recalled utility vehicles directly."
+    }
+  ],
+  "RemedyOptions": [
+    {
+      "Option": "Repair"
+    }
+  ]
+}

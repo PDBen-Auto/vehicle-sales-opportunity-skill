@@ -1,0 +1,66 @@
+{
+  "RecallID": 3394,
+  "RecallNumber": "06525",
+  "RecallDate": "2006-01-11T00:00:00",
+  "Description": "The recall involves Kawasaki 2005-2006 model year KAF400 Mule 600 Utility Vehicles. These models are off-road utility vehicles available in red, green, or camouflage livery. They have \"Kawasaki\" on the side of the cargo bed and \"Mule\" on the side of the front cowling.",
+  "URL": "https://www.cpsc.gov/Recalls/2006/CPSC-Kawasaki-Motors-Corp-USA-Announce-Recall-of-Utility-Vehicles",
+  "Title": "Kawasaki Motors Corp., U.S.A. Recall of Utility Vehicles",
+  "ConsumerContact": "For more information, consumers can call Kawasaki Customer Service toll-free at (866) 802-9381 between 8:30 a.m. and 4:45 p.m. PT Monday through Friday, or visit the firm's Web site at www.kawasaki.com",
+  "LastPublishDate": "2024-08-01T00:00:00",
+  "Products": [
+    {
+      "Name": "Kawasaki 2005-2006 model year Mule 600 Utility Vehicles",
+      "Description": "",
+      "Model": "",
+      "Type": "Utility, Off-Road Vehicles/Golf Carts",
+      "CategoryID": "2215",
+      "NumberOfUnits": "About 15,200"
+    }
+  ],
+  "Inconjunctions": [],
+  "Images": [
+    {
+      "URL": "https://www.cpsc.gov/~/link/d513c979b2464ed79a646df5fb67a75f.jpg",
+      "Caption": "Recalled Utility Vehicle"
+    }
+  ],
+  "Injuries": [
+    {
+      "Name": "Kawasaki has received 24 reports of the knuckle cracking or breaking. No injuries have been reported."
+    }
+  ],
+  "Manufacturers": [],
+  "Retailers": [
+    {
+      "Name": "Kawasaki Utility dealers nationwide from November 2004 through December 2005 for between $5,900 and $7,100.",
+      "CompanyID": ""
+    }
+  ],
+  "Importers": [],
+  "Distributors": [
+    {
+      "Name": "Kawasaki Motors Corp., U.S.A., of Irvine, Calif.",
+      "CompanyID": ""
+    }
+  ],
+  "SoldAtLabel": null,
+  "ManufacturerCountries": [
+    {
+      "Country": "United States"
+    }
+  ],
+  "ProductUPCs": [],
+  "Hazards": [
+    {
+      "Name": "The steering knuckle can twist or break from wheel forces transmitted to the steering system during operation. This can cause a loss of steering control and possible collapse of the front suspension, posing a risk of incident or injury to the operator or passenger.",
+      "HazardType": "",
+      "HazardTypeID": ""
+    }
+  ],
+  "Remedies": [
+    {
+      "Name": "Consumers with recalled utility vehicles were sent direct notice from Kawasaki. Consumers should stop using these vehicles immediately and contact a local Kawasaki Utility dealer to schedule an appointment for a free repair."
+    }
+  ],
+  "RemedyOptions": []
+}

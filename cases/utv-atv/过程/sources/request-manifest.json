@@ -1,0 +1,146 @@
+[
+  {
+    "query": "vehicle",
+    "url": "https://www.saferproducts.gov/RestWebServices/Recall?format=json&RecallTitle=vehicle",
+    "path": "sources\\cpsc-vehicle.json",
+    "sha256": "7a20322e12509d805f7d6bfda7dd4b30e9a23df2e9c5f8c68ec50a2d22c06e73",
+    "records": 333,
+    "latest": "2026-11-05T00:00:00"
+  },
+  {
+    "query": "Yamaha",
+    "url": "https://www.saferproducts.gov/RestWebServices/Recall?format=json&RecallTitle=Yamaha",
+    "path": "sources\\cpsc-yamaha.json",
+    "sha256": "3a6d4bf83fa2a20eb08f17955f1e9064a754fee4123dad9b29a70a0ecd749555",
+    "records": 48,
+    "latest": "2026-06-11T00:00:00"
+  },
+  {
+    "query": "Kawasaki",
+    "url": "https://www.saferproducts.gov/RestWebServices/Recall?format=json&RecallTitle=Kawasaki",
+    "path": "sources\\cpsc-kawasaki.json",
+    "sha256": "2c51b5c10c1faa28cd125d5c4b8d179b0699d3dc62cd65eb47f59bf055d2893d",
+    "records": 59,
+    "latest": "2026-06-11T00:00:00"
+  },
+  {
+    "query": "Honda",
+    "url": "https://www.saferproducts.gov/RestWebServices/Recall?format=json&RecallTitle=Honda",
+    "path": "sources\\cpsc-honda.json",
+    "sha256": "e50934978abc3ccd1041333a27b2cc92057dc859995ac2f81993dd4e01ae5ea6",
+    "records": 53,
+    "latest": "2026-04-30T00:00:00"
+  },
+  {
+    "query": "BRP",
+    "url": "https://www.saferproducts.gov/RestWebServices/Recall?format=json&RecallTitle=BRP",
+    "path": "sources\\cpsc-brp.json",
+    "sha256": "1ba1df9105fb216e39f149e0a39cf975639ebbf9cb5c1c3882c1d6cba88dfdd3",
+    "records": 44,
+    "latest": "2026-05-14T00:00:00"
+  },
+  {
+    "query": "Deere",
+    "url": "https://www.saferproducts.gov/RestWebServices/Recall?format=json&RecallTitle=Deere",
+    "path": "sources\\cpsc-deere.json",
+    "sha256": "0deec9d6056119bf3c9e012f268a671078ed6225f3bf73cceb63cca46b58d3ad",
+    "records": 51,
+    "latest": "2025-01-02T00:00:00"
+  },
+  {
+    "query": "Kubota",
+    "url": "https://www.saferproducts.gov/RestWebServices/Recall?format=json&RecallTitle=Kubota",
+    "path": "sources\\cpsc-kubota.json",
+    "sha256": "38929e9b2d2924b7fe22d0d66e9e455198159c4cb89289c7a068833cbc20edbb",
+    "records": 18,
+    "latest": "2025-05-01T00:00:00"
+  },
+  {
+    "query": "CFMOTO",
+    "url": "https://www.saferproducts.gov/RestWebServices/Recall?format=json&RecallTitle=CFMOTO",
+    "path": "sources\\cpsc-cfmoto.json",
+    "sha256": "c88ff6a56ad72947a60fc0deadeb7b2b26b0e63cb302278f08e4078e2e39eb50",
+    "records": 7,
+    "latest": "2024-10-24T00:00:00"
+  },
+  {
+    "query": "Hisun",
+    "url": "https://www.saferproducts.gov/RestWebServices/Recall?format=json&RecallTitle=Hisun",
+    "path": "sources\\cpsc-hisun.json",
+    "sha256": "117f0b20125c1418c04db8986906f3a153f303dc609125122b583d19d1e6e5f5",
+    "records": 1,
+    "latest": "2021-12-15T00:00:00"
+  },
+  {
+    "query": "American Landmaster",
+    "url": "https://www.saferproducts.gov/RestWebServices/Recall?format=json&RecallTitle=American+Landmaster",
+    "path": "sources\\cpsc-american-landmaster.json",
+    "sha256": "f46b5bfe68f3cf9bc9cb9ef5ede5b97c0f0861a045f7c9f3bf822ba7134ea276",
+    "records": 2,
+    "latest": "2022-02-16T00:00:00"
+  },
+  {
+    "query": "Massimo",
+    "url": "https://www.saferproducts.gov/RestWebServices/Recall?format=json&RecallTitle=Massimo",
+    "path": "sources\\cpsc-massimo.json",
+    "sha256": "8f8a6a483cb0a5746eb548cff2de2e55b9846509da52ba4629c740b81c8f5e59",
+    "records": 1,
+    "latest": "2021-01-06T00:00:00"
+  },
+  {
+    "query": "Intimidator",
+    "url": "https://www.saferproducts.gov/RestWebServices/Recall?format=json&RecallTitle=Intimidator",
+    "path": "sources\\cpsc-intimidator.json",
+    "sha256": "0717be653453df239f373175b3b60c43d2d561bfcf171172ed7503ccb342abaf",
+    "records": 2,
+    "latest": "2024-04-11T00:00:00"
+  },
+  {
+    "query": "Kymco",
+    "url": "https://www.saferproducts.gov/RestWebServices/Recall?format=json&RecallTitle=Kymco",
+    "path": "sources\\cpsc-kymco.json",
+    "sha256": "f2b2012329ba20b3619d7aeba5e67ff89a13af48866f8578c9e2c5917ad042cd",
+    "records": 5,
+    "latest": "2016-03-09T00:00:00"
+  },
+  {
+    "query": "Mahindra",
+    "url": "https://www.saferproducts.gov/RestWebServices/Recall?format=json&RecallTitle=Mahindra",
+    "path": "sources\\cpsc-mahindra.json",
+    "sha256": "603281e54b2bbec109741f97b4bfed49f1b24e165d9df7840c14bd5a749f7fa6",
+    "records": 3,
+    "latest": "2024-04-11T00:00:00"
+  },
+  {
+    "query": "Arctic Cat",
+    "url": "https://www.saferproducts.gov/RestWebServices/Recall?format=json&RecallTitle=Arctic+Cat",
+    "path": "sources\\cpsc-arctic-cat.json",
+    "sha256": "e4ac39ad4f8e291133ed9c5516f750b4a4fe1dec8991db4b8ff70a72c83e7a57",
+    "records": 46,
+    "latest": "2024-10-17T00:00:00"
+  },
+  {
+    "query": "Textron",
+    "url": "https://www.saferproducts.gov/RestWebServices/Recall?format=json&RecallTitle=Textron",
+    "path": "sources\\cpsc-textron.json",
+    "sha256": "b631b63e8e1504a7d8fa3aabaf894fca4f6d0ce12ffbdec4ee828e6f5f8d0872",
+    "records": 25,
+    "latest": "2025-10-16T00:00:00"
+  },
+  {
+    "query": "Kandi",
+    "url": "https://www.saferproducts.gov/RestWebServices/Recall?format=json&RecallTitle=Kandi",
+    "path": "sources\\cpsc-kandi.json",
+    "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945",
+    "records": 0,
+    "latest": ""
+  },
+  {
+    "query": "Kohler",
+    "url": "https://www.saferproducts.gov/RestWebServices/Recall?format=json&RecallTitle=Kohler",
+    "path": "sources\\cpsc-kohler.json",
+    "sha256": "91c57df5aac31369e5c3452f767fe326e0efc97ed816a9561215e8dc69449290",
+    "records": 7,
+    "latest": "2018-05-23T00:00:00"
+  }
+]

@@ -1,0 +1,654 @@
+{
+  "valid": true,
+  "as_of_date": "2026-11-17",
+  "dataset_directory": "C:\\Users\\SYZ\\Documents\\Codex\\2026-11-13\\na\\outputs\\北美UTV车型保有量估算-20261117\\输出\\data",
+  "error_count": 0,
+  "warning_count": 77,
+  "stats": {
+    "source_count": 105,
+    "model_master_rows": 76,
+    "canonical_models": 66,
+    "market_universe": {
+      "total": 76,
+      "included": 76,
+      "excluded": 0,
+      "pending": 0,
+      "resolution_rate": 1.0,
+      "included_mapping_rate": 1.0,
+      "by_country_model_year": {
+        "CA:2014": {
+          "included": 1
+        },
+        "CA:2017": {
+          "included": 2
+        },
+        "CA:2021": {
+          "included": 4
+        },
+        "CA:2022": {
+          "included": 2
+        },
+        "CA:2023": {
+          "included": 1
+        },
+        "CA:2024": {
+          "included": 2
+        },
+        "CA:2025": {
+          "included": 1
+        },
+        "MX:2014": {
+          "included": 1
+        },
+        "US:2005": {
+          "included": 1
+        },
+        "US:2009": {
+          "included": 1
+        },
+        "US:2011": {
+          "included": 1
+        },
+        "US:2012": {
+          "included": 2
+        },
+        "US:2013": {
+          "included": 4
+        },
+        "US:2014": {
+          "included": 4
+        },
+        "US:2015": {
+          "included": 10
+        },
+        "US:2016": {
+          "included": 6
+        },
+        "US:2017": {
+          "included": 5
+        },
+        "US:2018": {
+          "included": 5
+        },
+        "US:2019": {
+          "included": 3
+        },
+        "US:2020": {
+          "included": 2
+        },
+        "US:2021": {
+          "included": 6
+        },
+        "US:2022": {
+          "included": 5
+        },
+        "US:2023": {
+          "included": 1
+        },
+        "US:2024": {
+          "included": 4
+        },
+        "US:2025": {
+          "included": 1
+        },
+        "US:2026": {
+          "included": 1
+        }
+      }
+    },
+    "market_coverage": {
+      "partial": 26
+    },
+    "news_event_rows": 0,
+    "confirmed_news_rows": 0,
+    "news_coverage": {},
+    "population_rows": 0,
+    "population_by_count_type": {},
+    "population_rollup_rows": 0,
+    "annual_sales_rows": 0,
+    "annual_sales_by_country": {},
+    "annual_sales_by_metric": {},
+    "country_control_rows": 0
+  },
+  "issues": [
+    {
+      "level": "warning",
+      "code": "unknown_generation",
+      "message": "generation is unknown",
+      "file": "model_master.csv",
+      "row": 2
+    },
+    {
+      "level": "warning",
+      "code": "unknown_generation",
+      "message": "generation is unknown",
+      "file": "model_master.csv",
+      "row": 3
+    },
+    {
+      "level": "warning",
+      "code": "unknown_generation",
+      "message": "generation is unknown",
+      "file": "model_master.csv",
+      "row": 4
+    },
+    {
+      "level": "warning",
+      "code": "unknown_generation",
+      "message": "generation is unknown",
+      "file": "model_master.csv",
+      "row": 5
+    },
+    {
+      "level": "warning",
+      "code": "unknown_generation",
+      "message": "generation is unknown",
+      "file": "model_master.csv",
+      "row": 6
+    },
+    {
+      "level": "warning",
+      "code": "unknown_generation",
+      "message": "generation is unknown",
+      "file": "model_master.csv",
+      "row": 7
+    },
+    {
+      "level": "warning",
+      "code": "unknown_generation",
+      "message": "generation is unknown",
+      "file": "model_master.csv",
+      "row": 8
+    },
+    {
+      "level": "warning",
+      "code": "unknown_generation",
+      "message": "generation is unknown",
+      "file": "model_master.csv",
+      "row": 9
+    },
+    {
+      "level": "warning",
+      "code": "unknown_generation",
+      "message": "generation is unknown",
+      "file": "model_master.csv",
+      "row": 10
+    },
+    {
+      "level": "warning",
+      "code": "unknown_generation",
+      "message": "generation is unknown",
+      "file": "model_master.csv",
+      "row": 11
+    },
+    {
+      "level": "warning",
+      "code": "unknown_generation",
+      "message": "generation is unknown",
+      "file": "model_master.csv",
+      "row": 12
+    },
+    {
+      "level": "warning",
+      "code": "unknown_generation",
+      "message": "generation is unknown",
+      "file": "model_master.csv",
+      "row": 13
+    },
+    {
+      "level": "warning",
+      "code": "unknown_generation",
+      "message": "generation is unknown",
+      "file": "model_master.csv",
+      "row": 14
+    },
+    {
+      "level": "warning",
+      "code": "unknown_generation",
+      "message": "generation is unknown",
+      "file": "model_master.csv",
+      "row": 15
+    },
+    {
+      "level": "warning",
+      "code": "unknown_generation",
+      "message": "generation is unknown",
+      "file": "model_master.csv",
+      "row": 16
+    },
+    {
+      "level": "warning",
+      "code": "unknown_generation",
+      "message": "generation is unknown",
+      "file": "model_master.csv",
+      "row": 17
+    },
+    {
+      "level": "warning",
+      "code": "unknown_generation",
+      "message": "generation is unknown",
+      "file": "model_master.csv",
+      "row": 18
+    },
+    {
+      "level": "warning",
+      "code": "unknown_generation",
+      "message": "generation is unknown",
+      "file": "model_master.csv",
+      "row": 19
+    },
+    {
+      "level": "warning",
+      "code": "unknown_generation",
+      "message": "generation is unknown",
+      "file": "model_master.csv",
+      "row": 20
+    },
+    {
+      "level": "warning",
+      "code": "unknown_generation",
+      "message": "generation is unknown",
+      "file": "model_master.csv",
+      "row": 21
+    },
+    {
+      "level": "warning",
+      "code": "unknown_generation",
+      "message": "generation is unknown",
+      "file": "model_master.csv",
+      "row": 22
+    },
+    {
+      "level": "warning",
+      "code": "unknown_generation",
+      "message": "generation is unknown",
+      "file": "model_master.csv",
+      "row": 23
+    },
+    {
+      "level": "warning",
+      "code": "unknown_generation",
+      "message": "generation is unknown",
+      "file": "model_master.csv",
+      "row": 24
+    },
+    {
+      "level": "warning",
+      "code": "unknown_generation",
+      "message": "generation is unknown",
+      "file": "model_master.csv",
+      "row": 25
+    },
+    {
+      "level": "warning",
+      "code": "unknown_generation",
+      "message": "generation is unknown",
+      "file": "model_master.csv",
+      "row": 26
+    },
+    {
+      "level": "warning",
+      "code": "unknown_generation",
+      "message": "generation is unknown",
+      "file": "model_master.csv",
+      "row": 27
+    },
+    {
+      "level": "warning",
+      "code": "unknown_generation",
+      "message": "generation is unknown",
+      "file": "model_master.csv",
+      "row": 28
+    },
+    {
+      "level": "warning",
+      "code": "unknown_generation",
+      "message": "generation is unknown",
+      "file": "model_master.csv",
+      "row": 29
+    },
+    {
+      "level": "warning",
+      "code": "unknown_generation",
+      "message": "generation is unknown",
+      "file": "model_master.csv",
+      "row": 30
+    },
+    {
+      "level": "warning",
+      "code": "unknown_generation",
+      "message": "generation is unknown",
+      "file": "model_master.csv",
+      "row": 31
+    },
+    {
+      "level": "warning",
+      "code": "unknown_generation",
+      "message": "generation is unknown",
+      "file": "model_master.csv",
+      "row": 32
+    },
+    {
+      "level": "warning",
+      "code": "unknown_generation",
+      "message": "generation is unknown",
+      "file": "model_master.csv",
+      "row": 33
+    },
+    {
+      "level": "warning",
+      "code": "unknown_generation",
+      "message": "generation is unknown",
+      "file": "model_master.csv",
+      "row": 34
+    },
+    {
+      "level": "warning",
+      "code": "unknown_generation",
+      "message": "generation is unknown",
+      "file": "model_master.csv",
+      "row": 35
+    },
+    {
+      "level": "warning",
+      "code": "unknown_generation",
+      "message": "generation is unknown",
+      "file": "model_master.csv",
+      "row": 36
+    },
+    {
+      "level": "warning",
+      "code": "unknown_generation",
+      "message": "generation is unknown",
+      "file": "model_master.csv",
+      "row": 37
+    },
+    {
+      "level": "warning",
+      "code": "unknown_generation",
+      "message": "generation is unknown",
+      "file": "model_master.csv",
+      "row": 38
+    },
+    {
+      "level": "warning",
+      "code": "unknown_generation",
+      "message": "generation is unknown",
+      "file": "model_master.csv",
+      "row": 39
+    },
+    {
+      "level": "warning",
+      "code": "unknown_generation",
+      "message": "generation is unknown",
+      "file": "model_master.csv",
+      "row": 40
+    },
+    {
+      "level": "warning",
+      "code": "unknown_generation",
+      "message": "generation is unknown",
+      "file": "model_master.csv",
+      "row": 41
+    },
+    {
+      "level": "warning",
+      "code": "unknown_generation",
+      "message": "generation is unknown",
+      "file": "model_master.csv",
+      "row": 42
+    },
+    {
+      "level": "warning",
+      "code": "unknown_generation",
+      "message": "generation is unknown",
+      "file": "model_master.csv",
+      "row": 43
+    },
+    {
+      "level": "warning",
+      "code": "unknown_generation",
+      "message": "generation is unknown",
+      "file": "model_master.csv",
+      "row": 44
+    },
+    {
+      "level": "warning",
+      "code": "unknown_generation",
+      "message": "generation is unknown",
+      "file": "model_master.csv",
+      "row": 45
+    },
+    {
+      "level": "warning",
+      "code": "unknown_generation",
+      "message": "generation is unknown",
+      "file": "model_master.csv",
+      "row": 46
+    },
+    {
+      "level": "warning",
+      "code": "unknown_generation",
+      "message": "generation is unknown",
+      "file": "model_master.csv",
+      "row": 47
+    },
+    {
+      "level": "warning",
+      "code": "unknown_generation",
+      "message": "generation is unknown",
+      "file": "model_master.csv",
+      "row": 48
+    },
+    {
+      "level": "warning",
+      "code": "unknown_generation",
+      "message": "generation is unknown",
+      "file": "model_master.csv",
+      "row": 49
+    },
+    {
+      "level": "warning",
+      "code": "unknown_generation",
+      "message": "generation is unknown",
+      "file": "model_master.csv",
+      "row": 50
+    },
+    {
+      "level": "warning",
+      "code": "unknown_generation",
+      "message": "generation is unknown",
+      "file": "model_master.csv",
+      "row": 51
+    },
+    {
+      "level": "warning",
+      "code": "unknown_generation",
+      "message": "generation is unknown",
+      "file": "model_master.csv",
+      "row": 52
+    },
+    {
+      "level": "warning",
+      "code": "unknown_generation",
+      "message": "generation is unknown",
+      "file": "model_master.csv",
+      "row": 53
+    },
+    {
+      "level": "warning",
+      "code": "unknown_generation",
+      "message": "generation is unknown",
+      "file": "model_master.csv",
+      "row": 54
+    },
+    {
+      "level": "warning",
+      "code": "unknown_generation",
+      "message": "generation is unknown",
+      "file": "model_master.csv",
+      "row": 55
+    },
+    {
+      "level": "warning",
+      "code": "unknown_generation",
+      "message": "generation is unknown",
+      "file": "model_master.csv",
+      "row": 56
+    },
+    {
+      "level": "warning",
+      "code": "unknown_generation",
+      "message": "generation is unknown",
+      "file": "model_master.csv",
+      "row": 57
+    },
+    {
+      "level": "warning",
+      "code": "unknown_generation",
+      "message": "generation is unknown",
+      "file": "model_master.csv",
+      "row": 58
+    },
+    {
+      "level": "warning",
+      "code": "unknown_generation",
+      "message": "generation is unknown",
+      "file": "model_master.csv",
+      "row": 59
+    },
+    {
+      "level": "warning",
+      "code": "unknown_generation",
+      "message": "generation is unknown",
+      "file": "model_master.csv",
+      "row": 60
+    },
+    {
+      "level": "warning",
+      "code": "unknown_generation",
+      "message": "generation is unknown",
+      "file": "model_master.csv",
+      "row": 61
+    },
+    {
+      "level": "warning",
+      "code": "unknown_generation",
+      "message": "generation is unknown",
+      "file": "model_master.csv",
+      "row": 62
+    },
+    {
+      "level": "warning",
+      "code": "unknown_generation",
+      "message": "generation is unknown",
+      "file": "model_master.csv",
+      "row": 63
+    },
+    {
+      "level": "warning",
+      "code": "unknown_generation",
+      "message": "generation is unknown",
+      "file": "model_master.csv",
+      "row": 64
+    },
+    {
+      "level": "warning",
+      "code": "unknown_generation",
+      "message": "generation is unknown",
+      "file": "model_master.csv",
+      "row": 65
+    },
+    {
+      "level": "warning",
+      "code": "unknown_generation",
+      "message": "generation is unknown",
+      "file": "model_master.csv",
+      "row": 66
+    },
+    {
+      "level": "warning",
+      "code": "unknown_generation",
+      "message": "generation is unknown",
+      "file": "model_master.csv",
+      "row": 67
+    },
+    {
+      "level": "warning",
+      "code": "unknown_generation",
+      "message": "generation is unknown",
+      "file": "model_master.csv",
+      "row": 68
+    },
+    {
+      "level": "warning",
+      "code": "unknown_generation",
+      "message": "generation is unknown",
+      "file": "model_master.csv",
+      "row": 69
+    },
+    {
+      "level": "warning",
+      "code": "unknown_generation",
+      "message": "generation is unknown",
+      "file": "model_master.csv",
+      "row": 70
+    },
+    {
+      "level": "warning",
+      "code": "unknown_generation",
+      "message": "generation is unknown",
+      "file": "model_master.csv",
+      "row": 71
+    },
+    {
+      "level": "warning",
+      "code": "unknown_generation",
+      "message": "generation is unknown",
+      "file": "model_master.csv",
+      "row": 72
+    },
+    {
+      "level": "warning",
+      "code": "unknown_generation",
+      "message": "generation is unknown",
+      "file": "model_master.csv",
+      "row": 73
+    },
+    {
+      "level": "warning",
+      "code": "unknown_generation",
+      "message": "generation is unknown",
+      "file": "model_master.csv",
+      "row": 74
+    },
+    {
+      "level": "warning",
+      "code": "unknown_generation",
+      "message": "generation is unknown",
+      "file": "model_master.csv",
+      "row": 75
+    },
+    {
+      "level": "warning",
+      "code": "unknown_generation",
+      "message": "generation is unknown",
+      "file": "model_master.csv",
+      "row": 76
+    },
+    {
+      "level": "warning",
+      "code": "unknown_generation",
+      "message": "generation is unknown",
+      "file": "model_master.csv",
+      "row": 77
+    },
+    {
+      "level": "warning",
+      "code": "partial_market_coverage",
+      "message": "26 country/model-year scopes are not complete",
+      "file": "market_coverage.csv",
+      "row": null
+    }
+  ]
+}

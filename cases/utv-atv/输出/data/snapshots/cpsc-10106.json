@@ -1,0 +1,90 @@
+{
+  "RecallID": 10106,
+  "RecallNumber": "25703",
+  "RecallDate": "2024-12-05T00:00:00",
+  "Description": "This recall involves certain VINs of Polaris Model Year 2024-2025 RZR XP 1000 and XP 4 1000 ROVs. The recalled vehicles were sold in black, blue, gray, red and white colors. They were sold in two and four-seat configurations. \"POLARIS\" is stamped on the front grille and \"POLARIS\" and \"RZR\" are printed on the sides of the vehicle. The model name is also printed on the side of the chassis. The VIN is located on the vehicle's frame in the left rear wheel well.",
+  "URL": "https://www.cpsc.gov/Recalls/2025/Polaris-Recalls-RZR-XP-1000-and-XP-4-1000-Recreational-Off-Road-Vehicles-ROVs-Due-to-Fire-Hazard-Recall-Alert",
+  "Title": "Polaris Recalls RZR XP 1000 and XP 4 1000 Recreational Off-Road Vehicles (ROVs) Due to Fire Hazard (Recall Alert)",
+  "ConsumerContact": "Polaris Industries at 800-765-2747 from 7 a.m. to 7 p.m. CT Monday through Friday or online at www.polaris.com and click on \"Product Safety News\" located under the \"Safety\" column at the bottom of the page or https://www.polaris.com/en-us/off-road-recalls/ to check if your vehicle identification number (VIN) is included in any recalls. Consumers can contact Polaris' Owner Connections Team at Owner.Connections@polaris.com or via an online forum at https://www.polaris.com/en-us/off-road/owner-resources/help-center/email.",
+  "LastPublishDate": "2024-12-05T00:00:00",
+  "Products": [
+    {
+      "Name": "Model Year 2024-2025 RZR XP 1000 and XP 4 1000 ROVs",
+      "Description": "",
+      "Model": "",
+      "Type": "",
+      "CategoryID": "",
+      "NumberOfUnits": "About 21,000 (In addition, about 1,300 were sold in Canada)"
+    }
+  ],
+  "Inconjunctions": [
+    {
+      "URL": "https://wwwapps.tc.gc.ca/Saf-Sec-Sur/7/VRDB-BDRV/search-recherche/detail.aspx?rn=2024454"
+    }
+  ],
+  "Images": [
+    {
+      "URL": "https://www.cpsc.gov/s3fs-public/polaris-1.jpg",
+      "Caption": "Recalled Polaris Model Year 2024 RZR XP 1000"
+    },
+    {
+      "URL": "https://www.cpsc.gov/s3fs-public/polaris-2.jpg",
+      "Caption": "Recalled Polaris Model Year 2024 RZR XP 4 1000"
+    },
+    {
+      "URL": "https://www.cpsc.gov/s3fs-public/polaris-3.jpg",
+      "Caption": "Recalled Polaris Model Year 2025 RZR XP 1000"
+    },
+    {
+      "URL": "https://www.cpsc.gov/s3fs-public/polaris-4.jpg",
+      "Caption": "Recalled Polaris Model Year 2025 RZR XP 4 1000"
+    },
+    {
+      "URL": "https://www.cpsc.gov/s3fs-public/polaris-5.jpg",
+      "Caption": "Recalled Polaris RZR Vehicle Identification Number (VIN) Location"
+    }
+  ],
+  "Injuries": [
+    {
+      "Name": "The firm has received a total of three reports of incidents including two reports of fires and one report of melted wires. No injuries have been reported."
+    }
+  ],
+  "Manufacturers": [
+    {
+      "Name": "Polaris Industries Inc., of Medina, Minnesota",
+      "CompanyID": ""
+    }
+  ],
+  "Retailers": [
+    {
+      "Name": "Polaris dealers nationwide from April 2023 through July 2024 between $20,900 and $29,900.",
+      "CompanyID": ""
+    }
+  ],
+  "Importers": [],
+  "Distributors": [],
+  "SoldAtLabel": null,
+  "ManufacturerCountries": [
+    {
+      "Country": "Mexico"
+    }
+  ],
+  "ProductUPCs": [],
+  "Hazards": [
+    {
+      "Name": "The positive (+) battery terminal cover (red) can become damaged by the seat base, causing the positive (+) battery post to be exposed and contact nearby conductive components, resulting in an electrical short, posing a fire hazard.",
+      "HazardType": "",
+      "HazardTypeID": ""
+    }
+  ],
+  "Remedies": [
+    {
+      "Name": "Polaris is contacting all registered owners directly and providing a full-battery cover to them by mail that can be self-installed or installed for free by an authorized Polaris dealer. Consumers can continue to operate the recalled ROVs before installation of the battery cover only if the battery positive terminal cover (red) is undamaged. The consumer can confirm the cover is undamaged by completing the Battery Positive Terminal Cover (Red) Verification and Seat Installation Instructions provided by Polaris at https://prdservicemanagementstg.blob.core.windows.net/fieldcommunications/9942029r01.pdf. If the battery positive terminal cover (red) is damaged, the recalled ROV should not be operated until the repair is complete."
+    }
+  ],
+  "RemedyOptions": [
+    {
+      "Option": "Repair"
+    }
+  ]
+}

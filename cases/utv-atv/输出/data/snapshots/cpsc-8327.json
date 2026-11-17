@@ -1,0 +1,86 @@
+{
+  "RecallID": 8327,
+  "RecallNumber": "18742",
+  "RecallDate": "2018-05-15T00:00:00",
+  "Description": "This recall involves all model year 2016 through 2017, and some model year 2018 Honda Pioneer 1000 Vehicles. The recalled vehicles were sold in various colors including: red, blue, green, gray and yellow. The name \"HONDA\" is on the front, sides and the rear of the vehicle. The model name Pioneer 1000 is printed on a label located on both sides of the vehicle, near the rear. The serial number (VIN #) is stamped in the frame at the left rear, below the tilt-up bed/seat. The following model numbers and serial number ranges are being recalled: MY Model VIN Start 2016 Pioneer 1000 3P (SXS10M3*) 1HFVE04**G4000001 --- 1HFVE04**G4008403 2016 Pioneer 1000 5P (SXS10M5*) 1HFVE04**G4000001 --- 1HFVE04**G4010507 2017 Pioneer 1000 3P (SXS10M3*) 1HFVE04**H4100001 --- 1HFVE04**H4102101 2017 Pioneer 1000 5P (SXS10M5*) 1HFVE04**H4100001 --- 1HFVE04**H4103000 2018 Pioneer 1000 3P (SXS10M3*) 1HFVE04**G4200001 --- 1HFVE04**G4203360 2018 Pioneer 1000 5P (SXS10M5*) 1HFVE04**G4200001 --- 1HFVE04**G4207379 * Variable character",
+  "URL": "https://www.cpsc.gov/Recalls/2018/American-Honda-Recalls-Recreational-Off-Highway-Vehicles-Due-to-Fire-and-Burn-Hazard-Recall-Alert",
+  "Title": "American Honda Recalls Recreational Off-Highway Vehicles Due to Fire and Burn Hazard (Recall Alert)",
+  "ConsumerContact": "American Honda toll-free at 866-784-1870 from 8:30 a.m. to 4:30 p.m. PT Monday through Friday or online at http://powersports.honda.com/ and click on “Recall Information” at the bottom of the page for more information.",
+  "LastPublishDate": "2018-05-15T00:00:00",
+  "Products": [
+    {
+      "Name": "Recreational off-highway vehicles (ROVs)",
+      "Description": "",
+      "Model": "",
+      "Type": "",
+      "CategoryID": "",
+      "NumberOfUnits": "About 65,000"
+    }
+  ],
+  "Inconjunctions": [],
+  "Images": [
+    {
+      "URL": "https://www.cpsc.gov/s3fs-public/pic1_8.png",
+      "Caption": ""
+    },
+    {
+      "URL": "https://www.cpsc.gov/s3fs-public/pic2_3.png",
+      "Caption": ""
+    },
+    {
+      "URL": "https://www.cpsc.gov/s3fs-public/pic3_14.jpg",
+      "Caption": ""
+    },
+    {
+      "URL": "https://www.cpsc.gov/s3fs-public/pic4_10.jpg",
+      "Caption": ""
+    },
+    {
+      "URL": "https://www.cpsc.gov/s3fs-public/pic5_5.jpg",
+      "Caption": ""
+    }
+  ],
+  "Injuries": [
+    {
+      "Name": "The firm has received 22 reports of the muffler plastic heat shield melting and three reports of muffler plastic heat shield fires. No injuries have been reported."
+    }
+  ],
+  "Manufacturers": [
+    {
+      "Name": "American Honda Motor Company Inc., of Torrance, Calif.",
+      "CompanyID": ""
+    }
+  ],
+  "Retailers": [
+    {
+      "Name": "Authorized Honda Powersports dealers nationwide from October 2015 through April 2018 for between $14,000 and $22,000.",
+      "CompanyID": ""
+    }
+  ],
+  "Importers": [],
+  "Distributors": [],
+  "SoldAtLabel": null,
+  "ManufacturerCountries": [
+    {
+      "Country": "United States"
+    }
+  ],
+  "ProductUPCs": [],
+  "Hazards": [
+    {
+      "Name": "The muffler can overheat, causing the plastic heat shield to melt or catch fire, posing a fire and burn hazard to consumers.",
+      "HazardType": "",
+      "HazardTypeID": ""
+    }
+  ],
+  "Remedies": [
+    {
+      "Name": "Consumers should immediately stop using the recalled ROVs and contact an authorized Honda Powersports dealer to schedule an appointment for a free inspection and repair. Honda is contacting all known purchasers directly."
+    }
+  ],
+  "RemedyOptions": [
+    {
+      "Option": "Repair"
+    }
+  ]
+}

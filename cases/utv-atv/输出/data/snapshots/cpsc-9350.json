@@ -1,0 +1,79 @@
+{
+  "RecallID": 9350,
+  "RecallNumber": "22757",
+  "RecallDate": "2022-07-07T00:00:00",
+  "Description": "This recall involves model year 2022 Fugleman UT10E and UT10X Utility Terrain Vehicles (UTVs). These vehicles were sold in various colors including white, black, gray and camo. \"FUGLEMAN\" decals are printed on the right and left rear side panels. The Segway logo is on the hood. The model number is located on the right and left rear side panels next to the Fugleman logo.",
+  "URL": "https://www.cpsc.gov/Recalls/2022/Segway-Powersports-Recalls-Fugleman-Utility-Terrain-Vehicles-UTVs-Due-to-Fire-Hazard-Recall-Alert",
+  "Title": "Segway Powersports Recalls Fugleman Utility Terrain Vehicles (UTVs) Due to Fire Hazard (Recall Alert)",
+  "ConsumerContact": "Segway Powersports toll-free at 877-628-0202 from 8 a.m. to 5 p.m. CT Monday through Friday, online at https://www.segwaypowersports.us/recalls/ or at https://segwaypowersports.us and click on \"Safety Recalls\" at the bottom of the page for more information.",
+  "LastPublishDate": "2022-07-07T00:00:00",
+  "Products": [
+    {
+      "Name": "Fugleman® UT10E and UT10X Utility Terrain Vehicles (UTVs)",
+      "Description": "",
+      "Model": "",
+      "Type": "",
+      "CategoryID": "",
+      "NumberOfUnits": "About 1,100"
+    }
+  ],
+  "Inconjunctions": [],
+  "Images": [
+    {
+      "URL": "https://www.cpsc.gov/s3fs-public/pic-1_32.png",
+      "Caption": "Recalled Fugleman® UT 10 E"
+    },
+    {
+      "URL": "https://www.cpsc.gov/s3fs-public/pic-2_25.png",
+      "Caption": "Recalled Fugleman® UT 10 X"
+    }
+  ],
+  "Injuries": [
+    {
+      "Name": "The firm has received 10 reports of incidents including seven incidents involving fire and three incidents with overheating. No injuries have been reported."
+    }
+  ],
+  "Manufacturers": [
+    {
+      "Name": "Segway Technology Co. Ltd., of China",
+      "CompanyID": ""
+    }
+  ],
+  "Retailers": [
+    {
+      "Name": "Segway Powersports authorized dealers (sellers of off-road vehicles) from November 2021 through May 2022 for between $14,400 and $16,700.",
+      "CompanyID": ""
+    }
+  ],
+  "Importers": [],
+  "Distributors": [
+    {
+      "Name": "Segway Powersports Inc., of McKinney, Texas",
+      "CompanyID": ""
+    }
+  ],
+  "SoldAtLabel": null,
+  "ManufacturerCountries": [
+    {
+      "Country": "China"
+    }
+  ],
+  "ProductUPCs": [],
+  "Hazards": [
+    {
+      "Name": "The cockpit rear panel between the seats and the cargo bed can overheat and melt the plastic, posing a fire hazard.",
+      "HazardType": "",
+      "HazardTypeID": ""
+    }
+  ],
+  "Remedies": [
+    {
+      "Name": "Consumers should immediately stop using the recalled UTVs and bring the vehicles to an authorized Segway Powersports dealer for a free repair, which includes installation of larger and additional heat shields. The firm has contacted all known purchasers."
+    }
+  ],
+  "RemedyOptions": [
+    {
+      "Option": "Repair"
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "RecallID": 8798,
+  "RecallNumber": "20734",
+  "RecallDate": "2020-04-16T00:00:00",
+  "Description": "This recall involves Model Year 2019 - 2020 Ranger XP 1000 & CREW XP 1000 Off-Road Vehicles with the following model names: YEAR MODEL NAME 2019 Ranger XP 1000 EPS Ranger CREW XP 1000 EPS 2020 Ranger XP 1000 Ranger CREW XP 1000 The vehicles were sold in black, green, white, blue, orange, sand, maroon, and camo colors and have two or four seats. Vehicle identification numbers (VIN) included in this recall can be found on a label affixed to the vehicle frame in the left front wheel well. \"Polaris\" is stamped on the front grille and \"Ranger\" is on the sides of the utility bed. The following models and non-sequential VIN ranges are included in the recall: MY19 RANGER XP 1000 EPS 4XARRW990K8922555 - 4XARRW99XK8922563 MY19 RANGER CREW XP 1000 EPS 4XARSM991K8921973 - 4XARSM99XK8921972 MY20 RANGER XP 1000 4XARRB990L8922436 - 4XARRW99XL8933242 MY20 RANGER CREW XP 1000 4XARSB990L8923252 - 4XARSW99XL8932306",
+  "URL": "https://www.cpsc.gov/Recalls/2020/Polaris-Recalls-Model-Year-2019-to-2020-Ranger-XP-1000-Off-Road-Vehicles-Due-to-Fire-Hazard-Recall-Alert",
+  "Title": "Polaris Recalls Model Year 2019 to 2020 Ranger XP 1000 Off-Road Vehicles Due to Fire Hazard (Recall Alert)",
+  "ConsumerContact": "Polaris at 800-765-2747 from 7 a.m. to 7 p.m. CT Monday through Friday or online at www.polaris.com and click on “Off-Road Recalls” for more information. In addition, check your vehicle identification number (VIN) on the “Product Safety Recalls” page to see if your vehicle is included in any recalls",
+  "LastPublishDate": "2020-04-16T00:00:00",
+  "Products": [
+    {
+      "Name": "Model Year 2019 - 2020 Ranger XP 1000 & CREW XP 1000 Off-Road Vehicles",
+      "Description": "",
+      "Model": "",
+      "Type": "",
+      "CategoryID": "",
+      "NumberOfUnits": "About 7,000"
+    }
+  ],
+  "Inconjunctions": [],
+  "Images": [
+    {
+      "URL": "https://www.cpsc.gov/s3fs-public/Screen Shot 2020-04-16 at 2.55.18 PM.png",
+      "Caption": "Recalled Model Year 2019 Polaris RANGER XP 1000 EPS"
+    },
+    {
+      "URL": "https://www.cpsc.gov/s3fs-public/Screen Shot 2020-04-16 at 2.55.24 PM.png",
+      "Caption": "Recalled Model Year 2019 Polaris RANGER CREW XP 1000 EPS"
+    },
+    {
+      "URL": "https://www.cpsc.gov/s3fs-public/Screen Shot 2020-04-16 at 2.55.32 PM.png",
+      "Caption": "Recalled Model Year 2020 Polaris Ranger XP 1000"
+    },
+    {
+      "URL": "https://www.cpsc.gov/s3fs-public/Screen Shot 2020-04-16 at 2.55.40 PM.png",
+      "Caption": "Recalled Model Year 2020 Polaris RANGER CREW XP 1000"
+    },
+    {
+      "URL": "https://www.cpsc.gov/s3fs-public/Screen Shot 2020-04-16 at 2.55.46 PM.png",
+      "Caption": "VIN number location"
+    }
+  ],
+  "Injuries": [
+    {
+      "Name": "None reported"
+    }
+  ],
+  "Manufacturers": [
+    {
+      "Name": "Polaris Industries Inc., Medina, Minn.",
+      "CompanyID": ""
+    }
+  ],
+  "Retailers": [
+    {
+      "Name": "Polaris dealers nationwide from August 2019 through December 2019 for between $15,890 and $29,000.",
+      "CompanyID": ""
+    }
+  ],
+  "Importers": [],
+  "Distributors": [],
+  "SoldAtLabel": null,
+  "ManufacturerCountries": [
+    {
+      "Country": "United States"
+    }
+  ],
+  "ProductUPCs": [],
+  "Hazards": [
+    {
+      "Name": "The fuel line can be misrouted above the bracket that protects the fuel line from a clutch belt failure, posing a fire hazard to consumers.",
+      "HazardType": "",
+      "HazardTypeID": ""
+    }
+  ],
+  "Remedies": [
+    {
+      "Name": "Consumers should immediately stop using the recalled vehicles and contact a Polaris dealer to schedule a free inspection and repair. Polaris is notifying dealers and contacting affected registered owners directly."
+    }
+  ],
+  "RemedyOptions": [
+    {
+      "Option": "Repair"
+    }
+  ]
+}

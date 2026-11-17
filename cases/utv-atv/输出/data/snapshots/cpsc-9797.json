@@ -1,0 +1,82 @@
+{
+  "RecallID": 9797,
+  "RecallNumber": "24055",
+  "RecallDate": "2023-12-14T00:00:00",
+  "Description": "This recall involves Model Year 2023-2024 RANGER XP Kinetic vehicles. The vehicles were sold in the following colors: camouflage and white. They were sold in three-seat configurations and have \"POLARIS\" stamped on the front grille. The model number and VIN are printed on a portion of the left rear frame (on the driver's side of the vehicle) under the cargo box.",
+  "URL": "https://www.cpsc.gov/Recalls/2024/Polaris-Industries-Recalls-Ranger-XP-Kinetic-Recreational-Off-Road-Vehicles-ROVs-Due-to-Crash-Hazard",
+  "Title": "Polaris Industries Recalls Ranger XP Kinetic Recreational Off-Road Vehicles (ROVs) Due to Crash Hazard",
+  "ConsumerContact": "Polaris at 800-765-2747 from 7 a.m. to 7 p.m. CT Monday through Friday or online at www.polaris.com and click on \"Product Safety News\" located under the \"Safety Column\" at the bottom of the page or www.polaris.com/en-us/recalls to check if your vehicle identification number (VIN) is included in any recalls. Consumers can contact Polaris' owner connections team at Owner.Connections@polaris.com or via an online forum accessible at www.polaris.com/en-us/off-road/owner-resources/help-center/email.",
+  "LastPublishDate": "2023-12-14T00:00:00",
+  "Products": [
+    {
+      "Name": "Model Year 2023-2024 Ranger XP Kinetic Recreational Off-Road Vehicles (ROVs)",
+      "Description": "",
+      "Model": "",
+      "Type": "",
+      "CategoryID": "",
+      "NumberOfUnits": "About 2,000 (In addition, about 175 were sold in Canada)"
+    }
+  ],
+  "Inconjunctions": [
+    {
+      "URL": "https://wwwapps.tc.gc.ca/Saf-Sec-Sur/7/VRDB-BDRV/search-recherche/detail.aspx?rn=2023541"
+    }
+  ],
+  "Images": [
+    {
+      "URL": "https://www.cpsc.gov/s3fs-public/ranger-white.png",
+      "Caption": "Recalled Polaris Model Year 2023-2024 Ranger XP Kinetic (white)"
+    },
+    {
+      "URL": "https://www.cpsc.gov/s3fs-public/ranger-camo.png",
+      "Caption": "Recalled Polaris Model Year 2023-2024 Ranger XP Kinetic (camouflage)"
+    },
+    {
+      "URL": "https://www.cpsc.gov/s3fs-public/ranger-vin.png",
+      "Caption": "Recalled Polaris RANGER VIN Location"
+    }
+  ],
+  "Injuries": [
+    {
+      "Name": "The firm has received eight reports of loss of throttle response. No injuries have been reported."
+    }
+  ],
+  "Manufacturers": [
+    {
+      "Name": "Polaris Industries Inc., of Medina, Minnesota",
+      "CompanyID": ""
+    }
+  ],
+  "Retailers": [
+    {
+      "Name": "Authorized Polaris dealers nationwide from April 2023 through September 2023 for between $25,000 and $37,500.",
+      "CompanyID": ""
+    }
+  ],
+  "Importers": [],
+  "Distributors": [],
+  "SoldAtLabel": null,
+  "ManufacturerCountries": [
+    {
+      "Country": "United States"
+    }
+  ],
+  "ProductUPCs": [],
+  "Hazards": [
+    {
+      "Name": "Pressing the brake and throttle pedals simultaneously can deactivate the throttle. If the brake is then released, the vehicle can move and the throttle can still be deactivated, posing a crash hazard and risk of serious injury.",
+      "HazardType": "",
+      "HazardTypeID": ""
+    }
+  ],
+  "Remedies": [
+    {
+      "Name": "Consumers should immediately stop using the recalled vehicles and contact Polaris or an authorized Polaris dealer to schedule a free repair, including an update to the vehicle control system. Polaris has notified consumers to stop riding the vehicles and is contacting registered owners directly."
+    }
+  ],
+  "RemedyOptions": [
+    {
+      "Option": "Repair"
+    }
+  ]
+}

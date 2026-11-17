@@ -1,0 +1,78 @@
+{
+  "RecallID": 7909,
+  "RecallNumber": "17714",
+  "RecallDate": "2016-11-22T00:00:00",
+  "Description": "This recall involves model year 2017 Can-Am Maverick X3 side-by-side vehicles. The vehicles came in various colors. The model name and Vehicle Identification Number (VIN) is printed on a label under the glove box. To verify if your vehicle is included in the recall, have your VIN (Vehicle identification Number) ready and contact your authorized Can-Am side-by-side dealer or BRP. Recalled models include: 2017 Can-Am Maverick X3 STD 2017 Can-Am Maverick X3 XDS 2017 Can-Am Maverick X3 XRS",
+  "URL": "https://www.cpsc.gov/Recalls/2017/BRP-Recalls-Side-by-Side-Off-Road-Vehicles-2",
+  "Title": "BRP Recalls Side-by-Side Off-Road Vehicles Due to Loss of Steering Control and Crash Hazard (Recall Alert)",
+  "ConsumerContact": "BRP toll-free at 888-272-9222 from 8 a.m. to 8 p.m. ET Monday through Sunday or online at www.can-am.brp.com and click on \"Owner Center\" and then \"Recall Information\" for more information.",
+  "LastPublishDate": "2016-11-22T00:00:00",
+  "Products": [
+    {
+      "Name": "Side-by-side off-road vehicles",
+      "Description": "",
+      "Model": "",
+      "Type": "",
+      "CategoryID": "",
+      "NumberOfUnits": "About 2,380"
+    }
+  ],
+  "Inconjunctions": [],
+  "Images": [
+    {
+      "URL": "https://www.cpsc.gov/s3fs-public/BRP1.jpg",
+      "Caption": "2017 Maverick X3 XDS"
+    },
+    {
+      "URL": "https://www.cpsc.gov/s3fs-public/BRP2.jpg",
+      "Caption": "2017 Maverick X3 XRS"
+    },
+    {
+      "URL": "https://www.cpsc.gov/s3fs-public/BRP3.jpg",
+      "Caption": "2017 Maverick X3"
+    }
+  ],
+  "Injuries": [
+    {
+      "Name": "The firm has received 33 incident reports, including reports of intermittent or complete steering lock. No injuries were reported."
+    }
+  ],
+  "Manufacturers": [],
+  "Retailers": [
+    {
+      "Name": "Can-Am dealers nationwide from August 2016 through November 2016 for between $23,000 and $27,000.",
+      "CompanyID": ""
+    }
+  ],
+  "Importers": [
+    {
+      "Name": "BRP U.S. Inc. of Sturtevant, Wis.",
+      "CompanyID": ""
+    }
+  ],
+  "Distributors": [],
+  "SoldAtLabel": null,
+  "ManufacturerCountries": [
+    {
+      "Country": "Mexico"
+    }
+  ],
+  "ProductUPCs": [],
+  "Hazards": [
+    {
+      "Name": "The steering rack and pinion assembly can have an improper amount of grease and result in a loss of steering control and crash hazard.",
+      "HazardType": "",
+      "HazardTypeID": ""
+    }
+  ],
+  "Remedies": [
+    {
+      "Name": "Consumers should immediately stop using the recalled vehicles and contact a BRP Can-Am side-by-side dealer to schedule an appointment for a free repair. BRP is notifying registered consumers directly about this recall."
+    }
+  ],
+  "RemedyOptions": [
+    {
+      "Option": "Repair"
+    }
+  ]
+}

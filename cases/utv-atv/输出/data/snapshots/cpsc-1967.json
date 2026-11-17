@@ -1,0 +1,74 @@
+{
+  "RecallID": 1967,
+  "RecallNumber": "15706",
+  "RecallDate": "2014-10-16T00:00:00",
+  "Description": "This recall involves all models of the 2014 Honda Pioneer 700 recreational off-highway vehicle (ROV). ROVs are motorized off-road vehicles with a steering wheel, gas and brake pedals, bucket or bench seats, seat belts and an occupant protection structure. The recalled vehicles came in two-seat and four-seat models and were black with camouflage, olive or red hood and trim pieces. \"HONDA\" is on the front grill and rear tail gate. \"Pioneer 700\" appears on a tab on the sides of the vehicle just behind the driver's and front passenger's seats. The model and serial numbers are on a certification label affixed to the top rear of the driver's side front wheel well. The following model numbers and serial number ranges are being recalled: Model Number Serial Number Range (All begin with 1HF) Number of Seats SXS 700M2 2AC VE0225E4000006 to VE022XE4006304 2 SXS 700M2 4AC VE0284E4000003 to VE0284E4001202 2 SXS 700M4 AC VE0204E4000013 to VE020XE4006849 4 SXS 700M4 3AC VE0268E4000004 to VE0269E4001503 4",
+  "URL": "https://www.cpsc.gov/Recalls/2015/American-Honda-Recalls-Recreational-Off-Highway-Vehicles",
+  "Title": "American Honda Recalls Recreational Off-Highway Vehicles Due to Fire Hazard (Recall Alert)",
+  "ConsumerContact": "American Honda toll-free at (888) 888-3139 from 8:30 a.m. to 7 p.m. ET Monday through Friday or online at www.powersports.honda.com and click on Product Recall Information at the bottom of the page for more information.",
+  "LastPublishDate": "2014-12-09T00:00:00",
+  "Products": [
+    {
+      "Name": "Recreational off-highway vehicles",
+      "Description": "",
+      "Model": "",
+      "Type": "Recreational off-highway vehicles",
+      "CategoryID": "68357",
+      "NumberOfUnits": "About 15,400"
+    }
+  ],
+  "Inconjunctions": [],
+  "Images": [
+    {
+      "URL": "https://www.cpsc.gov/s3fs-public/1-HondaPioneerLARGE.jpg",
+      "Caption": "Honda Pioneer"
+    },
+    {
+      "URL": "https://www.cpsc.gov/s3fs-public/2-CertificationLocationLARGE.jpg",
+      "Caption": "Certification Location"
+    }
+  ],
+  "Injuries": [
+    {
+      "Name": "Honda has received reports of 10 incidents involving fires resulting from vegetation and debris accumulating on the middle skid plate and making contact with the vehicle's exhaust system. No injuries were reported."
+    }
+  ],
+  "Manufacturers": [
+    {
+      "Name": "American Honda Motor Company, of Torrance, Calif.",
+      "CompanyID": ""
+    }
+  ],
+  "Retailers": [
+    {
+      "Name": "Authorized Honda powersports dealers nationwide from August 2013 through September 2014.",
+      "CompanyID": ""
+    }
+  ],
+  "Importers": [],
+  "Distributors": [],
+  "SoldAtLabel": null,
+  "ManufacturerCountries": [
+    {
+      "Country": "United States"
+    }
+  ],
+  "ProductUPCs": [],
+  "Hazards": [
+    {
+      "Name": "Vegetation and debris can accumulate on the middle skid plate and make contact with the vehicle's exhaust system. Dried debris can ignite, resulting in smoke or fire.",
+      "HazardType": "",
+      "HazardTypeID": ""
+    }
+  ],
+  "Remedies": [
+    {
+      "Name": "Owners should immediately stop using the recalled vehicle and take it to an authorized Honda dealer to have the original middle skid plate removed and an updated middle skid plate installed free of charge."
+    }
+  ],
+  "RemedyOptions": [
+    {
+      "Option": "Repair"
+    }
+  ]
+}

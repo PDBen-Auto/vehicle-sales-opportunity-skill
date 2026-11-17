@@ -1,0 +1,98 @@
+{
+  "RecallID": 8839,
+  "RecallNumber": "20751",
+  "RecallDate": "2020-06-18T00:00:00",
+  "Description": "This recall involves certain Model Year 2019 & 2020 Honda Pioneer 1000 and Talon 1000 side-by-side vehicles. The recalled vehicles were sold in various colors, including: red, blue, green, gray and yellow. The name \"HONDA\" is on the front, sides and the rear of the vehicle. The model name Pioneer 1000 or Talon is printed on a label located on both sides of the vehicle. For the Pioneer 1000, the serial number (VIN #) is stamped in the frame at the left rear, below the tilt-up bed/seat. For the Talon 1000, the VIN# is stamped on the left side of the frame, under the left front fender. MY Model VIN Start VIN End 2019 Pioneer 1000 - 3 Passenger (SXS10M3*) 1HFVE04**K4300061 1HFVE04**K4301919 2019 Pioneer 1000 - 5 Passenger (SXS10M5*) 1HFVE04**K4300061 1HFVE04**K4302460 2019 Talon 1000 - 2 Passenger (SXS10S2*) 1HFVE05**K4000003 1HFVE05**K4003902 2020 Pioneer 1000 - 3 Passenger (SXS10M3*) 1HFVE04**L4400001 1HFVE04**L4402426 2020 Pioneer 1000 - 5 Passenger (SXS10M5*) 1HFVE04**L4400001 1HFVE04**L4402984 2020 Talon 1000 - 2 Passenger (SXS10S2*) 1HFVE05**L4100001 1HFVE05**L4102280 2020 Talon 1000 - 4 Passenger (SXS10S4*) 1HFVE06**L4000002 1HFVE06**L4002100",
+  "URL": "https://www.cpsc.gov/Recalls/2020/Recreational-Off-Highway-Vehicles-Recalled-by-American-Honda-Due-to-Crash-and-Injury-Hazards-Recall-Alert",
+  "Title": "Recreational Off-Highway Vehicles Recalled by American Honda Due to Crash and Injury Hazards (Recall Alert)",
+  "ConsumerContact": "American Honda toll-free at 866-784-1870 from 8:30 a.m. to 4:30 p.m. PT Monday through Friday or online at http://powersports.honda.com/ and click on “Recall Information” at the bottom of the page for more information.",
+  "LastPublishDate": "2020-06-18T00:00:00",
+  "Products": [
+    {
+      "Name": "Recreational off-highway vehicles (ROVs)",
+      "Description": "",
+      "Model": "",
+      "Type": "",
+      "CategoryID": "",
+      "NumberOfUnits": "About 25,000"
+    }
+  ],
+  "Inconjunctions": [],
+  "Images": [
+    {
+      "URL": "https://www.cpsc.gov/s3fs-public/1_63.png",
+      "Caption": "Recalled 2019-2020 Model Year Honda Pioneer 1000 5 Passenger"
+    },
+    {
+      "URL": "https://www.cpsc.gov/s3fs-public/2_49.png",
+      "Caption": "Recalled 2019-2020 Model Year Honda Pioneer 1000 3 Passenger"
+    },
+    {
+      "URL": "https://www.cpsc.gov/s3fs-public/3_33.png",
+      "Caption": "Pioneer 1000 Location of VIN Number"
+    },
+    {
+      "URL": "https://www.cpsc.gov/s3fs-public/4_27.png",
+      "Caption": "Pioneer 1000 Location of VIN Number"
+    },
+    {
+      "URL": "https://www.cpsc.gov/s3fs-public/5_16.png",
+      "Caption": "2019-2020 Model Year Talon 1000 2 Passenger"
+    },
+    {
+      "URL": "https://www.cpsc.gov/s3fs-public/6_10.png",
+      "Caption": "2019-2020 Model Year Talon 1000 4 Passenger"
+    },
+    {
+      "URL": "https://www.cpsc.gov/s3fs-public/7_7.png",
+      "Caption": "Talon 1000 Location of VIN Number"
+    },
+    {
+      "URL": "https://www.cpsc.gov/s3fs-public/8_6.png",
+      "Caption": "Talon 1000 Location of VIN Number"
+    }
+  ],
+  "Injuries": [
+    {
+      "Name": "The firm has received three reports of the ROVs moving while in the park position. No injuries have been reported."
+    }
+  ],
+  "Manufacturers": [
+    {
+      "Name": "American Honda Motor Co., Inc., of Torrance, Calif.",
+      "CompanyID": ""
+    }
+  ],
+  "Retailers": [
+    {
+      "Name": "Authorized Honda Powersports dealers nationwide, from November 2018 through March 2020, for between $15,000 and $24,000.",
+      "CompanyID": ""
+    }
+  ],
+  "Importers": [],
+  "Distributors": [],
+  "SoldAtLabel": null,
+  "ManufacturerCountries": [
+    {
+      "Country": "United States"
+    }
+  ],
+  "ProductUPCs": [],
+  "Hazards": [
+    {
+      "Name": "The ROV can move or roll when in the park position, posing crash and injury hazards.",
+      "HazardType": "",
+      "HazardTypeID": ""
+    }
+  ],
+  "Remedies": [
+    {
+      "Name": "Consumers should immediately stop using the recalled ROVs and contact an authorized Honda Powersports dealer to schedule an appointment for a free inspection and repair. Honda is contacting all known purchasers directly."
+    }
+  ],
+  "RemedyOptions": [
+    {
+      "Option": "Repair"
+    }
+  ]
+}

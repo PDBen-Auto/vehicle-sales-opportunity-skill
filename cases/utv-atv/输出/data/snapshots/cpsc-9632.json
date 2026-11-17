@@ -1,0 +1,94 @@
+{
+  "RecallID": 9632,
+  "RecallNumber": "23760",
+  "RecallDate": "2023-05-18T00:00:00",
+  "Description": "This recall involves certain VINs of model year 2021-2023 RZR Pro XP 4 and Model Year 2022-2023 RZR Turbo R 4 vehicles. The recalled vehicles were sold in the following colors: black, blue, graphite, gray, navy blue, titanium metallic, metallic, orange, red, silver and white. The recalled vehicles were sold in a four-seat configuration. POLARIS is stamped on the front grille and POLARIS and RZR are printed on the sides of the vehicles. The model name is also printed on the side of the chassis. The VIN is located on the vehicle's frame in the left rear wheel well.",
+  "URL": "https://www.cpsc.gov/Recalls/2023/Polaris-Recalls-RZR-Pro-XP-and-Turbo-R-Recreational-Off-Road-Vehicles-Due-to-Fire-Hazard-Recall-Alert",
+  "Title": "Polaris Recalls RZR Pro XP and Turbo R Recreational Off-Road Vehicles Due to Fire Hazard (Recall Alert)",
+  "ConsumerContact": "Polaris at 800-765-2747 from 7 a.m. to 7 p.m. CT Monday through Friday or online at www.polaris.com and click on \"Off Road Safety Recalls\" or www.polaris.com/en-us/off-road-recalls/ to check if your vehicle identification number (VIN) is included in any recalls.",
+  "LastPublishDate": "2023-05-18T00:00:00",
+  "Products": [
+    {
+      "Name": "Model Year 2021-2023 RZR Pro XP 4 and Model Year 2022-2023 RZR Turbo R 4 vehicles Recreational Off-Road Vehicles",
+      "Description": "",
+      "Model": "",
+      "Type": "",
+      "CategoryID": "",
+      "NumberOfUnits": "About 20,330 (In addition, about 330 were sold in Canada) (Some of these vehicles were previously recalled in May 2021 and November 2020)"
+    }
+  ],
+  "Inconjunctions": [
+    {
+      "URL": "https://wwwapps.tc.gc.ca/Saf-Sec-Sur/7/VRDB-BDRV/search-recherche/detail.aspx?rn=2022506"
+    }
+  ],
+  "Images": [
+    {
+      "URL": "https://www.cpsc.gov/s3fs-public/Recalled Model Year 2021 Polaris RZR Pro XP 4.jpg",
+      "Caption": "Recalled Model Year 2021 Polaris RZR Pro XP 4"
+    },
+    {
+      "URL": "https://www.cpsc.gov/s3fs-public/image4.jpg",
+      "Caption": "Recalled Model Year 2022 Polaris RZR Pro XP 4"
+    },
+    {
+      "URL": "https://www.cpsc.gov/s3fs-public/Recalled Model Year 2023 Polaris RZR Pro XP 4.jpg",
+      "Caption": "Recalled Model Year 2023 Polaris RZR Pro XP 4"
+    },
+    {
+      "URL": "https://www.cpsc.gov/s3fs-public/Recalled Model Year 2022 Polaris RZR Turbo R 4.jpg",
+      "Caption": "Recalled Model Year 2022 Polaris RZR Turbo R 4"
+    },
+    {
+      "URL": "https://www.cpsc.gov/s3fs-public/Recalled Model Year 2023 Polaris RZR Turbo R 4.jpg",
+      "Caption": "Recalled Model Year 2023 Polaris RZR Turbo R 4"
+    },
+    {
+      "URL": "https://www.cpsc.gov/s3fs-public/image1.jpg",
+      "Caption": "Recalled Polaris RZR Recreational Off-Road Vehicle VIN Location"
+    }
+  ],
+  "Injuries": [
+    {
+      "Name": "The firm has received five reports of fuel leaks, including one report of fire. No injuries have been reported."
+    }
+  ],
+  "Manufacturers": [],
+  "Retailers": [
+    {
+      "Name": "Polaris dealers nationwide from December 2019 through November 2022 for between $25,700 and $39,600.",
+      "CompanyID": ""
+    }
+  ],
+  "Importers": [
+    {
+      "Name": "Polaris Industries Inc., of Medina, Minnesota",
+      "CompanyID": ""
+    }
+  ],
+  "Distributors": [],
+  "SoldAtLabel": null,
+  "ManufacturerCountries": [
+    {
+      "Country": "Mexico"
+    }
+  ],
+  "ProductUPCs": [],
+  "Hazards": [
+    {
+      "Name": "A fuel leak can occur at the fuel pump assembly joint on the fuel tank in close proximity to a hot surface, posing a fire hazard.",
+      "HazardType": "",
+      "HazardTypeID": ""
+    }
+  ],
+  "Remedies": [
+    {
+      "Name": "Consumers should immediately stop using the recalled vehicles and contact Polaris or an authorized Polaris dealer to schedule a free repair. The dealer will replace the fuel pump assembly free of charge. Polaris has notified consumers to stop riding the vehicles and is notifying all dealers and registered owners directly to provide more details about the repair."
+    }
+  ],
+  "RemedyOptions": [
+    {
+      "Option": "Repair"
+    }
+  ]
+}

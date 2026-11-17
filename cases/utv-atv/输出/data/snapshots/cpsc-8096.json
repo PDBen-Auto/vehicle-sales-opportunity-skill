@@ -1,0 +1,83 @@
+{
+  "RecallID": 8096,
+  "RecallNumber": "17756",
+  "RecallDate": "2017-07-18T00:00:00",
+  "Description": "This recall involves all model year 2017 Polaris RZR 570 and RZR S 570 recreational off-highway vehicles (ROVs), including RZR EPS 570 or RZR S 570 EPS vehicles which have electronic power steering. Model number Z17VJE57AR was sold in red, model number Z17VHE57AU in silver and model number Z17VHA57A2 in white. The two-seat ROVs have \"Polaris\" stamped on the front grill and RZR or RZR S on the side of the rear cargo. The model number can be found on the manufacturing data label, near the right front fender. The vehicle identification number (VIN) is printed on the frame on the driver's side towards the rear of the vehicle. To check for recalled vehicles by VIN, visit www.polaris.com.",
+  "URL": "https://www.cpsc.gov/Recalls/2017/Polaris-Recalls-RZR-570-and-RZR-S-570-Recreational-Off-Highway-Vehicles-Recall-Alert",
+  "Title": "Polaris Recalls RZR 570 and RZR S 570 Recreational Off-Highway Vehicles Due to Crash and Injury Hazards (Recall Alert)",
+  "ConsumerContact": "Polaris at 800-765-2747 from 7 a.m. through 7 p.m. CT Monday and Friday, or online at www.polaris.com and click on \"Off Road Safety Recalls\" at the bottom of the page for more information.",
+  "LastPublishDate": "2017-07-18T00:00:00",
+  "Products": [
+    {
+      "Name": "Polaris RZR 570 and RZR S 570 recreational off-highway vehicles (ROVs)",
+      "Description": "",
+      "Model": "",
+      "Type": "",
+      "CategoryID": "",
+      "NumberOfUnits": "About 1,160"
+    }
+  ],
+  "Inconjunctions": [],
+  "Images": [
+    {
+      "URL": "https://www.cpsc.gov/s3fs-public/Silver.jpg",
+      "Caption": "2017 RZR 570 EPS - Silver"
+    },
+    {
+      "URL": "https://www.cpsc.gov/s3fs-public/White.jpg",
+      "Caption": "2017 RZR 570 - White"
+    },
+    {
+      "URL": "https://www.cpsc.gov/s3fs-public/Red.jpg",
+      "Caption": "2017 RZR 570 EPS - Red"
+    }
+  ],
+  "Injuries": [
+    {
+      "Name": "None reported"
+    }
+  ],
+  "Manufacturers": [
+    {
+      "Name": "Polaris Industries Inc., of Medina, Minn.",
+      "CompanyID": ""
+    }
+  ],
+  "Retailers": [
+    {
+      "Name": "Polaris dealers nationwide from December 2016 through June 2017 for about $8,500.",
+      "CompanyID": ""
+    }
+  ],
+  "Importers": [
+    {
+      "Name": "Polaris Industries Inc., of Medina, Minn.",
+      "CompanyID": ""
+    }
+  ],
+  "Distributors": [],
+  "SoldAtLabel": null,
+  "ManufacturerCountries": [
+    {
+      "Country": "Mexico"
+    }
+  ],
+  "ProductUPCs": [],
+  "Hazards": [
+    {
+      "Name": "The front brake can detach, posing crash and injury hazards.",
+      "HazardType": "",
+      "HazardTypeID": ""
+    }
+  ],
+  "Remedies": [
+    {
+      "Name": "Consumer should immediately stop using the recalled ROVs and contact Polaris to schedule a free repair. Polaris is contacting all known purchasers directly."
+    }
+  ],
+  "RemedyOptions": [
+    {
+      "Option": "Repair"
+    }
+  ]
+}

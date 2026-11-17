@@ -1,0 +1,86 @@
+{
+  "RecallID": 9106,
+  "RecallNumber": "21765",
+  "RecallDate": "2021-07-22T00:00:00",
+  "Description": "This recall involves Model Year 2021 GENERAL 1000, GENERAL 4 1000, GENERAL XP 1000, and GENERAL XP 4 1000 recreational off-highway vehicles. The two or four-seat vehicles were sold in the following colors: burgundy, gray, graphite, tan, titanium, and white. POLARIS is stamped on the front grille and POLARIS and GENERAL are printed on the sides of the vehicles. The Vehicle Identification Number (VIN) is located on the left rear vehicle frame below the cargo box.",
+  "URL": "https://www.cpsc.gov/Recalls/2021/Polaris-Recalls-GENERAL-Recreational-Off-Highway-Vehicles-Due-to-Crash-Hazard-Recall-Alert",
+  "Title": "Polaris Recalls GENERAL Recreational Off-Highway Vehicles Due to Crash Hazard (Recall Alert)",
+  "ConsumerContact": "Polaris at 800-765-2747 from 7 a.m. to 7 p.m. CT Monday through Friday or online at www.polaris.com and click on \"Off Road Safety Recalls\" for more information. In addition, check your vehicle identification number \"VIN\" on the \"Product Safety Recalls\" page to see if your vehicle is included in any recalls.",
+  "LastPublishDate": "2021-07-22T00:00:00",
+  "Products": [
+    {
+      "Name": "Model Year 2021 GENERAL 1000, GENERAL 4 1000, GENERAL XP 1000 and GENERAL XP 4 1000 ROVs",
+      "Description": "",
+      "Model": "",
+      "Type": "",
+      "CategoryID": "",
+      "NumberOfUnits": "About 1,400 (In addition, about 130 were sold in Canada)"
+    }
+  ],
+  "Inconjunctions": [
+    {
+      "URL": "https://wwwapps.tc.gc.ca/Saf-Sec-Sur/7/VRDB-BDRV/search-recherche/detail.aspx?rn=2021322"
+    }
+  ],
+  "Images": [
+    {
+      "URL": "https://www.cpsc.gov/s3fs-public/Picture1_130.png",
+      "Caption": "Recalled Model Year 2021 GENERAL 1000"
+    },
+    {
+      "URL": "https://www.cpsc.gov/s3fs-public/Picture2_108.png",
+      "Caption": "Recalled Model Year 2021 GENERAL 4 1000"
+    },
+    {
+      "URL": "https://www.cpsc.gov/s3fs-public/Picture3_74.png",
+      "Caption": "Recalled Model Year 2021 GENERAL XP 1000"
+    },
+    {
+      "URL": "https://www.cpsc.gov/s3fs-public/Picture4_48.png",
+      "Caption": "Recalled Model Year 2021 GENERAL XP 4 1000"
+    }
+  ],
+  "Injuries": [
+    {
+      "Name": "None reported."
+    }
+  ],
+  "Manufacturers": [
+    {
+      "Name": "Polaris Inc., of Medina, Minn.",
+      "CompanyID": ""
+    }
+  ],
+  "Retailers": [
+    {
+      "Name": "Polaris dealers nationwide from March 2021 through May 2021 for between $16,300 and $27,700.",
+      "CompanyID": ""
+    }
+  ],
+  "Importers": [],
+  "Distributors": [],
+  "SoldAtLabel": null,
+  "ManufacturerCountries": [
+    {
+      "Country": "Mexico"
+    }
+  ],
+  "ProductUPCs": [],
+  "Hazards": [
+    {
+      "Name": "The weld between the brake pedal pivot bracket and the EPS mounting bracket can separate, which can result in a loss of brake function, posing a crash hazard.",
+      "HazardType": "",
+      "HazardTypeID": ""
+    }
+  ],
+  "Remedies": [
+    {
+      "Name": "Consumers should immediately stop using the recalled vehicles and contact a Polaris dealer to schedule a free inspection and if needed, a free repair. Polaris is notifying dealers and contacting registered owners directly."
+    }
+  ],
+  "RemedyOptions": [
+    {
+      "Option": "Repair"
+    }
+  ]
+}

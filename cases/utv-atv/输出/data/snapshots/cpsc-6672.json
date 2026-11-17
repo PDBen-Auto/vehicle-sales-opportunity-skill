@@ -1,0 +1,82 @@
+{
+  "RecallID": 6672,
+  "RecallNumber": "16730",
+  "RecallDate": "2016-03-09T00:00:00",
+  "Description": "This recall involves all model years 2015 and 2016 UXV 450i, UXV 450i LE and UXV 450i Turf models. Recalled utility vehicles come in the colors blue, camouflage, matte black, gold, green, red, blue and black. The model year 2015 recalled vehicles are those units with the last six numbers of the vehicle identification numbers (VIN) between 100101 and 190370. The model year 2016 recalled vehicles are those units with the last six numbers of the vehicle identification numbers (VIN) between 190371 and 260240. The VIN can be found on the frame behind the right front wheel. UXV is printed on each side of the rear cargo box and on the hood. KYMCO is printed on the side panels.",
+  "URL": "https://www.cpsc.gov/Recalls/2016/KYMCO-Recalls-Utility-Vehicles",
+  "Title": "KYMCO Recalls Utility Vehicles Due to Crash and Injury Hazards (Recall Alert)",
+  "ConsumerContact": "KYMCO toll-free at 888-235-3417 anytime, email at info@kymcousa.com or online at www.kymcousa.com and click on Recall Information for more information.",
+  "LastPublishDate": "2016-03-11T00:00:00",
+  "Products": [
+    {
+      "Name": "Utility Vehicles",
+      "Description": "",
+      "Model": "",
+      "Type": "Utility Vehicles",
+      "CategoryID": "68355",
+      "NumberOfUnits": "About 1,700"
+    }
+  ],
+  "Inconjunctions": [],
+  "Images": [
+    {
+      "URL": "https://www.cpsc.gov/s3fs-public/Recall.2016.16730.KYMCO-utility-vehicle-model.jpg",
+      "Caption": "KYMCO utility vehicle model 450i (blue, red and black)"
+    },
+    {
+      "URL": "https://www.cpsc.gov/s3fs-public/Recall.2016.16730.KYMCOCamo.jpg",
+      "Caption": "KYMCO utility vehicle model UXV 450i (camouflage)"
+    },
+    {
+      "URL": "https://www.cpsc.gov/s3fs-public/Recall.2016.16730.KYMCOUXV.jpg",
+      "Caption": "KYMCO utility vehicle model UXV 450i LE (gray, gold and matte black)"
+    },
+    {
+      "URL": "https://www.cpsc.gov/s3fs-public/Recall.2016.16730.UtilityVehicleDarkGreen.jpg",
+      "Caption": "KYMCO utility vehicle model UXV 450i Turf (green and red)"
+    }
+  ],
+  "Injuries": [
+    {
+      "Name": "The firm has received seven reports of the throttle failing. No injuries have been reported."
+    }
+  ],
+  "Manufacturers": [],
+  "Retailers": [
+    {
+      "Name": "Authorized KYMCO dealers nationwide from June 2014 through November 2015 for between $8,000 and $8,700.",
+      "CompanyID": ""
+    }
+  ],
+  "Importers": [],
+  "Distributors": [
+    {
+      "Name": "KYMCO USA, of Spartanburg, S.C.",
+      "CompanyID": ""
+    }
+  ],
+  "SoldAtLabel": null,
+  "ManufacturerCountries": [
+    {
+      "Country": "Taiwan"
+    }
+  ],
+  "ProductUPCs": [],
+  "Hazards": [
+    {
+      "Name": "The throttle can fail to return to idle causing the rider to lose control, posing crash and injury hazards.",
+      "HazardType": "",
+      "HazardTypeID": ""
+    }
+  ],
+  "Remedies": [
+    {
+      "Name": "Consumers should immediately stop using the recalled utility vehicles and contact an authorized KYMCO dealer for a free inspection and free repair. KYMCO is contacting consumers directly."
+    }
+  ],
+  "RemedyOptions": [
+    {
+      "Option": "Repair"
+    }
+  ]
+}

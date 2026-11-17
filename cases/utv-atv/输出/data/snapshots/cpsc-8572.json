@@ -1,0 +1,78 @@
+{
+  "RecallID": 8572,
+  "RecallNumber": "19750",
+  "RecallDate": "2019-06-04T00:00:00",
+  "Description": "This recall involves model year 2015 - 2019 Ranger EV recreational off-highway vehicles (ROVs) sold in avalanche gray and pursuit camo, which were produced between April 2014 and January 2019. The recalled vehicles have \"POLARIS\" printed on the front grille and beneath the doors; and \"RANGER\" printed on the rear fenders. The vehicle identification number (VIN) and model number can be found on a label affixed to the vehicle frame in the left front wheel well. VIN numbers included in this recall are at www.polaris.com.",
+  "URL": "https://www.cpsc.gov/Recalls/2019/Polaris-Recalls-Recreational-Off-Highway-Vehicles-Due-to-Crash-Hazard-Recall-Alert",
+  "Title": "Polaris Recalls Recreational Off Highway Vehicles Due to Crash Hazard (Recall Alert)",
+  "ConsumerContact": "Polaris at 800-765-2747 from 7 a.m. to 7 p.m. CT Monday through Friday or online at www.polaris.com and click on “Off Road Safety Recalls” for more information. In addition, check your vehicle identification number (VIN) on the “Product Safety Recalls” page to see if your vehicle is included in any recalls.",
+  "LastPublishDate": "2019-06-04T00:00:00",
+  "Products": [
+    {
+      "Name": "Model Year 2015 - 2019 Polaris RGR EV recreational off-highway vehicles (ROVs)",
+      "Description": "",
+      "Model": "",
+      "Type": "",
+      "CategoryID": "",
+      "NumberOfUnits": "About 3,900"
+    }
+  ],
+  "Inconjunctions": [],
+  "Images": [
+    {
+      "URL": "https://www.cpsc.gov/s3fs-public/3_12.png",
+      "Caption": "2019 Polaris Ranger EV in Avalanche Gray"
+    }
+  ],
+  "Injuries": [
+    {
+      "Name": "Polaris has received eight reports of the recalled ROVs accelerating unexpectedly, due to an incorrectly wired harness. There was one reported incident with two injuries, which happened outside of the U.S."
+    }
+  ],
+  "Manufacturers": [
+    {
+      "Name": "Polaris Industries Inc., of Medina, Minn.",
+      "CompanyID": ""
+    }
+  ],
+  "Retailers": [
+    {
+      "Name": "Polaris dealers nationwide from February 2014 through January 2019 for about $11,900.",
+      "CompanyID": ""
+    }
+  ],
+  "Importers": [
+    {
+      "Name": "Polaris Industries Inc., of Medina, Minn.",
+      "CompanyID": ""
+    }
+  ],
+  "Distributors": [],
+  "SoldAtLabel": null,
+  "ManufacturerCountries": [
+    {
+      "Country": "United States"
+    },
+    {
+      "Country": "Mexico"
+    }
+  ],
+  "ProductUPCs": [],
+  "Hazards": [
+    {
+      "Name": "An incorrectly wired chassis harness can cause an incorrect throttle control signal to the electric drive motor, which can cause the vehicle to accelerate unexpectedly, posing a crash hazard.",
+      "HazardType": "",
+      "HazardTypeID": ""
+    }
+  ],
+  "Remedies": [
+    {
+      "Name": "Consumers should immediately stop using the recalled ROVs and contact a Polaris dealer to schedule a free repair. Polaris is contacting all registered owners directly."
+    }
+  ],
+  "RemedyOptions": [
+    {
+      "Option": "Repair"
+    }
+  ]
+}

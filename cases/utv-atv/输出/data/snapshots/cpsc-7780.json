@@ -1,0 +1,103 @@
+{
+  "RecallID": 7780,
+  "RecallNumber": "16755",
+  "RecallDate": "2016-06-28T00:00:00",
+  "Description": "This recall involves 2015 and 2016 model year Polaris Ranger 570 recreational off-highway vehicles (ROVs). They have either two or four seats and a rear box. \"Ranger\" is printed on the rear box and \"570\" is printed on the hood. \"Polaris\" is stamped onto the front grill. The ROVs were sold in several colors. The following models are included in the recall. Model Year 2015 Models Model Year 2016 Models Ranger 570 Ranger 570 2x4 Ranger 570 EPS Ranger 570 Ranger 570 EPS HD Ranger 570 EPS Ranger Crew 570 Ranger 570 EPS HD Ranger Crew 570 EPS Ranger 570 EPS ZUG Ranger Crew 570 Ranger Crew 570 EPS",
+  "URL": "https://www.cpsc.gov/Recalls/2016/Polaris-Recalls-Ranger-ROVs",
+  "Title": "Polaris Recalls Ranger ROVs Due to Fire Hazard (Recall Alert)",
+  "ConsumerContact": "Polaris at 800-765-2747 from 7 a.m. to 7 p.m. CT Monday through Friday, or online at www.polaris.com and click on \"Off-Road Safety Recalls\" on the main page for more information.",
+  "LastPublishDate": "2016-06-28T00:00:00",
+  "Products": [
+    {
+      "Name": "Polaris Ranger 570 ROVs",
+      "Description": "",
+      "Model": "",
+      "Type": "Recreational Off-Road Vehicles (ROV)",
+      "CategoryID": "68357",
+      "NumberOfUnits": "About 43,000"
+    }
+  ],
+  "Inconjunctions": [],
+  "Images": [
+    {
+      "URL": "https://www.cpsc.gov/s3fs-public/Recall.2016.16755.16755a.jpg",
+      "Caption": "Recalled Polaris 2015 Ranger 570 ROV"
+    },
+    {
+      "URL": "https://www.cpsc.gov/s3fs-public/Recall.2016.16755.16755b.jpg",
+      "Caption": "Recalled Polaris 2015 Ranger 570 EPS ROV"
+    },
+    {
+      "URL": "https://www.cpsc.gov/s3fs-public/Recall.2016.16755.16755c.jpg",
+      "Caption": "Recalled Polaris 2015 Ranger Crew 570 ROV"
+    },
+    {
+      "URL": "https://www.cpsc.gov/s3fs-public/Recall.2016.16755.16755d.jpg",
+      "Caption": "Recalled Polaris 2015 Ranger Crew 570 EPS ROV"
+    },
+    {
+      "URL": "https://www.cpsc.gov/s3fs-public/Recall.2016.16755.16755e.jpg",
+      "Caption": "Recalled Polaris 2016 Ranger 570 ROV"
+    },
+    {
+      "URL": "https://www.cpsc.gov/s3fs-public/Recall.2016.16755.16755f.jpg",
+      "Caption": "Recalled Polaris 2016 Ranger 570 EPS ROV"
+    },
+    {
+      "URL": "https://www.cpsc.gov/s3fs-public/Recall.2016.16755.16755g.jpg",
+      "Caption": "Recalled Polaris 2016 Ranger Crew 570 ROV"
+    },
+    {
+      "URL": "https://www.cpsc.gov/s3fs-public/Recall.2016.16755.16755h.jpg",
+      "Caption": "Recalled Polaris 2016 Ranger Crew 570 EPS ROV"
+    }
+  ],
+  "Injuries": [
+    {
+      "Name": "Polaris has received seven reports of the recalled ROVs overheating and catching on fire. No injuries have been reported."
+    }
+  ],
+  "Manufacturers": [],
+  "Retailers": [
+    {
+      "Name": "Polaris dealers nationwide from August 2014 through June 2016 for between $10,000 and $12,500.",
+      "CompanyID": ""
+    }
+  ],
+  "Importers": [
+    {
+      "Name": "Polaris Industries Inc., of Medina, Minn.",
+      "CompanyID": ""
+    }
+  ],
+  "Distributors": [
+    {
+      "Name": "Polaris Industries Inc., of Medina, Minn.",
+      "CompanyID": ""
+    }
+  ],
+  "SoldAtLabel": null,
+  "ManufacturerCountries": [
+    {
+      "Country": "Mexico"
+    }
+  ],
+  "ProductUPCs": [],
+  "Hazards": [
+    {
+      "Name": "The ROVs can overheat during heavy engine loading, slow-speed intermittent use and/or high outdoor temperatures and catch fire.",
+      "HazardType": "",
+      "HazardTypeID": ""
+    }
+  ],
+  "Remedies": [
+    {
+      "Name": "Consumers should immediately stop using the recalled ROVs and contact Polaris to schedule a free repair. Polaris is contacting all known purchasers directly."
+    }
+  ],
+  "RemedyOptions": [
+    {
+      "Option": "Repair"
+    }
+  ]
+}

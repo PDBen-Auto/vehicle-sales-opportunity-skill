@@ -1,0 +1,74 @@
+{
+  "RecallID": 6600,
+  "RecallNumber": "16714",
+  "RecallDate": "2015-12-15T00:00:00",
+  "Description": "The recall involves 2012 and 2013 model year Teryx4™ 750 4x4 (four seats) and 2014, 2015, 2016 model year Teryx® 800 4x4 (two seats) and 2014, 2015 and 2016 model year Teryx4 800 4x4 (four seats) recreational off-highway vehicles. These four-wheel off-highway vehicles have automotive style controls and seating for two or four. The Teryx 800 has side-by-side seating for two people, two doors, a roll bar with hand holds and a cargo bed. The Teryx4 750 and Teryx 4 800 have side-by-side seating for four people, four doors, a roll bar with hand holds and a cargo bed. The models come in three different styles: Non-EPS, EPS and EPS LE. The LE style has a roof and aluminum wheels. The model name is printed on the driver's side of the hood or on the left and right front fender. The 2012 Teryx4 750 model comes in blue, camo, green, yellow, and red. The 2013 Teryx4 750 model comes in black, camo, green, red, white, and yellow. The 2014 Teryx4 800 model comes in green, camo, yellow, and orange. The 2015 Teryx4 800 model comes in green, orange, white, camo, and black. The 2016 Teryx4 800 model comes in camo, white, green, red, and gray. The 2014 Teryx 800 model comes in camo, green, and blue. The 2015 Teryx 800 comes in green, white, black and camo. The 2016 Teryx 800 comes in green, gray, camo, and white.",
+  "URL": "https://www.cpsc.gov/Recalls/2016/Kawasaki-Expands-Recall-of-Teryx-and-Teryx4-Recreational-Off-Highway-Vehicles",
+  "Title": "Kawasaki Expands Recall of Teryx and Teryx4 Recreational Off-Highway Vehicles Due to Injury Hazard (Recall Alert)",
+  "ConsumerContact": "Kawasaki toll-free at 866-802-9381 from 8 a.m. to 5 p.m. PT Monday through Friday or online at www.kawasaki.com and click on Recall/Safety Info at the bottom of the page for more information ",
+  "LastPublishDate": "2015-12-15T00:00:00",
+  "Products": [
+    {
+      "Name": "Teryx recreational off-highway vehicles",
+      "Description": "",
+      "Model": "",
+      "Type": "Recreational Vehicles (Unlicensed)",
+      "CategoryID": "68345",
+      "NumberOfUnits": "About 19,500 (an additional 11,000 were recalled for the same hazard in July 2014 and 7,000 for a different hazard in August 2012)"
+    }
+  ],
+  "Inconjunctions": [],
+  "Images": [
+    {
+      "URL": "https://www.cpsc.gov/s3fs-public/Recall.2016.16714.Teryx_.jpg",
+      "Caption": "Teryx Recreational Off-highway Vehicle (two-passenger)"
+    },
+    {
+      "URL": "https://www.cpsc.gov/s3fs-public/Recall.2016.16714.jpg",
+      "Caption": "Teryx4 Recreational Off-highway Vehicle (four-passenger)"
+    }
+  ],
+  "Injuries": [
+    {
+      "Name": "Kawasaki has received 628 incident reports of debris cracking or breaking through the floor boards of the vehicles, including eight reports of injuries to riders' lower extremities."
+    }
+  ],
+  "Manufacturers": [],
+  "Retailers": [
+    {
+      "Name": "Kawasaki dealers nationwide from November 2011 through November 2015 for between $13,400 and $16,300.",
+      "CompanyID": ""
+    }
+  ],
+  "Importers": [],
+  "Distributors": [
+    {
+      "Name": "Kawasaki Motors Corp., U.S.A., of Irvine, Calif.",
+      "CompanyID": ""
+    }
+  ],
+  "SoldAtLabel": null,
+  "ManufacturerCountries": [
+    {
+      "Country": "United States"
+    }
+  ],
+  "ProductUPCs": [],
+  "Hazards": [
+    {
+      "Name": "Sticks or other debris can break through the vehicle's floor board and protrude into the foot rest area, posing an injury hazard to the operator and front passenger.",
+      "HazardType": "",
+      "HazardTypeID": ""
+    }
+  ],
+  "Remedies": [
+    {
+      "Name": "Consumers should immediately stop using the recalled vehicles and contact an authorized Kawasaki dealer to schedule a free repair, consisting of the installation of floor board guards and replacing damaged floorboards. Consumers with previously repaired vehicles should contact Kawasaki dealers to receive this additional repair."
+    }
+  ],
+  "RemedyOptions": [
+    {
+      "Option": "Repair"
+    }
+  ]
+}

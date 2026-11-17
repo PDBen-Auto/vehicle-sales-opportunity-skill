@@ -1,0 +1,78 @@
+{
+  "RecallID": 9804,
+  "RecallNumber": "24736",
+  "RecallDate": "2023-12-14T00:00:00",
+  "Description": "This recall involves Kubota Utility Vehicles with model number RTV-XG850, known as the \"Sidekick.\" \"Sidekick\" and/or the model number are on the side of the utility vehicles, which were sold in various colors. Data plates on the side of the recalled vehicles have the model number and serial numbers ranging from 31706-35058, Y1025-Y1310, 50011-50012, and 50075-52920.",
+  "URL": "https://www.cpsc.gov/Recalls/2024/Kubota-Tractor-Recalls-Utility-Vehicles-Due-to-Crash-and-Collision-Hazards-Recall-Alert",
+  "Title": "Kubota Tractor Recalls Utility Vehicles Due to Crash and Collision Hazards (Recall Alert)",
+  "ConsumerContact": "Kubota Tractor Corporation toll-free at 888-458-2682 from 8 a.m. to 5 p.m. CT Monday through Friday, or online at https://www.kubotausa.com/recall/contact/form. Additional information can be found online at www.kubotausa.com; click Parts & Service, then scroll down and click the \"Safety & Recall Notices\" tab to view the Safety & Recall Notice, or go directly to https://www.kubotausa.com/recall/service-support/safety/safety-notices.",
+  "LastPublishDate": "2023-12-14T00:00:00",
+  "Products": [
+    {
+      "Name": "Utility Vehicles",
+      "Description": "",
+      "Model": "",
+      "Type": "",
+      "CategoryID": "",
+      "NumberOfUnits": "About 3,170 (In addition, about 119 were sold in Canada)"
+    }
+  ],
+  "Inconjunctions": [
+    {
+      "URL": "https://wwwapps.tc.gc.ca/Saf-Sec-Sur/7/VRDB-BDRV/search-recherche/detail.aspx?rn=2023565"
+    }
+  ],
+  "Images": [
+    {
+      "URL": "https://www.cpsc.gov/s3fs-public/kubota-sidekick-1.jpg",
+      "Caption": "Recalled Kubota Utility Vehicle Model RTV-XG850, Sidekick"
+    },
+    {
+      "URL": "https://www.cpsc.gov/s3fs-public/kubota-sidekick-2.jpg",
+      "Caption": "Recalled Kubota Utility Vehicle Model RTV-XG850, Sidekick"
+    }
+  ],
+  "Injuries": [
+    {
+      "Name": "None reported"
+    }
+  ],
+  "Manufacturers": [],
+  "Retailers": [
+    {
+      "Name": "Authorized Kubota dealers nationwide from March 2023 through September 2023 for between $14,500 and $18,200.",
+      "CompanyID": ""
+    }
+  ],
+  "Importers": [],
+  "Distributors": [
+    {
+      "Name": "Kubota Tractor Corporation, of Grapevine, Texas",
+      "CompanyID": ""
+    }
+  ],
+  "SoldAtLabel": null,
+  "ManufacturerCountries": [
+    {
+      "Country": "United States"
+    }
+  ],
+  "ProductUPCs": [],
+  "Hazards": [
+    {
+      "Name": "Components of the steering shaft/steering system could have been improperly assembled which can lead to loss of control, posing crash and collision hazards.",
+      "HazardType": "",
+      "HazardTypeID": ""
+    }
+  ],
+  "Remedies": [
+    {
+      "Name": "Consumers should immediately stop using the recalled utility vehicles and contact an authorized Kubota dealer to schedule a free inspection and free repair. Kubota is contacting all known purchasers directly."
+    }
+  ],
+  "RemedyOptions": [
+    {
+      "Option": "Repair"
+    }
+  ]
+}

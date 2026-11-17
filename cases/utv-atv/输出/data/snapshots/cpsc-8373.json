@@ -1,0 +1,79 @@
+{
+  "RecallID": 8373,
+  "RecallNumber": "18758",
+  "RecallDate": "2018-08-08T00:00:00",
+  "Description": "This recall involves all model year 2015 through 2018 Gravely Atlas JSV 3000 and 6000 gas-engine-powered utility vehicles. The recalled utility vehicles were sold in red and have one or two rows of seats and a rear box. \"Gravely\" is printed on the rear box, and \"Atlas\" is printed on the hood of the utility vehicle. The model and serial number can be found on the driver's side and are visible from the front wheel well. The fol lowing model numbers and serial number ranges are being recalled: Year Model Serial Number Range 2015 996200 Base 150100, 150102 - 150299, 150310, 150321, 150332, 150343, 150354, 150365, 150376, 150387, 150398, 150409 - 150771, 150774 - 150803 and 150805 - 151173 996201 Crew 150100 - 150299, 150310, 150321, 150332, 150343, 150354, 150365, 150376, 150387, 150398, 150409 - 150599 and 150601 - 150641 2016 996200 Base 160100 - 160299, 160310, 160321, 160332, 160343, 160354, 160365, 160376, 160387, 160398 and 160409 - 160640 996201 Crew 160100 and 160102 - 160112 2017 996200 Base 170100 - 170256 996201 Crew 170100 - 170102 and 170108 - 170152 2018 996200 Base 180101, 180105 - 180116, 180118 - 180136, 180138 - 180149, 180151 - 180154, 180158 - 180161, 180163 - 180166, 180168 - 180170, 180172, 180174 - 180178, 180181 - 180182, 180186 - 180187, 180190, 180192, 180199, 180202, 180205 - 180206, 180209 - 180211, 180214 - 180215, 180218 and 180220 - 180222",
+  "URL": "https://www.cpsc.gov/Recalls/2018/Polaris-Recalls-Gravely-Utility-Vehicles-Due-To-Fire-and-Burn-Hazards-Recall-Alert",
+  "Title": "Polaris Recalls Gravely Utility Vehicles Due To Fire and Burn Hazards (Recall Alert)",
+  "ConsumerContact": "Gravely at 877-740-7060 from 8 a.m. to 4:30 p.m. ET Monday through Friday or online at www.gravely.com and click on the Product Support link at the bottom of the page, then select Product Safety Recall in the menu on the left of the page for more information.",
+  "LastPublishDate": "2018-08-08T00:00:00",
+  "Products": [
+    {
+      "Name": "Gravely Atlas JSV 3000 and 6000 utility vehicles",
+      "Description": "",
+      "Model": "",
+      "Type": "",
+      "CategoryID": "",
+      "NumberOfUnits": "About 2,100"
+    }
+  ],
+  "Inconjunctions": [],
+  "Images": [
+    {
+      "URL": "https://www.cpsc.gov/s3fs-public/1107_1.jpeg",
+      "Caption": "Recalled Gravely JSV 3000 utility vehicle"
+    },
+    {
+      "URL": "https://www.cpsc.gov/s3fs-public/1107_2.jpeg",
+      "Caption": "Recalled Gravely JSV 6"
+    }
+  ],
+  "Injuries": [
+    {
+      "Name": "Gravely has received seven reports of cracked header exhaust pipes. No injuries have been reported."
+    }
+  ],
+  "Manufacturers": [
+    {
+      "Name": "Polaris Industries Inc., of Medina, Minn.",
+      "CompanyID": ""
+    }
+  ],
+  "Retailers": [
+    {
+      "Name": "Gravely dealers nationwide from September 2014 through July 2018 for between $13,000 and $15,700.",
+      "CompanyID": ""
+    }
+  ],
+  "Importers": [],
+  "Distributors": [
+    {
+      "Name": "Gravely Company, of Brillion, Wis.",
+      "CompanyID": ""
+    }
+  ],
+  "SoldAtLabel": null,
+  "ManufacturerCountries": [
+    {
+      "Country": "United States"
+    }
+  ],
+  "ProductUPCs": [],
+  "Hazards": [
+    {
+      "Name": "The utility vehicle's exhaust header pipe can crack, posing fire and burn hazards.",
+      "HazardType": "",
+      "HazardTypeID": ""
+    }
+  ],
+  "Remedies": [
+    {
+      "Name": "Consumers should contact an authorized Gravely dealer for a free repair. If the exhaust system becomes noisier, consumers should immediately stop using the recalled utility vehicles. Gravely is contacting all known purchasers directly."
+    }
+  ],
+  "RemedyOptions": [
+    {
+      "Option": "Repair"
+    }
+  ]
+}

@@ -1,6 +1,6 @@
 # 已有数据的规范化合同
 
-只描述用户已经持有的数据如何进入分析，不列数据来源或获取办法。
+只描述用户已经持有的数据如何进入分析，不强制数据来源；真实UTV/ATV来源链另见案例说明。
 
 ## JSON v1
 
@@ -34,11 +34,11 @@
 | `asOfDate` | ISO 日期；只允许月底已结束的月份为 reported；当月未结束数据暂不进完整月比较 |
 | `comparison.*` | `YYYY-MM`，同一日历年中的连续月份；两窗口对应同月份、相差一年。已覆盖月份不足也保留，但不计算不完整序列的同比 |
 | `market` | ISO 风格两位大写代码，示例 US/CA/MX；不得混加各国样本 |
-| `seriesId` | 车系稳定主键；唯一键为 `market,seriesId,year,month`；别名先在适配层人工核对 |
-| `brand,model,segment` | 非空显示名，同一市场-车系的元数据必须一致；未知分类显式写 `Unclassified` |
+| `seriesId` | 车系稳定主键；唯一键为 `market,assetType,metricKind,seriesId,year,month`；别名先在适配层人工核对 |
+| `brand,model,segment` | 非空显示名，同一市场-载具类型-指标-系列的元数据必须一致；未知分类显式写 `Unclassified` |
 | `seriesScope` | `model` 或 `family`；family 代表多子车型聚合，不拆成单车型 |
 | `year,month` | 整数；1900–2100 / 1–12；日历年月，不是车型年 |
-| `units` | reported 必须为非负整数、单位“辆”；0 是真实零；其余状态必须为 null |
+| `units` | reported 必须为非负整数、船舶单位“艘”，其他载具单位“台”；0 是真实零；其余状态必须为 null |
 | `status` | `reported / missing / unreported_future`。没有记录也按缺失处理；future 必须指尚未结束的月份 |
 
 所有字符串作为文本处理，HTML 转义；CSV 导出防范公式首字符。只导出白名单分析字段，不回传未知字段。
@@ -57,3 +57,11 @@
 ## 更新与差异
 
 每次用新目录生成；比较输入 SHA-256、行级键和值，区分新增月份、历史修订、分类重映射和边界变化。历史修订不是当月增长。保留原版，不静默覆盖旧报告。脚本不自动做版本差异，助手需按此次请求补写说明。
+
+## 跨载具兼容字段
+
+每条record可选 `assetType`：`automobile / motorcycle / utv / atv / boat`，默认 `automobile`；可选 `metricKind`：`retail_sales / wholesale / deliveries / new_registrations`，默认 `retail_sales`。必须如实声明已有表的指标，不能把模糊“销量”悄悄改成零售。
+
+两者进入去重键、分组、比较和页面筛选。相同seriesId出现在UTV与ATV，或者零售与批发，不是同一条数据；每次汇总只选一个类型、一个指标。船舶单位显示艘，其他数量显示台；舷外机/发动机/配件不得当作船舶数量。所有指标依然是月度流量，保有量和召回批次情景不属于这份schema。
+
+年款/版本/船体或动力配置需更细时用独立稳定seriesId，声明family/model边界；同一数据集中不要同时收录父级合计与其子级拆分形成重计。只有合并数量时不能按版本平均分。

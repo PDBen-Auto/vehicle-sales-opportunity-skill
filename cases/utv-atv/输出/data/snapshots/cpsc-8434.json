@@ -1,0 +1,74 @@
+{
+  "RecallID": 8434,
+  "RecallNumber": "19707",
+  "RecallDate": "2018-10-24T00:00:00",
+  "Description": "This recall involves Cub Cadet model year 2018 Challenger 400 4x4 utility vehicles with model number 37BV3BHK010. The yellow utility vehicles have four-wheel drive with side-by-side seating for two people. \"Challenger 400\" and \"4x4\" is printed on both sides of the utility vehicle's bed. \"Cub Cadet\" is printed on both sides of the front fender. The recalled vehicles were manufactured between May 2018 and August 2018. The model number and manufacture date in MM/YYYY format can be found on a label located on the seat frame under driver's seat.",
+  "URL": "https://www.cpsc.gov/Recalls/2019/Cub-Cadet-Recalls-Utility-Vehicles-Due-to-Fire-Hazard-Recall-Alert",
+  "Title": "Cub Cadet Recalls Utility Vehicles Due to Fire Hazard (Recall Alert)",
+  "ConsumerContact": "Cub Cadet toll-free at 888-848-6038 from 9 a.m. to 7 p.m. ET Monday through Friday, 9 a.m. to 6 p.m. ET Saturday and Sunday, or online www.cubcadet.com and click on “Product Recalls” for more information.",
+  "LastPublishDate": "2018-10-24T00:00:00",
+  "Products": [
+    {
+      "Name": "Cub Cadet Challenger 400 utility vehicles",
+      "Description": "",
+      "Model": "",
+      "Type": "",
+      "CategoryID": "",
+      "NumberOfUnits": "About 350"
+    }
+  ],
+  "Inconjunctions": [],
+  "Images": [
+    {
+      "URL": "https://www.cpsc.gov/s3fs-public/1239_1.jpeg",
+      "Caption": "Recalled Cub Cadet 2018 Challenger utility vehicle"
+    },
+    {
+      "URL": "https://www.cpsc.gov/s3fs-public/1239_2.png",
+      "Caption": "Model number and date of manufacture location."
+    }
+  ],
+  "Injuries": [
+    {
+      "Name": "None"
+    }
+  ],
+  "Manufacturers": [
+    {
+      "Name": "Cub Cadet, of Cleveland, Ohio",
+      "CompanyID": ""
+    }
+  ],
+  "Retailers": [
+    {
+      "Name": "Independent Cub Cadet dealers nationwide from May 2018 through August 2018 for about $7,500.",
+      "CompanyID": ""
+    }
+  ],
+  "Importers": [],
+  "Distributors": [],
+  "SoldAtLabel": null,
+  "ManufacturerCountries": [
+    {
+      "Country": "United States"
+    }
+  ],
+  "ProductUPCs": [],
+  "Hazards": [
+    {
+      "Name": "The fuel tank's neck can crack and cause fuel to leak, posing a fire hazard.",
+      "HazardType": "",
+      "HazardTypeID": ""
+    }
+  ],
+  "Remedies": [
+    {
+      "Name": "Consumers should immediately stop using the recalled utility vehicles, store outside and contact an authorized Cub Cadet dealer or customer service representative to arrange for a free repair. Cub Cadet is contacting all known purchasers directly."
+    }
+  ],
+  "RemedyOptions": [
+    {
+      "Option": "Repair"
+    }
+  ]
+}

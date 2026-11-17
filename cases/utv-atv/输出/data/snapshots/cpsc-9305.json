@@ -1,0 +1,79 @@
+{
+  "RecallID": 9305,
+  "RecallNumber": "22747",
+  "RecallDate": "2022-05-12T00:00:00",
+  "Description": "This recall involves Off-Road Side-by-Side vehicles with model numbers YXF10WPZMG (Wolverine RMAX 4 SE), YXF10WPLML (Wolverine RMAX 4 LE), YXF10WPAMS (Wolverine RMAX 4), YXE10WPZMG (Wolverine RMAX 2 SE), YXE10WPAMS/YXE10WPAMW (Wolverine RMAX 2), and YXE10WPLML (Wolverine RMAX 2 LE). The side-by-side vehicles were sold in silver, white, black, yellow, gray and blue colors. The model name Wolverine RMAX is printed on the right and left sides of the vehicles. The model number is located on top of the airbox. The Vehicle Identification Number (VIN) can be found on the vehicle frame behind the left rear wheel. VIN numbers included in this recall are ***AN44Y***101342 ***AN39Y***102877. The VIN range is sequential in the last six digits 101342-102877.",
+  "URL": "https://www.cpsc.gov/Recalls/2022/Yamaha-Recalls-Wolverine-RMAX-Off-Road-Side-By-Side-Vehicles-Due-to-Fire-and-Explosion-Hazards-Recall-Alert",
+  "Title": "Yamaha Recalls Wolverine RMAX Off-Road Side-By-Side Vehicles Due to Fire and Explosion Hazards (Recall Alert)",
+  "ConsumerContact": "Yamaha Motor Corporation USA at 800-889-2624 from 8:30 a.m. to 5 p.m. Monday through Friday, or online at https://www.yamahamotorsports.com/motorsports/pages/cpsc-recalls or at www.Yamahamotorsports.com and click on \"CPSC Recalls\" for more information.",
+  "LastPublishDate": "2022-05-12T00:00:00",
+  "Products": [
+    {
+      "Name": "Off-Road Side-by-Side vehicles",
+      "Description": "",
+      "Model": "",
+      "Type": "",
+      "CategoryID": "",
+      "NumberOfUnits": "About 4,130"
+    }
+  ],
+  "Inconjunctions": [],
+  "Images": [
+    {
+      "URL": "https://www.cpsc.gov/s3fs-public/pic1_70.png",
+      "Caption": "Recalled Yamaha Motors USA Off-Road Side-by-Side vehicle"
+    },
+    {
+      "URL": "https://www.cpsc.gov/s3fs-public/pic2_56.png",
+      "Caption": "Recalled Yamaha Motors USA Off-Road Side-by-Side vehicle"
+    }
+  ],
+  "Injuries": [
+    {
+      "Name": "The firm has received two reports of the fuel tanks being assembled incorrectly. There were no incidents of fuel leakage, and no injuries have been reported."
+    }
+  ],
+  "Manufacturers": [
+    {
+      "Name": "Yamaha Motor Manufacturing Corp of America, of Newnan, Georgia",
+      "CompanyID": ""
+    }
+  ],
+  "Retailers": [
+    {
+      "Name": "Yamaha side by side dealers nationwide from February 2021 through July 2021 for between $22,700 and $26,700.",
+      "CompanyID": ""
+    }
+  ],
+  "Importers": [],
+  "Distributors": [
+    {
+      "Name": "Yamaha Motor Corporation USA, of Cypress, Calif.",
+      "CompanyID": ""
+    }
+  ],
+  "SoldAtLabel": null,
+  "ManufacturerCountries": [
+    {
+      "Country": "United States"
+    }
+  ],
+  "ProductUPCs": [],
+  "Hazards": [
+    {
+      "Name": "The recalled vehicles can have a damaged fuel tank causing fuel to leak, posing fire and explosion hazards.",
+      "HazardType": "",
+      "HazardTypeID": ""
+    }
+  ],
+  "Remedies": [
+    {
+      "Name": "Consumers should immediately stop using the recalled vehicles and contact an authorized Yamaha dealer to schedule a free inspection and repair. Yamaha is contacting all registered owners directly."
+    }
+  ],
+  "RemedyOptions": [
+    {
+      "Option": "Repair"
+    }
+  ]
+}

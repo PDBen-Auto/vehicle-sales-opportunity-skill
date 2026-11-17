@@ -1,0 +1,82 @@
+{
+  "RecallID": 8509,
+  "RecallNumber": "19728",
+  "RecallDate": "2019-03-14T00:00:00",
+  "Description": "This recall involves 2019 Mule Pro MX utility vehicles, models 700 EPS, 700 EPS LE and 700 Camo EPS. The four-wheel, off-highway utility vehicles were sold in camo, green, red and white. They have side by side seating for two people and automotive style controls. Mule Pro MX is printed on the right and left front fender. Kawasaki is printed on the cargo box. The Vehicle Identification Number (VIN) is located on the steel frame between the right, front lower A-arm mounts. Model Model Codes Vin Range MULE PRO-MX EPS KAF700BKF/L RGSW643AXKB120101 through RGSW643A2KB130153 MULE PRO-MX EPS LE KAF700CKF/L RGSW643A0KB140101 through RGSW643AXKB150182 MULE PRO-MX EPS Camo KAF700DKF/L RGSW643A1KB160101 through RGSW643A2KB170135",
+  "URL": "https://www.cpsc.gov/Recalls/2019/Kawasaki-USA-Recalls-Off-Highway-Utility-Vehicles-Due-to-Fuel-Leak-Fire-Hazards-Recall-Alert",
+  "Title": "Kawasaki USA Recalls Off-Highway Utility Vehicles Due to Fuel Leak, Fire Hazards (Recall Alert)",
+  "ConsumerContact": "Kawasaki toll-free at 866-802-9381 from 8 a.m. to 5 p.m. PT Monday through Friday or online at www.Kawasaki.com and click on “Recalls” for more information",
+  "LastPublishDate": "2019-03-14T00:00:00",
+  "Products": [
+    {
+      "Name": "Kawasaki Mule™ Pro-MX™ off-highway utility vehicles",
+      "Description": "",
+      "Model": "",
+      "Type": "",
+      "CategoryID": "",
+      "NumberOfUnits": "About 2,600"
+    }
+  ],
+  "Inconjunctions": [],
+  "Images": [
+    {
+      "URL": "https://www.cpsc.gov/s3fs-public/Recalled Kawasaki Mule Pro MX 700 EPS.jpg",
+      "Caption": "Recalled Kawasaki Mule Pro MX 700 EPS"
+    },
+    {
+      "URL": "https://www.cpsc.gov/s3fs-public/Recalled Kawasaki Mule Pro MX 700 EPS LE.jpg",
+      "Caption": "Recalled Kawasaki Mule Pro MX 700 EPS LE"
+    },
+    {
+      "URL": "https://www.cpsc.gov/s3fs-public/Recalled Kawasaki Mule Pro MX 700 EPS Camo.jpg",
+      "Caption": "Recalled Kawasaki Mule Pro MX 700 EPS Camo"
+    },
+    {
+      "URL": "https://www.cpsc.gov/s3fs-public/VIN number location.png",
+      "Caption": "VIN number location"
+    }
+  ],
+  "Injuries": [
+    {
+      "Name": "Kawasaki has received seven reports of vehicles catching on fire and being damaged. No injuries have been reported."
+    }
+  ],
+  "Manufacturers": [],
+  "Retailers": [
+    {
+      "Name": "Kawasaki dealers nationwide from August 2018 through February 2019 for about $12,000.",
+      "CompanyID": ""
+    }
+  ],
+  "Importers": [
+    {
+      "Name": "Kawasaki Motors Corp., U.S.A. of Foothill Ranch, Calif.",
+      "CompanyID": ""
+    }
+  ],
+  "Distributors": [],
+  "SoldAtLabel": null,
+  "ManufacturerCountries": [
+    {
+      "Country": "Taiwan"
+    }
+  ],
+  "ProductUPCs": [],
+  "Hazards": [
+    {
+      "Name": "The vehicle's oil cooler hoses can separate and the fuel tank cap gasket can crack allowing fuel to leak, posing a fire hazard.",
+      "HazardType": "",
+      "HazardTypeID": ""
+    }
+  ],
+  "Remedies": [
+    {
+      "Name": "Consumers should immediately stop using the recalled utility vehicles and contact a Kawasaki dealer to schedule a free repair. Kawasaki is contacting all known purchasers directly."
+    }
+  ],
+  "RemedyOptions": [
+    {
+      "Option": "Repair"
+    }
+  ]
+}

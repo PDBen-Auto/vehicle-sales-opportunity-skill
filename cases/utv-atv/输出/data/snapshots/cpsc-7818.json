@@ -1,0 +1,74 @@
+{
+  "RecallID": 7818,
+  "RecallNumber": "16763",
+  "RecallDate": "2016-07-28T00:00:00",
+  "Description": "This recall involves John Deere High-Performance Gator™ RSX860i TB and RSX860i TE utility vehicles manufactured in June 2016 with serial numbers beginning with 1M0860T. The recalled utility vehicles are four-wheel with side-by-side seating for two people and have a green hood and yellow rims. A complete list of serial numbers included in this recall is on the firm's website. The model number is printed on the hood and John Deere is printed on the cargo box. The serial number is located on the frame at the rear of the machine above the hitch.",
+  "URL": "https://www.cpsc.gov/Recalls/2016/John-Deere-Recalls-High-Performance-Gator-Utility-Vehicles",
+  "Title": "John Deere Recalls High-Performance Gator Utility Vehicles Due to Fire Hazard (Recall Alert)",
+  "ConsumerContact": "Deere & Company at 800-537-8233 from 8 a.m. to 6 p.m. ET Monday through Friday and Saturday from 9 a.m. to 3 p.m. ET or online at www.deere.com and click on \"Recall Information\" on the drop-down menu under \"Services & Support\" for more information.",
+  "LastPublishDate": "2016-07-29T00:00:00",
+  "Products": [
+    {
+      "Name": "Utility vehicles",
+      "Description": "",
+      "Model": "",
+      "Type": "Utility Vehicles",
+      "CategoryID": "68355",
+      "NumberOfUnits": "About 240"
+    }
+  ],
+  "Inconjunctions": [],
+  "Images": [
+    {
+      "URL": "https://www.cpsc.gov/s3fs-public/Recall.2016.16763.16763a.jpg",
+      "Caption": "Recalled John Deere High-Performance Gator RSX860i utility vehicle"
+    },
+    {
+      "URL": "https://www.cpsc.gov/s3fs-public/Recall.2016.16763.16763b.jpg",
+      "Caption": "Serial number located at the rear of the machine above the hitch"
+    }
+  ],
+  "Injuries": [
+    {
+      "Name": "None reported"
+    }
+  ],
+  "Manufacturers": [
+    {
+      "Name": "Deere & Company, of Moline, Ill.",
+      "CompanyID": ""
+    }
+  ],
+  "Retailers": [
+    {
+      "Name": "John Deere dealers nationwide from June 2016 through July 2016 for between $12,300 and $14,000.",
+      "CompanyID": ""
+    }
+  ],
+  "Importers": [],
+  "Distributors": [],
+  "SoldAtLabel": null,
+  "ManufacturerCountries": [
+    {
+      "Country": "United States"
+    }
+  ],
+  "ProductUPCs": [],
+  "Hazards": [
+    {
+      "Name": "The fuel hose could leak or separate when the fuel system is pressurized, posing a fire hazard.",
+      "HazardType": "",
+      "HazardTypeID": ""
+    }
+  ],
+  "Remedies": [
+    {
+      "Name": "Consumers should immediately stop using the recalled utility vehicles and contact a John Deere dealer for a free repair. John Deere is contacting all registered owners of the recalled utility vehicles directly."
+    }
+  ],
+  "RemedyOptions": [
+    {
+      "Option": "Repair"
+    }
+  ]
+}

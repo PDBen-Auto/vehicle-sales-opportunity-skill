@@ -1,0 +1,97 @@
+{
+  "RecallID": 8166,
+  "RecallNumber": "18018",
+  "RecallDate": "2017-10-30T00:00:00",
+  "Description": "This recall involves model year 2016 and 2017 Polaris General 2- and 4-seat side-by-side recreational off-highway vehicles. The vehicles were sold in black, blue, camouflage, orange, red, silver and white and have a cargo box on the back. \"Polaris\" is printed on the front grill, \"GENERAL\" is printed on the rear panel and \"1000\" is printed on the front panel. The VIN is printed on the left rear vehicle frame below the cargo box.",
+  "URL": "https://www.cpsc.gov/Recalls/2018/Polaris-Recalls-General-Recreational-OffHighway-Vehicles",
+  "Title": "Polaris Recalls General Recreational Off-Highway Vehicles Due to Crash Hazard",
+  "ConsumerContact": "Polaris at 800-765-2747 from 7 a.m. to 7 p.m. CT Monday through Friday or online at www.polaris.com and click on “Off Road Safety Recalls” for more information. In addition, consumers can check vehicle identification numbers (VIN) on the “Product Safety Recalls” page to see if your vehicle is included in any recalls.",
+  "LastPublishDate": "2017-10-30T00:00:00",
+  "Products": [
+    {
+      "Name": "Polaris General side-by-side recreational off-highway vehicles (ROVs)",
+      "Description": "",
+      "Model": "",
+      "Type": "",
+      "CategoryID": "",
+      "NumberOfUnits": "About 19,000"
+    }
+  ],
+  "Inconjunctions": [],
+  "Images": [
+    {
+      "URL": "https://www.cpsc.gov/s3fs-public/504_1.jpeg",
+      "Caption": "2016 Polaris General two-seat in orange"
+    },
+    {
+      "URL": "https://www.cpsc.gov/s3fs-public/504_2.jpeg",
+      "Caption": "2016 Polaris General two-seat in red"
+    },
+    {
+      "URL": "https://www.cpsc.gov/s3fs-public/504_3.jpeg",
+      "Caption": "2016 Polaris General two-seat in blue"
+    },
+    {
+      "URL": "https://www.cpsc.gov/s3fs-public/504_4.jpeg",
+      "Caption": "2017 Polaris General two-seat in black"
+    },
+    {
+      "URL": "https://www.cpsc.gov/s3fs-public/504_5.jpeg",
+      "Caption": "2017 Polaris General two-seat in white"
+    },
+    {
+      "URL": "https://www.cpsc.gov/s3fs-public/504_6.png",
+      "Caption": "2017 Polaris General two-seat in camouflage"
+    },
+    {
+      "URL": "https://www.cpsc.gov/s3fs-public/504_7.jpeg",
+      "Caption": "2017 Polaris General four-seat in silver"
+    }
+  ],
+  "Injuries": [
+    {
+      "Name": "Polaris has received five reports of the steering shaft separating and one report of a broken hand injury."
+    }
+  ],
+  "Manufacturers": [
+    {
+      "Name": "Polaris Industries Inc., of Medina, Minn.",
+      "CompanyID": ""
+    }
+  ],
+  "Retailers": [
+    {
+      "Name": "Polaris dealers nationwide from December 2015 through September 2015 for between $16,000 and $21,000.",
+      "CompanyID": ""
+    }
+  ],
+  "Importers": [],
+  "Distributors": [],
+  "SoldAtLabel": null,
+  "ManufacturerCountries": [
+    {
+      "Country": "United States"
+    },
+    {
+      "Country": "Mexico"
+    }
+  ],
+  "ProductUPCs": [],
+  "Hazards": [
+    {
+      "Name": "The steering wheel shaft can shift and detach while in use, resulting in a loss of control and crash hazard.",
+      "HazardType": "",
+      "HazardTypeID": ""
+    }
+  ],
+  "Remedies": [
+    {
+      "Name": "Consumers should immediately stop using the recalled ROVs and contact Polaris to schedule a free repair. Polaris is contacting all known purchasers directly."
+    }
+  ],
+  "RemedyOptions": [
+    {
+      "Option": "Repair"
+    }
+  ]
+}

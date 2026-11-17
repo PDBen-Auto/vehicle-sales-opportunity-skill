@@ -1,0 +1,86 @@
+{
+  "RecallID": 10315,
+  "RecallNumber": "25343",
+  "RecallDate": "2025-06-18T00:00:00",
+  "Description": "This recall involves all VINs of Polaris Model Year 2023-2024 Ranger XP Kinetic and Model Year 2025 Pro XD Kinetic ROVs. The recalled Ranger XP Kinetic vehicles were sold in camouflage and white colors. The recalled Pro XD vehicles have gray plastic body panels with a black frame and accents. All vehicles were sold in three-seat configurations and have \"POLARIS\" stamped on the front grille. The VIN is printed on a portion of the left rear frame (on the driver's side of the vehicle) under the cargo box. In addition, this recall involves accessory charger service parts/kits with part numbers 2417296, 2417297, 2889704 and 2889486.",
+  "URL": "https://www.cpsc.gov/Recalls/2025/Polaris-Recalls-Ranger-XP-Kinetic-and-Pro-XD-Kinetic-Recreational-Off-Highway-Vehicles-ROVs-Due-to-Fire-Hazard",
+  "Title": "Polaris Recalls Ranger XP Kinetic and Pro XD Kinetic Recreational Off-Highway Vehicles (ROVs) Due to Fire Hazard",
+  "ConsumerContact": "Polaris Industries toll-free at 800-765-2747 from 7 a.m. to 7 p.m. CT Monday through Friday, online at www.polaris.com and click on \"Product Safety News\" located under the \"Safety\" column at the bottom of the page, or https://www.polaris.com/en-us/off-road-recalls/ to check if your vehicle identification number (VIN) is included in any recalls. Consumers can contact Polaris' owner connections team at Owner.Connections@polaris.com or via an online forum accessible at https://www.polaris.com/en-us/off-road/owner-resources/help-center/email.",
+  "LastPublishDate": "2025-06-18T00:00:00",
+  "Products": [
+    {
+      "Name": "Model Year 2023-2024 Ranger XP Kinetic and Model Year 2025 Pro XD Kinetic ROVs",
+      "Description": "",
+      "Model": "",
+      "Type": "",
+      "CategoryID": "",
+      "NumberOfUnits": "About 4,900 ROVs and 185 accessory charger service parts/kits (In addition, about 330 ROVs were sold in Canada)"
+    }
+  ],
+  "Inconjunctions": [
+    {
+      "URL": "https://wwwapps.tc.gc.ca/Saf-Sec-Sur/7/VRDB-BDRV/search-recherche/detail.aspx?rn=2025124"
+    }
+  ],
+  "Images": [
+    {
+      "URL": "https://www.cpsc.gov/s3fs-public/Kinetic-1.jpg",
+      "Caption": "Recalled Polaris Model Year 2023 Ranger XP Kinetic"
+    },
+    {
+      "URL": "https://www.cpsc.gov/s3fs-public/kinetic-2.jpg",
+      "Caption": "Recalled Polaris Model Year 2024 Ranger XP Kinetic"
+    },
+    {
+      "URL": "https://www.cpsc.gov/s3fs-public/kinetic-3.jpg",
+      "Caption": "Recalled Polaris Model Year 2025 Pro XD Kinetic"
+    },
+    {
+      "URL": "https://www.cpsc.gov/s3fs-public/Kinetic-4.png",
+      "Caption": "Recalled Polaris RANGER and Pro XD VIN Location"
+    }
+  ],
+  "Injuries": [
+    {
+      "Name": "The firm has received 47 reports of filter failures with the recalled ROVs, including six reports of melting/fire and four reports of sparking/smoke. No injuries have been reported."
+    }
+  ],
+  "Manufacturers": [
+    {
+      "Name": "Polaris Industries Inc., of Medina, Minnesota",
+      "CompanyID": ""
+    }
+  ],
+  "Retailers": [
+    {
+      "Name": "Polaris dealers nationwide from April 2023 through March 2025 for between $24,000 and $37,500.",
+      "CompanyID": ""
+    }
+  ],
+  "Importers": [],
+  "Distributors": [],
+  "SoldAtLabel": null,
+  "ManufacturerCountries": [
+    {
+      "Country": "United States"
+    }
+  ],
+  "ProductUPCs": [],
+  "Hazards": [
+    {
+      "Name": "Water can leak through a cracked filter into the ROV's high-voltage charging harness components and cause a short circuit, posing a fire hazard.",
+      "HazardType": "",
+      "HazardTypeID": ""
+    }
+  ],
+  "Remedies": [
+    {
+      "Name": "Consumers should contact an authorized Polaris dealer to schedule a free repair at the dealer's location. Polaris is contacting all registered owners directly and providing instructions on how to continue operating their vehicles until the repair can be completed. The instructions are available at https://www.polaris.com/en-us/recalls/off-road/polaris-recalls-some-model-year-2023-2024-ranger-xp-kinetic-and-model-year-2025-pro-xd-kinetic-vehicles"
+    }
+  ],
+  "RemedyOptions": [
+    {
+      "Option": "Repair"
+    }
+  ]
+}

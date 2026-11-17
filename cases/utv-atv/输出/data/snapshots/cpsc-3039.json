@@ -1,0 +1,70 @@
+{
+  "RecallID": 3039,
+  "RecallNumber": "05512",
+  "RecallDate": "2004-11-19T00:00:00",
+  "Description": "The RTV900 Utility Vehicles are four-wheel, off-road vehicles with cargo boxes. They are designed for two people to sit side by side. \"RTV900\" appears on the side of the front hood. The serial number range for the affected vehicles is 10001 through 25883.",
+  "URL": "https://www.cpsc.gov/Recalls/2005/CPSC-Kubota-Announce-Recall-of-Utility-Vehicles-",
+  "Title": "CPSC, Kubota Announce Recall of Utility Vehicles",
+  "ConsumerContact": "Contact Kubota Tractor Corporation toll-free at (888) 458-2682, Ext. 990 (or 888 4-KUBOTA, Ext. 990) at any time during the week. Consumers also can go to the company's website at www.kubota.com",
+  "LastPublishDate": "2024-11-14T00:00:00",
+  "Products": [
+    {
+      "Name": "Kubota RTV900 Utility Vehicles",
+      "Description": "",
+      "Model": "",
+      "Type": "Utility, Off-Road Vehicles/Golf Carts",
+      "CategoryID": "2215",
+      "NumberOfUnits": "About 16,000"
+    }
+  ],
+  "Inconjunctions": [],
+  "Images": [
+    {
+      "URL": "https://www.cpsc.gov/s3fs-public/Kubota-RTV900-1.jpg",
+      "Caption": "Recalled Kubota RTV900 Utility Vehicle"
+    },
+    {
+      "URL": "https://www.cpsc.gov/s3fs-public/Kubota-RTV900-2.jpg",
+      "Caption": "Recalled Kubota RTV900 Utility Vehicle"
+    }
+  ],
+  "Injuries": [
+    {
+      "Name": "Kubota has received reports of two personal injuries to the face and/or back while people were operating the vehicles."
+    }
+  ],
+  "Manufacturers": [],
+  "Retailers": [
+    {
+      "Name": "Authorized Kubota RTV900 Dealers nationwide, from January 2004 through October 2004, at a suggested retail price of between $9,899 and $11,199.",
+      "CompanyID": ""
+    }
+  ],
+  "Importers": [],
+  "Distributors": [
+    {
+      "Name": "Kubota Tractor Corporation, Torrance, Calif.",
+      "CompanyID": ""
+    }
+  ],
+  "SoldAtLabel": null,
+  "ManufacturerCountries": [
+    {
+      "Country": "United States"
+    }
+  ],
+  "ProductUPCs": [],
+  "Hazards": [
+    {
+      "Name": "The front hood of the RTV900 utility vehicle can come off during operation, striking the driver or passenger and causing serious personal injury.",
+      "HazardType": "",
+      "HazardTypeID": ""
+    }
+  ],
+  "Remedies": [
+    {
+      "Name": "Stop using the recalled vehicles and contact the nearest Kubota RTV900 Dealer to schedule an appointment to have the hood inspected and, if necessary, replaced free of charge."
+    }
+  ],
+  "RemedyOptions": []
+}

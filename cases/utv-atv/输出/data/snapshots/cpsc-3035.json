@@ -1,0 +1,66 @@
+{
+  "RecallID": 3035,
+  "RecallNumber": "05508",
+  "RecallDate": "2004-11-09T00:00:00",
+  "Description": "Gator HPX Utility Vehicles are four wheeled vehicles with a cargo box. The words \"John Deere\", \"Gator\" and \"HPX\" appear on the cargo box. The following model and serial numbers can be found on the serial number plate on the vehicle's frame: Model Serial Range HPX 4X2 Gas M0HP2GX010001-010775 HPX 4X2 Diesel M0HP2DX010001-030032 HPX 4X4 Gas M0HP4GX010001-031406 HPX 4X4 Diesel M0HP4DX010001-030552 HPX 4X4 Trial M0HP4GT010001-030678",
+  "URL": "https://www.cpsc.gov/Recalls/2005/CPSC-Deere--Company-Announce-Recall-of-Gator-HPX-Utility-Vehicles-",
+  "Title": "CPSC, Deere & Company Announce Recall of Gator HPX Utility Vehicles",
+  "ConsumerContact": "For more information, contact John Deere's Customer Communications Center at (800) 537-8233 between 8 a.m. and 6 p.m. ET, Monday through Friday, between 9 a.m. and 3:00 p.m. ET Saturday, or the John Deere website at www.johndeere.com",
+  "LastPublishDate": "2024-11-13T00:00:00",
+  "Products": [
+    {
+      "Name": "John Deere Gator HPX Utility Vehicles",
+      "Description": "",
+      "Model": "",
+      "Type": "Utility, Off-Road Vehicles/Golf Carts",
+      "CategoryID": "2215",
+      "NumberOfUnits": "14,746"
+    }
+  ],
+  "Inconjunctions": [],
+  "Images": [
+    {
+      "URL": "https://www.cpsc.gov/s3fs-public/deere-gator-hpx.jpg",
+      "Caption": "Recalled John Deere Gator HPX Utility Vehicle"
+    }
+  ],
+  "Injuries": [
+    {
+      "Name": "Deere is aware of 14 instances of replacement of the master brake cylinder, due to this problem. There have been no reported injuries."
+    }
+  ],
+  "Manufacturers": [
+    {
+      "Name": "Deere & Company, of Moline, Ill.",
+      "CompanyID": ""
+    }
+  ],
+  "Retailers": [
+    {
+      "Name": "Authorized John Deere dealers nationwide, from December 2003 to October 2004, for between $8,000 and $10,600.",
+      "CompanyID": ""
+    }
+  ],
+  "Importers": [],
+  "Distributors": [],
+  "SoldAtLabel": null,
+  "ManufacturerCountries": [
+    {
+      "Country": "United States"
+    }
+  ],
+  "ProductUPCs": [],
+  "Hazards": [
+    {
+      "Name": "Loss of brake system pressure can decrease the effectiveness of the brakes.",
+      "HazardType": "",
+      "HazardTypeID": ""
+    }
+  ],
+  "Remedies": [
+    {
+      "Name": "Consumers should contact a John Deere dealer for a free repair of the master brake cylinder."
+    }
+  ],
+  "RemedyOptions": []
+}

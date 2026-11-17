@@ -1,0 +1,78 @@
+{
+  "RecallID": 9496,
+  "RecallNumber": "23090",
+  "RecallDate": "2023-01-12T00:00:00",
+  "Description": "This recall expansion involves an additional 2,000 2021 model year Honda Talon 1000 side-by-sides with model numbers Talon 1000 S2 and Talon 1000 S4. The vehicles were sold in various colors including red, blue, green, gray and yellow. \"HONDA\" is printed on the front, sides and the rear of each vehicle. \"Talon\" is printed on a label located on both sides of the vehicle. The Vehicle Identification Number (VIN) number is stamped on the frame on the left side under the left front fender. The VIN range for affected Talon 1000s is as shown below. Original Recall: MY Model VIN Start VIN End 2019 Talon 1000 S2 1HFVE05**K4000003 1HFVE05**K4003902 2020 Talon 1000 S2 1HFVE05**L4100001 1HFVE05**L4102280 2021 Talon 1000 S2 1HFVE05**M4200001 1HFVE05**M4202760 2020 Talon 1000 S4 1HFVE06**L4000002 1HFVE06**L4003420 2021 Talon 1000 S4 1HFVE06**M4100001 1HFVE06**M4102218 Expanded Recall: : MY Model VIN Start VIN End 2019 Talon 1000 S2 1HFVE05**M4200084 1HFVE05**M4203061 2020 Talon 1000 S4 1HFVE06**M4100121 1HFVE06**M4102580",
+  "URL": "https://www.cpsc.gov/Recalls/2023/American-Honda-Expands-Recall-of-Honda-Talon-1000-ROVs-Due-to-Crash-and-Injury-Hazards",
+  "Title": "American Honda Expands Recall of Honda Talon 1000 ROVs Due to Crash and Injury Hazards",
+  "ConsumerContact": "American Honda toll-free at 866-784-1870 from 8:30 a.m. to 4:30 p.m. PT, Monday through Friday or online at https://powersports.honda.com and click on \"Recall Information\" at the bottom of the page for more information or at https://powersports.honda.com/recalls.",
+  "LastPublishDate": "2023-01-12T00:00:00",
+  "Products": [
+    {
+      "Name": "2019-2021 Honda Talon 1000 ROVs",
+      "Description": "",
+      "Model": "",
+      "Type": "",
+      "CategoryID": "",
+      "NumberOfUnits": "About 34,000 (About 32,000 were previously recalled in March 2022)"
+    }
+  ],
+  "Inconjunctions": [],
+  "Images": [
+    {
+      "URL": "https://www.cpsc.gov/s3fs-public/21HondaTalon1000R_RF3Q.jpg",
+      "Caption": "Recalled 2019-2021 Honda Talon 1000 S2 two-seater recreational off-highway vehicle"
+    },
+    {
+      "URL": "https://www.cpsc.gov/s3fs-public/RecalledTalonVINlocation.jpg",
+      "Caption": "Recalled Talon VIN location"
+    },
+    {
+      "URL": "https://www.cpsc.gov/s3fs-public/RecalledTalonVINlocation2.jpg",
+      "Caption": "Recalled Talon VIN location"
+    }
+  ],
+  "Injuries": [
+    {
+      "Name": "The firm has received a total of 18 reports of incidents, including one report of a loss of control, resulting in a crash with minor injuries to the occupants."
+    }
+  ],
+  "Manufacturers": [
+    {
+      "Name": "American Honda Motor Co. Inc., of Torrance, California",
+      "CompanyID": ""
+    }
+  ],
+  "Retailers": [
+    {
+      "Name": "Authorized Honda Powersports dealers nationwide from March 2019 through September 2022 for between $20,000 and $27,000.",
+      "CompanyID": ""
+    }
+  ],
+  "Importers": [],
+  "Distributors": [],
+  "SoldAtLabel": null,
+  "ManufacturerCountries": [
+    {
+      "Country": "United States"
+    }
+  ],
+  "ProductUPCs": [],
+  "Hazards": [
+    {
+      "Name": "The vehicle's intake funnel band screw can loosen and enter the engine through the intake funnel and cause sudden engine failure. If this occurs, it can result in a loss of control, increasing the risk of a crash or injury.",
+      "HazardType": "",
+      "HazardTypeID": ""
+    }
+  ],
+  "Remedies": [
+    {
+      "Name": "Consumers should immediately stop using the recalled recreational off-highway vehicles and contact an authorized Honda Powersports dealer to schedule an appointment for a free inspection and repair, which includes proper tightening and thread deformation of the intake funnel screw. American Honda is contacting all known purchasers directly."
+    }
+  ],
+  "RemedyOptions": [
+    {
+      "Option": "Repair"
+    }
+  ]
+}

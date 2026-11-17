@@ -1,0 +1,47 @@
+{
+  "methodology_id": "recall-cohort-scenario-v1",
+  "as_of_date": "2026-11-17",
+  "unit": "vehicles",
+  "purpose": "从官方可识别历史批次构建保守存量研究基准，保留全量未知",
+  "formula": "historical_affected_units × active_factor × annual_retention ^ (2026 − min(oldest_model_year, oldest_sale_year))",
+  "parameters": {
+    "severe": {
+      "label": "更严压力",
+      "active": 0.8,
+      "retention": 0.88
+    },
+    "conservative": {
+      "label": "保守基准",
+      "active": 0.9,
+      "retention": 0.93
+    },
+    "less_severe": {
+      "label": "较缓压力",
+      "active": 0.95,
+      "retention": 0.97
+    }
+  },
+  "parameter_provenance": "Analyst assumptions authorized for exploratory estimation, NOT empirically estimated UTV survival rates.",
+  "rules": [
+    "只计算被明确列示的历史批次，不对遗漏年份、新销量、无召回车型或未覆盖VIN作上调。",
+    "按最老年份对整个批次施压，偏向低估；不是批次平均车龄。",
+    "只对明确不同年款的选中批次求和；其他重叠只取代表记录。",
+    "混合组保留组名，子车型全量与批次情景均不强制填充。",
+    "不同国家分别计算；不做北美总量、不做全市场占比或跨车型市场份额排名。",
+    "区间是参数压力情景，不是统计置信区间、严格上下界或当前安全可用车辆数。",
+    "召回修复、事故报废、出口、停用与实际活跃状态未逐车核验；兑现系数只是折减假设。",
+    "展示基准向下舍入：≥1,000按100台，≥100按10台，其余按1台；较缓情景向上舍入。"
+  ],
+  "full_fleet_population": "unknown for every catalog entry",
+  "observed_vio_records": 0,
+  "observed_registration_records": 0,
+  "reference_logic": [
+    "country -> canonical model/explicit source group -> cohort detail",
+    "annual sales separated from population",
+    "model-year windows retained without invented generation split",
+    "row-level evidence, coverage gaps, export, interactive detail"
+  ],
+  "reference_chat_id": "019fca97-cd97-7171-b05a-ec6b5428d00e",
+  "reference_chat_title": "优化北美车型数据统计 - 每月",
+  "deviation_from_skill": "Exploratory assumptions are held in cohort_scenarios.csv, not vehicle_population.csv. No sourced UTV survival curve was acquired, so these are not validated cohort-survival VIO estimates."
+}

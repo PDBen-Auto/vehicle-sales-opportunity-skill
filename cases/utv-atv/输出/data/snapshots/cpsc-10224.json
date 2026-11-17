@@ -1,0 +1,74 @@
+{
+  "RecallID": 10224,
+  "RecallNumber": "25207",
+  "RecallDate": "2025-04-03T00:00:00",
+  "Description": "This recall involves accessory heaters that are compatible with model years 2023-2025 Honda Pioneer 700 (SXS700), 2022-2024 Pioneer 1000 (SXS1000), and 2022-2024 Talon 1000 (SXS1000S) vehicles. The accessory heaters were sold separately from the vehicles. Affected vehicles have been fitted with the Honda accessory heater system, which has a mounted control panel on the vehicle's dash with controls for air speed, air flow direction and temperature. Customers can enter the vehicle's VIN at https://powersports.honda.com/recalls to see if the vehicle is compatible with the recalled accessory heater. Refer to the Technical Information - Vehicle Identification section in the owner's manual to locate the vehicle's VIN.",
+  "URL": "https://www.cpsc.gov/Recalls/2025/Honda-Recalls-Accessory-Heaters-for-Side-by-Side-Vehicles-Due-to-Fire-and-Burn-Hazards",
+  "Title": "Honda Recalls Accessory Heaters for Side-by-Side Vehicles Due to Fire and Burn Hazards",
+  "ConsumerContact": "American Honda toll-free at 866-784-1870 from 8:30 a.m. to 4:30 p.m. PT Monday through Friday or online at https://powersports.honda.com and click on \"Recall Information\" at the top of the page for more information or at https://powersports.honda.com/recalls.",
+  "LastPublishDate": "2025-04-03T00:00:00",
+  "Products": [
+    {
+      "Name": "Accessory Heaters for Model Years 2022-2024 Honda Pioneer 1000, 2023-2025 Pioneer 700, and 2022-2024 Honda Talon 1000 Side-by-Side vehicles",
+      "Description": "",
+      "Model": "",
+      "Type": "",
+      "CategoryID": "",
+      "NumberOfUnits": "About 2,340 Accessory Heaters"
+    }
+  ],
+  "Inconjunctions": [],
+  "Images": [
+    {
+      "URL": "https://www.cpsc.gov/s3fs-public/Honda-1.jpg",
+      "Caption": "Recalled accessory heater system and control panel"
+    },
+    {
+      "URL": "https://www.cpsc.gov/s3fs-public/Honda-2.png",
+      "Caption": "Compatible Honda Pioneer and Honda Talon vehicles"
+    }
+  ],
+  "Injuries": [
+    {
+      "Name": "Honda has received three reports of the recalled accessory heaters overheating, including two incidents resulting in fires and vehicle damage. No injuries have been reported."
+    }
+  ],
+  "Manufacturers": [],
+  "Retailers": [
+    {
+      "Name": "Authorized Honda Powersports dealers nationwide from January 2022 through September 2024 for between $900 and $1,040.",
+      "CompanyID": ""
+    }
+  ],
+  "Importers": [],
+  "Distributors": [
+    {
+      "Name": "American Honda Motor Co. Inc, of Torrance, California",
+      "CompanyID": ""
+    }
+  ],
+  "SoldAtLabel": null,
+  "ManufacturerCountries": [
+    {
+      "Country": "United States"
+    }
+  ],
+  "ProductUPCs": [],
+  "Hazards": [
+    {
+      "Name": "The recalled accessory heaters can overheat and catch fire, posing fire and burn hazards to consumers.",
+      "HazardType": "",
+      "HazardTypeID": ""
+    }
+  ],
+  "Remedies": [
+    {
+      "Name": "Consumers should stop using the recalled accessory heaters immediately and contact an authorized Honda Powersports dealer to schedule an appointment for a free repair. Honda is contacting all known purchasers directly."
+    }
+  ],
+  "RemedyOptions": [
+    {
+      "Option": "Repair"
+    }
+  ]
+}

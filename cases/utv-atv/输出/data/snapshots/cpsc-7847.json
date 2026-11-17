@@ -1,0 +1,82 @@
+{
+  "RecallID": 7847,
+  "RecallNumber": "16257",
+  "RecallDate": "2016-09-01T00:00:00",
+  "Description": "This recall involves all model year 2016 Polaris RZR XP Turbo and RZR XP 4 Turbo recreational off-highway vehicles. The ROVs were sold in blue, gray, orange and red and have two or four seats and a rear box. \"RZR\" is printed on the rear box or on the right and left rear fenders and \"Turbo\" on the hood or on the right and left front fenders. \"Polaris\" is stamped onto the front grill. All models and Vehicle Identification Numbers (VINs) are included in this recall. To check for recalled vehicles visit www.polaris.com.",
+  "URL": "https://www.cpsc.gov/Recalls/2016/Polaris-Recalls-RZR-XP-Turbo-Recreational-Off-Highway-Vehicles",
+  "Title": "Polaris Recalls RZR XP Turbo Recreational Off-Highway Vehicles Due to Fire Hazard; Severe Burn Injuries; Includes Previously Recalled RZR Turbo ROVs",
+  "ConsumerContact": "Polaris at 800-765-2747 from 7 a.m. to 7 p.m. CT Monday through Friday, or online at www.polaris.com and click on \"Off-Road Safety Recalls\" on the main page for more information.",
+  "LastPublishDate": "2016-09-02T00:00:00",
+  "Products": [
+    {
+      "Name": "Recreational Off-Highway Vehicles (ROVs)",
+      "Description": "",
+      "Model": "",
+      "Type": "Recreational Off-Road Vehicles (ROV)",
+      "CategoryID": "68357",
+      "NumberOfUnits": "About 13,000 (including the 2,230 vehicles previously recalled on December 2015)"
+    }
+  ],
+  "Inconjunctions": [],
+  "Images": [
+    {
+      "URL": "https://www.cpsc.gov/s3fs-public/rzr_xp_turbo_eps_velocity_blue_pr.jpg",
+      "Caption": "2016 RZR XP Turbo"
+    },
+    {
+      "URL": "https://www.cpsc.gov/s3fs-public/rzr_xp_turbo_eps_matte_sunset_red_pr.jpg",
+      "Caption": "2016 RZR XP 4 Turbo"
+    }
+  ],
+  "Injuries": [
+    {
+      "Name": "Polaris has received 19 reports of the ROVs catching on fire, resulting in six reports of burn injuries. One of the reported fires occurred in Utah's American Fork Canyon, which led to a young child suffering severe burns and 15 acres of forest land being destroyed."
+    }
+  ],
+  "Manufacturers": [],
+  "Retailers": [
+    {
+      "Name": "Polaris dealers nationwide from August 2015 through July 2016 for between $25,000 and $27,500.",
+      "CompanyID": ""
+    }
+  ],
+  "Importers": [
+    {
+      "Name": "Polaris Industries Inc., of Medina, Minn.",
+      "CompanyID": ""
+    }
+  ],
+  "Distributors": [
+    {
+      "Name": "Polaris Industries Inc., of Medina, Minn.",
+      "CompanyID": ""
+    }
+  ],
+  "SoldAtLabel": null,
+  "ManufacturerCountries": [
+    {
+      "Country": "United States"
+    },
+    {
+      "Country": "Mexico"
+    }
+  ],
+  "ProductUPCs": [],
+  "Hazards": [
+    {
+      "Name": "The vehicles' engine can overheat and turbo system's drain tube can loosen, posing a fire hazard.",
+      "HazardType": "",
+      "HazardTypeID": ""
+    }
+  ],
+  "Remedies": [
+    {
+      "Name": "Consumers should immediately stop using the recalled ROVs and contact Polaris to schedule a free repair. Consumers will receive an extended warranty on each repaired RZR Turbo and a discount towards the purchase of a new vehicle."
+    }
+  ],
+  "RemedyOptions": [
+    {
+      "Option": "Repair"
+    }
+  ]
+}

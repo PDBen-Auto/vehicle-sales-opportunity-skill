@@ -1,0 +1,82 @@
+{
+  "RecallID": 9296,
+  "RecallNumber": "22744",
+  "RecallDate": "2022-04-28T00:00:00",
+  "Description": "This recall involves certain VINs of Model Year 2022 RZR Pro R 4 Premium and Ultimate vehicles. The recalled vehicles were sold in the following colors: black, blue and lime. The recalled vehicles were sold in a four-seat configuration. POLARIS is stamped on the front grille and POLARIS and RZR are printed on the sides of the vehicles. The model name is also printed on the side of the chassis. The VIN is located on the vehicle's frame in the left rear wheel well.",
+  "URL": "https://www.cpsc.gov/Recalls/2022/Polaris-Recalls-RZR-Recreational-Off-Road-Vehicles-Due-to-Fire-Hazard-Recall-Alert",
+  "Title": "Polaris Recalls RZR Recreational Off-Road Vehicles Due to Fire Hazard (Recall Alert)",
+  "ConsumerContact": "Polaris at 800-765-2747 from 7 a.m. to 7 p.m. CT Monday through Friday or online at www.polaris.com and click on \"Off Road Safety Recalls\" or www.polaris.com/en-us/off-road-recalls/ to check if your vehicle identification number (VIN) is included in any recalls.",
+  "LastPublishDate": "2022-04-28T00:00:00",
+  "Products": [
+    {
+      "Name": "Model Year 2022 RZR Pro R 4 Premium and RZR Pro R 4 Ultimate Recreational Off-Road Vehicles",
+      "Description": "",
+      "Model": "",
+      "Type": "",
+      "CategoryID": "",
+      "NumberOfUnits": "About 1,160 (In addition, about 11 were sold in Canada)"
+    }
+  ],
+  "Inconjunctions": [
+    {
+      "URL": "https://wwwapps.tc.gc.ca/Saf-Sec-Sur/7/VRDB-BDRV/search-recherche/detail.aspx?rn=2022165"
+    }
+  ],
+  "Images": [
+    {
+      "URL": "https://www.cpsc.gov/s3fs-public/RecalledPolarisRZRProR4Premium.PNG",
+      "Caption": "Recalled Polaris RZR Pro R 4 Premium"
+    },
+    {
+      "URL": "https://www.cpsc.gov/s3fs-public/RecalledPolarisRZRProR4Ultimate.PNG",
+      "Caption": "Recalled Polaris RZR Pro R 4 Ultimate"
+    },
+    {
+      "URL": "https://www.cpsc.gov/s3fs-public/RecalledPolarisRZRRecreationalOffRoadVehicleVINLocation.PNG",
+      "Caption": "Recalled Polaris RZR Recreational Off-Road Vehicle VIN Location"
+    }
+  ],
+  "Injuries": [
+    {
+      "Name": "The firm has received one report that a vehicle lost power after start up. No injuries or fires have been reported."
+    }
+  ],
+  "Manufacturers": [],
+  "Retailers": [
+    {
+      "Name": "Polaris dealers nationwide from May 2021 through April 2022 for between $39,000 and $45,000.",
+      "CompanyID": ""
+    }
+  ],
+  "Importers": [
+    {
+      "Name": "Polaris Industries Inc., of Medina, Minnesota",
+      "CompanyID": ""
+    }
+  ],
+  "Distributors": [],
+  "SoldAtLabel": null,
+  "ManufacturerCountries": [
+    {
+      "Country": "Mexico"
+    }
+  ],
+  "ProductUPCs": [],
+  "Hazards": [
+    {
+      "Name": "An incorrectly routed battery cable can contact the prop shaft during use, which can result in an electrical short, posing a fire hazard.",
+      "HazardType": "",
+      "HazardTypeID": ""
+    }
+  ],
+  "Remedies": [
+    {
+      "Name": "Consumers should immediately stop using the recalled vehicles and contact a Polaris dealer to schedule a free inspection and repair. The dealer will re-route the battery cable, and if needed, replace it free of charge. Polaris has notified consumers to stop riding the vehicles and is contacting registered owners directly to provide more details about the repair."
+    }
+  ],
+  "RemedyOptions": [
+    {
+      "Option": "Repair"
+    }
+  ]
+}

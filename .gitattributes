@@ -1,1 +1,5 @@
 * text eol=lf
+*.xlsx binary
+# Frozen original evidence retains its exact hash, including historical newlines.
+cases/utv-atv/输出/** -text -whitespace
+cases/utv-atv/过程/** -text -whitespace

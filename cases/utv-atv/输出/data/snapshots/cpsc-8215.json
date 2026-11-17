@@ -1,0 +1,74 @@
+{
+  "RecallID": 8215,
+  "RecallNumber": "18709",
+  "RecallDate": "2017-12-21T00:00:00",
+  "Description": "This recall involves John Deere models XUV825, XUV825 S4, XUV855, and XUV855 S4 Crossover Gator utility vehicles equipped with power steering. The model number and \"John Deere\" are printed on the side of the vehicle. The serial number begins with 1M0825 or 1M0855 and is located on the passenger side of the frame under the cargo box. The vehicles have seating for two or four passengers. The serial number ranges are listed below. Serial Number Ranges 1M0825GEXXM040001 - 1M0825GEXXM136520 1M0825GFXXM060001 - 1M0825GFXXM131607 1M0825MAXXM010001 - 1M0825MAXXM010667 1M0825MBXXM010001 - 1M0825MBXXM010419 1M0825MEXXM010001 1M0855DEXXM040001 - 1M0855DEXXM130975 1M0855DFXXM060001 - 1M0855DFXXM130531 1M0855DHXXM130001 - 1M0855DHXXM131052 1M0855EBXXM010001 - 1M0855EBXXM010561 1M0855MAXXM010001 - 1M0855MAXXM010498 1M0855MBXXM010001 - 1M0855MBXXM010247 1M0855MDXXM010001 - 1M0855MDXXM010021 1M0855MBAJM010249 1M0825MAAJM010719 1M0825MACJM010720 1M0825MAAJM010722 1M0825MAHJM010724 1M0825MAEJM010725 1M0825MACJM010726 1M0825MATJM010727 1M0825MAPJM010728 1M0825MAKJM010729 1M0825MAPJM010731",
+  "URL": "https://www.cpsc.gov/Recalls/2018/John-Deere-Recalls-Crossover-Gator-Utility-Vehicles-Due-to-Crash-Hazard-Recall-Alert",
+  "Title": "John Deere Recalls Crossover Gator Utility Vehicles Due to Crash Hazard (Recall Alert)",
+  "ConsumerContact": "Deere & Company at 800-537-8233 from 8 a.m. to 6 p.m. ET Monday through Friday and Saturday from 9 a.m. to 3 p.m. ET or online at www.deere.com and select Product Recall Information on the drop-down menu under Services & Support for more information.",
+  "LastPublishDate": "2017-12-21T00:00:00",
+  "Products": [
+    {
+      "Name": "John Deere Crossover Gator™ utility vehicles",
+      "Description": "",
+      "Model": "",
+      "Type": "",
+      "CategoryID": "",
+      "NumberOfUnits": "About 68,300"
+    }
+  ],
+  "Inconjunctions": [],
+  "Images": [
+    {
+      "URL": "https://www.cpsc.gov/s3fs-public/700_1.jpeg",
+      "Caption": "Recalled John Deere Crossover Gator™ four passenger utility vehicle"
+    },
+    {
+      "URL": "https://www.cpsc.gov/s3fs-public/700_2.jpeg",
+      "Caption": "Recalled John Deere Crossover Gator™ two passenger utility vehicle."
+    }
+  ],
+  "Injuries": [
+    {
+      "Name": "John Deere has received nine reports of steering loss. No injuries have been reported."
+    }
+  ],
+  "Manufacturers": [
+    {
+      "Name": "Deere & Company, of Moline, Ill.",
+      "CompanyID": ""
+    }
+  ],
+  "Retailers": [
+    {
+      "Name": "John Deere dealers nationwide from March 2012 through November 2017 for between $13,400 and $16,100.",
+      "CompanyID": ""
+    }
+  ],
+  "Importers": [],
+  "Distributors": [],
+  "SoldAtLabel": null,
+  "ManufacturerCountries": [
+    {
+      "Country": "United States"
+    }
+  ],
+  "ProductUPCs": [],
+  "Hazards": [
+    {
+      "Name": "The steering shaft can separate from the steering rack assembly and result in a loss of vehicle steering control, posing a crash hazard.",
+      "HazardType": "",
+      "HazardTypeID": ""
+    }
+  ],
+  "Remedies": [
+    {
+      "Name": "Consumers should stop using the recalled utility vehicles and contact an authorized John Deere dealer for a free repair. John Deere is contacting purchasers of the recalled utility vehicles directly."
+    }
+  ],
+  "RemedyOptions": [
+    {
+      "Option": "Repair"
+    }
+  ]
+}

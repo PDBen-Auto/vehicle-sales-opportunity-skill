@@ -9,6 +9,8 @@
   "exclusions": [
     {
       "market": "US",
+      "assetType": "automobile",
+      "metricKind": "retail_sales",
       "seriesId": "dune.trace",
       "reason": "incomplete_window",
       "currentMissing": [

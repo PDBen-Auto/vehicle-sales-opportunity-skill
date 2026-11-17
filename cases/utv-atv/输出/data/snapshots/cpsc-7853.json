@@ -1,0 +1,98 @@
+{
+  "RecallID": 7853,
+  "RecallNumber": "16264",
+  "RecallDate": "2016-09-15T00:00:00",
+  "Description": "This recall involves all model year 2014 Polaris Ranger XP 900, XP 900 EPS, and CREW 900 recreational off-highway vehicles (ROVs). The recalled ROVs were sold in a variety of colors and have either three or six seats and a rear box. \"Ranger\" is printed on the rear box, and \"900\" is printed on the hood of the ROVs. All 2014 Ranger 900 models and Vehicle Identification Numbers (VINs) are included in this recall. To check for recalled vehicles by VIN, visit www.polaris.com.",
+  "URL": "https://www.cpsc.gov/Recalls/2016/Polaris-Recalls-Ranger-Recreational-Off-Highway-Vehicles",
+  "Title": "Polaris Recalls Ranger Recreational Off-Highway Vehicles Due to Fire and Burn Hazards",
+  "ConsumerContact": "Polaris at 800-765-2747 from 7 a.m. to 7 p.m. CT Monday and Friday, or online at www.polaris.com and click on \"Off Road Safety Recalls\" at the bottom of the page for more information.",
+  "LastPublishDate": "2016-10-27T00:00:00",
+  "Products": [
+    {
+      "Name": "Polaris Ranger 900 recreational off-highway vehicles (ROVs)",
+      "Description": "",
+      "Model": "",
+      "Type": "Recreational Off-Road Vehicles (ROV)",
+      "CategoryID": "68357",
+      "NumberOfUnits": "About 42,500"
+    }
+  ],
+  "Inconjunctions": [],
+  "Images": [
+    {
+      "URL": "https://www.cpsc.gov/s3fs-public/16264a.jpg",
+      "Caption": "2014 RANGER XP 900 Solar Red"
+    },
+    {
+      "URL": "https://www.cpsc.gov/s3fs-public/16264b.jpg",
+      "Caption": "2014 RANGER CREW 900 Sage Green"
+    },
+    {
+      "URL": "https://www.cpsc.gov/s3fs-public/16264c.jpg",
+      "Caption": "2014 RANGER XP 900 EPS Sunset Red"
+    },
+    {
+      "URL": "https://www.cpsc.gov/s3fs-public/16264d.jpg",
+      "Caption": "2014 RANGER XP 900 EPS White Lightning"
+    },
+    {
+      "URL": "https://www.cpsc.gov/s3fs-public/16264e.jpg",
+      "Caption": "2014 RANGER XP 900 Polaris Pursuit Camo"
+    },
+    {
+      "URL": "https://www.cpsc.gov/s3fs-public/16264f.jpg",
+      "Caption": "2014 RANGER XP 900 Solar Red"
+    }
+  ],
+  "Injuries": [
+    {
+      "Name": "Polaris has received 36 reports of the recalled ROVs overheating and catching on fire, including reports of three minor burns and one sprained wrist."
+    }
+  ],
+  "Manufacturers": [],
+  "Retailers": [
+    {
+      "Name": "Polaris dealers nationwide from April 2013 through June 2014 for between $13,200 and $16,200.",
+      "CompanyID": ""
+    }
+  ],
+  "Importers": [
+    {
+      "Name": "Polaris Industries Inc., of Medina, Minn.",
+      "CompanyID": ""
+    }
+  ],
+  "Distributors": [
+    {
+      "Name": "Polaris Industries Inc., of Medina, Minn.",
+      "CompanyID": ""
+    }
+  ],
+  "SoldAtLabel": null,
+  "ManufacturerCountries": [
+    {
+      "Country": "United States"
+    },
+    {
+      "Country": "Mexico"
+    }
+  ],
+  "ProductUPCs": [],
+  "Hazards": [
+    {
+      "Name": "The heat shield can fall off the vehicle, posing fire and burn hazards to riders.",
+      "HazardType": "",
+      "HazardTypeID": ""
+    }
+  ],
+  "Remedies": [
+    {
+      "Name": "Consumers should immediately stop using the recalled ROVs and contact Polaris to schedule a free repair. Polaris is contacting all known purchasers directly."
+    }
+  ],
+  "RemedyOptions": [
+    {
+      "Option": "Repair"
+    }
+  ]
+}

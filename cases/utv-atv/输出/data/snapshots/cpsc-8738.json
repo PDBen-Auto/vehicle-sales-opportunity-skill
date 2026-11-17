@@ -1,0 +1,79 @@
+{
+  "RecallID": 8738,
+  "RecallNumber": "20715",
+  "RecallDate": "2020-01-30T00:00:00",
+  "Description": "This recall involves model year 2017-2018 Bobcat 3650 utility vehicles. The recalled utility vehicles are white and black with orange decals. \"Bobcat\" is printed on the hood of the utility vehicle and \"3650\" is printed on the rear box. The vehicle identification numbers (VINs) can be found on a label affixed to the vehicle frame under the seat and storage bin on the passenger side. The following vehicles are included in this recall. Year Model Number Partial Non-Sequential VIN Range 2017 3650 17001 thru 17308 2018 3650 18001 thru 18344",
+  "URL": "https://www.cpsc.gov/Recalls/2020/Bobcat-Company-Recalls-Utility-Vehicles-UTVs-Due-to-Collision-and-Crash-Hazard-Recall-Alert",
+  "Title": "Bobcat Company Recalls Utility Vehicles (UTVs) Due to Collision and Crash Hazard (Recall Alert)",
+  "ConsumerContact": "Bobcat at 800-743-4340 from 7:30 a.m. to 4:30 p.m. CT Monday through Friday or online at www.bobcat.com and click on the For Owners tab located at the top of the page. Then scroll to CPSC Recalls for more information. In addition, find a Dealer link at the top of the page or to check your VIN Number.",
+  "LastPublishDate": "2020-01-30T00:00:00",
+  "Products": [
+    {
+      "Name": "Model Year 2017-2018 Bobcat 3650 Utility Vehicles (UTVs)",
+      "Description": "",
+      "Model": "",
+      "Type": "",
+      "CategoryID": "",
+      "NumberOfUnits": "About 522 (In addition, 53 were sold in Canada)"
+    }
+  ],
+  "Inconjunctions": [],
+  "Images": [
+    {
+      "URL": "https://www.cpsc.gov/s3fs-public/111.jpg",
+      "Caption": "Recalled Bobcat 3650 utility vehicle"
+    },
+    {
+      "URL": "https://www.cpsc.gov/s3fs-public/222.jpg",
+      "Caption": "VIN number location is on frame under the passenger seat and lift out storage box"
+    }
+  ],
+  "Injuries": [
+    {
+      "Name": "None reported."
+    }
+  ],
+  "Manufacturers": [
+    {
+      "Name": "Polaris Industries Inc., of Medina, Minn.",
+      "CompanyID": ""
+    }
+  ],
+  "Retailers": [
+    {
+      "Name": "Bobcat dealers nationwide from May 2016 through February 2019 for between $24,000 and $29,000.",
+      "CompanyID": ""
+    }
+  ],
+  "Importers": [],
+  "Distributors": [
+    {
+      "Name": "Bobcat Company, of West Fargo, N.D.",
+      "CompanyID": ""
+    }
+  ],
+  "SoldAtLabel": null,
+  "ManufacturerCountries": [
+    {
+      "Country": "United States"
+    }
+  ],
+  "ProductUPCs": [],
+  "Hazards": [
+    {
+      "Name": "The rear brake line can become punctured causing the brakes to fail, posing a collision and crash hazard.",
+      "HazardType": "",
+      "HazardTypeID": ""
+    }
+  ],
+  "Remedies": [
+    {
+      "Name": "Consumers should immediately stop using the recalled vehicles and contact a Bobcat dealer to schedule a free inspection and repair. Bobcat is notifying dealers and contacting affected registered owners directly."
+    }
+  ],
+  "RemedyOptions": [
+    {
+      "Option": "Repair"
+    }
+  ]
+}

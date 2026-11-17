@@ -1,0 +1,82 @@
+{
+  "RecallID": 8562,
+  "RecallNumber": "19746",
+  "RecallDate": "2019-05-22T00:00:00",
+  "Description": "This recall involves all model year 2018 and 2019 Textron Havoc recreational off-highway vehicles manufactured by Arctic Cat. The two-seat vehicles come in four color combinations: charcoal metallic/bronze, green/black, red/black or white/black. The vehicles have Textron Off Road printed on each side of the hood and Havoc on each side of the rear cargo box.",
+  "URL": "https://www.cpsc.gov/Recalls/2019/Arctic-Cat-Recalls-Textron-Recreational-Off-Highway-Vehicles-Due-to-Crash-Hazard-Recall-Alert",
+  "Title": "Arctic Cat Recalls Textron Recreational Off-Highway Vehicles Due to Crash Hazard (Recall Alert)",
+  "ConsumerContact": "Arctic Cat at 800-279-6851 from 8 a.m. to 5 p.m. CT Monday through Friday or online at https://arcticcatoffroad.txtsv.com/ and click on Recall Information located at the bottom of the page for more information",
+  "LastPublishDate": "2019-05-22T00:00:00",
+  "Products": [
+    {
+      "Name": "Havoc recreational off-highway vehicles (ROVs)",
+      "Description": "",
+      "Model": "",
+      "Type": "",
+      "CategoryID": "",
+      "NumberOfUnits": "About 1,700"
+    }
+  ],
+  "Inconjunctions": [],
+  "Images": [
+    {
+      "URL": "https://www.cpsc.gov/s3fs-public/1_15.jpg",
+      "Caption": "Havoc ROV (charcoal metallic/bronze)"
+    },
+    {
+      "URL": "https://www.cpsc.gov/s3fs-public/2_14.jpg",
+      "Caption": "Havoc ROV (green/black)"
+    },
+    {
+      "URL": "https://www.cpsc.gov/s3fs-public/3_8.jpg",
+      "Caption": "Havoc ROV (red/back)"
+    },
+    {
+      "URL": "https://www.cpsc.gov/s3fs-public/4_7.jpg",
+      "Caption": "Havoc ROV (white/black)"
+    }
+  ],
+  "Injuries": [
+    {
+      "Name": "Arctic Cat has received six reports of front suspension arm failures. No crashes or injuries have been reported."
+    }
+  ],
+  "Manufacturers": [
+    {
+      "Name": "Arctic Cat Inc., of Thief River Falls, Minn., a subsidiary of Textron Specialized Vehicles, of Augusta, Ga.",
+      "CompanyID": ""
+    }
+  ],
+  "Retailers": [
+    {
+      "Name": "Textron Off Road and Arctic Cat dealers nationwide from January 2018 through April 2019 for between $13,800 and $17,000.",
+      "CompanyID": ""
+    }
+  ],
+  "Importers": [],
+  "Distributors": [],
+  "SoldAtLabel": null,
+  "ManufacturerCountries": [
+    {
+      "Country": "United States"
+    }
+  ],
+  "ProductUPCs": [],
+  "Hazards": [
+    {
+      "Name": "The upper front suspension arms can fail, posing a crash hazard.",
+      "HazardType": "",
+      "HazardTypeID": ""
+    }
+  ],
+  "Remedies": [
+    {
+      "Name": "Consumers should immediately stop using the recalled vehicles and contact Arctic Cat to schedule a free repair. Arctic Cat is contacting all known purchasers directly."
+    }
+  ],
+  "RemedyOptions": [
+    {
+      "Option": "Repair"
+    }
+  ]
+}

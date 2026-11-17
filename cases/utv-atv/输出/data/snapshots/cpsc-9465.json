@@ -1,0 +1,78 @@
+{
+  "RecallID": 9465,
+  "RecallNumber": "23713",
+  "RecallDate": "2022-12-01T00:00:00",
+  "Description": "This recall involves model year 2018 through 2022 base model Kubota RTV-XG850 Utility Vehicles, known as the \"Sidekick.\" \"Sidekick\" and/or the model number are on the side of the utility vehicle. Data plates on the side of the recalled vehicles have the model number and serial numbers ranging from 10001-50018, X0001-X0139, and Y0001-Y1312.",
+  "URL": "https://www.cpsc.gov/Recalls/2023/Kubota-Recalls-Utility-Vehicles-Due-to-Injury-and-Collision-Hazards-Recall-Alert",
+  "Title": "Kubota Recalls Utility Vehicles Due to Injury and Collision Hazards (Recall Alert)",
+  "ConsumerContact": "Kubota Tractor Corporation toll-free at 888-458-2682 from 8 a.m. to 5 p.m. CT Monday through Friday, or online at https://www.kubotausa.com/contact/form, Additional information can be found online at www.kubotausa.com/service-support/safety/safety-notices or online at www.kubotausa.com, click Service & Support, click Safety, and then view the Safety & Recall Notice.",
+  "LastPublishDate": "2022-12-01T00:00:00",
+  "Products": [
+    {
+      "Name": "Kubota RTV-XG850 Model Utility Vehicles",
+      "Description": "",
+      "Model": "",
+      "Type": "",
+      "CategoryID": "",
+      "NumberOfUnits": "About 19,500"
+    }
+  ],
+  "Inconjunctions": [],
+  "Images": [
+    {
+      "URL": "https://www.cpsc.gov/s3fs-public/RecalledKubotaUtilityVehicleModelRTV_XG850GASidekick.jpg",
+      "Caption": "Recalled Kubota Utility Vehicle Model RTV-XG850GA, Sidekick"
+    },
+    {
+      "URL": "https://www.cpsc.gov/s3fs-public/RecalledKubotaUtilityVehicleModelRTV_XG850WLH22Sidekick.jpg",
+      "Caption": "Recalled Kubota Utility Vehicle Model RTV-XG850WLH22, Sidekick"
+    },
+    {
+      "URL": "https://www.cpsc.gov/s3fs-public/RecalledKubotaUtilityVehicleModelRTV_XG850SLAS22Sidekick.jpg",
+      "Caption": "Recalled Kubota Utility Vehicle Model RTV-XG850SLAS22, Sidekick"
+    }
+  ],
+  "Injuries": [
+    {
+      "Name": "Kubota has received five reports of incidents worldwide of steering shaft shearing. No injuries or deaths have been reported."
+    }
+  ],
+  "Manufacturers": [],
+  "Retailers": [
+    {
+      "Name": "Authorized Kubota dealers nationwide from June 2018 through October 2022 for between $14,700 and $16,900.",
+      "CompanyID": ""
+    }
+  ],
+  "Importers": [],
+  "Distributors": [
+    {
+      "Name": "Kubota Tractor Corporation, of Grapevine, Texas",
+      "CompanyID": ""
+    }
+  ],
+  "SoldAtLabel": null,
+  "ManufacturerCountries": [
+    {
+      "Country": "United States"
+    }
+  ],
+  "ProductUPCs": [],
+  "Hazards": [
+    {
+      "Name": "The utility vehicle's steering shaft can shear at or near the electric power steering housing, and cause the driver to lose steering control, posing injury and collision hazards.",
+      "HazardType": "",
+      "HazardTypeID": ""
+    }
+  ],
+  "Remedies": [
+    {
+      "Name": "Consumers should immediately stop using the recalled utility vehicles and contact an authorized Kubota dealer to schedule a free inspection and free repair. Kubota is contacting all known purchasers directly."
+    }
+  ],
+  "RemedyOptions": [
+    {
+      "Option": "Repair"
+    }
+  ]
+}

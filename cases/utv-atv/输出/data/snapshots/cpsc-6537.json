@@ -1,0 +1,97 @@
+{
+  "RecallID": 6537,
+  "RecallNumber": "16702",
+  "RecallDate": "2015-10-06T00:00:00",
+  "Description": "This recall involves the following model year 2015 Polaris RZR recreational off-highway vehicles (ROV): RZR 900, RZR S 900, RZR 900 XC, RZR 4 900, RZR XP 1000 and RZR XP4 1000 recreational off-highway vehicles. RZR 900s were sold in black, camouflage, red and white color schemes. RZR 900s have a \"900\" decal on the right and left front fenders and a \"RZR\" decal on the right and left rear fenders. RZR 1000s were sold in black, blue, green, orange, red and white color schemes. RZR 1000s have a \"1000 HO\" decal on the right and left front fenders and a \"RZR\" decal on the right and left rear fenders. RZR 900 and 1000 vehicles with the following model names and Vehicle Identification Numbers (VINs) are being recalled: Model Year 2015 RZR 900 Model Name VIN Range(s) RZR 900 4XAVBE874FB201435 through 4XAVAA878FB961699 and 3NSVBE870FF361395 through 3NSVBE875FF444241 VINs are not sequential and not all VINs in the ranges are included in the recall. RZR S 900 RZR 4 900 RZR 900 XC Model Year 2015 RZR 1000 Model Name VIN Range RZR XP 1000 4XAVFE993FB207778 through 4XAVFE991FB962847 VINs are not sequential and not all VINs in the range are included in the recall. RZR XP 1000 Mudder RZR XP4 1000 The VIN is on the driver's side rear frame tube, behind the PVT cover. Not all VINs in the ranges are included in this recall. A complete list of recalled vehicles including VINs is available at www.polaris.com.",
+  "URL": "https://www.cpsc.gov/Recalls/2016/Polaris-Recalls-RZR-Recreational-Off-Highway-Vehicles-2016",
+  "Title": "Polaris Recalls RZR Recreational Off-Highway Vehicles Due to Fire Hazard (Recall Alert)",
+  "ConsumerContact": "Polaris toll-free at 888-704-5290 from 8 a.m. to 5 p.m. CT Monday through Friday or online at www.polaris.com and click on Product Safety Recalls for more information.",
+  "LastPublishDate": "2015-10-06T00:00:00",
+  "Products": [
+    {
+      "Name": "Recreational Off-Highway Vehicles (ROV)",
+      "Description": "",
+      "Model": "",
+      "Type": "Recreational Vehicles (Unlicensed)",
+      "CategoryID": "68345",
+      "NumberOfUnits": "About 53,000 vehicles"
+    }
+  ],
+  "Inconjunctions": [],
+  "Images": [
+    {
+      "URL": "https://www.cpsc.gov/s3fs-public/RZR1_0.JPG",
+      "Caption": "RZR 900"
+    },
+    {
+      "URL": "https://www.cpsc.gov/s3fs-public/RZR2_0.JPG",
+      "Caption": "RZR S 900"
+    },
+    {
+      "URL": "https://www.cpsc.gov/s3fs-public/RZR3_0.JPG",
+      "Caption": "RZR 4 900"
+    },
+    {
+      "URL": "https://www.cpsc.gov/s3fs-public/RZR4_0.JPG",
+      "Caption": "RZR 900 XC"
+    },
+    {
+      "URL": "https://www.cpsc.gov/s3fs-public/RZR5_0.JPG",
+      "Caption": "RZR XP 1000"
+    },
+    {
+      "URL": "https://www.cpsc.gov/s3fs-public/RZR6_0.JPG",
+      "Caption": "RZR XP4 1000"
+    },
+    {
+      "URL": "https://www.cpsc.gov/s3fs-public/RZR7_0.JPG",
+      "Caption": "The VIN is stamped on a portion of the driver's side rear frame tube, behind the PVT cover."
+    }
+  ],
+  "Injuries": [
+    {
+      "Name": "Polaris has received four reports of RZR 900s with fuel leaks and two reports of the vehicles catching on fire, one of which included a minor burn injury to a consumer. The company received 25 reports of RZR 1000s with fuel leaks. No injuries reported for RZR 1000s."
+    }
+  ],
+  "Manufacturers": [],
+  "Retailers": [
+    {
+      "Name": "Polaris dealers nationwide from July 2014 through August 2015. Polaris RZR 900s sold for about $12,800 to $18,300. Polaris RZR 1000s sold for about $20,300 to $23,500.",
+      "CompanyID": ""
+    }
+  ],
+  "Importers": [],
+  "Distributors": [
+    {
+      "Name": "Polaris Industries Inc., of Medina, Minn.",
+      "CompanyID": ""
+    }
+  ],
+  "SoldAtLabel": null,
+  "ManufacturerCountries": [
+    {
+      "Country": "United States"
+    },
+    {
+      "Country": "Mexico"
+    }
+  ],
+  "ProductUPCs": [],
+  "Hazards": [
+    {
+      "Name": "The vehicles' fuel tank vent line can be misrouted, causing it to become pinched. This can cause the fuel tank to pressurize and leak fuel, posing a fire hazard.",
+      "HazardType": "",
+      "HazardTypeID": ""
+    }
+  ],
+  "Remedies": [
+    {
+      "Name": "Consumers should immediately stop using the recalled vehicles and contact their local Polaris dealer to schedule a free repair. Polaris is contacting its customers directly and sending a recall letter to each registered owner."
+    }
+  ],
+  "RemedyOptions": [
+    {
+      "Option": "Repair"
+    }
+  ]
+}

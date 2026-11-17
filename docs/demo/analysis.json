@@ -4,7 +4,7 @@
   "asOfDate": "2025-06-30",
   "synthetic": true,
   "coverage": "partial",
-  "unit": "vehicles",
+  "unit": "asset_units",
   "comparison": {
     "currentStart": "2025-01",
     "currentEnd": "2025-06",
@@ -24,6 +24,8 @@
       "segment": "SUV",
       "seriesScope": "model",
       "market": "CA",
+      "assetType": "automobile",
+      "metricKind": "retail_sales",
       "seriesId": "aster.canyon",
       "current": {
         "units": 1560,
@@ -127,6 +129,8 @@
       "segment": "SUV",
       "seriesScope": "model",
       "market": "MX",
+      "assetType": "automobile",
+      "metricKind": "retail_sales",
       "seriesId": "aster.canyon",
       "current": {
         "units": 2580,
@@ -230,6 +234,8 @@
       "segment": "SUV",
       "seriesScope": "model",
       "market": "US",
+      "assetType": "automobile",
+      "metricKind": "retail_sales",
       "seriesId": "aster.canyon",
       "current": {
         "units": 15600,
@@ -333,6 +339,8 @@
       "segment": "Pickup",
       "seriesScope": "family",
       "market": "US",
+      "assetType": "automobile",
+      "metricKind": "retail_sales",
       "seriesId": "boreal.ridge",
       "current": {
         "units": 13200,
@@ -436,6 +444,8 @@
       "segment": "Car",
       "seriesScope": "model",
       "market": "US",
+      "assetType": "automobile",
+      "metricKind": "retail_sales",
       "seriesId": "cedar.spark",
       "current": {
         "units": 300,
@@ -539,6 +549,8 @@
       "segment": "SUV",
       "seriesScope": "model",
       "market": "US",
+      "assetType": "automobile",
+      "metricKind": "retail_sales",
       "seriesId": "dune.trace",
       "current": {
         "units": null,
@@ -644,6 +656,8 @@
       "segment": "SUV",
       "seriesScope": "model",
       "market": "US",
+      "assetType": "automobile",
+      "metricKind": "retail_sales",
       "seriesId": "ember.launch",
       "current": {
         "units": 1200,
@@ -747,6 +761,8 @@
       "segment": "SUV",
       "seriesScope": "model",
       "market": "US",
+      "assetType": "automobile",
+      "metricKind": "retail_sales",
       "seriesId": "fjord.glide",
       "current": {
         "units": 10860,
@@ -850,6 +866,8 @@
       "segment": "Van",
       "seriesScope": "model",
       "market": "US",
+      "assetType": "automobile",
+      "metricKind": "retail_sales",
       "seriesId": "gale.van",
       "current": {
         "units": 3660,
@@ -951,6 +969,8 @@
   "segments": [
     {
       "market": "CA",
+      "assetType": "automobile",
+      "metricKind": "retail_sales",
       "segment": "SUV",
       "pairedSeries": 1,
       "currentUnits": 1560,
@@ -960,6 +980,8 @@
     },
     {
       "market": "MX",
+      "assetType": "automobile",
+      "metricKind": "retail_sales",
       "segment": "SUV",
       "pairedSeries": 1,
       "currentUnits": 2580,
@@ -969,6 +991,8 @@
     },
     {
       "market": "US",
+      "assetType": "automobile",
+      "metricKind": "retail_sales",
       "segment": "Car",
       "pairedSeries": 1,
       "currentUnits": 300,
@@ -978,6 +1002,8 @@
     },
     {
       "market": "US",
+      "assetType": "automobile",
+      "metricKind": "retail_sales",
       "segment": "Pickup",
       "pairedSeries": 1,
       "currentUnits": 13200,
@@ -987,6 +1013,8 @@
     },
     {
       "market": "US",
+      "assetType": "automobile",
+      "metricKind": "retail_sales",
       "segment": "SUV",
       "pairedSeries": 3,
       "currentUnits": 27660,
@@ -996,6 +1024,8 @@
     },
     {
       "market": "US",
+      "assetType": "automobile",
+      "metricKind": "retail_sales",
       "segment": "Van",
       "pairedSeries": 1,
       "currentUnits": 3660,

@@ -1,0 +1,82 @@
+{
+  "RecallID": 8045,
+  "RecallNumber": "17744",
+  "RecallDate": "2017-05-09T00:00:00",
+  "Description": "This recall involves model year 2017 Honda Pioneer 700 side-by-side recreational off-highway vehicles. The ROVs are motorized with a steering wheel, a gas pedal, a brake pedal, bucket or bench seats, seat belts and an occupant protection structure. The recalled ROVs were sold in two-seat and four-seat models in blue, red, silver or camouflage colors. \"HONDA\" is printed on the front grill and rear tailgate. \"Pioneer 700\" is printed on the sides of the vehicle. The model and serial numbers are printed on a certification label located at the top rear of the left front wheel well. The following model numbers and serial number ranges are being recalled: Model Type Serial Number Range Seats SXS700M4H AC 1HFVE0201H4301181 -- 1HFVE0207H4302237 4 SXS700M4DH AC 1HFVE02H5H4301268 -- 1HFVE02H6H4301697 4 SXS700M4DH 2AC 1HFVE02R1H4300241 -- 1HFVE02R3H4300600 4 SXS700M2H AC 1HFVE0220H4301142 -- 1HFVE0223H4301801 2 SXS700M2DH AC 1HFVE02NXH4301031 -- 1HFVE02NXH4301742 2 SXS700M2DH 2AC 1HFVE02T6H4300361 -- 1HFVE02T9H4300600 2",
+  "URL": "https://www.cpsc.gov/Recalls/2017/Recreational-Off-Highway-Vehicles-Recalled-by-American-Honda-Recall-Alert",
+  "Title": "Recreational Off-Highway Vehicles Recalled by American Honda Due to Risk of Injury (Recall Alert)",
+  "ConsumerContact": "American Honda toll-free at 866-784-1870 from 8:30 a.m. to 4:30 p.m. PT Monday through Friday or online at www.powersports.honda.com and click on \"Recall Information\" at the bottom of the page for more information.",
+  "LastPublishDate": "2017-05-09T00:00:00",
+  "Products": [
+    {
+      "Name": "Recreational off-highway vehicles (ROVs)",
+      "Description": "",
+      "Model": "",
+      "Type": "",
+      "CategoryID": "",
+      "NumberOfUnits": "About 2,200"
+    }
+  ],
+  "Inconjunctions": [],
+  "Images": [
+    {
+      "URL": "https://www.cpsc.gov/s3fs-public/2017%20Honda%20Pioneer%20700%20side-by-side%20%28Red.jpg",
+      "Caption": "2017 Honda Pioneer 700 side-by-side (Red)"
+    },
+    {
+      "URL": "https://www.cpsc.gov/s3fs-public/2017%20Honda%20Pioneer%20700%20Deluxe%20side-by-side%20%28Honda%20Phantom%20Camo%29.jpg",
+      "Caption": "2017 Honda Pioneer 700 Deluxe side-by-side (Honda Phantom Camo)"
+    },
+    {
+      "URL": "https://www.cpsc.gov/s3fs-public/2017%20Honda%20Pioneer%20700-4%20side-by-side%20%28Red%29.jpg",
+      "Caption": "2017 Honda Pioneer 700-4 side-by-side (Red)"
+    },
+    {
+      "URL": "https://www.cpsc.gov/s3fs-public/2017%20Honda%20Pioneer%20700-4%20Deluxe%20side-by-side%20%28Honda%20Phantom%20Camo%29.jpg",
+      "Caption": "2017 Honda Pioneer 700-4 Deluxe side-by-side (Honda Phantom Camo)"
+    }
+  ],
+  "Injuries": [
+    {
+      "Name": "None reported"
+    }
+  ],
+  "Manufacturers": [
+    {
+      "Name": "American Honda Motor Company Inc., of Torrance, Calif.",
+      "CompanyID": ""
+    }
+  ],
+  "Retailers": [
+    {
+      "Name": "Authorized Honda Powersports dealers nationwide from December 2016 through April 2017 for between $10,500 and $13,500.",
+      "CompanyID": ""
+    }
+  ],
+  "Importers": [],
+  "Distributors": [],
+  "SoldAtLabel": null,
+  "ManufacturerCountries": [
+    {
+      "Country": "United States"
+    }
+  ],
+  "ProductUPCs": [],
+  "Hazards": [
+    {
+      "Name": "The front passenger seat belt buckle can fail due to a manufacturing defect, posing a risk of injury.",
+      "HazardType": "",
+      "HazardTypeID": ""
+    }
+  ],
+  "Remedies": [
+    {
+      "Name": "Consumers should immediately stop using the recalled ROVs and contact their local authorized Honda Powersports dealer to schedule an appointment for a free inspection and repair. Honda is contacting all known purchasers directly."
+    }
+  ],
+  "RemedyOptions": [
+    {
+      "Option": "Repair"
+    }
+  ]
+}

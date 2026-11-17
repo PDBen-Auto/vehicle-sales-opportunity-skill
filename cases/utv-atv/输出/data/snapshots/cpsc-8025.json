@@ -1,0 +1,74 @@
+{
+  "RecallID": 8025,
+  "RecallNumber": "17739",
+  "RecallDate": "2017-04-11T00:00:00",
+  "Description": "This recall involves John Deere Gator™ Utility Vehicles with model number XUV590i or XUV590i S4 printed on the hood and the \"John Deere\" and \"Gator\" brand names printed on the cargo box. The serial number, located on the frame on the rear of the machine above the hitch, begins with 1M0590 and fall within the ranges on the chart below. The recalled utility vehicles come in several colors and have four-wheel suspension with side-by-side seating for two or four people depending on model. Model Serial Number Range XUV590i 1M0590T+++M010001 - 20742 XUV590i S4 1M0590F+++M010001 - 20277",
+  "URL": "https://www.cpsc.gov/Recalls/2017/John-Deere-Recalls-Gator-Utility-Vehicles-Recall-Alert",
+  "Title": "John Deere Recalls Gator Utility Vehicles Due To Crash Hazard (Recall Alert)",
+  "ConsumerContact": "Deere & Company at 800-537-8233, from 8 a.m. to 6 p.m. ET Monday through Friday, and Saturday from 9 a.m. to 3 p.m. ET, or online at www.deere.com and select Product Recall Information on the drop-down menu under Services & Support for more information.",
+  "LastPublishDate": "2017-04-11T00:00:00",
+  "Products": [
+    {
+      "Name": "Utility Vehicles",
+      "Description": "",
+      "Model": "",
+      "Type": "",
+      "CategoryID": "",
+      "NumberOfUnits": "About 8,500"
+    }
+  ],
+  "Inconjunctions": [],
+  "Images": [
+    {
+      "URL": "https://www.cpsc.gov/s3fs-public/John Deere.jpg",
+      "Caption": "Recalled John Deere utility vehichle"
+    },
+    {
+      "URL": "https://www.cpsc.gov/s3fs-public/Back of john Deere.png",
+      "Caption": "Back of Recalled John Deere utility vehicle"
+    }
+  ],
+  "Injuries": [
+    {
+      "Name": "John Deere has received two reports of the dust boot on the throttle cable coming loose. No reports of injuries."
+    }
+  ],
+  "Manufacturers": [
+    {
+      "Name": "Deere & Company of Moline, Ill.",
+      "CompanyID": ""
+    }
+  ],
+  "Retailers": [
+    {
+      "Name": "John Deere dealers nationwide from January 2016 through March 2017 for between $10,000 and $12,900.",
+      "CompanyID": ""
+    }
+  ],
+  "Importers": [],
+  "Distributors": [],
+  "SoldAtLabel": null,
+  "ManufacturerCountries": [
+    {
+      "Country": "United States"
+    }
+  ],
+  "ProductUPCs": [],
+  "Hazards": [
+    {
+      "Name": "The dust boot on the throttle cable can come loose, resulting in the vehicle not slowing down or stopping, posing a crash hazard.",
+      "HazardType": "",
+      "HazardTypeID": ""
+    }
+  ],
+  "Remedies": [
+    {
+      "Name": "Consumers should immediately stop using the recalled utility vehicles and contact a John Deere dealer for a free repair. John Deere is contacting all registered owners of the recalled vehicles directly."
+    }
+  ],
+  "RemedyOptions": [
+    {
+      "Option": "Repair"
+    }
+  ]
+}

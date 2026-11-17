@@ -1,0 +1,74 @@
+{
+  "RecallID": 5177,
+  "RecallNumber": "09172",
+  "RecallDate": "2009-03-31T00:00:00",
+  "Description": "CPSC and Yamaha are anouncing a free repair program to address safety issues with all Rhino 450, 660, and 700 model off-highway recreational vehicles. Yamaha has also agreed to voluntarily suspend sale of these models immediately until repaired. The repair includes the installation of a spacer on the rear wheels as well as the removal of the rear anti-sway bar to help reduce the chance of rollover and improve vehicle handling, and continued installation of half doors and additional passenger handholds where these features have not been previously installed to help keep occupants' arms and legs inside the vehicle during a rollover and reduce injuries.",
+  "URL": "https://www.cpsc.gov/Recalls/2009/Yamaha-Motor-Corp-Offers-Free-Repair-For-450-660-and-700-Model-Rhino-Vehicles-CPSC-advises-consumers-not-to-use-the-off-road-vehicles-until-repaired",
+  "Title": "Yamaha Motor Corp. Offers Free Repair For 450, 660, and 700 Model Rhino Vehicles CPSC advises consumers not to use the off-road vehicles until repaired",
+  "ConsumerContact": "For additional information, contact Yamaha at 800-962-7926 anytime, or visit the firm's Web site at www.yamaha-motor.com",
+  "LastPublishDate": "2014-06-13T00:00:00",
+  "Products": [
+    {
+      "Name": "Rhino 450, 660, and 700 model Off-highway Recreational Vehicles",
+      "Description": "",
+      "Model": "",
+      "Type": "Utility, Off-Road Vehicles/Golf Carts",
+      "CategoryID": "2215",
+      "NumberOfUnits": "About 120,000 Rhino 450s and 660s and 25,000 Rhino 700s"
+    }
+  ],
+  "Inconjunctions": [],
+  "Images": [
+    {
+      "URL": "https://www.cpsc.gov/~/link/e82898f2d1f044bda1a748ecf076219a.jpg",
+      "Caption": "Rhino 450 (with doors)"
+    },
+    {
+      "URL": "https://www.cpsc.gov/~/link/f8dcedd7ae444023b4375b36e88ea65d.jpg",
+      "Caption": "Rhino 450 (without doors)"
+    },
+    {
+      "URL": "https://www.cpsc.gov/~/link/95ac4b8455a54512b715c82251d62756.jpg",
+      "Caption": "Rhino 660 (without doors)"
+    }
+  ],
+  "Injuries": [
+    {
+      "Name": "CPSC staff has investigated more than 50 incidents involving these three Rhino models, including 46 driver and passenger deaths involving the Rhino 450 and 660 models. More than two-thirds of the cases involved rollovers and many involved unbelted occupants. Of the rollover-related deaths and hundreds of reported injuries, some of which were serious, many appear to involve turns at relatively low speeds and on level terrain."
+    }
+  ],
+  "Manufacturers": [],
+  "Retailers": [
+    {
+      "Name": "Yamaha dealers nationwide since Fall 2003.",
+      "CompanyID": ""
+    }
+  ],
+  "Importers": [],
+  "Distributors": [
+    {
+      "Name": "Yamaha Motor Corporation U.S.A., of Cypress, Calif.",
+      "CompanyID": ""
+    }
+  ],
+  "SoldAtLabel": null,
+  "ManufacturerCountries": [
+    {
+      "Country": "United States"
+    }
+  ],
+  "ProductUPCs": [],
+  "Hazards": [
+    {
+      "Name": "The lack of a spacer on the rear wheels and the presence of the rear anti-sway bar impair vehicle handling and pose a risk of rollover.",
+      "HazardType": "",
+      "HazardTypeID": ""
+    }
+  ],
+  "Remedies": [
+    {
+      "Name": "Owners of the affected Rhinos should stop using them and call their dealer to schedule an appointment to have repairs made once they are available and to take advantage of a free helmet offer."
+    }
+  ],
+  "RemedyOptions": []
+}

@@ -1,0 +1,90 @@
+{
+  "RecallID": 10058,
+  "RecallNumber": "24374",
+  "RecallDate": "2024-09-19T00:00:00",
+  "Description": "This recall involves certain VINs of Polaris Model Year 2024 RANGER XD 1500 and RANGER CREW XD 1500 ROVs. The recalled ROVs were sold in camouflage, red and silver colors. The vehicles were sold in three and six-seat configurations and have \"POLARIS\" stamped on the front grille. The VIN is printed on a portion of the left rear frame (on the driver's side of the vehicle) under the cargo box. In addition, this recall involves 4,500 and 6,000 lb. winches purchased as an accessory (part numbers 2889275 or 2889276).",
+  "URL": "https://www.cpsc.gov/Recalls/2024/Polaris-Industries-Recalls-Ranger-XD-1500-Recreational-Off-Road-Vehicles-ROVs-with-Winches-Due-to-Fire-Hazard",
+  "Title": "Polaris Industries Recalls Ranger XD 1500 Recreational Off-Road Vehicles (ROVs) with Winches Due to Fire Hazard",
+  "ConsumerContact": "Polaris Industries at 800-765-2747 from 7 a.m. to 7 p.m. CT Monday through Friday, or online at www.polaris.com and click on \"Product Safety News\" located under the \"Safety\" column at the bottom of the page, or https://www.polaris.com/en-us/off-road-recalls/ to check if your vehicle identification number (VIN) is included in any recalls. Consumers can contact Polaris' owner connections team at Owner.Connections@polaris.com or via an online forum accessible at https://www.polaris.com/en-us/off-road/owner-resources/help-center/email.",
+  "LastPublishDate": "2024-09-19T00:00:00",
+  "Products": [
+    {
+      "Name": "Model Year 2024 RANGER XD 1500 and Crew XD 1500 Recreational Off-Road Vehicles (ROVs)",
+      "Description": "",
+      "Model": "",
+      "Type": "",
+      "CategoryID": "",
+      "NumberOfUnits": "About 10,500 ROVs and 1,336 winches (In addition, about 660 ROVs were sold in Canada)"
+    }
+  ],
+  "Inconjunctions": [
+    {
+      "URL": "https://wwwapps.tc.gc.ca/Saf-Sec-Sur/7/VRDB-BDRV/search-recherche/detail.aspx?rn=2024457"
+    }
+  ],
+  "Images": [
+    {
+      "URL": "https://www.cpsc.gov/s3fs-public/Ranger1.png",
+      "Caption": "Recalled Polaris Model Year 2024 RANGER XD 1500"
+    },
+    {
+      "URL": "https://www.cpsc.gov/s3fs-public/Ranger2.png",
+      "Caption": "Recalled Polaris Model Year 2024 RANGER CREW XD 1500"
+    },
+    {
+      "URL": "https://www.cpsc.gov/s3fs-public/Ranger3.png",
+      "Caption": "Recalled 4,500 lb Winch (part number 2889275)"
+    },
+    {
+      "URL": "https://www.cpsc.gov/s3fs-public/Ranger4.png",
+      "Caption": "Recalled 6,000 lb Winch (part number 2889276)"
+    },
+    {
+      "URL": "https://www.cpsc.gov/s3fs-public/Ranger5.png",
+      "Caption": "Recalled Polaris RANGER VIN Location"
+    }
+  ],
+  "Injuries": [
+    {
+      "Name": "The firm has received one report of fire. No injuries have been reported."
+    }
+  ],
+  "Manufacturers": [
+    {
+      "Name": "Polaris Industries Inc., of Medina, Minnesota",
+      "CompanyID": ""
+    }
+  ],
+  "Retailers": [
+    {
+      "Name": "Polaris dealers nationwide from February 2023 through August 2024 for between $40,000 and $50,500.",
+      "CompanyID": ""
+    }
+  ],
+  "Importers": [],
+  "Distributors": [],
+  "SoldAtLabel": null,
+  "ManufacturerCountries": [
+    {
+      "Country": "United States"
+    }
+  ],
+  "ProductUPCs": [],
+  "Hazards": [
+    {
+      "Name": "The winch wiring can overheat while in use, posing a fire hazard and risk of serious injury to the rider or passenger.",
+      "HazardType": "",
+      "HazardTypeID": ""
+    }
+  ],
+  "Remedies": [
+    {
+      "Name": "Consumers should immediately stop using the winch in the recalled ROVs and contact an authorized Polaris dealer to schedule a free repair to confirm a proper winch ground connection at the dealer's location. Polaris is contacting registered owners directly."
+    }
+  ],
+  "RemedyOptions": [
+    {
+      "Option": "Repair"
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "RecallID": 9236,
+  "RecallNumber": "22081",
+  "RecallDate": "2022-02-16T00:00:00",
+  "Description": "This recall involves American Landmaster utility vehicles series EV, L3, L4, L5, L5W and L7, equipped with standard (non-power) steering, and manufactured between March 2021 and October 2021. They were sold in red, blue and camouflage colors. Landmaster and the model name appear on the frame near the front left wheel of the vehicles. The model year and date of manufacture can be found on a data plate behind the vehicle's pedals.",
+  "URL": "https://www.cpsc.gov/Recalls/2022/American-Landmaster-Recalls-Utility-Vehicles-Due-to-Crash-and-Injury-Hazards",
+  "Title": "American Landmaster Recalls Utility Vehicles Due to Crash and Injury Hazards",
+  "ConsumerContact": "American Landmaster at 800-643-7332 from 8 a.m. to 6 p.m. ET Monday through Friday, email at safety@americanlandmaster.com, or online at www.americanlandmaster.com/safety-recalls or www.americanlandmaster.com and click on Safety Recalls at the bottom of the page for more information.",
+  "LastPublishDate": "2022-02-16T00:00:00",
+  "Products": [
+    {
+      "Name": "American Landmaster EV, L3, L4, L5, L5W and L7 Utility Vehicles (UTVs)",
+      "Description": "",
+      "Model": "",
+      "Type": "",
+      "CategoryID": "",
+      "NumberOfUnits": "About 1,050"
+    }
+  ],
+  "Inconjunctions": [],
+  "Images": [
+    {
+      "URL": "https://www.cpsc.gov/s3fs-public/1-112108.png",
+      "Caption": "Recalled American Landmaster L4 model utility vehicle"
+    }
+  ],
+  "Injuries": [
+    {
+      "Name": "American Landmaster has received seven reports of the steering shaft separating. No injuries have been reported."
+    }
+  ],
+  "Manufacturers": [
+    {
+      "Name": "ASW LLC, d/b/a American Landmaster, of Columbia City, Ind.",
+      "CompanyID": ""
+    }
+  ],
+  "Retailers": [
+    {
+      "Name": "American Landmaster dealers nationwide from March 2021 through October 2021 for between $7,200 and $12,700.",
+      "CompanyID": ""
+    }
+  ],
+  "Importers": [],
+  "Distributors": [],
+  "SoldAtLabel": null,
+  "ManufacturerCountries": [
+    {
+      "Country": "United States"
+    }
+  ],
+  "ProductUPCs": [],
+  "Hazards": [
+    {
+      "Name": "The steering shaft can separate from the joint and result in a loss of control, posing crash and injury hazards.",
+      "HazardType": "",
+      "HazardTypeID": ""
+    }
+  ],
+  "Remedies": [
+    {
+      "Name": "Consumers should immediately stop using the recalled utility vehicles and contact American Landmaster to receive instructions for conducting an inspection to determine if your vehicle requires repair, or to make an appointment for a no-cost inspection and, if necessary, full repair from an authorized repair shop. American Landmaster is contacting all registered owners directly."
+    }
+  ],
+  "RemedyOptions": [
+    {
+      "Option": "Repair"
+    }
+  ]
+}

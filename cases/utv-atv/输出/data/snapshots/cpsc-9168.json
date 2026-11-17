@@ -1,0 +1,77 @@
+{
+  "RecallID": 9168,
+  "RecallNumber": "22705",
+  "RecallDate": "2021-11-04T00:00:00",
+  "Description": "This recall involves model year 2013 through 2021 base model Kubota RTV-X1100C Utility Vehicles. Specific models may include an additional letter after the \"C,\" for example, 1100CR. Recalled units have serial numbers ranging from 10001 through 67546. The model number is on the side of the unit and on the data plate also on the side of the unit. The serial number is also on the data plate.",
+  "URL": "https://www.cpsc.gov/Recalls/2022/Kubota-Recalls-Utility-Vehicles-Due-to-Crash-and-Injury-Hazards-Recall-Alert",
+  "Title": "Kubota Recalls Utility Vehicles Due to Crash and Injury Hazards (Recall Alert)",
+  "ConsumerContact": "Kubota Tractor Corporation toll-free at 888-458-2682 from 8 a.m. to 5 p.m. CT Monday through Friday, online at https://www.kubotausa.com/service-support/safety/safety-notices, or online at www.kubotausa.com and click Contact at the bottom of the page for additional information.",
+  "LastPublishDate": "2021-11-04T00:00:00",
+  "Products": [
+    {
+      "Name": "Kubota RTV-X1100C Model Utility Vehicles",
+      "Description": "",
+      "Model": "",
+      "Type": "",
+      "CategoryID": "",
+      "NumberOfUnits": "About 48,875"
+    }
+  ],
+  "Inconjunctions": [],
+  "Images": [
+    {
+      "URL": "https://www.cpsc.gov/s3fs-public/1-84917AM.png",
+      "Caption": "Recalled Kubota RTV-X1100CR Utility Vehicle - Front View"
+    },
+    {
+      "URL": "https://www.cpsc.gov/s3fs-public/2-84933AM.png",
+      "Caption": "Recalled Kubota RTV-X1100CR Utility Vehicle - Rear View"
+    }
+  ],
+  "Injuries": [
+    {
+      "Name": "Kubota has received one report of a loss of control that resulted in black eyes and minor bruising."
+    }
+  ],
+  "Manufacturers": [],
+  "Retailers": [
+    {
+      "Name": "Authorized Kubota dealers nationwide from April 2013 through September 2021 for between $21,300 and $22,950.",
+      "CompanyID": ""
+    }
+  ],
+  "Importers": [],
+  "Distributors": [
+    {
+      "Name": "Kubota Tractor Corporation, of Grapevine, Texas",
+      "CompanyID": ""
+    }
+  ],
+  "SoldAtLabel": null,
+  "ManufacturerCountries": [
+    {
+      "Country": "United States"
+    }
+  ],
+  "ProductUPCs": [],
+  "Hazards": [
+    {
+      "Name": "The floor mats on the recalled Kubota utility vehicles can warp or degrade and interfere with the throttle pedal, posing crash and injury hazards.",
+      "HazardType": "",
+      "HazardTypeID": ""
+    }
+  ],
+  "Remedies": [
+    {
+      "Name": "Consumers should immediately stop using the recalled utility vehicles and contact an Authorized Kubota dealer. If the floormat is warped or degraded, consumers will receive a new floormat installed by the dealer that will be secured by rivets to the floor. If the utility vehicles floormat is not warped or degraded, the dealer will complete a modification to the existing floormat by trimming the mat and then securing it by rivets to the floor. Kubota is contacting all known consumers directly."
+    }
+  ],
+  "RemedyOptions": [
+    {
+      "Option": "Replace"
+    },
+    {
+      "Option": "Repair"
+    }
+  ]
+}
