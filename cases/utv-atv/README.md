@@ -4,13 +4,15 @@
 
 ## 直接打开
 
+**[在线打开完整交互案例](https://pdben-auto.github.io/vehicle-sales-opportunity-skill/cases/utv-atv/)**。无需下载或登录；国家筛选、详情、参数调整和CSV导出均可直接使用。[在线案例总入口](https://pdben-auto.github.io/vehicle-sales-opportunity-skill/)。
+
 - [原交互研究页面](输出/北美UTV保有量研究-20261117.html)：可离线打开，包含筛选、调参、详情与导出。
 - [原Excel工作簿](输出/北美UTV车型保有量保守情景-20261117.xlsx)：8张表，黄色参数单元格可编辑。
 - [原研究说明](输出/研究说明.md)：数据、公式、重要重复、边界与下一步。
 - [来源台账](输出/data/source_ledger.csv)、[批次输入](输出/data/cohort_components.csv)、[情景表](输出/data/cohort_scenarios.csv)、[缺口](输出/data/known_gaps.csv)。
 - [数据渠道调查](channels.md) → [方法与页面设计](method-and-design.md) → [快照溯源](snapshot-provenance.json)。
 
-GitHub文件页不直接执行HTML，下载整个案例目录后打开上述HTML即可。保持“输出”目录结构，说明、Excel及本地证据链接才能一同使用；HTML展示资源已内嵌。
+在线版本保留原HTML字节、Excel和相对证据文件。需要离线使用时，下载整个案例目录并打开上述HTML；保持“输出”目录结构，说明、Excel及本地证据链接才能一同使用。HTML展示资源已内嵌。
 
 ## 案例由什么组成
 

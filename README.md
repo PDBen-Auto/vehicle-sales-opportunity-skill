@@ -4,20 +4,22 @@
 
 Skill ID 保留为 `vehicle-sales-opportunity`，升级已有安装即可，不需要安装一个新名字。
 
+**[直接打开在线案例](https://pdben-auto.github.io/vehicle-sales-opportunity-skill/)** · **[UTV真实研究页面](https://pdben-auto.github.io/vehicle-sales-opportunity-skill/cases/utv-atv/)**
+
 ## 从这里开始
 
 | 入口 | 内容 |
 |---|---|
 | [完整 UTV/ATV 真实案例](cases/utv-atv/README.md) | 来源渠道、原始证据、去重与计算、页面设计、Excel、可离线复现脚本 |
 | [案例来源渠道](cases/utv-atv/channels.md) | PPM、MIC/S&P、SSI、经销商样本、厂商及官方公告的口径与访问条件 |
-| [真实 UTV 研究页面](cases/utv-atv/输出/北美UTV保有量研究-20261117.html) | 保留真实品牌、车型、数量、图片和来源；下载后直接打开 |
-| [五类载具合成演示](docs/multitype-demo/dashboard.html) | 汽车、摩托车、UTV、ATV、船舶切换，UTV 零售与批发隔离 |
-| [原汽车合成演示](docs/demo/dashboard.html) | 同期分析、矩阵、分类、明细、月度下钻和 CSV |
+| [真实 UTV 研究页面](https://pdben-auto.github.io/vehicle-sales-opportunity-skill/cases/utv-atv/) | 浏览器直接打开；真实品牌、车型、数量、图片和来源 |
+| [五类载具合成演示](https://pdben-auto.github.io/vehicle-sales-opportunity-skill/multitype-demo/dashboard.html) | 浏览器直接打开；五类载具切换，UTV 零售与批发隔离 |
+| [原汽车合成演示](https://pdben-auto.github.io/vehicle-sales-opportunity-skill/demo/dashboard.html) | 浏览器直接打开；同期分析、矩阵、分类、明细、月度下钻和 CSV |
 | [Skill 入口与输入输出](skills/vehicle-sales-opportunity/SKILL.md) | 完整执行方法、依赖、错误处理和验收标准 |
 
 原项目线上示例：[北美车型销量看板](https://north-america-vehicle-dashboard.pages.dev/)。这是原项目的在线版本，不是本仓库的合成演示；访问条件以实际页面为准，离线 Skill 不依赖它。
 
-GitHub 文件页不执行 HTML。下载相应目录后直接打开 `.html`，无需 localhost、CDN 或远程字体。
+上方在线链接无需下载、安装或登录；由GitHub Pages展示实际HTML。也可下载对应目录离线打开 `.html`，无需 localhost、CDN 或远程字体。源码中的HTML文件页仅供查看代码，使用案例请点在线链接。
 
 ## 功能和流程
 

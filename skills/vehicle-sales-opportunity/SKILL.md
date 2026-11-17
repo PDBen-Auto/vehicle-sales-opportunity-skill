@@ -9,6 +9,8 @@ description: '把汽车、摩托车、UTV、ATV和船舶的已有数量数据转
 
 线上呈现示例：[北美车型数据看板](https://north-america-vehicle-dashboard.pages.dev/)。这是原项目的在线示例，不是本包的合成演示；访问条件以页面当时状态为准。运行本 Skill 不依赖该站，也不复制站内内容。
 
+本包可直接打开的[在线案例](https://pdben-auto.github.io/vehicle-sales-opportunity-skill/)包括[真实UTV交互页面](https://pdben-auto.github.io/vehicle-sales-opportunity-skill/cases/utv-atv/)与五类载具合成演示，无需先安装Skill。离线执行仍按下述输入合同。
+
 ## Implementation Basis and Dependencies
 
 实现依据：稳定车系主键、同口径月度汇总、同期配对比较、交互式 SVG/HTML 和“观察—假设—验证”研究方法。脚本是独立重写的离线工具，通用演示为虚构车型与合成数字；UTV/ATV扩展案例保留真实品牌、数量、来源与页面，明确其情景与覆盖边界。

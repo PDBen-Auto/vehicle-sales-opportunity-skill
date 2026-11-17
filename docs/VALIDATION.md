@@ -7,7 +7,7 @@
 | 检查 | 结果及边界 |
 |---|---|
 | Codex官方 `quick_validate.py` | 通过；使用已有隔离验证依赖，不安装新包 |
-| Python标准库测试 | 24项通过，含5种类型、指标隔离、旧输入兼容、缺失/零值、窗口、重复键、字段、HTML安全及LF/CRLF来源指纹回归 |
+| Python标准库测试 | 25项通过，含5种类型、指标隔离、旧输入兼容、缺失/零值、窗口、重复键、字段、HTML安全、LF/CRLF来源指纹回归及网站打包完整性 |
 | 非浏览器UI逻辑 | 15项通过；Node模拟DOM，含UTV零售1680与批发4200分开、船舶72艘、ATV540台；不是截图验收 |
 | 合成运行 | 原汽车108条与五类载具168条月记录均运行；分别生成5项自动交付 |
 | 真实案例完整性及内部算术 | 2263项通过，129原交付文件和105来源快照hash核对、关联、参数、舍入、关键去重、HTML内嵌数据/图片一致性及8表Excel结构 |
@@ -45,6 +45,12 @@ python skills/vehicle-sales-opportunity/scripts/build_dashboard.py --input skill
 ```
 
 输出目录必须是新目录；Node只用于开发验证。核心生成器与案例复现仅用Python标准库，不上传、不访问账号。采集脚本明确联网，仅有重新采集授权时在隔离工作目录运行。
+
+## 在线案例构建
+
+`python -B tools/build_site.py --output out/pages`生成GitHub Pages静态站点：案例总入口、真实UTV页面、五类型演示与汽车演示。已实际构建144文件并核对复制指纹，真实UTV在线入口与原HTML字节相同，Excel和来源快照一并保留；不部署仓库Git目录、凭证或任务过程日志。新目录已存在时拒绝覆盖。
+
+在线地址为 `https://pdben-auto.github.io/vehicle-sales-opportunity-skill/`，真实案例路径为 `cases/utv-atv/`；部署由仓库 `Publish online examples` Actions执行，部署状态以当前提交的实际运行结果为准。无需用户下载或安装Skill即可打开页面。离线版仍可以独立使用。
 
 ## 未验证范围
 
