@@ -51,6 +51,8 @@ python cases/utv-atv/reproduce.py --workdir out/utv-case
 
 这会检查原完成快照、复制到新工作目录、**离线**重建dataset和HTML、核对关键结果。原124条目录、各国计数及全车型unknown都必须保留。`--workdir`已存在则停止；不会自动联网或写回案例快照。
 
+复现入口为已有文本保持原换行格式，使Windows/Linux重新生成的来源JSON仍有相同hash；原采集/构建脚本字节保持不变。重建后再次核对整份完成清单。不要跳过复现入口，直接在冻结案例目录里运行原构建脚本。
+
 如现有环境具备Pillow和openpyxl，可在复现目录执行：
 
 ```sh

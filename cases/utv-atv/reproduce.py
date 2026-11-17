@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """Verify a frozen real case and rebuild offline into a new directory."""
 from __future__ import annotations
-import argparse,csv,hashlib,json,math,shutil,subprocess,sys,zipfile
+import argparse,csv,hashlib,json,math,runpy,shutil,subprocess,sys,zipfile
 import xml.etree.ElementTree as ET
 from collections import defaultdict
 from datetime import datetime,timezone
@@ -10,6 +10,19 @@ from pathlib import Path
 ROOT=Path(__file__).resolve().parent
 
 def load(path):return json.loads(Path(path).read_bytes())
+
+def run_frozen_builder(path):
+    """Keep existing snapshot newline bytes across Windows/Linux rebuilds."""
+    original_write=Path.write_text
+    def preserving_write(target,text,encoding=None,errors=None,newline=None):
+        if newline is None and target.exists():
+            raw=target.read_bytes()
+            if b'\r\n'in raw and b'\n'not in raw.replace(b'\r\n',b''):newline='\r\n'
+            elif b'\n'in raw:newline='\n'
+        return original_write(target,text,encoding=encoding,errors=errors,newline=newline)
+    Path.write_text=preserving_write
+    try:runpy.run_path(str(path),run_name='__main__')
+    finally:Path.write_text=original_write
 
 def verify(case_root=ROOT):
     root=Path(case_root);out=root/'输出';data=out/'data';checks=0
@@ -76,17 +89,24 @@ def rebuild(workdir):
     shutil.copytree(ROOT,work)
     data_before=load(ROOT/'输出/data/dataset.json')
     for name in ['build_dataset.py','build_report.py']:
-        run=subprocess.run([sys.executable,'-B',str(work/'过程'/name)],capture_output=True,text=True,encoding='utf-8')
+        run=subprocess.run([sys.executable,'-B',str(work/'reproduce.py'),'--_run-builder',str(work/'过程'/name)],capture_output=True,text=True,encoding='utf-8')
         if run.returncode:raise RuntimeError(f'{name} failed: {run.stderr[:600]}')
     data_after=load(work/'输出/data/dataset.json')
-    if data_after!=data_before:raise ValueError('Offline rebuild changed the completed business dataset')
+    if data_after!=data_before:
+        changed=[k for k in data_before if data_before[k]!=data_after.get(k)]
+        raise ValueError('Offline rebuild changed completed dataset sections: '+', '.join(changed))
+    verify(work)
     result|={'rebuild':'pass','datasetSemanticEquality':True,'networkRequests':0,'newWorkdir':str(work),'checkedAt':datetime.now(timezone.utc).isoformat(),'workbookRebuild':'not_run_original_workbook_preserved'}
     (work/'reproduction-receipt.json').write_text(json.dumps(result,ensure_ascii=False,indent=2),encoding='utf-8')
     return result
 
 def main():
-    parser=argparse.ArgumentParser(description=__doc__);parser.add_argument('--workdir',type=Path);parser.add_argument('--verify-only',action='store_true');args=parser.parse_args()
+    parser=argparse.ArgumentParser(description=__doc__);parser.add_argument('--workdir',type=Path);parser.add_argument('--verify-only',action='store_true');parser.add_argument('--_run-builder',type=Path,help=argparse.SUPPRESS);args=parser.parse_args()
     try:
+        if args._run_builder:
+            allowed={(ROOT/'过程'/n).resolve()for n in ['build_dataset.py','build_report.py']}
+            if args._run_builder.resolve()not in allowed:raise ValueError('Only frozen dataset/report builders are supported')
+            run_frozen_builder(args._run_builder);return
         if not args.workdir and not args.verify_only:parser.error('Use --workdir NEW_DIRECTORY or --verify-only')
         result=verify()if args.verify_only else rebuild(args.workdir)
     except (ValueError,OSError,RuntimeError)as exc:parser.exit(2,str(exc)+'\n')
