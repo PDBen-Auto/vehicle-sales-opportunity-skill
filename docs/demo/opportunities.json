@@ -1,0 +1,205 @@
+{
+  "schemaVersion": 1,
+  "inputSha256": "d02bbd3b2048456b6f4285612d81d927fa074b2263c051dfbe51c505c701bfde",
+  "status": "candidate_only",
+  "items": [
+    {
+      "id": "CA:aster.canyon",
+      "market": "CA",
+      "seriesId": "aster.canyon",
+      "signal": "small_base_growth",
+      "status": "candidate_only",
+      "facts": {
+        "currentUnits": 1560,
+        "baselineUnits": 1200,
+        "delta": 360,
+        "yoy": 0.3,
+        "reason": "comparable"
+      },
+      "hypothesis": "是否存在值得验证的细分使用场景；尚未证实。",
+      "nextStep": "核对绝对规模，研究一个具体用户场景与未满足需求，再核对代际接口和现有方案。",
+      "verificationQuestions": [
+        "谁遇到什么问题，频率与严重程度如何？",
+        "具体代际/配置的接口和尺寸是否适配？",
+        "现有竞品、渠道需求及单位经济能否支持小规模验证？"
+      ],
+      "stopCondition": "关键适配不成立、需求证据不足、成本不可行或缺少授权时停止扩展。"
+    },
+    {
+      "id": "MX:aster.canyon",
+      "market": "MX",
+      "seriesId": "aster.canyon",
+      "signal": "watch",
+      "status": "candidate_only",
+      "facts": {
+        "currentUnits": 2580,
+        "baselineUnits": 2400,
+        "delta": 180,
+        "yoy": 0.075,
+        "reason": "comparable"
+      },
+      "hypothesis": "是否存在值得验证的细分使用场景；尚未证实。",
+      "nextStep": "保留观察；如有具体业务问题再设计验证，不凭小幅变化做商业承诺。",
+      "verificationQuestions": [
+        "谁遇到什么问题，频率与严重程度如何？",
+        "具体代际/配置的接口和尺寸是否适配？",
+        "现有竞品、渠道需求及单位经济能否支持小规模验证？"
+      ],
+      "stopCondition": "关键适配不成立、需求证据不足、成本不可行或缺少授权时停止扩展。"
+    },
+    {
+      "id": "US:aster.canyon",
+      "market": "US",
+      "seriesId": "aster.canyon",
+      "signal": "scale_growth",
+      "status": "candidate_only",
+      "facts": {
+        "currentUnits": 15600,
+        "baselineUnits": 12000,
+        "delta": 3600,
+        "yoy": 0.3,
+        "reason": "comparable"
+      },
+      "hypothesis": "是否存在值得验证的细分使用场景；尚未证实。",
+      "nextStep": "核对绝对规模，研究一个具体用户场景与未满足需求，再核对代际接口和现有方案。",
+      "verificationQuestions": [
+        "谁遇到什么问题，频率与严重程度如何？",
+        "具体代际/配置的接口和尺寸是否适配？",
+        "现有竞品、渠道需求及单位经济能否支持小规模验证？"
+      ],
+      "stopCondition": "关键适配不成立、需求证据不足、成本不可行或缺少授权时停止扩展。"
+    },
+    {
+      "id": "US:boreal.ridge",
+      "market": "US",
+      "seriesId": "boreal.ridge",
+      "signal": "decline_review",
+      "status": "candidate_only",
+      "facts": {
+        "currentUnits": 13200,
+        "baselineUnits": 18000,
+        "delta": -4800,
+        "yoy": -0.26666666666666666,
+        "reason": "comparable"
+      },
+      "hypothesis": "是否存在值得验证的细分使用场景；尚未证实。",
+      "nextStep": "区分供给、生命周期、竞争、价格与统计变化，不能仅从销量断言原因。",
+      "verificationQuestions": [
+        "谁遇到什么问题，频率与严重程度如何？",
+        "具体代际/配置的接口和尺寸是否适配？",
+        "现有竞品、渠道需求及单位经济能否支持小规模验证？"
+      ],
+      "stopCondition": "关键适配不成立、需求证据不足、成本不可行或缺少授权时停止扩展。"
+    },
+    {
+      "id": "US:cedar.spark",
+      "market": "US",
+      "seriesId": "cedar.spark",
+      "signal": "small_base_growth",
+      "status": "candidate_only",
+      "facts": {
+        "currentUnits": 300,
+        "baselineUnits": 120,
+        "delta": 180,
+        "yoy": 1.5,
+        "reason": "comparable"
+      },
+      "hypothesis": "是否存在值得验证的细分使用场景；尚未证实。",
+      "nextStep": "核对绝对规模，研究一个具体用户场景与未满足需求，再核对代际接口和现有方案。",
+      "verificationQuestions": [
+        "谁遇到什么问题，频率与严重程度如何？",
+        "具体代际/配置的接口和尺寸是否适配？",
+        "现有竞品、渠道需求及单位经济能否支持小规模验证？"
+      ],
+      "stopCondition": "关键适配不成立、需求证据不足、成本不可行或缺少授权时停止扩展。"
+    },
+    {
+      "id": "US:dune.trace",
+      "market": "US",
+      "seriesId": "dune.trace",
+      "signal": "insufficient_data",
+      "status": "candidate_only",
+      "facts": {
+        "currentUnits": null,
+        "baselineUnits": 6600,
+        "delta": null,
+        "yoy": null,
+        "reason": "incomplete_window"
+      },
+      "hypothesis": "是否存在值得验证的细分使用场景；尚未证实。",
+      "nextStep": "补齐或解释同窗口缺失与车系范围，之后再比较。",
+      "verificationQuestions": [
+        "谁遇到什么问题，频率与严重程度如何？",
+        "具体代际/配置的接口和尺寸是否适配？",
+        "现有竞品、渠道需求及单位经济能否支持小规模验证？"
+      ],
+      "stopCondition": "关键适配不成立、需求证据不足、成本不可行或缺少授权时停止扩展。"
+    },
+    {
+      "id": "US:ember.launch",
+      "market": "US",
+      "seriesId": "ember.launch",
+      "signal": "zero_base",
+      "status": "candidate_only",
+      "facts": {
+        "currentUnits": 1200,
+        "baselineUnits": 0,
+        "delta": 1200,
+        "yoy": null,
+        "reason": "zero_base"
+      },
+      "hypothesis": "是否存在值得验证的细分使用场景；尚未证实。",
+      "nextStep": "确认基期零值、车系定义与上市阶段，不能把零基期自动认作新品。",
+      "verificationQuestions": [
+        "谁遇到什么问题，频率与严重程度如何？",
+        "具体代际/配置的接口和尺寸是否适配？",
+        "现有竞品、渠道需求及单位经济能否支持小规模验证？"
+      ],
+      "stopCondition": "关键适配不成立、需求证据不足、成本不可行或缺少授权时停止扩展。"
+    },
+    {
+      "id": "US:fjord.glide",
+      "market": "US",
+      "seriesId": "fjord.glide",
+      "signal": "watch",
+      "status": "candidate_only",
+      "facts": {
+        "currentUnits": 10860,
+        "baselineUnits": 10800,
+        "delta": 60,
+        "yoy": 0.005555555555555556,
+        "reason": "comparable"
+      },
+      "hypothesis": "是否存在值得验证的细分使用场景；尚未证实。",
+      "nextStep": "保留观察；如有具体业务问题再设计验证，不凭小幅变化做商业承诺。",
+      "verificationQuestions": [
+        "谁遇到什么问题，频率与严重程度如何？",
+        "具体代际/配置的接口和尺寸是否适配？",
+        "现有竞品、渠道需求及单位经济能否支持小规模验证？"
+      ],
+      "stopCondition": "关键适配不成立、需求证据不足、成本不可行或缺少授权时停止扩展。"
+    },
+    {
+      "id": "US:gale.van",
+      "market": "US",
+      "seriesId": "gale.van",
+      "signal": "watch",
+      "status": "candidate_only",
+      "facts": {
+        "currentUnits": 3660,
+        "baselineUnits": 3600,
+        "delta": 60,
+        "yoy": 0.016666666666666666,
+        "reason": "comparable"
+      },
+      "hypothesis": "是否存在值得验证的细分使用场景；尚未证实。",
+      "nextStep": "保留观察；如有具体业务问题再设计验证，不凭小幅变化做商业承诺。",
+      "verificationQuestions": [
+        "谁遇到什么问题，频率与严重程度如何？",
+        "具体代际/配置的接口和尺寸是否适配？",
+        "现有竞品、渠道需求及单位经济能否支持小规模验证？"
+      ],
+      "stopCondition": "关键适配不成立、需求证据不足、成本不可行或缺少授权时停止扩展。"
+    }
+  ]
+}

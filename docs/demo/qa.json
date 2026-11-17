@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "status": "pass",
+  "scope": "structure_and_internal_arithmetic_only",
+  "inputSha256": "d02bbd3b2048456b6f4285612d81d927fa074b2263c051dfbe51c505c701bfde",
+  "recordCount": 108,
+  "seriesCount": 9,
+  "pairedSeries": 8,
+  "exclusions": [
+    {
+      "market": "US",
+      "seriesId": "dune.trace",
+      "reason": "incomplete_window",
+      "currentMissing": [
+        "2025-03"
+      ],
+      "baselineMissing": []
+    }
+  ]
+}

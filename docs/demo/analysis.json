@@ -1,0 +1,1007 @@
+{
+  "schemaVersion": 1,
+  "title": "车辆销量 · 从数据到机会",
+  "asOfDate": "2025-06-30",
+  "synthetic": true,
+  "coverage": "partial",
+  "unit": "vehicles",
+  "comparison": {
+    "currentStart": "2025-01",
+    "currentEnd": "2025-06",
+    "baselineStart": "2024-01",
+    "baselineEnd": "2024-06"
+  },
+  "thresholds": {
+    "minCurrentUnits": 10000,
+    "minAbsoluteChange": 1000,
+    "rate": 0.1
+  },
+  "inputSha256": "d02bbd3b2048456b6f4285612d81d927fa074b2263c051dfbe51c505c701bfde",
+  "series": [
+    {
+      "brand": "Aster",
+      "model": "Canyon",
+      "segment": "SUV",
+      "seriesScope": "model",
+      "market": "CA",
+      "seriesId": "aster.canyon",
+      "current": {
+        "units": 1560,
+        "knownUnits": 1560,
+        "reportedMonths": 6,
+        "expectedMonths": 6,
+        "missingMonths": []
+      },
+      "baseline": {
+        "units": 1200,
+        "knownUnits": 1200,
+        "reportedMonths": 6,
+        "expectedMonths": 6,
+        "missingMonths": []
+      },
+      "currentUnits": 1560,
+      "baselineUnits": 1200,
+      "delta": 360,
+      "yoy": 0.3,
+      "comparable": true,
+      "reason": "comparable",
+      "monthly": [
+        {
+          "year": 2024,
+          "month": 1,
+          "units": 200,
+          "status": "reported"
+        },
+        {
+          "year": 2024,
+          "month": 2,
+          "units": 200,
+          "status": "reported"
+        },
+        {
+          "year": 2024,
+          "month": 3,
+          "units": 200,
+          "status": "reported"
+        },
+        {
+          "year": 2024,
+          "month": 4,
+          "units": 200,
+          "status": "reported"
+        },
+        {
+          "year": 2024,
+          "month": 5,
+          "units": 200,
+          "status": "reported"
+        },
+        {
+          "year": 2024,
+          "month": 6,
+          "units": 200,
+          "status": "reported"
+        },
+        {
+          "year": 2025,
+          "month": 1,
+          "units": 260,
+          "status": "reported"
+        },
+        {
+          "year": 2025,
+          "month": 2,
+          "units": 260,
+          "status": "reported"
+        },
+        {
+          "year": 2025,
+          "month": 3,
+          "units": 260,
+          "status": "reported"
+        },
+        {
+          "year": 2025,
+          "month": 4,
+          "units": 260,
+          "status": "reported"
+        },
+        {
+          "year": 2025,
+          "month": 5,
+          "units": 260,
+          "status": "reported"
+        },
+        {
+          "year": 2025,
+          "month": 6,
+          "units": 260,
+          "status": "reported"
+        }
+      ],
+      "signal": "small_base_growth"
+    },
+    {
+      "brand": "Aster",
+      "model": "Canyon",
+      "segment": "SUV",
+      "seriesScope": "model",
+      "market": "MX",
+      "seriesId": "aster.canyon",
+      "current": {
+        "units": 2580,
+        "knownUnits": 2580,
+        "reportedMonths": 6,
+        "expectedMonths": 6,
+        "missingMonths": []
+      },
+      "baseline": {
+        "units": 2400,
+        "knownUnits": 2400,
+        "reportedMonths": 6,
+        "expectedMonths": 6,
+        "missingMonths": []
+      },
+      "currentUnits": 2580,
+      "baselineUnits": 2400,
+      "delta": 180,
+      "yoy": 0.075,
+      "comparable": true,
+      "reason": "comparable",
+      "monthly": [
+        {
+          "year": 2024,
+          "month": 1,
+          "units": 400,
+          "status": "reported"
+        },
+        {
+          "year": 2024,
+          "month": 2,
+          "units": 400,
+          "status": "reported"
+        },
+        {
+          "year": 2024,
+          "month": 3,
+          "units": 400,
+          "status": "reported"
+        },
+        {
+          "year": 2024,
+          "month": 4,
+          "units": 400,
+          "status": "reported"
+        },
+        {
+          "year": 2024,
+          "month": 5,
+          "units": 400,
+          "status": "reported"
+        },
+        {
+          "year": 2024,
+          "month": 6,
+          "units": 400,
+          "status": "reported"
+        },
+        {
+          "year": 2025,
+          "month": 1,
+          "units": 430,
+          "status": "reported"
+        },
+        {
+          "year": 2025,
+          "month": 2,
+          "units": 430,
+          "status": "reported"
+        },
+        {
+          "year": 2025,
+          "month": 3,
+          "units": 430,
+          "status": "reported"
+        },
+        {
+          "year": 2025,
+          "month": 4,
+          "units": 430,
+          "status": "reported"
+        },
+        {
+          "year": 2025,
+          "month": 5,
+          "units": 430,
+          "status": "reported"
+        },
+        {
+          "year": 2025,
+          "month": 6,
+          "units": 430,
+          "status": "reported"
+        }
+      ],
+      "signal": "watch"
+    },
+    {
+      "brand": "Aster",
+      "model": "Canyon",
+      "segment": "SUV",
+      "seriesScope": "model",
+      "market": "US",
+      "seriesId": "aster.canyon",
+      "current": {
+        "units": 15600,
+        "knownUnits": 15600,
+        "reportedMonths": 6,
+        "expectedMonths": 6,
+        "missingMonths": []
+      },
+      "baseline": {
+        "units": 12000,
+        "knownUnits": 12000,
+        "reportedMonths": 6,
+        "expectedMonths": 6,
+        "missingMonths": []
+      },
+      "currentUnits": 15600,
+      "baselineUnits": 12000,
+      "delta": 3600,
+      "yoy": 0.3,
+      "comparable": true,
+      "reason": "comparable",
+      "monthly": [
+        {
+          "year": 2024,
+          "month": 1,
+          "units": 2000,
+          "status": "reported"
+        },
+        {
+          "year": 2024,
+          "month": 2,
+          "units": 2000,
+          "status": "reported"
+        },
+        {
+          "year": 2024,
+          "month": 3,
+          "units": 2000,
+          "status": "reported"
+        },
+        {
+          "year": 2024,
+          "month": 4,
+          "units": 2000,
+          "status": "reported"
+        },
+        {
+          "year": 2024,
+          "month": 5,
+          "units": 2000,
+          "status": "reported"
+        },
+        {
+          "year": 2024,
+          "month": 6,
+          "units": 2000,
+          "status": "reported"
+        },
+        {
+          "year": 2025,
+          "month": 1,
+          "units": 2600,
+          "status": "reported"
+        },
+        {
+          "year": 2025,
+          "month": 2,
+          "units": 2600,
+          "status": "reported"
+        },
+        {
+          "year": 2025,
+          "month": 3,
+          "units": 2600,
+          "status": "reported"
+        },
+        {
+          "year": 2025,
+          "month": 4,
+          "units": 2600,
+          "status": "reported"
+        },
+        {
+          "year": 2025,
+          "month": 5,
+          "units": 2600,
+          "status": "reported"
+        },
+        {
+          "year": 2025,
+          "month": 6,
+          "units": 2600,
+          "status": "reported"
+        }
+      ],
+      "signal": "scale_growth"
+    },
+    {
+      "brand": "Boreal",
+      "model": "Ridge",
+      "segment": "Pickup",
+      "seriesScope": "family",
+      "market": "US",
+      "seriesId": "boreal.ridge",
+      "current": {
+        "units": 13200,
+        "knownUnits": 13200,
+        "reportedMonths": 6,
+        "expectedMonths": 6,
+        "missingMonths": []
+      },
+      "baseline": {
+        "units": 18000,
+        "knownUnits": 18000,
+        "reportedMonths": 6,
+        "expectedMonths": 6,
+        "missingMonths": []
+      },
+      "currentUnits": 13200,
+      "baselineUnits": 18000,
+      "delta": -4800,
+      "yoy": -0.26666666666666666,
+      "comparable": true,
+      "reason": "comparable",
+      "monthly": [
+        {
+          "year": 2024,
+          "month": 1,
+          "units": 3000,
+          "status": "reported"
+        },
+        {
+          "year": 2024,
+          "month": 2,
+          "units": 3000,
+          "status": "reported"
+        },
+        {
+          "year": 2024,
+          "month": 3,
+          "units": 3000,
+          "status": "reported"
+        },
+        {
+          "year": 2024,
+          "month": 4,
+          "units": 3000,
+          "status": "reported"
+        },
+        {
+          "year": 2024,
+          "month": 5,
+          "units": 3000,
+          "status": "reported"
+        },
+        {
+          "year": 2024,
+          "month": 6,
+          "units": 3000,
+          "status": "reported"
+        },
+        {
+          "year": 2025,
+          "month": 1,
+          "units": 2200,
+          "status": "reported"
+        },
+        {
+          "year": 2025,
+          "month": 2,
+          "units": 2200,
+          "status": "reported"
+        },
+        {
+          "year": 2025,
+          "month": 3,
+          "units": 2200,
+          "status": "reported"
+        },
+        {
+          "year": 2025,
+          "month": 4,
+          "units": 2200,
+          "status": "reported"
+        },
+        {
+          "year": 2025,
+          "month": 5,
+          "units": 2200,
+          "status": "reported"
+        },
+        {
+          "year": 2025,
+          "month": 6,
+          "units": 2200,
+          "status": "reported"
+        }
+      ],
+      "signal": "decline_review"
+    },
+    {
+      "brand": "Cedar",
+      "model": "Spark",
+      "segment": "Car",
+      "seriesScope": "model",
+      "market": "US",
+      "seriesId": "cedar.spark",
+      "current": {
+        "units": 300,
+        "knownUnits": 300,
+        "reportedMonths": 6,
+        "expectedMonths": 6,
+        "missingMonths": []
+      },
+      "baseline": {
+        "units": 120,
+        "knownUnits": 120,
+        "reportedMonths": 6,
+        "expectedMonths": 6,
+        "missingMonths": []
+      },
+      "currentUnits": 300,
+      "baselineUnits": 120,
+      "delta": 180,
+      "yoy": 1.5,
+      "comparable": true,
+      "reason": "comparable",
+      "monthly": [
+        {
+          "year": 2024,
+          "month": 1,
+          "units": 20,
+          "status": "reported"
+        },
+        {
+          "year": 2024,
+          "month": 2,
+          "units": 20,
+          "status": "reported"
+        },
+        {
+          "year": 2024,
+          "month": 3,
+          "units": 20,
+          "status": "reported"
+        },
+        {
+          "year": 2024,
+          "month": 4,
+          "units": 20,
+          "status": "reported"
+        },
+        {
+          "year": 2024,
+          "month": 5,
+          "units": 20,
+          "status": "reported"
+        },
+        {
+          "year": 2024,
+          "month": 6,
+          "units": 20,
+          "status": "reported"
+        },
+        {
+          "year": 2025,
+          "month": 1,
+          "units": 50,
+          "status": "reported"
+        },
+        {
+          "year": 2025,
+          "month": 2,
+          "units": 50,
+          "status": "reported"
+        },
+        {
+          "year": 2025,
+          "month": 3,
+          "units": 50,
+          "status": "reported"
+        },
+        {
+          "year": 2025,
+          "month": 4,
+          "units": 50,
+          "status": "reported"
+        },
+        {
+          "year": 2025,
+          "month": 5,
+          "units": 50,
+          "status": "reported"
+        },
+        {
+          "year": 2025,
+          "month": 6,
+          "units": 50,
+          "status": "reported"
+        }
+      ],
+      "signal": "small_base_growth"
+    },
+    {
+      "brand": "Dune",
+      "model": "Trace",
+      "segment": "SUV",
+      "seriesScope": "model",
+      "market": "US",
+      "seriesId": "dune.trace",
+      "current": {
+        "units": null,
+        "knownUnits": 5000,
+        "reportedMonths": 5,
+        "expectedMonths": 6,
+        "missingMonths": [
+          "2025-03"
+        ]
+      },
+      "baseline": {
+        "units": 6600,
+        "knownUnits": 6600,
+        "reportedMonths": 6,
+        "expectedMonths": 6,
+        "missingMonths": []
+      },
+      "currentUnits": null,
+      "baselineUnits": 6600,
+      "delta": null,
+      "yoy": null,
+      "comparable": false,
+      "reason": "incomplete_window",
+      "monthly": [
+        {
+          "year": 2024,
+          "month": 1,
+          "units": 1100,
+          "status": "reported"
+        },
+        {
+          "year": 2024,
+          "month": 2,
+          "units": 1100,
+          "status": "reported"
+        },
+        {
+          "year": 2024,
+          "month": 3,
+          "units": 1100,
+          "status": "reported"
+        },
+        {
+          "year": 2024,
+          "month": 4,
+          "units": 1100,
+          "status": "reported"
+        },
+        {
+          "year": 2024,
+          "month": 5,
+          "units": 1100,
+          "status": "reported"
+        },
+        {
+          "year": 2024,
+          "month": 6,
+          "units": 1100,
+          "status": "reported"
+        },
+        {
+          "year": 2025,
+          "month": 1,
+          "units": 1000,
+          "status": "reported"
+        },
+        {
+          "year": 2025,
+          "month": 2,
+          "units": 1000,
+          "status": "reported"
+        },
+        {
+          "year": 2025,
+          "month": 3,
+          "units": null,
+          "status": "missing"
+        },
+        {
+          "year": 2025,
+          "month": 4,
+          "units": 1000,
+          "status": "reported"
+        },
+        {
+          "year": 2025,
+          "month": 5,
+          "units": 1000,
+          "status": "reported"
+        },
+        {
+          "year": 2025,
+          "month": 6,
+          "units": 1000,
+          "status": "reported"
+        }
+      ],
+      "signal": "insufficient_data"
+    },
+    {
+      "brand": "Ember",
+      "model": "Launch",
+      "segment": "SUV",
+      "seriesScope": "model",
+      "market": "US",
+      "seriesId": "ember.launch",
+      "current": {
+        "units": 1200,
+        "knownUnits": 1200,
+        "reportedMonths": 6,
+        "expectedMonths": 6,
+        "missingMonths": []
+      },
+      "baseline": {
+        "units": 0,
+        "knownUnits": 0,
+        "reportedMonths": 6,
+        "expectedMonths": 6,
+        "missingMonths": []
+      },
+      "currentUnits": 1200,
+      "baselineUnits": 0,
+      "delta": 1200,
+      "yoy": null,
+      "comparable": true,
+      "reason": "zero_base",
+      "monthly": [
+        {
+          "year": 2024,
+          "month": 1,
+          "units": 0,
+          "status": "reported"
+        },
+        {
+          "year": 2024,
+          "month": 2,
+          "units": 0,
+          "status": "reported"
+        },
+        {
+          "year": 2024,
+          "month": 3,
+          "units": 0,
+          "status": "reported"
+        },
+        {
+          "year": 2024,
+          "month": 4,
+          "units": 0,
+          "status": "reported"
+        },
+        {
+          "year": 2024,
+          "month": 5,
+          "units": 0,
+          "status": "reported"
+        },
+        {
+          "year": 2024,
+          "month": 6,
+          "units": 0,
+          "status": "reported"
+        },
+        {
+          "year": 2025,
+          "month": 1,
+          "units": 200,
+          "status": "reported"
+        },
+        {
+          "year": 2025,
+          "month": 2,
+          "units": 200,
+          "status": "reported"
+        },
+        {
+          "year": 2025,
+          "month": 3,
+          "units": 200,
+          "status": "reported"
+        },
+        {
+          "year": 2025,
+          "month": 4,
+          "units": 200,
+          "status": "reported"
+        },
+        {
+          "year": 2025,
+          "month": 5,
+          "units": 200,
+          "status": "reported"
+        },
+        {
+          "year": 2025,
+          "month": 6,
+          "units": 200,
+          "status": "reported"
+        }
+      ],
+      "signal": "zero_base"
+    },
+    {
+      "brand": "Fjord",
+      "model": "Glide",
+      "segment": "SUV",
+      "seriesScope": "model",
+      "market": "US",
+      "seriesId": "fjord.glide",
+      "current": {
+        "units": 10860,
+        "knownUnits": 10860,
+        "reportedMonths": 6,
+        "expectedMonths": 6,
+        "missingMonths": []
+      },
+      "baseline": {
+        "units": 10800,
+        "knownUnits": 10800,
+        "reportedMonths": 6,
+        "expectedMonths": 6,
+        "missingMonths": []
+      },
+      "currentUnits": 10860,
+      "baselineUnits": 10800,
+      "delta": 60,
+      "yoy": 0.005555555555555556,
+      "comparable": true,
+      "reason": "comparable",
+      "monthly": [
+        {
+          "year": 2024,
+          "month": 1,
+          "units": 1800,
+          "status": "reported"
+        },
+        {
+          "year": 2024,
+          "month": 2,
+          "units": 1800,
+          "status": "reported"
+        },
+        {
+          "year": 2024,
+          "month": 3,
+          "units": 1800,
+          "status": "reported"
+        },
+        {
+          "year": 2024,
+          "month": 4,
+          "units": 1800,
+          "status": "reported"
+        },
+        {
+          "year": 2024,
+          "month": 5,
+          "units": 1800,
+          "status": "reported"
+        },
+        {
+          "year": 2024,
+          "month": 6,
+          "units": 1800,
+          "status": "reported"
+        },
+        {
+          "year": 2025,
+          "month": 1,
+          "units": 1810,
+          "status": "reported"
+        },
+        {
+          "year": 2025,
+          "month": 2,
+          "units": 1810,
+          "status": "reported"
+        },
+        {
+          "year": 2025,
+          "month": 3,
+          "units": 1810,
+          "status": "reported"
+        },
+        {
+          "year": 2025,
+          "month": 4,
+          "units": 1810,
+          "status": "reported"
+        },
+        {
+          "year": 2025,
+          "month": 5,
+          "units": 1810,
+          "status": "reported"
+        },
+        {
+          "year": 2025,
+          "month": 6,
+          "units": 1810,
+          "status": "reported"
+        }
+      ],
+      "signal": "watch"
+    },
+    {
+      "brand": "Gale",
+      "model": "Van",
+      "segment": "Van",
+      "seriesScope": "model",
+      "market": "US",
+      "seriesId": "gale.van",
+      "current": {
+        "units": 3660,
+        "knownUnits": 3660,
+        "reportedMonths": 6,
+        "expectedMonths": 6,
+        "missingMonths": []
+      },
+      "baseline": {
+        "units": 3600,
+        "knownUnits": 3600,
+        "reportedMonths": 6,
+        "expectedMonths": 6,
+        "missingMonths": []
+      },
+      "currentUnits": 3660,
+      "baselineUnits": 3600,
+      "delta": 60,
+      "yoy": 0.016666666666666666,
+      "comparable": true,
+      "reason": "comparable",
+      "monthly": [
+        {
+          "year": 2024,
+          "month": 1,
+          "units": 600,
+          "status": "reported"
+        },
+        {
+          "year": 2024,
+          "month": 2,
+          "units": 600,
+          "status": "reported"
+        },
+        {
+          "year": 2024,
+          "month": 3,
+          "units": 600,
+          "status": "reported"
+        },
+        {
+          "year": 2024,
+          "month": 4,
+          "units": 600,
+          "status": "reported"
+        },
+        {
+          "year": 2024,
+          "month": 5,
+          "units": 600,
+          "status": "reported"
+        },
+        {
+          "year": 2024,
+          "month": 6,
+          "units": 600,
+          "status": "reported"
+        },
+        {
+          "year": 2025,
+          "month": 1,
+          "units": 610,
+          "status": "reported"
+        },
+        {
+          "year": 2025,
+          "month": 2,
+          "units": 610,
+          "status": "reported"
+        },
+        {
+          "year": 2025,
+          "month": 3,
+          "units": 610,
+          "status": "reported"
+        },
+        {
+          "year": 2025,
+          "month": 4,
+          "units": 610,
+          "status": "reported"
+        },
+        {
+          "year": 2025,
+          "month": 5,
+          "units": 610,
+          "status": "reported"
+        },
+        {
+          "year": 2025,
+          "month": 6,
+          "units": 610,
+          "status": "reported"
+        }
+      ],
+      "signal": "watch"
+    }
+  ],
+  "segments": [
+    {
+      "market": "CA",
+      "segment": "SUV",
+      "pairedSeries": 1,
+      "currentUnits": 1560,
+      "baselineUnits": 1200,
+      "delta": 360,
+      "yoy": 0.3
+    },
+    {
+      "market": "MX",
+      "segment": "SUV",
+      "pairedSeries": 1,
+      "currentUnits": 2580,
+      "baselineUnits": 2400,
+      "delta": 180,
+      "yoy": 0.075
+    },
+    {
+      "market": "US",
+      "segment": "Car",
+      "pairedSeries": 1,
+      "currentUnits": 300,
+      "baselineUnits": 120,
+      "delta": 180,
+      "yoy": 1.5
+    },
+    {
+      "market": "US",
+      "segment": "Pickup",
+      "pairedSeries": 1,
+      "currentUnits": 13200,
+      "baselineUnits": 18000,
+      "delta": -4800,
+      "yoy": -0.26666666666666666
+    },
+    {
+      "market": "US",
+      "segment": "SUV",
+      "pairedSeries": 3,
+      "currentUnits": 27660,
+      "baselineUnits": 22800,
+      "delta": 4860,
+      "yoy": 0.2131578947368421
+    },
+    {
+      "market": "US",
+      "segment": "Van",
+      "pairedSeries": 1,
+      "currentUnits": 3660,
+      "baselineUnits": 3600,
+      "delta": 60,
+      "yoy": 0.016666666666666666
+    }
+  ]
+}
